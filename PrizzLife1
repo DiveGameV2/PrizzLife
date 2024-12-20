@@ -1,6 +1,6 @@
 Execution_Runtime = tick()
 PLadmin_Settings = {
-  DefaultPrefix = "?"; --O prefixo padrão para o pladmin
+  DefaultPrefix = "."; --O prefixo padrão para o pladmin
   JoinNotify = false; --Notificar quando um jogador entrar
   AutoRespawn = true; --Carregar automaticamente o personagem ao morrer
   AntiVoid = true; --Teletransportar automaticamente para cima ao cair no vazio
@@ -17,7 +17,7 @@ PLadmin_Settings = {
   Fullbright = false; --Ativa brilho total
   WhitelistRanked = false; --Adiciona automaticamente jogadores classificados à lista branca (NÃO USE AO CLASSIFICAR TODOS OS JOGADORES)
   RankedNukeCmds = true; --Permite que jogadores classificados usem comandos de bomba nuclear (Muito irritante)
-  RankedMultiCmd = true; --Permite que jogadores classificados usem os argumentos: "all, and team", EX: ?kill all
+  RankedMultiCmd = true; --Permite que jogadores classificados usem os argumentos: "all, and team", EX: .kill all
   RankedOutput = true; --Envia no chat o resultado dos comandos dos jogadores classificados
   WhisperToRanked = true; --Usa sussurro para exibir os resultados dos comandos para jogadores classificados
 };wait()
