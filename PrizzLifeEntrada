@@ -21,4 +21,4 @@ RankedMultiCmd = true; --Permita que jogadores ranqueados usem os argumentos: "a
 RankedOutput = true; --Converse sobre os comandos de saída de jogadores ranqueados
 WhisperToRanked = true; --Use whisper para emitir comandos para jogadores classificados
 };wait()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DiveGameV2/PrizzLife/refs/heads/main/PrizzLife'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DiveGameV2/PrizzLife/refs/heads/main/PrizzLifeScript'))()
