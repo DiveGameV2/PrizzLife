@@ -21,4 +21,4 @@ PLadmin_Settings = {
   RankedOutput = true; --Envia no chat o resultado dos comandos dos jogadores classificados
   WhisperToRanked = true; --Usa sussurro para exibir os resultados dos comandos para jogadores classificados
 };wait()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/elliexmln/PrizzLife/main/Source/release_v0.8.1.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DiveGameV2/PrizzLife/refs/heads/main/PrizzLifeSegundo.lua'))()
