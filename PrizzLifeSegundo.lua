@@ -1,1 +1,10285 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _bpvqRLJZJtUf = a; end)); return(function(l,...)local e;local u;local n;local f;local _;local d;local t=24915;local r=0;local h={};while r<642 do r=r+1;while r<0x1af and t%0x411e<0x208f do r=r+1 t=(t-956)%23372 local o=r+t if(t%0x1df0)<=0xef8 then t=(t-0xe0)%0x40e2 while r<0x39f and t%0x2f06<0x1783 do r=r+1 t=(t-892)%10760 local n=r+t if(t%0x39e4)>0x1cf2 then t=(t*0x24c)%0x29cd local t=4789 if not h[t]then h[t]=0x1 _={};end elseif t%2~=0 then t=(t+0x32b)%0x4144 local t=14177 if not h[t]then h[t]=0x1 e=getfenv and getfenv();end else t=(t+0x115)%0x6906 r=r+1 local t=75380 if not h[t]then h[t]=0x1 d=string;end end end elseif t%2~=0 then t=(t-0x216)%0xfb1 while r<0x313 and t%0x1892<0xc49 do r=r+1 t=(t*484)%22203 local f=r+t if(t%0x3304)>0x1982 then t=(t+0xd5)%0xb307 local t=85837 if not h[t]then h[t]=0x1 end elseif t%2~=0 then t=(t+0x38b)%0x19e1 local t=54481 if not h[t]then h[t]=0x1 n=function(n)local t=0x01 local function h(r)t=t+r return n:sub(t-r,t-0x01)end while true do local r=h(0x01)if(r=="\5")then break end local t=d.byte(h(0x01))local t=h(t)if r=="\2"then t=_.SKEahYrR(t)elseif r=="\3"then t=t~="\0"elseif r=="\6"then e[t]=function(t,r)return l(8,nil,l,r,t)end elseif r=="\4"then t=e[t]elseif r=="\0"then t=e[t][h(d.byte(h(0x01)))];end local r=h(0x08)_[r]=t end end end else t=(t-0x1e3)%0x4cbd r=r+1 local t=44296 if not h[t]then h[t]=0x1 end end end else t=(t-0x137)%0x4423 r=r+1 while r<0x227 and t%0x48a6<0x2453 do r=r+1 t=(t-394)%23908 local _=r+t if(t%0xa14)>0x50a then t=(t-0x3ed)%0xc342 local t=35155 if not h[t]then h[t]=0x1 f="\4\8\116\111\110\117\109\98\101\114\83\75\69\97\104\89\114\82\0\6\115\116\114\105\110\103\4\99\104\97\114\71\67\75\73\69\82\73\102\0\6\115\116\114\105\110\103\3\115\117\98\83\77\99\71\70\82\90\113\0\6\115\116\114\105\110\103\4\98\121\116\101\119\83\104\113\109\106\69\115\0\5\116\97\98\108\101\6\99\111\110\99\97\116\66\77\70\76\67\110\105\104\0\5\116\97\98\108\101\6\105\110\115\101\114\116\115\89\99\105\89\100\104\75\5";end elseif t%2~=0 then t=(t*0x19c)%0x4f70 local t=85940 if not h[t]then h[t]=0x1 e=(not e)and _ENV or e;end else t=(t-0x32)%0xbe1a r=r+1 local t=17365 if not h[t]then h[t]=0x1 u=tonumber;end end end end end t=(t*814)%40266 end n(f);local r={};for t=0x0,0xff do local h=_.GCKIERIf(t);r[t]=h;r[h]=t;end local function o(t)return r[t];end local d=(function(f,n)local l,h=0x01,0x10 local r={{},{},{}}local e=-0x01 local t=0x01 local d=f while true do r[0x03][_.SMcGFRZq(n,t,(function()t=l+t return t-0x01 end)())]=(function()e=e+0x01 return e end)()if e==(0x0f)then e=""h=0x000 break end end local e=#n while t<e+0x01 do r[0x02][h]=_.SMcGFRZq(n,t,(function()t=l+t return t-0x01 end)())h=h+0x01 if h%0x02==0x00 then h=0x00 _.sYciYdhK(r[0x01],(o((((r[0x03][r[0x02][0x00]]or 0x00)*0x10)+(r[0x03][r[0x02][0x01]]or 0x00)+d)%0x100)));d=f+d;end end return _.BMFLCnih(r[0x01])end);n(d(146,"H3pzW6B)!us{/wSV)MS3)/SV6!/{zs{{WSu!CSBSSz6)w/SpWVS/splp)wSz6!{uzW!{u/kus)zSu60/uVS!){{wzB6B/6B3w3zSwzzSuwzWsu3p6u/3S/6{VuB/w6BWS6z6wzzpu6S!66!pVz!S?3BSwSW{VW6Vw3zp{zVzB!V3VWBWVV)WSpWswzW{{/3wsWSSB)VpV!B)j{)WwV6wSz6){Vz{sz3{Bx!SVwusd{)B3/)3w6W {pWp!sUSpWu6z3s33J!3SuuWV)6VwuzW!VppB/uB06s33)!t ))3Se6)Szp!uup/p/u{zus/3{{W#)!B3pB/S3puu6/pzpwPzSsS3//upzssVVWS{{6zs)/BzBw3W){Wpps6z{uS36!WVp6^u//szuwwW{{W6{/Vzpus36!zw/z)B=/VBVSNWu/SzS/)z!!BV66{/)VBB)op)Bw/WV{/B3/sWz{33sB)ws6pB!w6)WVwuWVuW)//3s{z3!pp!VpVwFp3{sn)u)V3Bw/Sw/WuSs))wwB!w{zBu3p!BsuB.zs6W{!wzzB{%66wwVp)6Z{wBlS6BV{sWs/!zQ)BVSts)u3B!)VB!BS/WVVp66/33Bu{so+Ss/3!/63Su/Sw6wSuz//S/!zBw6WpSuB6w33wszV:B)SuVP6SV/Bu3/)z/BzVsBz*uSVs3!!Bp6u3pX!wSw!uS{zus!pBW-{jW/{!psu{z6uVpW!IV!Www3zSWW{WWV{/p/u{pBuWp/BBE)6zsVWuW!{B6)/pBsS3p{/p38u{D36&)OwS){SSuYwuB6w!WV/63W!Su!C6suzVuw&w!zVVBwSu6W6p/XB3/SW{Ssz3uBpS)sSSBS)sS!!!Vp)wSw)nVWzV{)zB)Ssp3o{z3/{{z/!wV/!BwBpV{//sz!w!Wzw!6zsV-{!I3u)sw/VpB9VSBV3w6SSwWz//zp!!3s3s!!puuu3w!SV{6w/w6s{S36Wp{A66{Sz/{{3usBVzuzS6BwBsw!)!SW)!w6)6w33uupVS!{up}UuV5ss)p_)dVuW)SBWV/p{sp!/!zBwzpWuW3uuSl8B{w)Sp61V36VS!63w6psuWpz)V>prs)!3u!6%Vs!S!6W/SWVuBz{zps_W3ssBpsVp)u{FW!pS6zz6s/!B)wB63V3W{szWp!BVz){!pVTu6V/upV!!uwzB!supBupss3!{!p6{uzzszf/!SSVzVwzwpWxSWW{SVWS/wp)suV!!uVsVsB!g))uZuB2V)6Sw)3Vuzp6ppuaz6s3W!sSpz!)w3WBw?p7Ww"));n(d(108,"S7}Eb1tv_z/Y*Dh9zb}h}9*b1th7v/6vE_}*D71D9b1h}</_71Dt1Y9__hY*171kDvtz _z*EYY9Eh9bvh7/zhEbt19D9*z}7DYt1;h1t9)7zz}/*_E7Y97o///YbdD}1D9t_EY1Y7EzhMtE9*zb}DYbE**zv7X9z/*_ts1Dh1_*7bb1bC**t7c_zbGbz9}*h1119bztE*1*9_9Evz7*/zE1D_1z2,_77tYbb7DEb1h_z177*g1aD17b/*/*EYDEt_9/_17h/Yb_YDtE9__5MXzbbhv_777bz1}/*_11_/_D7/Y!E1*Ytv^bz*7/YEbYYDtz7}Eb*/*D1/95v1dY/vEEYt1c95vb9*_/bYvb.zi_zh}z*}1*htv}ht/YbtY_1Y9h}UYtYvEDD_t19vz*%1zv1/hbv_97vv}71*9b97vz}>/_Dz*ht_99zE}/Y}1/*v_7&7/E}1/}97"));local t=(-_.KpLTFMSj+(function()local e,h=_.xjwoviv_,_.ZCLqLqEP;(function(t,r)t(t(t,r and r),r(t,t)and r(r,t))end)(function(t,r)if e>_.YVGpwrKE then return r end e=e+_.ZCLqLqEP h=(h-_.TgIyj_DC)%_.rosfyKRm if(h%_.MWZMfBMj)>=_.AY_YgakB then h=(h-_.jQGDHjDZ)%_.pe_kXEjF return r else return t(r(t,t),t(r,r))end return r(t(r and t,t and r),r(t,t))end,function(t,r)if e>_.MIJSqHKp then return t end e=e+_.ZCLqLqEP h=(h+_.dIZxdkEC)%_.uazaBAkQ if(h%_.MujsttdB)<_.mshbooZG then h=(h-_.JLgjJKCA)%_.kfqqlKPZ return r else return r(t(t,r),r(t and r,t and r))end return r(t(t,t)and t(r,r),t(r and t,t)and r(r,t))end)return h;end)())local tt=(getfenv)or(function()return _ENV end);local a=_.cRXdTHBo or _.txbgkIav;local rt=_.ZCLqLqEP;local e=_.MvmMdDof;local n=_.fItSuaob;local f=_.SKhmZGpD;local function z(c,...)local o=d(t,"b+t^3#EF*-_:rM<h+M<r<tM*rhr*:_:{_EM<v+<rhFF#F+EO#E3r_--M_t*_FhF<FrhMh-<*M<M3^rt#tFt+JFL:?t*#*gF&EE#r:*:3:^_r-h-^+F+*vth*<<3r3<33^E+:t3=Moh=-<hh^<_EMF3_h3<333F^_FM*+^-F_E^+3#*3hhE^h^Et_!h+tR+h#h*<h-tMrrMF3:E_h_r-+thttEFF^Eh+7#+3_3+^hM<t*+tf#:Eh<hF<3M^MFF_:+:3_5#t-:*M^3E<Eh+E^# tTR^t^^M_h-rh_--rr--<M_MhrrrtEr_#_F-:-+*^*3F^E+EN#rz#3F<_^F+<,M+E:*MF_:<F-OM_r3:::E_--M-**F^EF:E*/#h*^M3-3#<E^^t++Ma_h*h*_F<_*rr-:MrtE3_<-**h*h^tE<F=E^#F{9^F^_^:M*+M+*gth#h*-rM-MMMFE+#3*-#E-E-F*:*tt3F+#+#33_^^<*^t+-+Ezr:EQ#h+<M*<rrr-rFEE*##--#^<F_EhE#Et###;^hM:r<K++h+_+(h^_*<:M#M#r#FEr#:+_M3<--**F3E:E<E##r^h3tt<rMr%h_,F}<h^hE-_MFM#r_rL_-#<-:-^-EF:trF:EFE^%33h3QM^rE7zWM+3h-hr_BMMM:M&rE_hE3_E-#-_^r*:FFF^+33<3h3M^_rhrthrs-+vh#h*-rM-MFrrrt_:EN_*_+-9^*EhFEE-E##33Thtt-tr+*r_;3h:hh<F<_<t*3M^:h::3-^rFE*^*_EhFt+E#^#+3E^rt#M_+M%FgFhF_*hF<^Mh*l:-:<::3#^*FtFh*EE:E<+t3h3M3t^*t+ME+hO^++_<<:<-Mhr_:<r:_M3:^<F**#*rF+F3+*###^3*^<tFMrtEQM _Bo__<+-EM*r::ME<_#_*-33E*3*FF_Ft+3E^3h3:M-rr=h+^r:+zh#_E<F<ZMFM#rtE__#-F*h*_^*FMF*Et###*hr^*^F^9M3+MUh:Eh*h+<EM#F+E3_-:#:+_33**EF-E:FtE_+^##h*^Nt-+h+<rEhMh#h}<F<tM+*rFE_<:F_r3<-M*-*#tME<#Fi*#t3^^-<Ht-+3+::*jth^-_<^rFM#Ft:+:t#3#t-^FF*#ttE+EtaM<FM_wht_t#++vth-:E_A<MM+*t:_:M:*_t#1-+*_*+Fh+<E:#t3+3_h^^#M*+A0-hhh<_E<^<+M+rr::E__h_33r3_FhFMEME*#FRE3:3!h+r::<1+1#:EhFhR<F<#*3r<:*_:#r--*-*:F-t_E+E3#q0t3h^^<:tr+#rE?^x+hE<rM#*_MHrt_M::#*-F-*tF+_3FE_#ES*3F^_<_^-t#t+rth-s+<h-_MMr:Fr:_:F:##3F^3F*^trE*#M#^#f3^^<tMr-:r<raM,t:+h3-E<qrFr3:_E3_F-#3E-#*+FMt#EE3ha{3_^:^+M*+7+xp^h<<_-r<EMFF<rF_h_#3^^EF.FM*3E-Er+ 3M3:3{^E+hM3++q-Nrh+_th+MMM-F_r#:E3-^rFE*^*_EhFt+E#^#+3E^rt#M_+rT:+N:ta+<M<-*_r3r#r^:P3#^*FtFh*EE:E<+t3h3M3t^*t+ME+<+F9E_<<#<rMhM:r_:EE*-h_t*<3jF_F+F##MEP#*h_3-^#^+:h:t<rh-O,<#<**rr-rF:r:t-:#y-^FMFMEM+<EM#-##hEth^3^+::_<<*h#hr<+<3**r#r^:*_<-F3r-#F-*Ft3E+#h##3V^33+t^r+:3<<h:it<F<_*<r:r-:<:3-M#t-r*^*vFEto#FZr3<3+^^<3+:+<s_:rh_hMhq<**_M-r#r+3h3tFr*--qF#F*+r#-#F3r3tt:<o+M+#+*hM_<hM<-<#*EM+rt##3**t*h-EF:F<tt#h#M#t3*^+<Et*+F+r:<(Mh-h#-EMdM+rh:r#+33F<*:-tFFF_+<#:#-3<33tM<tt_t^+t:_h+h*<:<FMErtF3_:_<-_3r*EFM*+E-ErE3{E##3+^Mr::<h*x#0rh+h3-*M#M^r*:<_F#r-h*-*-F-t_F-E#E+5t^:3B^MrF:_h3>+g*<MhB-3M+rhr3:__^#*_+*#-^^IEME:E+3r3%3MthrMr7h_=FZ<h^hE-_MFM#r_rG_-#<_**h*r*ttrE^+*#_3M^hhptFt_+Er*nE!-hrh3-E<#M+rM#:3<EtFh-#*3^<t*E##MEY3#hE3#^+tMr<+-c_:--^*E-_:FrM:rFEEN-M-#-*FMt<FME-E#BE#+3th+r::<Mt<hc#h3_:-*:rr-M?:#:*#r---F*r*tE:tc#M###*^Mh_<3t*+#+rq+Y3_*<#<^M*r<:FEr_-_+_3*-^_^*EME#E*3Mh<3M^-^#MEt++tr+-:*<_t:hM#r3F:E**r--_(*#**trE-EF#r#t^:hAtMt#t*}Mr_:3h*<#<rM+M3F*:#:^_*-<*F^rF-F+F3#-!_(*^M^#^*+Mr<+MZ-k#_Eh+<t-+E:#<_+_##M_t*F^*F-FtE-EF#3hr^Ft-t++rr_QhP_h3<F<_*<r_r-rtEE_h_+3**_*^F*EFx^hE^:3F3^^EM_+*a:hMY3hr_#<F*_rt:::+:a#**h*F*tF-F3E^+<s*3j3-^<<?th+:+F:hvz<--_<3M#r:Ft::_E_M3_-3*#trF##-EFD33^33<E<3tE+F:<dF<:h--EM#ME*+#:3<*^-<--*#FEEMt_+3E+3#hEt<^+tr+Er3Z#h<h#h^-tMhrE:#:<EF_-3r*3FMF^Ft+_#F##3#3LthM<t^+*rW:<h^h+<+Mrr:F_:h:3E#^h^tF#F-t_E:E3#:#-h*3ttr+hM}sMhMhh<M-<M#M*r3FEr^_F#h_J*-^_FFF#E_E%3-h<33^Et+thrr7:Pr-:*<r^-UMKM+r#:r#<_:*:*<*3EMttEr#^#J3Eh{^ht:tFr*pE6^K+_/:h-^rhF*:3_--h-r*h*_F-+#V*^:#-#33_tM<tt#,hchhh:Jhh<:<F**M^rt_<_#_*-h-EF-FrE*lFh_^33+3*tM^5M3++/h63h_<^-*M#rMMj:#EE:#_+-M^<*-F_wM5T^_3F3<^^^EM_+F+#,_;v<--<<CrhM3FEr#:+_M3<***-*FF3%-hr^E3^3_th^tME+^++%Ehr<#-_<tM:r_Ft_-:k_^-h*<F_trE^EE#to3^<^#^-t+t3+r:<0Mh-h#*^FE:W:Mr3_-_r#p*M*:*)FE#h+3#F3+3+^+<t^++M+-:_h^h*h#FhFt_r:-ry_#_*3r*-*FFrFt#:+)#-^M3:<*t#t^+-43h*?#<F*#F*:t:hrE_:_<#t*h*M*tF*E++EEV3F33^_<3+:MK+t8#hF_*Mh<tr<*k:<r+:3_r3<-M*-*#+^SE3.3M#3^-^r<S+M+:+vkE<h_3<+M-Mrr+Ftr+_M_-3_-#*E+-Zr3E#^#_^h3t<Et^t++EQrh#__<rM:<U*tM+:M:-#_-3-#-^*J+#&*3t3h#E^:^<<t+h+M+t4*h+_E<<<FMEF<:#:r_h_:-_*E^*EhFt#<+W3_3+3#tM^Bt*r_+-L#J+*h*t:rr-MO:#:*#r---F*r*tE:tyE^3M3M^M<<^Mt-t#rEhh)38+*:F<:*r#rr:+:3#*-#-^**F<EF+rE#3-#Fh3^+tht#+n!3++h^-+*3:<r:Mt:F:_#<-:--*<*3EMttEr#^#z3Eh&tFMr+<++k^:3<:<<M_*rr_rMrX:*#__--#-++h+t3r#-EU3#3*<rt-tF+r+th::m<M<#<*rMF<rM:-:##E_+-tt#+*#t#hEE3:3<htthtMtt+*z+:Eh*<F<r*<MMr-r#EE_1_+-h*rt++33<#:Et3F3_<<t:t-+<+3hM:th_h^<t*_r+r*:::F_E-t33F:F<E_+r#E3M#+^-^r^3MEt#++4M-:*<r*M#Mrr+r3E*_#_^-**<FFtrEh#-#-3-h_3-^#^+Mts:+A2M-F*_r3M+M*:Mr?E3_+-h-3*_F^t*F+##E^&0^M^:^++r+g+Mhh-M-0r_MFM<r^rEE__F_#-_-WF-t<F*#h#r#thr^^<*t_+M8hrahFh_<E-*MEM-rrr3EE:#_+-Mt:+<#^tVEt###*^M<<^+^^MK+ty#h*<M-<<^M**nr_:3_F#*_B--**+M+83#+t#:^h3M<_L-MM+-rtkEhMh*-_MFrhMt:::E_##3-h-Rt^+E3:+*#:3##^hKt*t+Mt+3(FR_h^<<MM*rr^r3:M:t-h^M^A#<*FFr+<^MQ_#^3_^#t<t3r<gEhhhr<h<+<*rMF<:M:*E8_t-:-*FM+:v<AFh_th3_htt-M<tF+^CMhhh*<^<_*<M:::r-EE*##t*<*^F-FEtk^h+^3h<#M*+7t-t^YhP_h-_*<:<M*_r^r#:_:#-:-F*-**F^E:T-hr^r#a^#3nt#tt+#+,hh_<<_<-<t*ErB:^r+:+#3_+*-*_F3F+EMEtJ33F3-M^rEhM+EkMy:hE<#M_M^rFF*:M__#__v-**:**EMEr###*3^^:M-rrr#:*h* t5th#h+M-M4rMr-:<EN_^_#3t*3FFE_#h+D#h3:3F<h^3+-r_/^hFh*<<MMMt*3rF:#EE-M#t-_*^*tEhEF#F#,3Fv3<<^^tt:M:/h7h_h_<M<-M+r*FE_M_<_33<-+-^^UFtE:E-#:h<3M^-^#ME+hm^W+ht_3h+M#*E:hr+:M__-*3_-^*_EMF3Eri<3#3+^+tht_:h:t<as-h<_U:h-^rhF*_hE3_r-#-3*+F-E-Et#-=_3h^r<r^:tFt^+E:_hrh#htMFF#E*_^:tEr#E-:*_33t<EEEhE3=Et#h-^#M<+#r_+th:h_<FMhrhr*:hFf:#_t#t_+*M*-FrtCEt#:#*^MM:r<rF:_<*++/E_*rF-:MF*k:FEr:3-M-r*-*+F+E_E++t#F33h33^tht:+<MprE:r-+*3FMF2:A:_:__M_--+***#*+FE+*#:#Mh_^rthtt+Fr*+F6^hh_sM-rMr<r3:^_*#_-M*:^rF^t*Fq#-#*3#^MtMtE+M::_<M::&h*<+<DrMr#:#_<_#3^^EE^^**oE-E*##3M^M^EtMr::<<:rvQ*h+hTMMM#r#:<:##^3E^h^t#h^3FrE#E3#+3-^-^tt-rF:_<F:rJ3<M<rM-M+r+:_:+3h3tEh33*rF#F3E+#-3-3t^-MFr_hFrr+3hMhr<-<+M+r_r+Ft:F_3#3_^*h*:F<ttE3#M#_^hMMMcr-:r<_U^h-h*_Q<#M_*trr:E_-#__^-_*<FFEMFtEFP_3+hE^ttFthr<++C-h<h_<3<#F#E*-MF+_M#E_d-3-+FFFtE++n#_3:ht^*tF+F+#r ;^9#h#MMM_r_F_r#:E3-^rF+^<*+E:F-+E3<3Fh*^_tM^1+-+3w^:t<-<_<^M*r#E^#E*3_M_t33E^^6F-FH#:#33_h3trt#tt+#oFX<h^_3<^M<*Er*r+:<_^3+^3tMtx3MF)#rS<3#3E33t<t:tFwh!E:3hFh--EMtr<:-r#:F#_-**F*%+h+t3tEE3:3F^M^+tEM*+:C-:_h3h#h^<;**rMrtE_:3-<-+3tF:FMFB#<###-#Jht^EtF+:+t+3_^-Er:-hM:*3rMr3_h_*-<3**-FMEME:#h#_j-h*th^Et-t#+30m:t<-<rM**__-FE:h_^_h3<-M*-*#+^gE^33-3+^h<_tt+:+t++2_h^_3<F<-*EM1:::#_^#3_+*+*-trF#EX#M#E3<^#^3t++EM3:<C^ht*M*>F-Er_r:E:E_-_#*M*3*+FMFt+3#F#-hE^*t:+<+^r3+^hhh:_^<*rMF<:F_:_r_t-+*E^*F:E-+_#+0E3<^F^Et^+:m:f3h::*_t<FMEF+E3_3_<_<_+-M*#Frt_E+Et#*Lt3#3F<3tE+h+Mvh:tn+<M<-*_M^:F:#_E#*_#*-^_F^F#F+#<3rh<3F^<t+t*tkrth-h#<#<^M<F^EE-3:M:t#3F^3F*^trE^+*El3-3*^#tM+M+E{M:<D^h>_l<hM:MFr_E<:T_-_E*:3*^tFFEE#rhF<_+*3+^EM*hFr:KF:.<F-r<3rMrr:-:+_+-_-+3t*FF3t3F^#h#:3<ht^3tMt_/h_M_I--*r:_<^M*F_--EM_-#t*-^<*EEhE<#:#^3^^r^^<3t-+ErE+#N+hMhs_t-**<E^#E3h3tF!--*<^L3ht^#h?*^hh3^rt#t3++W-h-ht<--_MhrrFrr::F:^_E3_*r*#*tEFtE+r+t<FM_M^rE!E+8+2v^hh<FM<M:MFrrE<:+:^#O-t*#F*EM+<EM#-##hM3ttFM*++A#7Ehr<:<0-tM#r^F3_:En_*-+-sFMF#E##<##h^<E+^<*^Z+-+*o#hM<M<EMMF:E<-:Fj:*_+_5*M*#F#E<E#j^hEt^h*3kt-t*+#XMhMhE<M*:F<FFE_-FEr:3-M-r*-*+F+E_E+hhht+hh3^rt#t3++I-h-ht<-*FF__FFrr3_M_r---+*+F_F+Oh%tthf33r^#^3t++-&-zth-__<hMr*rM:rFr^:E#_-r-#-tFF+#N*3F#-##3*thtFhtr<h+vhT^<hh3Mhr-Mt:F:t3M3Q*#-+*Mt<EF#:#<RE3r3F^rM<tM+-+#p*_r<^<_M:MFF_:+:*_:_F-E*tt++33+E*#-##h*th^Et-t#+3z{:<_*Mh<EMFM^FE_M:3_F_^-tF<+M+a#^#_3-#th:^M<i+F+*+3hM<h<*h^-,rMr:rY_M3:^<F^-3^EF-E:#h#E#*h_^tt:MrtE+FWM:3hE<+<_M+*trr:ME3_M-+-ht-+r#:EMEE#r#-zt<rt_+MtFM1:_hr<:hZ-tM#r^F3:M:3-F_#thttEFE-#:#*+thr+:<*^#+#+MrP%Mh<h+<EM#F+E3#M#D*t_+-_^<F-*TE#E*E##E3}^F^tt+M!+hz:DF_hh3M-*_r3r#:__FE33<***-F<E:t*+t3r3M3tthrMr?l#++YM_<h:<^<^r<Frr::F:^#:*<3JF*F+FEEr#^#Eh_3t^:t_M<r*+k1-h*_r-EM<MFrE#:3<*^_33E*-F:EhEEE*;_3t^:<r^EtF+Mr3eEh+h_<+-tMrrMF3:M_+_h^-trE:FMFEErE-+thr^_tM^F<,r_Vrh:k _t<#M^*3rMr3_F:#^h^tFFF-E:E*tt5rt:h*3#t#tMMp+MK<B+hE<#*+F3:F:<:+:5#*-_-^-vF#tMEh+t3-3_3Etht++_t#rthhhMhtMhFMFaE-#r_+_M_-3_*^FFF_ttE*E^#*h_3-^#^+t3r*hh0EhFh^-ErMM3rFr^:t-<^M^f#M*3F#F++33:#t3#3+^I+rM_r3h:%th^<h-tr-M=r^:h_<-_^-trEhFEE#E<+F#-hr^^^3^Z+-&:;3 h_r<-<FMrr-EF#_*h:G#t-#*FF:FtF3+E3<3Fh*3t^^t-Ms+thMQE<M-<<*M-*,r-_M::3#^*FF*-*tF*F#+<2*3E^-3^<rME+*&FDr_<h+Mh-oM-MX:^r+3:^<*^*#FFF3t<+*^FV3#+^+^-Mrt-+_DMdth+*M*pF-Er-<:M:E#_-#-r*+*3*+Ft#r#^3<^M<r^:tFt^r:+?h#_E<I<+MEr^*CE__3_#-_*F33t<E*E-#<3:<-Mrt+tMt-r_+Fhhhh<_-*<FM^rhFF__#r-3*M-t**EhFt+E#<#F3Eh_<3trt#+3r*:th_h^<tFFE_-hr8Et_#-F*:*t*3tE#<#F1*#t3^^-<GttsM+EhM_<h*<--oM-:Mr:##3**F---t***#t<+*#E3-#^hr<Et*+F+r:<=+<h_n<-<Rr^M+#:3<-^-#*F*3^<t*3F+3E+3+3-<r^-t_+M+tQ+-M-zM^M_rMrrF3:E_h_r-+3-*:t<E#EEEt3:^M^E3+M<+:+-s<h:--*rrhMEr-r*Fl:t_:_**M3#*Ft_E+Et#<3F^-^t^MM_+F+#m_hF-#***+F3_#rr:+:H#*-F*_^_*-F#F++t3:3_3^^Mt#MEt#++{Mm2_3Mh<-r:rh#h#t-t_E-h-^*_trF:EFE^#Eh_^rtht+t#:#_*<E<h<+<tM#M#:ME<_M_<#F--^rF^F3F;#-3:333h<rt-tF+rY-_F-_M3<:<-**rFr*E__-_-3r-E*FFMt3EE#+#_3+ht^rtMM3HM+tjh--*rrhrhM_:hFg_M_:_+*r*,*MEhpMPx^2#+3Eh#^*M_+++-dF:thh<E<MFFE__3::Et_r_^-E**^BEFE<E+#M3r^*MFr_r^:E<*1FNU_3Mh<Er:r<r::r_E-M-**F^E*#F+EM+##_^hh t_t:t6NMr_:3<<<h<3M+*<F*:t:^_*-#^^tEE:FFF^+3E+3-3-^3<t^++M+-r+h3_EM<MFMrMt:-:rEA_*_+-y33t<FEEh#<+thr33^Mtrr+:3<-G__r<h<+M#rrr<FN_*_+#t-r*M*^t_Er#FEB3Fh*3t^^M_t^}F+#-h-tM+<^MrMtrhF*Et_,-^-M3E^YFtE+EES*3:^-<_^^t_RM+:_#-*MMMhM+r<**Ft-+#<_:*:-^^E*^F3EF#r3:<FM_+Mt3+F+E:<v?h-hEM:-^M#F*_h:7_r-#*F*&*:t*E#E^#*3#<^MErhrtiF+^jh:k<-MM<j**r<r-:<E{_h-:-F*_t<E#Er#M#-hr^^^_tMt-+*m3_^-Er^<_M:MFF_:+:*_:_F-E*t3%t_E+E*#-##h*th^Et-t#+34c-h-tM#Mrr:M3FM:hEt---_-EFhF+E_F#+t3h3M3tthrMrNh#+E:*h:<M<+M*M_Fr:3_M#<_*--*h^EF*E^Er#^/33<^h<Eth+^t+_:-<MM<h<*M<M:*3E<_r-h_-#t^rF<EMFt+3#F3#hE^h^E+-tF:+_3<-<:MMM_-3F<-ME_:F-F-h3t*h*/F^E*#Fh^<EMhMt83t^+rrCh:nt<F<_<FM*rt:-:3_^#t_+*M*-^+FE#:Kr3E3F^rt-<EM%l_a:/o<M__-3r<rhr3:+3h3t*F-^*h^lFME#E##ch<3M^-^#MM+irth_h^h*<<M#M*Frr3:M_rEB3_-t*:F_t<+*EX#-3*MMMd?#tEr*g:hMh+<*<_*rr3:ME<:*_--h3E**F^FrE^+3#<3hhE^ht^^+::_<<Mhhh*<<<:-3F<:r_h:-Et3r*<FM*tt3EF##BE3h3Et-^Fr+:3h-h:<M<__3*<_MF_rF_F_h#t-h-e*^F*EFL^hE^-3.^^^tM_+r+#+thF_hh+-3r:rrr*:+_^-r_F33*+FhF3E+hhht^#^rtht<ME+*++T<h^_:<M-OrFr*r3_M-h-*_^3VFMF:FT#Mh:<<tM^h^:t<+#pMM*:3MFh#<-M#M_r#_h:*-M-*^^tEE-EMt#EE3h6H33^:<tt:tt+Eh:h<<M<+<3M:F<r*:-E,_t-:-*FM+:G<#^#h#:hr^M^EtMt:r_+3h<h+_t<_<^M?:hr^EE-M_)*r^<*FF-t>#_#:}tt+<<<r+<+hrE<#::-#**:#*_rEr::*_<#*-+-^*FFMEhF!#h3M3r3*h+^^MEt^p_h-6t_3r^-FM^FrrE:6_F_t-#*-*3F^ttEF#3h+<3t-^#^+Mt+hDMw-hE<3<3-^MEF*:#_-_<#n-_*3F:F:+<#_#r3h3^<rt^tEtFr3l-J3<<<+<3**r#r-r^3M3.F#3t*t*^FFE<+=#M^M34^E+hM3+<Y#uth*_th+MMM-F_:*:#:^#tF+3#*+t_EE#:#+3<3+^rt:rF:_<M9:1EhrMh-3MFr+r+:+Et:+-M--^_*#F3EB#F#_#+3*t:t<+_:-_r<Eh^h_Mh<t*Er^r+:E_r-#3_*FFh*tEF+*EF#^3hhG^:tr:h:t<rh-Jl<#<**rr-rF:r:t-:#}-t*+*Et*FFE^#hJy^_^:^-tE::_<<*h#hr<+<3**r#r^:*_<-F3r-3*MFrt3#:Et###+3AtrM<+#+*73:EhP<F<:M^MEr<Fy:h_:_F^#t*EtEhFE#:#<Ct^h^M^tt*++rE)-h^h^<^-3<^rhr:Er_#___F^+t3#<E:Ft#F#_h<^:^-t<t3LMrtW:<hhM-_MFM#r::E__:F--^Ft_E3F+F*#MEUk33+^h^3t_+^r*+th-hE<r-ErM*tr3:F_-#_-+-3*/^tF{F^EE#<6X3h^:^Fr#:*h:hh:Fhr<+-tM^rrr^r+_<#E-+*^F:FEt3E-E33<3+33<*t3t^+rro7-h:_t<3MMMtr+#M#0-#_+-M-e^3FtE##F#<#Ehh3+<3+r+#A:=_:t<-<+MrM^r<:MF*Et-__^-*^_*-F#F++-#_3^h3^<tht#rr+#K(mF_3<<Mh*Erh:^r+#<-M-<3C^<FhE^F+)<3M3<h-M^rEh:+E++hM<<<#_t*rM-:ME<_E_-_3*<^rFMFEEME:Y_#F^<tM^EMht+r3hrh#<:<_-trhrM:M:*_F#E-:-.^*^EE:E-#-#33^ht^FtrMM:F__<Mh+_t<^MrM^M+F):__3-F3**#F#FFE#+E3M#q^r<<^:+hMF+*k+:t<h<M<tM*r+FE:r_<--_F33*^*3+^AE^^#E3th3^^tEMEt#++ M_<<#<MM:*Er-:FE*_E_^_+3u#h^^Eh+*#33-^h^rtht_+-:#_*M*h-<<-M<5*trr:^:x_E#;-^*+^t*+EME-++#t^:<r^EtF+Mr3hrhr<h<_ME**Mtr^E_:^-:-+thtt#rE-F6###*hr^-^Ftrtt,:rZhMh#h*MM*<MMr-r#EE:+_t^#t*EtEhFE#:#<zt^h^M^tt*++rE1*hFhr-<<MM-M#FE:R:+_h-r^+t3#<E:Ft#F#_h<^:^-t<t3aMrt?_D^ht-_M+M*r:rF:E_t#3*:*<F_trEE#ME+3-3r33<E^#t++M_:-<M*<#<rM+M3F*:#:^_*-<*F^rFhE-E-#-j_#-3#3+<t+:t2+M_F-_M3<+<*rMMfF3:+_h_3-_*^^**+E#F^+I3M3:3+trtItMKh_M_6M_<F<<M^MEF_:F:#___i*-^<**EhErEtCr3^h*^_tM+hMP&FG_hE_*<E<-MrM3FEr#:+_M^:t<E*F#FrE+E3/*3#3^^*t<+Frrf-i+>3<--_<-M#M+Ft:M_<3+^3E<F:*tEFE_Z<3:3-^<^3+MMt+3s^k*__h-<#<+*t:r:M::_*^M^LE_FFF<E^EE(_3F3#^_^X+-r<+E1hh<_EMM<3MFM^rt_<Ed-F-_*E^*FtE-EM###*#pht3+tMt-:F__<3h+h*MM<1*3r+:h:3__-^3**:F#F#E#+EE##+3M<<tFtrt-:^_E<2<Mh3M-Mr*W:M:::d_E*h33*MF+Fh+r#-#F3M^*tr^-+::-_r<Eh^h_Mh<t*Er^r+:E_r-#3_-3F:F*E<+*3h(33E^-t:Mr+^+E9t:3hth#<*<T*tM+:M:-3F^_3<E:*+FDt_+3#+3-3r^+<t^++M+-:_5#hE_#FhFt*E_^:-_*Et3r*-*+*3E-+_E-###+ht^Mt<MM:F__:<M:h+<K-F*3_*:#:r_+_33**#*^F*E<#FWr3-3+33t-<EMH+3s+L*<MhD-3M+rhr3:__^#*-#*M-KF#tEt3#-#+#3^-<_^-t#t+rtNMh<_M*FF_*<_:r+:WEF#3F**#*rF+F3+*###^3*^<tFMr+-+++3h-:E_R<3M+M*:MrOE3_+-h-3*_F^t*E##MEs3#hEh3t-t+t3p-:_D-h#h+-tMMr<FM#F3_*M-+3-*<F^t3E##<###^3R<*t^+#nMd*:Eh:hE<wM^MEF_:E:#_<#t-:*M^3FEEhE3#^<h<ttF^^thttrE73hF<-hu<*-+M^FE_<_F-M-r33F:F^E<E#E!3hO_h3tr^#t_rr+:0F ^_:<rM#*EMfr+:F#<_F-t--^E*UF++*E+3##^hOth^JMtM=+t(^__h^MF<#*tr+rtEM3F^_Eh*_*#F+Et#-+EQs3M^+<t+_+M+*;t:?h+<_<+MhF<r::t_+__#^-#^*FXE-#h#<VE3^3+^+tr+:r_fha3_r__MhMMrMr*:FEE_:_V#+t:+<E+E#+E#F#K3F3#<3t<+* ::rh-<-<:M-*_r+r3:6Et_h-^3:*rF#tEE^E+#E3r^#<_^lttIM+::*hFh**FF__hFr:r:M:+_*3_-FFFF_FB#-=<#*^h^r^tMrt:+F+^:3ht<h<M*r_:Fh::E3_?-#*:**F:FEE#x+h3tF3#3 ^E+-r<++h:h:<:-r<:MFM^F3:h_<-_-+-3*:*tE#E*#3h^<Et=tM^3+-+rrUhMh:h,<Erh*3r+:-:r_+#t_+*M*-t_F#EEh-<rtE^^^_+httrEc^W+hE<rM#*_rr::rlEt:+-M--^_F3F#F^E2h#<*ttth^E+:+<rthhhMht<*M+*Er<rF:E#<-#-r*h*:F_EE+*3h#t^<hQt_t+t#GM+25*__h-<#<+EhEt-r_-:7-#-*^rF-FFErEt3:;=3^tMtM+Mr<+MK-1#_EMh<3<+E:#<-*_#_r-+-3^*F#F^E*#<3Fhr3#t-^FM3++ohz#hm<3h+M^F+E3-<_::t-F-_^<F:F-E<E33M.t3r^^^CtEM9,F:rh<h+<^-3r:r<:_Er___M_v-*^_*-F#F+hhhttr^-3Tt#t*rri-XFhrhtM:-grMr#r*_M#<_M---#^E*+FtW#h*^t^h3Et:t<MtohvMVth*<+-EM*rFrrE<:M_-_#3E*y*+FhErH+h3t<^:3ttFt_r< :s-h<h3MM-tM_M^rtE__+_*-:-F*EFtt3#:#<3_hr^EtM^++-+r+3:ER#h+<MF:E<_*:#:r_+_33**#*^F*E<#F.r3h^-^-t-M_t-+#++:t<:hY<MFFE__3:+:*-M_U33*+FhF3E_#^S*#+^#3^<j+M+:++hrhDhMMhFMFd__:F:<_^_E3_*F*#F_FS#-T<#*^h^r^tMr+^r*0_hM<h_uMFM_rEF*:E:-_r_33E-#*+FMD:h<^*3#3r^+^3M*+#+^U*h<<F-rM-M+M3:-E_:-_#_+3t*MF<++I3^<3:#t^F^_M<+:+-Y<s3<M_t<3M^M*F_r-:#:+#t*r*M*:F*nMlN^_3F3<^^^EM_+F+#P_O=<--<<EMhr<FE_M:3_F_^-tF<^kEFE_#EU*3t^-^Mt#t*tVrt++hMh-*FF_:3r+r*_M: #3-+*h*3F_E^+*#:3#3#^#<E^#t++M:<hFhrh-*^FE:n:Mr3_-_r#J*M*:*fFE#h+3#M3+3h<rt-tF+M{*hra-<:*-Fr:Er^r__h:t#E-^-+*EFrE#+_E33:3*^<<*+hM3+E=-h:_r<^<EMt*3rtr#:*:k#t_+*M*-+FU_3M#+j-3_^^<3t*+hrE(h{Eh_Mh<tM+r#r*:hEt_r-M33*EFhFrE+hhht^F3^^h<jt++_++mh_<h*<tM#*Er<rF:3_^_F3_*+*3FQttE:#MH3^<^h<EC#MtM0itU^__r--hF-Er--E<___h-r-t^rF#FFE:E+#^#33^^+^GtrM#+F:_>F<<MM<E**_FF::FES__-3*:*EF-EME*#F}E3:^*M#r*vM+-+#:EB^h+<MM_r*r*FF:_#r--*M-t^3F<E*#h#hxt^<3o^^tFMN{F4_p:_*<M<*Mtr#r*Er_-_M_F^+t3#-tEEEEF#:#th33+t+t3+_ ^:*{t<-<EMr*EM#r+:M#<-r---F^E##t-E#g<3_^h^#^tt#tpXh_:-<M+<h<_<ar^F*::_#_#-#3E-#*+FM+<E-#*33^:^<^#trLh+th<-M-Gr_MFM<r^rEE__F_#-_-fF-t<E:E^EE3:hr3:^F^^M3+h+c_^-EM0MM<3r-rrFk_M_:_D-EFh^3FEE#E_vr#:3F3^<3+<+h+Mw_-h-trrM-<!r#r*Er_-_F-r-tF:^fF*F+E>&*^h3E^-^#t3+=rth-hr<*-_M3r:rh:F:_:t#3_^*h*:+-5r3E#^#_^h3t<Et^t++E0rh#__<MMFMFrFF*rF:^_h#8*-*<*:+#5*3t3h#E^:^<<t+h+M+tV*h+_E<hM^<+F<:::-_h-_*<-:FM+:X<3*###r3+33<*t#t^+*}<hF_rhEMMM_MeF_:+EE_*-:*M^<F#F*E3+E#3#F3_3t<3^^+h+:_--rMh<^-:<;r#FE:F:D_F_#-t^_F#EF#h#_T*3M3*^tt#t*rrK*oFJ{_3<MMh*Er*r+:E_#3+^3F-*#*+F3+*#E3-^:3t^_<^t#r*awh-<h<<-ErMr#ro:F:t_+#r3EF<*FFr+<EM#-##hM^<tFM*tt+^{-:zh-<3<:**Mtr^E_:^-F_#3t*+*tt3ttE^3F##ht^+^tMM:F__Mhh_h#<+Mtr-*EFv:M_+#t*_*M**FttOE+#_#+3h<<^:tt+++_r^o#_*<pM-rhr<FE:^:+_+-r*:^_FhF3+r+_3h3M^M^*tFME+:+>r+-:*<M+M#*ErFrc:F:##3-<**F:trE-#-#:3-h_^+^3tpMt+h ^::hr<#-EM^M+rE:r_##__K-tFM*:t*EFE*hF<_+F^_tEM*+FP_:_}-h#h+-tr-M+:hE__M-:3r*_*F*#t33^+F#^hr^*tMt^t&+^7<hM--*r:rMMMt*+r3EE:e-F-3*_^3FFE#+EE##+3Mh#^E+hMy+_ :%+_*<p<RM^r<:_Er:E_F3<-FFhF#+^0E3Q3M#3^-^r<n+M+:+SGE<h_3<+M-Mrr+Ftr+_M_-3_-#*E+-}r3E#^#_^h3t<Et^t++Ecrh#__<rM:<4*tM+:M:-#_-3-#-^*4+#T*3t3h#E^:^<<t+h+M+t!*h+_E<<<FMEF<:#:r_h_:-_*E^*EhFt#<+G3_3+3#tM^7t*r_+-0#Q+*h*t:rr-MW:#:*#r---F*r*tE:tTE^3M3M^M<<^Mt-t#rEhh?3(+*:F<:*r#rr:+:3#*-#-^**F<EF+rE#3-#Fh3^+tht#+9a3++h^-+*3:<r:Mt:F:_#<-:--*<*3EMttEr#^#W3Eh{tFMr+<++O^:3<:<<M_*rr_rMrc:*#__--#-++h+t3r#-EV3#3*<rt-tF+r+th::D<M<#<*rMF<rM:-:##E_+-tt#+*#t#hEE3:3<htthtMtt+*T+:Eh*<F<r*<MMr-r#EE_5_+-h*rt++33<#:Et3F3_<<t:t-+<+3hM:th_h^<t*_r+r*:::F_E-t33F:F<E_+r#E3M#+^-^r^3MEt#++nM-:*<r*M#Mrr+r3E*_#_^-**<FFtrEh#-#-3-h_3-^#^+Mt>:+U{M-F*_r3M+M*:MrCE3_+-h-3*_F^t*F+##E^{{^M^:^++r+ +Mhh-M-)r_MFM<r^rEE__F_#-_-PF-t<F*#h#r#thr^^<*t_+MshrUhFh_<E-*MEM-rrr3EE:#_+-Mt:+<^t3hE##3a<h*^#tM^u+#rE+#T+hM-<<-M_*-E^#EE_*F-M*r3E^!EME#E*3Mh<3M^-^#MEt++tr+-:*<_t:hM#r3F:E**r--_{*#**trE-EF#r#t^:h!tMt#t*%Mr_:3h*<#<rM+M3F*:#:^_*-<*F^rF-F+F3#-H_A*^M^#^*+Mr<+MA-u#_Eh+<t-+E:#<Ft*h_#-33:^*#rE-F,###*hr^-^Ftrtt8:rqhMh#h*MM-_*3r*:#:r_+_33**#*^F*E<#FUr3-3+33t-M_M*UM(#j*<M-<<MM-M#FEr+:tE+^:t<F+F#tMFt#F=*3-3t^-^Ft3rrpFh-h+<r-_MhM_r3:F:_#<-_---t^EFhF++*#_#^3*^FM^rE}:+F+^ E__<*M:rMM3rrF#:F#_-t*:*+*Jt*#h#F#t3-33^^<<M*+O+-k<:Chh<:<F*hMz:-E_:3_#-:3t*:FEFM+_E3##hr3#t-^FM3+^+3:E:3hE<F*<MF::r-EE_#_E#+t:+<#^E<E-##3E^Mh_<3^++#rEh<7+hr<E-3M#r<r#r^Et_h-E*#*<^FF-+r#33M3^3t<_tFt#+#+Ihh_<h^<*-W*<r^r+:+_r-:3_*h*3^#Jhit3#3-h_^:^3t:t-r*+thr<h_YMMrMrh:ME<_#_*-33E-^FFthFK#-0_3F3#^_^j+-r<+3nEh+hh-rM:MrE:#<-^EB_W_+-#*rt<F:#:#<#3^Mht^rt^t>+Er&)hh:hF-*MEM^M+Fz*hE^-h3**3F-EhEr#h#_3-<#M*V:t-t3+_hM:th#MhMhrh*Crh:::F#*_^-tF<F#F*EhEE3-3r^*MFr_P3+++*hM!K_3<+MhM3r_:^E*_#-M_x*#^E*#F+EMx<#-3_MMM9K_+F+<S^7E__<F<#M_MH:-E<:z-h_33E-#*+FM+<#*#-#F33M-rrPE+^+_hh>t_E<^<+MErr:#E_:t_:-_3tF-*IF^Eh#<3_hr^^^EttM3u<m#C-h+h3<r*<MMr-r##^3E*7*M-3F-Frti#M#:#53Eth<3tF++++;+:tQ+<M<-*_r^r*r#3h3tFr*--TF#F*+r#-#F3r3tt:<qt-pM+::*h#h^<-M3r*M#:F##3**t*h-EF:F<tt#h#M#t3*^+<E^8+F+38_:3<:_!<tM#rFF*_h:t-<#.*<-+*3Fr+<EM#-##<^ME+v+Mt31-Jr:)<M<:<%ME:hF3:+_-_r-+3t-+FMF-+_E##E<-Mr+Et^t_Zh+t:Eh^h+<EMrr#F_:r_::{#t_+*M*-t_E3E#E^#B<#M*+t+htEZ:w<:t<h<M<tM*r+FE:<:F_E3<*#*rFhF:E_#Es*^h3tt<<1+_+++#hMIvh*-_<-M#M+#h#t*r--_;*#**trE-EF#r#t^:hH^^+M+MXM:<RMh-h#-ErhM3M+#:3<**-#-r*+*3t*E#E^#*3<^F<r^#+-tFr3o+hhh#<jM3<+r^E+#3*<-:_t*F*_t<E:E-#<#3^Mht^rt^tT+Er7hF_r<<<+M^*3:::<__#r-_-M-N**t_F-E#E+<h<t+rt-^w+#+*:rh-hF<r<tr:*S:M:#:*-M3<-M*-*#tEF+Eth#<*ttth^E+:+<rthhhMht<*M+*Er*:F:r#<_M---#^EFVF+Eh#rh+<3+<t:^t+F+_:<h:h-<<<3rM*tr_r^:t#_-+-**:*FFEEt+33:3<^_<rtE+Mt+8-frW3_Eh#<+MME:#<-*_#_r-+-3^*F#F^E*#<3Fhr^ht-t-+-r_+-w#k+_tM:<1MMEF#_-3_+_**M-!^3F+EhE3#_3^h*3+t#^^MXAMK:V+<r<A<MrhEME8-__F_<-^-E^_FFF#E_E&3-h<3*thtrttrrk^:*h_<MMh-ArFr_:EE*_E_--r-3^E*#F+EMh:<<^+^#<Mt<+Fr*1r>^__h^<_M<r^rE:#_-_r_^3E-)*+t*E_E^E43#<^ME+:tFt^r3m#h<h#h^-tMrrE:-E_:t_:-**F*:t<E#E*#32E3h3+<*ttt^r_<-:E:3<E<F*<_M*^#M#UFM#t*<-^*TFEtU#-#:3h3#^F^*tF+#+3+H:-h:-<<:Mtr+r_Er*:#h-:33*<F*EhE_#M#+3r^:<_th+r:-_rh+hMh--_<FM#M+:<_r_r#:-<3=FMF+FE+*Et3r3^3^<Ettt3+FU::3<:<<<h*rM+rr:E_-_r#Q*M-+*:+#f*^Mp_3_3:^h^EM*t#W#u*h<<F-r<ErMr_r5E_:-_#_+3t*LFMF:+_^-JM3-htt<t^+-+Eg-O3h^*h*t:#M^r<r3_F#r-h*-*-F-t_F-E#E+)t3M^rt*+htt+-+dh^hE<t*+F3_<::rt_F__3<*:*-F<F3#M+t3h3F3_th<ith+:+F:*%^h3*FF_:3r+r*_M:X#3-+*h*3F_E^+*#_3-3<hx^ht:tFr*=t1^z+<<*^FE:x:Mr3_-_r#0*M*:*!FE#h+3#r##33<rt^t_+M+-6*h3_EMM</rrF<:*_h:^-:-<-E^**FF^EhhMhjt_^F^<t^tEr_HFf#h_h5M-*<M+::::_:#r_:-F-^^3EMFtEhh-<rtE^^^_+httrE?^;+hE<rM#*_M^:Fr#Et-h-M-^F<FtFhE+hhhttr^-3Jt#t*rrG-9FhrhtM:-jM_r+:<:3#<-#3_*rFhF+tt#-#r3*h_^*^:t<tEr*+Fl^hh*M*zr^rFFhr3_-#_-:-3*:*-FE+<#-3:3^^<<r^+tr+Ea-kr:R<r<:<3**M+r^E__r_#-_*-t#+*#ME-E##*hr^_tM+htE+<rF2-_r<3MMM^MtF_:+_-_3-:-E*#3pt_EtE:EGxt#+^M^-<+ttW::r4EhF<M-3MMr*rhEr:E_F3<-FF:*-tEE#EEI*&E3Ft:^-ME+#+Er+-:*<r^M<M-r#:E_ME_#3_+*#^EE<F+Er#EJ33#^<^#^^Mt+hdEh#h<_F<-*rr3:M:^:t#_-F-#*#*wEh+<E^#*KTh<^^^+t++rk::_hhh3_#FhFt:#:-E__:_3-:--^**tEr#h+Y3M^M^htMM<+#+*Y3:ED^<F-h<pr-F_:F:#___c*-^<*3FEE+Ehur3:3rM:r<h:+<O_:rh:<<-<<MM-M#FE_M:#_^3<-+Fh^BE<E:E-U*tFh:^F<&+r++dF>3hFht<+FMFp_ur+:EE#_*3_-3F:F*E<+*#:3-h_3-^#^+M-+_>^:3h<<h<#*rr3r3:F:t-<#P-_*:^tF:E^#-hF<_t3^+^*+Mtsr31+hhh3<_M^**r#:MrJ_##E_#-+*Mt<F-E_hMhUt_^F^<t^tEr_dFq#h_haM-*<Mv:hr3EE:#_+-M^<F*F-FFE3h-<rtE^^^_+httrEK^?+hE<rM#*_Mtr::_Et--_C-^*hF<E_+r#^#E3th3t<t#t-+++3!r_<hM<-<#F^EE_Z_M:3---r3VFMF:FHEE3hz33F^+^+t+Mtt+9Mx-__<^<*<#EhEt-r_-:J-#-*^rF-FFErEt3:NK3-tM^:M*+#+^q-h3<*h#MFF#E*_t_h:E-:-<3tFhFMFtE*#+.E#6^F^3t_M3{:rjXth#<F-*rhMt:<F%_<:+_3-r^<*MF-F#5^hE^I^M33t-trM!aM=:4;hEMh-3M+r-rr:+Et:+-M--^_*#FE9-hr^E3^3_th^tME+^++;Ehr<#-_Mrr:M,Ftr+_M_-3_*3*#*^F>z#h*^t^h3Et:t<MtwhpMHth*<+-EM<MFrEE<_#_r-h-:*_FEt*#hEt3<JQ^_^+^#+MtB+*:_5-h#h+FhFt_r:-rN_#_*3r*-*FFrFt#:+u#^^M^MtMM<tM+-+#:E<hh3h+F:E<_*:#:r_+_33**#*^F*E<#F.r##^-3F<3t++h+#%(h3P+<^*+F3_<::rt_F__3<*:*-F<F3#M+t#r3^3e^E<,+Frri<5+h^_3M:M<r_Fr:_:M:I_*3_--*#*+Kh4t+E^^3-^*htMr+-+++3h-__h-<#<+*trM:<EM3F^_3<E:*+Fvt_+3#+3-3r^+<t^++M+-:_I#hE_#FhFt*E_^:-_*#h3rFaFM*3E-Er+53M3:3;^E+hM3++x-}rh+_<-*Mrr-MD:#:*#r---F*r*tE:tN#M###*^M<<<rt++-+rY+:tx+<M<-*_M#rEF#3h3t#EF^*-F*th+r3w3M#3^-^r<m+M+:+pHE<h_3<+M-Mrr+F<E*_r--_z*#**trE-EF#r#t^:hYtMt#t*sM:<:rh+<-<rM+*tM+:M:-#__#-E3#+h+t###-++#E^:<rtMtE+M+:J*:e<:MMM#MoF<r^:<_*-:-<3tF<FMFE+_E^##hr^<^Ftr+::F__<hh:hF<_*<rr:h:+:*:.#--:^<FEEhE#E3Hr3^^:^EtMt*+FMt:rh3hMht-3<^rhr:F^:3-M3<-**-FhtEEh#_E+h<3*^-<9t-XM+::*hFh*-_-*M_r:Ft::-h_M3_*-*_^#.hNt^F#t3M^-t_t+M<r*+#h-__<t<#<Cr_F*:-:t_-_F3E-^F_E-Ft+:#M6B^*^+tFtEr<4:m-h-h3<^-tMFrrF3Ft_F_#-#-aFht<F^E*+-h^<Et-tMM<+h+*=h,M_rhE<KM^*3r+:+:^_+#t*-*rF*t_FF#:+^#3^M<<t:t-+<+3hM:th*<_M#<^*=:hrO3h3tFF33*3*#F-FH+t#h^h3t^*t+MEt6/Fv3h__3h^MhM:Fr:_:F:##3F^3F*^trE*#M#^#03^^<tMr-:r<hSMP*h<<+-EM-r^r^:^E3:^-h-:^r*FFEEt#-#r#^3_tM^S+r::_<<*h#hr<+<3**r#r^:*_<-F3r*-*+*3E-+_E-###+ht^Mt<r+:3<<h:nt<F<_*<r:r-:<:3-M#t-3*^**t_F-E#E+st^r^M^:t*:M:I<_hFh<<^<E*_rFr#:_:K--3<-E*hF<tE#ME3#F#^3tt<<Z+F+_CE:*ht<-<MM#M*M{Ftr+_M_-^Ft_E3F+F*#MEm%33+^h^3t_+^r*W:h#h#<#-E<#M+rME<_F_r_-^^tEE}EMF3#-#rps^M^:^2tEJhr3yMh+hh-rM-MFrM:*_r:--:^-trEEF^F_#hEtPE3^3+^Etr+#r_+3h:h*<<-*rh*3rE:-_:#r-^-E*t^3FtF#E*E0Qt#+^M^-rF:_h3.+?*<MhO-3M+rhr3:__^#*-#*M-jF#tEF#E+#Mh<3-^_rMr1h_RF.<h^hE-_MFM#r_rZ_-#<_I*h-3^E*#F+EMf<3*3-3F^3r-:rhE%^._<hht-EM^M+rE:r_##__t-:*_^tE-F.E^#h3<^_<rt^tE+tr3h<h#h-<+<3MrF<rM:-:#3^^EFIFM*3E-Er+43M3:3U^E+hM3+Fn+y+h+_th+MMM-F_:^:*:#^h^tErF-*WE#E*5r3-3F^r^t+:Mf+-hMU:_*<#<^M-r3:*r#_F3#^*FtFh*EE:E<+t3h3M3t^*t+MEt{5FR3h__3M:-AMtr#:FE*-h_t*<3GF<*+F3Ero<#M3-3#M^rEKQSM+3h-hr_&MMM:M rE_hE3_+---r*+^t*+EME-o_##3EM-rrJE+^+_hh)t_E<^<+MErr:#E__r-:_(3t-+FMF-+_#3###^34M#r*Ut9h+Eh:h<_tMhMMMtr*:+EE_<_F-E^<F#FrEhE:#_3Eh*th^t+<MB2_z+9#<Mh0<**_M-r#r+3h3tFr*--UF#F*+r#-#F3r3tt:<,t^AMgMhM_<hM<-<#*E:hr3r+3:^<F**#*rF+F3+*###^3*^<tFMrt#Y-+F:3h+<h<#Myr3M+:^#+33F<*:-tFFF_+<#:#-3<33tM<ttr+^+ 8E:.<F-rM<M+r^F3_:_<-_3r*_*M*wF*+_E-###+MhMt+#+-M++th:_rhv<F*<MFr<rt_F__--*M-(*Ft_F3E#Rr3<3F33t-rF:_hh!:dF_*<-<tM-MFFEr&__-M3<-E*hFrE:Eh+t3-3r^*<_^^t#rrCE7F_<rM-_-*r_r:Ft-+EF3+^3E+^EFtFFE3#_73^M^h^^t-+:+rG:h-h*h3-MMh*trh:E_#_<# Eh3^Fht*Ft#r#^3<3+^#^.+hr<+^C>-M-eM#<+MMF<r::-:#_t-D-x^h*tt3E+###_hr3E^DtFtFr_aEf*h:<h-*rhMtM^Fk:#:w-_*M-?^3F+F#Ehh-<rt+<<t<tht^+_:r4-<-<r<tr:*,r_:+_<_33<-M*-*#tEE3E+#hh<+Mh+tMME+tCFhMh_<M<*MFF^EE--:F:t_**:3,*^EMEM#M{<#M3-3#<E^+t7jrS^XEhMh3MFM_rEE##*-t-h_E*:*<^tEhEMEt#*3+hE^^t:t<+^r3+^hhh:-r<FM*E:#<-*_#_r-+-3^*F#F^E*#<3Fhr^<tM^tM3t^2h6:_r<E<F<#MtEF#_-3_+_**M-i^3F+EhE3#_3^h*30^-t*MxlFu<j+hM<rM**_r+r3:2Et-r-^-FFh*tF_+rE:#F#^<+M3.<+:ttjFR__<<:<-M<M3:MFt:#-h-h*h31*hF:FF+*#+#E#^MMMPp_+F+<B^9E__<F<#M_M/:-E<:F-:_-3E*^*+FFEt#EE^3#<^ME+?+Mt3d-Vr:G<M<:<)ME:hF3:<_#_t-*3tF-t<FkE^##6E^M3ntrM<+r+h+t&__rh:<F<^F+E3_F_:E^_**M^<FhF*EhEM#_Kt^MthtFttM(+#+!h_<Mh -3M!rhr*Er:#_F3<-,*-F<EMk-hr3+3M3-^r<}+<++D^X_et_:<M-jr*r+:F:E#<-#*M**FhF_E-t3q<3E3h33<E^#t++Mr#QE<h_5<_M:M+F*r+_r:^#k-_*:^tF:#hEMd_3-3_<r<_t:)h+M:_h-h__#FhFt_Frt:M_--_-+3<^**#E-+_#t###f^_<*t-tt+-+F:E2^<_M-<t*:rMFc_*_+-F-E^<F:F-E-E3#^Tt3F^r<3<t+F+#i#!p<h-<<^M**-E^#E---M3<*h**FhFM+rEE#R3^h3^+t+t^++rth-hr<*-_<Fr:*^r3_M#<-:--*<*3EMttE*#_3##^hsth^;:h:tMhct<<_uMhMt*tM+:M:-#_-+--*F^tF#E^+3#t3h3M<r.:Mh+:r3>.h#<:<*M:MEr#E+#3*3_#-_3-*rt<F*#h#r#thr^htMM<tM+-+#:Mh<<F-*<tM^r-Fv_*_*-:-E*t^3F<Eh+E#h3F^MM:r<K*+#+rn+p3_*<#<^M*r<:FEr_-_+_3*-^_*-F#F++t#M3<<+M3.<+:ttWFY__<<:<-M<M3:MFt:3_^_*3_--*#*+tt#r#M#:3*MMMBD_+F+<P^2E__<F<#M_M,:-E<:E_h-<3EFM*3FFF^Et3<PD^F^_tEM*+t(-SMh#h*hz-t<+rMr-#F3_*3-+-*FM*It3E+#h#33_^^<*t:+#+#x#:EN#h+<M*<rFrrr-#^3E*c*M-3F-Frtm#M#:#83Eth<3tM+++h:rh-hF<MM*rrM-::#-3r*E-^-_Fh*ttEE^E+#E3r^#<_^3+:+*G<:*<h_3<EM-r:Fr:^:E_t#3-t-#*** ttF+#M#-<FM_+3t+t*BM+d:3h+<h<3M_r^F*:#_M:J-#3E-#*+FM+<E-#_<M<j+_tFt<+^+E:_hFh#<_<Yr-F<rQ_h:3#E_#-+*Mt<E*E-EF#3<-Mr+Et^t_Nh+t:Eh^h+<EMrr#F_rt::__#t*--o*^FhE<#_dr3^3E^t<3+<+#+-C+(3hr-<<MM-M#E^#E-G-M_3*-*r^2EME:Ez#E^hh3^Ft+t+++rt++hMh--_M^M*M##h#t*r--_v*#**trE-EF#r#t^:h?^-+Mt:r*k#V^h-<3M*<#rFE##*-t-h_E*:*<^tEhEMEt#*3+hE3{tFt3+_r3h::yht<#MF**:hrt_<E/-<_+-3*rt<FME-E#h^<Eh_+FtM+rMErDhMh#h*MM*<MMr-r#EE:+_t#+t:+<^t3hE##3&<h*^#tM^R+#rE+#g+hM-<<-M_*-E^#EE_*F-M*r3^^2#3E+E*3M#Dh3^+tht3+_O^:*h#<MheM#-tFrrO_M:3---r3;FMF:FTEE3hN33+^-^rt+MtMpu#hMw}<#-E<#M+rME<:-__#-^^tE^_#FEM#r+^Wwt3^+^*+Mt9r3l+hhh3<_M^**r#:MrC_#Et3r-lFM*3E-Er+>3M3:30^E+hM3++1-drh+_t_eM#rMM;:#EE:#_+-M^<*-F_t-;^hE^-^Mh#^_+hM9++A_y+hh<r-3rhr+:-:3Et_F_t*rFh*ttEEtE+#_h<3F^-<Qtt+:+whh-:*<M^MhM:r<Ft:7_^-#-r-3^MFhtt#_#^3-3*hRtF+h+_++qrh::E_;M*<+MEF*rF:^_h#F-**+^tFrEME^W_#^^<3#<ttr+Mr3!Mh+hh-rM:MrF<Fr:<_h#E-h*^-+t<EME<+-h^<E+:^E^++Mo<5#rt_rh-MM*<rEr-r3_<#r-M-E*M*:t_FF#<3M#Ehh3+<3+r+#N:V_:t<h<MMMM*rFFE:::a#*#E*:*-F-F3E^+t#F3rhMMFr_)M++rt!^hrh^h+-yM_r3:FE*_#-#-F*#^EEMFl#r=<#:^hhF^*t+Mt!hKM?th*<+-EMrr<:-rFE3_^_3^^tE#:t*E*E-#M#3hE3^t^tE+r>#:_83<:<*M<**MFr^:hEv-<-:--^*#Ft:EF+}3r3+^F^3tFtt++_M_WM^h+<r<tr#F_:M_F_F-F3*-F*^FhtkE:#_3E^M3X^Ft<+++3RL-h-trrM-<yr#r*Er_-_F-r-tF:^nEME#E*3Mh<3M^-^#MEt++t_#-*MtMh<Er:r<Ft_h_M_t-**+^EF*EFErj<#M3-3#<Etft++hfr_+-3r<M:<trFr_E<_:_--<-3FM^tF_F^Et7_3+3*^:^FtE+tr3h:h<<_-rMErMM+:-:r:3#E_#-+*M+:8<3*###r3+33<*t#t^+*D<hF_r<hM-M-r-F_r-:#:+#t*:-B*M+FR_33#+#*^M3S<3t++h+3d_h^_*h+M#<^*2:M:::+-r-S-MFh+M+W3_#F#<3^3E<_tFt#+_+yh-_<h*MhMrMtFr:^E*__-M*h3GFFF_EE+*#E#-3r33<E^#t++M_:-<M*<#<rM+M3F*:#:^_*-<*F^rF-F+F3#-w_#-3#3+<ttM+<:+_3M<<:htMFM_F<:::-_<_3*M3t*3F^F*+_E-###+httrtMt:+*_M_UM_<F<<M^MEF_:F:#___ *-^<*EFhE<+E3M#33F3^^t+<MX7Fd_hE_*<tM-MMr#r*r7Et:+-M--tF+_#3E+E*3M#ch3^+tht3+_U^:*h:<#<#M#*EM#r+:M#<-F-r--t^+E#2#ME33-3rhStMt:tL+Ehh:3hM<+<h*rr-rF:M_*-r_-*:t-+r#EE^E_3h#thE^^^+tE+rS#:_X3<:<*M<**:hF3:E_--:3r*^*EFtt3EtE##*#Bht3+tMt-:F__<3h+h*MM<f*3r+:h:3__-^3**#FM*GE#+EE##+3M<<^-t_:M:)<_hFh<<^<E*_rFr#:_:a--3<-WFh*3tEF#E+#Mh<^*^-^Ft3:-_r<Eh^h_Mh<t*Er^r+:E_r-#3_-t*:F_tt#-E4#^3h^<t_Mr+^+EOt:3<<<#<-M+M3rrE<:M_-_#^^tEEZEMF3#-#r6K^M^:^9tEfhr3{Fh+h+<+-t<+rMr-E__^_*_#thtt#rE-FW###*hr^-^Ftrtt}:rn.-<Mh:-*M#M^r-:3_*:#-F^#t*EtEhFE#:#<Xt^h^M^tt*++rE+%hFh3<_-3r:*8rt:#_F#**h-tF<^yE<F+E3#rh<3M^-^#r^:Eh-hM:#hEMh-TM3r:Ft:::t_E*:*<FMF+F3E:(<#*3-h6^tt:t*8M_:-<<^<h<:*rrMrE:M::#__3*<*+^tF_F^Ey3h#^hEtM^{+rr<+F?-:5<_<:-t:+F<Fr_<_h#EF#3:t#+*3#+_#E#:3*^<<*t+t^+FnMhh57<hMMMrM**+r^EE:^-_*--t^3#^tFE^Nr#E3}^F^tt#+-+30^:thF<3*+F3:-r#r+Et_h-M--*EF3F3t^EEx*3#^-^<<!t_+39:X:_<<_<rMhM^Fr:^:E:F#3---3F<F+F3+*###-#^MMMKK#Mt+t+^%Fh<_}<MrMM9rE_hE3_<-#-t**^t*+EME-,_3*3#3^<t0+M#++:_hE<:<+M<M+rr::#F3_FM-:-E*rEht3EF#+#+3+ht3+tMt-r_+#y3h{<F<_<+M*:::<__3-^rFE*^*_EhFt+E#^#+3E^rt#M_+FHh+thF_*hF<^Mh*Kr::r3h3tFr*--CF#F*+r#-#F3r3tt:<(tt+++E:*/Fh^<h-Kr_r:r-:E3:^<F**#*rF+F3+*###^3*^<tFMrt3+MPr:3<:ht<#<+M%:rE<_#_*-33E*NFFF:E^EE#<?l3h^:^Fr#:*hthhjE<:<<-trhrMrt:*_+#E--*^*^F^t3F^#h#:hr^#^_^Fr+:3<<h:9t<F<_*<r:r-:<:3-M#t-:Fh*Mt_EFE##:3E^_3Ft-rF:_h3N+G*<MhG-3M+rhr3:__^#*_t*-*EFrtE#M+t#33F^-<_t+t3+Urt2U0^hE<<-QMhr:rF##3**:*h3F*rF+ttE^#r#^#+^<<Et++^Y:HE:3h-h3M<M+M3F*:3:^_r#%--*:^tF3EMEt#+<M<0t#^+tMtir3Yth#<F<<<E*hM+F3_r_#-:-_3tF-F+ErE^#<3Mz*htt_^^t*r_+-L#V+_-<_M^*3r<:h:##r_#-8-F^3F<Eh+E#h3^#+<<tMt<M7r<0hh^ +-<MMM<*-E^#E*:_E_+*MF<F#^t+rE-3Mh<^E^-^3+<rreMQEhMh:-_<Fr<:MrEEh:+#3*r*#F:F_tt#h#M3M3*^F<Et:tZr*rEh:h-<-<3M^*trF:rEM3F^_FM*+^tF^ErE^E+il3_^3tFM*+#y#sFh#_EMM<urrF<r:_hEF_*-+3tFhFMFtE*#+JE3r^<t-^FM3+^+3_^-Er^<EMt*3r^:EEE:#_+-M^<F#FME:+E#-3Fh*^E^^^+M0<hr^hh_*<3M-rhrr:h:__-3#^*E**-F<tMF)+t#r3^3n^E<Rt^++rt++hMh-_+<tr:FrrE:F_M#3*r*rFhF_EE+*Et#^h_3^t:t+:h:t<rh-&y<#<**rr-rF:r:t-:#k*M*#**EM+<EM#-##hE3+^tr#:*hthhLE<:<<-trhrMrt:*_+#E-**F*rt<FME-E#>E3W3+^htrr+:3<<h:et<F<_*<r:r-:<:3-M#t-_-^*tt_E+E*#:#F3E^t<3+:+<W_:rhE<Mh+M-MrM3FEr#:+_M^:t<E*F#FrE+E38*3#3^^*t<+Frr,hh-h-<--_<-M#M+Ft_::}_M^Ft_E3F+F*#ME/H33+^h^3t_+^r*++h#6^_iMMM:M+:r:o:M-h^M^2E_FFF<E^EEA_3F3#^_^w+-r<+*hhhrht-rM^**r_:M_hEj-F-_*E^*FEF-ErE39E##3+^Mr::<h*J#yrh+h3-*M#M^r*:<_F#r---+-3F-t_F-E#E+.t3M^<M+r3h<f:+thFh_-<M:M-r<r3_MEt_3-^-*^_*-F#F++t3r3M3:^*rMr?h_aFS<h^hE-_MFM#r_rl_-#<_E-h*<^EEMF3EFE^#t^<h}tFt_+Er*Hth-hM<#<*<.*tM+:M:-3F^_F3*+**EMFL+3#+3h33^_t^M*+:C#S#h#_Eh#<+MMF<:F:r:-3^^EFuFM*3E-Er+d3M3:3w^E+hM3+My+Jh_r<-<FMMr*:rr-_:3-^rFE*^*_EhFt+E#^#+3E^rt#M_t3&:U*h<_*Mh-3MEr-::Er_^_E-t33*t*#F*F4+tE+3M3-MFr_M<h:++T?:__3<+M-Mrr+Ftr+_M_-3_-#*E^#zhJt+E^^3-^*htMr+-+++3h-__h-<#<+*trM:<EM3F^_3<E:*+F7tF+3^*3#3r^+^3M*+#+^9*h<<F-rM-M+M3:-FEE;_3-+-*FM*Pt3E+#h#33_^^<*t#+MtdX#:E:3<-<+<3r-F_r-:#:+#t-M*<^M+Fq_+<^:#+3ahF<3o*+#+r +d3_*<#<^M*r<:FEr_-_+_3*-3E^kF3E+E*3M#wh3^+tht3+_9^:*h#<MhTM#*E*3:-:+:3--3_--*#*+ttEM#<iM<FM_+Mt+M-+<i^:3h#<<<#<^MdF*:^_#-M-*3E*:*EF,E^EEl_3E3#^<<tt:+Mr3=Ehhh3<^FhFt:Fr^:h:t#E-3*FF-*vF*t+E^1E^<^FtMtrM3}:)^h<h#hTMh-_*3:rr#:_#r_:-F-^^:FrE#+EEI#+3F<<^Fttt-rE+mK+_*h+M#<^*O:hrAEtEe_t-^^_*^EFF#+t#+#thMMFr_hh+_+#.+ht<-_E-eMMr+Ft___M_*-t3k*+F_F+EhI<#:3t^+^_<^t#r*jdh-<h<<-EM^M+r+:r_:#_-h-3^r^_EhEM#M#*3FhE^:^f<+::_<h+h#_E<F<oMFM#F3:<_*-:3r*-F-F:E-+_#+#33mht^ht^M:+rx#:Eh^h+<EMrr#F_rQ:t-M_:3**F**+Fu_^h0r3r3M3+^*M_tF)F1_Ts<--<<*rhrrrtEr::_F_^33*tFhFM+r^:dh3:h3^/t#+:+*e:%Eh#-+*3:FM#M8rE_-#<_+*:*:F:trF:EFE^X33h^<t_t+t3+:+th#h*<3*^FE:A:Mr3_-_r#8*M*:*5FE#h+3#+3-3r^+<t^++M+-:_A#hE*-Fr:Er^r__h:t#E-^-+*EFrE#+_#r3:#%ht3+tMt-r_e3Z#B^hD*#F*:t:hrE_:_<#t*h*M*tF*E++E#<#F3E<<t#tr+h+:g_hE_*Mh<tr<*w:_:+:#-M_f-*^_*-F#F+hhhttr^-3 t#t*rr/-.FhrhtM:-{M^:M:M_M#<_M---#^EEhF3F+h:<<t*^#^rt+t3r*)#0^h*<<MF*rM#:-rFE3_+-h-#*CF3*+E^!+h3t<^:3ttFt_r<Y:.-h<h3MM-tMrr^r%:EE}-F3r*<*+F^t3#:#<3_hr^_^M^0t*r_+-R#4+*h*t:rr-M7:#:*#r---F*r*tE:tk#M###*^M<<^Mt-t#rE++Xt-#**rtrhME:::<Et-h-M-t**F+tEE*#F#rh<3M^-^#ME+U++shhr-+*3:<r:Mt:F:_#<-:--*<*3EMttE_E^#th_^+^*t:tF+E/t:3<:<<M_*rrE:Mr+_-_r_33E-#*+FMm:h<^*3#3r^+^3M*+#+^L*h<<F-rMhr-r-:-E_:-_#_+3tF:*nFMiFh_^33+3*tM^GM3++Th53h_<^-*<+r#M^FV_M_:_+*r*J*MEh?M}/^_3F3<^^^EM_+F+#O_2G<--<<*rhrrrtEr_^#*-_*MFh^xEFE_#Ev*3E3-^r^3MEt#++;M-:*<r*M#Mrr+r3E*_#_^-**<FFtrE-E+E33-h_3-^#^+Mt+Mw<_+-3r<M:<trFr_E<_:_--<-3FM^tF3E^E*6_#-3#3+<t+r+M+:g*-M-ir_MFM<r^rEE__F_#-_-CF-t<FEEh#<gE^M33^F^^tte<rAhFh_<E-*Mtr-rM:#:*:d#t_+*M*-+F8_33#+#*^M3K<3t++h+3R_h^_*<:M#M#r#FEr#:+_M3<*F*r*-+^.E3N3M#3^-^r<%+M+:+WIE<h_3<MM+MhFr:-:F_M-**r--F:+-kr3E#^#_^h3t<Et^t++EUrh#__h3M:M*r<F*_hE3_E--*:^rF^FEEt+3#t##3*3Z<t^++M+-_F-_MM<+--M_r^F3:*_h#E-h-E*_EhFtE+###*3hht^rtMM3+EohYrh+*h*trFM^rhFS:+___+-h^<**FtE#+E#<#F33^^^FM_+++35}:th:<M-3r<rhFE-#EtEe-t-^^_#-th{-hrt-h<^_^htrttrr5#mFh:h+<^<3M^r+rm:rE#_F3_-FF<EMFE+*^Fv:3FhX^_t3+:+E(-hMh*<F-EM:r*E##*-M_-_#3E-^*+FME_#*#*CF3_<rt-+Mttr3z<h*<h<h-tr<Mkr^:FEO-F-_-:^*FMF*Et###*hr^-^M^Fr+:3<-:EhEhF<:<t*3M+:+:3__-^3*-tF-FEEr+EE##+3M<<trt-tFrE<#:-h#-<M_rhr#rt:#:p-h^:t<E+FhF_F/#^q*3:^#^#t#MEt#++4M_<h-<*M3r:r<r#:r-h_t*<tMt,#_EFE<#^#Eh_^F^#t_te.-:<h:h^hEM:*rM:rFr^E3_h_w^^tEEqEMF3#-#r&9^M^:^1tE7hr3REh#h_-r<:MFM^F3_<_h_M-_thtt#rE-Fz###*hr^-^Ftrtt(:rZV*G+hc-*rhMEr-r#:3_p#t*-*rF*t_E3#:#h3F3_3t<3^^+h+:_--rME<^<_rhMtFE:^:+_E-r*#^_FMEFEF#Ff*#F3^^h<P+-+<+:_#-*MtMh<Er:r<Ft_h_M_t-**+^EFhE^F+x<3:3-^ht_+<t:8M_:-<M*<#<rM+M3F*:#:^_*-<*F^r*EEME_Ep=_3+hE^*t:+Mr<Z#=*h3_E<3<FM_MtF3r^_h_:^-trEhF^t:FH##oE3F3v^F^#ttr_O#hF<h<_-*MMM*rt:#:*#r-*-F-{^3FMEh+E#*#+3E^#M+r3f-+#++v3_*<EM-r:Mtr_F^:##*-x*-FhF<tE#M###D3F3t^+<rMEk<+Fsr_<hM<-<#*Mr<:FE*:t_^--3C*-F3F:+*Et#^h_3^tF^#Mt+++t:3:th^MF<#*tr+rtEM3F^_Eh*_*#F+Et#-+E}N3M^+<t+_+M+*dt:?h+<_<+MhF<r::t_+__#^-#^*F2E-#h#<sE3^3+^+tr+:r_,h23_r__MhMMrMr*:FEE_:_/#+t:+<E+E#+E#F#w3F3#<3t<+* ::rh-<-<:M-*_r+r3:XEt_h-^3:*rF#tEE^E+#E3r^#<_^(ttfM+::*hFh**FF__Fr_:EE*_F-_3_--*#*+tt#-E+3hh_^Mt:Mr+_+F+#:3M^_F<^*rr*:M:^:{_^-<*Mt-+r3rEMEt++#3hE3jtFt3+_r3BFh#_Eh#<+MM*#rE_hE>__-:-+^*FXFjE^#<3_hr3E^FM<tFphk#_^-EMTMM<3r-rrFJ_M_:_X-EFh^3F+E-Er#+Wt#+^M^-M_t#+E_--rME<^<_rhMtFE:^:+_E-r*#^_FrE:Fy+tE+3M3-<_t3t#t^+e_#-*MtMh<Er:r<Ft_h_M_t-**+^EF<FFEE,<3#3r^h^:t_+Er*hhRt<<_4M_M+M#:MrW:*#__--#-++h+t3r#-Ef3#3*<rt-tF+r+th::Sh^MMMMrMF<rM:-:##E*h-3-++:d<3*###r3+33<*t#t^+*I<hF_rh#M-<F*3r+:h:#_p-3_+*^t++33<#:Et3F3_<<t:t-+<+3hM:thr<^<LME*5:FEr_<_+-^33F:F<E_+r#_#M#}3*<_^-t#t+_h_tMr<-h>M#M*Fr:-:F_r_t*:3SFMF#F*#M4<#M3-3#<E^+tt:#_*<t<hhEM:M<*t:h:M:t_*-+3E**FFFr+<EM#-##hE^W^+th+r:+_3M<<:htMFM_F<:::-_<_3*M3t*_*^Ft+_#+#*3:3F^EttM3p:A<h__r<EMM<+r-rrr3EE:#_+-Mt:+<#*E#Er#+#3h*^#^^t*+<ZF:rhh<-<-M-*_M-r#r+Et-:_K-MtF+_#3E+E*3M#xh3^+tht3+_q^:*J+<#h^-XrMr:r+_r_O_M*htMt4#_EFE<#^#Eh_^F^#t_tRG-:<k*<h<r<t*rr^F*:__M-h#X*F*_FEt*EEE-#r#3hE3#^+tM::_<rtMhh#<3-<**r#:Mr6_##E_#-+*Mt<F-E_+-h^<Eh_+FtM+rMErPhMh#h*MM*<MMr-r#EE:+_t#+t:+<^t3hE##3e:h*+rt-^?+#+*:rh-hF<r<tr:*6:M:#:*-M#_33**F#FrE+E3a*3#3^^*t<+Frr8-Y+v3<--_-*rMr#r*_M#<_M---#^E*+Ftt+h:<<yt+h^#t3M:r*<rh- x<#<**rr-rF:r:t-:#2*M*#**EMt_+3#*3#3r^+^3M*+#+^y*h<<F-rM-M+M3:-E_E*-M-#-*FMt<FME-E#)E#+3th+r::<!+a#:MPt<F-*M-Mtr-rF:3#r-F*-*+Frt_EhE_#33F3_<<t_t-ttrEoh2+_*<_<^M*rFE^#E-:_F_^-E^_F*E:#ME3#rx#3F<_tt+:+++1:*<h<F<tM-M3r^F<E*_N_--<3L*hF:FF+hEN3-h_33^#t:Mt+:&E(M__h3<#*rM#:-rFE3_^_33E33*EFF+<EF3:#-hE^#^E<+::_<<^h<h-<#MErM*_F3r+_##E*<-+*rFEt3E##<###^ht^htE+#+<rFd-_r<3MMM^MtF_:F:#_#_{*h^<*^F*tl+<#^#+3+^rt:M_+h+3r#-h-tM#M-*_r:r3:::-#*_t*rFh^uEM#M#h3Mh<^#^*t3MEt^AF:hkU<--_MFM#r_rY_-#<_3-E*+*htrE:Erh:<<t^hT^C^+t#+r:<q:<:<<<3rM*trr:^:L_E#A-h*:*Ft*EEE^E+aX+hh^thM*+3j-hhhr<h<_M-F#E*-::-:3__*M3t*#EhEh#h+Y#h3:3F<*^^ttK<0#7*hhhEM-Mrr*EF#_-3_+_**M-m^3F+EhE3#_3^h*^#tM^/+#rE+#V+hM-<<-M_EMEZ-__F_<-^-E^_FFF#E_E}3-h<3nth^3MEt#++oM_<<*<-<FM3E-#r-E_^__*h-t^EF^F+EE#r3#h_3t^:t_Mts-+4!^hh<<M_*rr^rE:tE3-<-#--*+*3Fr+<EM#-##<^ME+L+Mt30-pr:T<M<:<NME:hF3:F_+_+-+3t-+FMF-+_#^#*##MhMtLr+-tw #f*_r<-<FMrMt::F8:--M_:3**#*^F-E3#*E#3F<#M*+t+htEY:D<:t<h<M<tM*r+FErz_F_3-_33F:^6FtE##Fi*^h3tt<<;+<t++3Ur_<hM<-<#F^EE_A_M:3---r3DFMF:FVEE3hl33+^-^rt+Mtt+;MN-__h#<EF-Er_E:^:_-h_t3E*^*+FEEr##V_3r^:3v<t^++M+-:_h3h#h^<RF#E*_t_h:E-:-<3tFhFMFtE*#+eE3<3F^EM<+#+rOhj:h_<E-*rhMt:<Fk___+_#*M-4**t_F-E#E+<h<t+rt-^u+#+*:rh-hF<r<tr:*Qr^_M_M-M3<-M*-*#tE#hE3E+<:M<+*t#tr+++3:*h#h^<*M<rFFrr#_-:F#3-+*h*#FZE3F+#^h+<3+<t:^t+F+_:<h:h-<<<3rM*trr:^:w_E#q*F^rF<F+E^+33:3<^_<rt_tMts+*:_u-h#h+FhFt_r:-rP_#_*3r*-*FFrFt#:+q3M3#3*tMM<tM+-+#:Eq+ht*#F*:t:hrE_:_<#t*h*M*tF*E++E#*3F3r<<^Mt-t#rEUg=+hh<r*+F3_<::rt_F__3<*:*-F<F3#M+t#_#^3t<_t+t*+:+FPEht_3M:M<r_Fr:E_M:+---r-3^E*#F+EMh:<<t*^#^rt+t3r*?#W^h*<<MF*rrh:-:-_-#__--#-+^tE:FSEMhF<_t3^+^*+MtRr3{+hhh3<_M^**M+:#r^E=-M-:-+FrFIFM#hhMhAt_^F^<t^tEr_fFI#h_hJM-*<M*:h:r:t#r-^3**_FMEhto#F#_3Eh*^E^-trt3rE+#T+hM*:F<r+r#FM:<_F#*-r-^^_*^F_E<#^#E3#^-^r^^MEt6++:*h_h^hjM#F^EE_::F:^#3-#*<*#*^ttEr#E3-h_3t^:t*+F+::<h#h*<3-EMhM+F*:t:^#_F-3E33FEFF+<^M+^<M<nKM<t+<t^+Z4E:5<-<:MhM#rFr*:F_#_3_d3-*:t<F:Et#+#_hr+:<ht:M3+<u*hhh_<M<+Mrr:F_:h_r3-^r*+*M*-t_FFE#E+3<^r^r<:t<MD>M6+HE_*htMrM^M^FE:t:3_F-:33F:F<Fh+rE+#r3E^-^r<s+Mt++:_#-*rM-_M_M:rhrEE*:#-#-**<FFtrFE#M#_#8h_3-^#^+Mt+UKMX:__r--MM-*t:<:^_-_E---3*^+h+t3#E^#<#3^F<rth+-+-S-:_=-h#h+-tMMrr:*_h:t_-_e*^*EFt++H3^<3:#t^F^_M<+:+-0<T3<M_tMhMFM_:hF5:h_:_F3*-^*3+Fa_33#+#*^M3z<3t++h+3Y_h^_*<_M-M<*Trh:::F#*-t-^-+F<+^wE3w3M#3^-^r<U+M+:+}/E<h_3<r<#M3Fr:^:__M_--**3^EEMF9#rg<3*^h3^t:t<tEr*+FZ^hh*M*I:_rFr<:^:E#_-F-#*_*%E-+<E+3:3:^:<r^:tFt^r3hMlthh*-Fr:Er^r__h:t#E-^-+*EFrE#+_E^3F##htthtMt^%<ptLhh+*h*t:rr-M!:#:*#r---F*r*tE:tVE_#+3<33<<t#M_+rvhg+:t<-<rM**_r*r::<:E#*_F-^*h+M+O#^#Fnh#3^-<_t:t3+:+-wE_<<-M:M^r<Frr+:r_E---r3ZFrF:F3+*E+#^h_^r^#t_+-:#_*<Mh-h#<**rr_:M_h:E_<#F--^rF3EME^Et&_3+^-^3t:tE+#M>:_hth:hd-t<+rMr-F+:t-:3r-E*FFMt3EM#*#hhr3E^FM<tFs:+-:Eh#hE-*-EMF::r-EE_#_E#+t:+<#^E<E-##3E^Mh_<3^++#rEh<m+hr<E-3M#r<r#r^Et_h-E*#*<^FF-+r#33M3^3t<_tFt#+#+khh_<h^<*->*<r^r+:+_r-:3_*h*3^#Uhat3#3-h_^:^3t:t-r*+thr<h_SMMrMrh:ME<_#_*-33E-^FFthFI#-%_3F3#^_^4+-r<+3TEh+hh-rM:MrE:#<*:_<-_3r*:F<t<FME-E#cE^M3#^^M<t+ehr?h<h:h--*:F*:rFFi_r_+-F-3*F*tF+%M%5^=#+3Eh#^*M_t3v:5*h<_*<:M-*_M-r#r+E-__-^33*<FhF#+r#3#33F3tt<<{t_+:rt4:h^<-*FF_:3r+r*_M:i#3-+*h*3F_E^+*##3M#B^#<E^#t++M:<D-h_*M*5:_rFr<:^:E#_-F-#*_*%E-+<E63h#3hE3#^+tMr<s*m-dFh3*-Fr:Er^r__h:t#E-^-+*EFrE#+_Et#:3_htt-^Kt^+hP<h__r<^<EMt*3:<:#:-_+_3-r^<*MF-F#T^hE^S^M33t-trM1NM0:WLhEMh-3MFr+r+:+Et:+-M--^_F^F*F#hhhttr^-3kt#t*rrn-IFhrhtM:-gM-:Mr:E*_#_^--*3F**#EFs#h*^t^h3Et:t<MtphTMsth*<+-E<JrFr3:_E3-:#s-t*#FFt*#hEt3<H>^<3+^3trr<+MY-k#-^*ErnrMM3:-:rEc-M-:-5*EEht3E+#-#r3+ht3+tMt-r_+#eE--*rrEM^M_:hrtEE_^_+-E*rF#t_Er#:E(jt#+^M^-M_+3+#+^(W-#**rtrhME:::<Et-h-M-t**F+tEE<EF#Eh<^#^rtht:+_WE:*<hhtM<-Kr_r+r#_M:y_*3_--*#*+!hKt^r3-#g^#^*Mr+-+FIr!t<:_2<^rMrM:ME<:M_-_#3EFh*3*+4:h<^*3#3r^+^3M*+#+^v*h<<F-r<#r-MFF3:+_h_#-&*3-+F^++?3^<3:#t^F^_M<+:+-T<Y3<M_t<rM^M}rEFv_F#r-<-+*^^3E:E<#_nr3_3M3O^*M_t-+#++-h-t_Er^M-r**tEr_-_+_3*-^_*-F#F++t#M3<hMMFr_M<h:++WQ:__3<+M-Mrr+Ftr+_M_-3_-#*E^#0h!t+E^^3-^*<hMrc6fM+3h-hr_6MMM:MjrE_hE3_+---r*+^<t*Er#-E.3#3*<rt-tF+r+th::K<M<#<*rMF<Fr:+_-_r-+3t-+FMF-+_E##Ew#MhMt<Ey^+-X*:h_rM!MM<3r-rrF._M_:_>-EFh^3F+E-Er#+9<h*^rt-^I+#+*:rh-hF<r<tr:*H:M:#:*-M3<3r*+F-FrE++tE+3M3-<_^#tEM#_h_t<#<-_+<Er:Fr:M:E_M_:-*3iF:EME#E!%<#^3<^*t:t<Mtg<PMYE__h^<#*rr<rF:r_:3F^_Fh*:*FF_+<#r3h3+3*3A<-t:r<WEhhh#h3-rM^r:rE:M:*_FEt3r*3*M*tt3F^#h#:{^33tMM<t*+-)h:Ehh<_h+*<M*r-Fe:--M_:3**F**t_t*E_#:Bt3:th^MM_+-+_r#-h-trF<tMMr-:_:+E<#*_#*-^_FtF#Fm#_C*3-3t^-^FMEt^x_h-0t_:<M-Wr*r+:F:E#<-:--*-*3F^ttEF#r?3Nt^F^#t#tXjh:<i^h*_-*^FE:-:ME<_h_*-h-M^r*EFlE^+3#+3+3^^+<t+-+r/*:_mF<:_^<3rMF<:::-_<_3*M3t**F_E#F^+}3h#pMhMt9FM3+3+# -IP_t<hrhMtr*:+EE:N-F-3*_^3*^EhE:)r3_3F3#<3?^MF+^:rh*<M<^<aM^r<:M#-3rFh-M-**<F+tEE-#^#^3^h33^tht:rr+FSEht<-<r<^M_:MrG_r3:^<F**#*rF+F3+*###^3*^<tFMr+-+++3h-__h-<#<+*trM:<#+33F<*:-tFFF_+<#:#-3<33tM<tt3+^+*:_Z-h#h+-trrrMr::*3M3oF_*F*<F^FE+_#F##3_3=t-M<tE+hc<:E<Mh3<F<^Mt:<F/_F__-E3**tF-FME#E*Ewct#+^M^-rF:_h3N+/*<MhZ-3M+rhr3:__^#*-:*#*#F#tEF#E+#Mh<^F^r^-r^:EhQhMd3<-<r-?rMr:rR:E-h#3-M*+*htrE-EF#M3*^r3-t:r-:rhEq^a_<hht-EM^M+rE:r_##__3*:**F<t*#h+3#E3-^:<rt^tE+tr3%ts#h*h -t<+rMr-#F3_*3-+-*FM*It3E+#h#33_^^<*t#+Mt,(#:ES#h+<M*<M-r_#M#j*_-F-<*^*Et_EFE##_#O^-<<^W+ht3rE+#z+hM-<M*M-MFr3#-3r*E-^-_Fh*ttEE^E+#E3r^#<_^tt:+_rth-gch^<hM<r_Fr:^:E_t#3*<*#*-F+F3Er=<#M3-3#M^rEGzXM+3h-hr_zMMM:MBrE_hE3_F-+-+*+^t*+EME-O_3^3*3#rhrthr=-+dh#h*-rM-MFrrrt_:Em_-*M-:^*F#F^E-#33*##^FM#r*4t/h+Eh:h<_tMhMMMtr*:+EE:6-F-3*_^3E:tLEt##3Fh*th^t+<MiN<++?3hr-<<MM-M#E^#E-u-M_3*-*r^5EME:Em#E^hh3^+t-tr++rt++hMh--_<#MEE-#r-E_^__*h-t^EF^F+EE#r3#h_^rt:^vMtt+4Mm-__<3<#<^MzE##*-t-h_E*:*<^tEhEMEt#*3+hE^<^FtEr<9#Srhhh:<_ME**:hrt_<E/-_-+-#FM*OF*+_E-###+MhMtJr+-t&z#N*_r<-<FMrMt::F7:^-M-M*M^<*MF-F#+E3h#3#+M:r<z*+#+r,+53_*<#<^M*r<:FEr:#--_F33*+FhF#E7#3E+3^<+M3K<+:ttnFX__<<:<-M<M3:MFt:r_^_L-E3WFFtrE<E+#^R3^:^<t_Mr+_+M+}>*__h-<#<+EhEt_#_-E+_t*:^r*ZFF+<EF#<#t^F^_t-+Mt=+F:_k3h#-rM<MFM3:-#F3_*h-:-F^*F-FtE-EFWE#Y^_tMM<tE+hNrh:hh_tM-Mrr*F_r^:##r-E-F^<#Mt_t*#_#:ktt+hFM+r3h+rEft(Fh3<_-3rMrhr^:-_:_r-:*-***3tMEh+t#h3E^#^<< hhM^&h:*it<r<^M<M+r#r0_h#<_^-KtMtZE#F+EM}<#:3-3#^tt tjrh+t:3h+<#<_*rMErT:F:F#_-E-**:Fht*#hEtE^5j3#3Bt_+MtXr3H+w#hh*-Fr:+F<:<:h:^__3r--F-FrFt#:+S#_3+^<^3M<tM+-+#:Eh3h+<h*<_M*+:MEE_t-F*M*_FMF*EFy^hEt-3F3t^*+:MN+^hMhM<M-<<MM-M#FEr+:s-r-^-E*M*3EFE_#Eh#<*ttth^E+:+<rthhhMht<*M+*Er^:::<_^#3_^*h*:trFFE*h:<<t*^#^rt+t3r*/#.^h*<<MF*rr<:MrtE3:^-h-:^rFEFFF#EthF<_t3^+^*+MtOr3I+hhh3<_M^**Mnr-:*En-F-<-+*MFrE*+_#+#33?httrt^tFPh+t7__rh:<F<^F+E3-<_::t-F-_^<F:F-E<E33M7t3#thth+hM5+h7:WF_*<+<E<^EMEo-__F_<-^-E^_FFF#E_Ex3-h<3Ft:^-ME+^++qFht<Eh^M#F^EE_/_M:3---r36FMF:F0EE3hC33<^#^tt*Mt!-:<Luh^<#-ErMM :rE<_r_h_t-_^r*:FFF^&+h3^F^:h^^*+Mr<Dh>*hhhM<_-trM:h:F:tEe_#_G*_FM*dt3E&#h#*hr3#^FM<tL+-T<hM--*rM+MMM-rrF,_<_+-^-_-t^:FMt1#*#+3F3E<<t#+M+*2hk_h-:3-<MEMhM3FEr#:+_M##-EFh^DF_E:E+L*#+^r3^<yt_+:rt}:<hhM-_M-M_FrF_::-h_M3_*-*_^#sh}t^F#t3M^-t_t+M<r*+#h-__<t<#<yr_F*:-:t_-_F3E-^F_E-Ft+:#Mm;^*^+tFtEr<!:U-h-h3<^-tMFrrF3Ft_F_#-#-dFht<F^E*+-h^<Et-tMM<+h+*RhgM_rhE<LM^*3r+:+:^_+#t*-*rF*t_FF#:+^#3^M<<t:t-+<+3hM:th*<_M#<^*y:hr43h3tEh-tF<^IEhEt+tE+3M3-<_t+t-+Frtk#h^_3<tMhMMFr-:Eh_:#3-B*#F:F*E:EE##h+<3+3^#t_M-+r:<P*<h<r<t*rrh:ME<:M_-_#3M*<FFt*FtE^#-XB^*^*t:tE+tr3R<hh_E<hMFrME:#<-*_#_r-+-3^*F#F^E*#<3Fhr^-^+^3+-r_+-J#{+_t<MM<F+E3-<_::t-F-_^<F:F-E<E33MNt33^^^*M_t-+#++:t<r<M<:M*EMEk-__F_<-^-E^_FFF#E_EW3-h<3E^ht<MEKM+3YFi^htM<-srFr_:EE*_t---M*#***(ttF+#M#-<FM_+3t+t*uM+T:3h+<h<3M_r^F*::_#_#-#3E-#*+FM+<#F#r#-<^ME+%+Mt3%-Wr:A<M<:<1ME:hF3:M_+_h3r*-*FFME*#rE-3:<-Mr+Et^t_Oh+t:Eh^h+<EMrr#F_r3_:_*-<3*Fh^3FEE-#:(r3^3E^t<3ttt#+*+/:tv+<M<-FFE__3:+:*-M_/33*+FhF3E_#^w*3#^M31t#MEt#++pM_<h-<_FMFc__:F:<_^_E3_*F*#F_Fm#-n<#V^h33<E^#t++M:<h*h-hF<3F-Er_E:^:_-h_t3E*^*+FEEr##j_#t3:^_<t+-tZ+^.hh<<_-rM^MErtF3_<_#_--+-3*rt<FME-E#h^<Et%tM^3+-+rrAhMh:hg<Erh*3rF:+:+_+#t_+*M*-t_E^E*E#<h<t+rt-^v+#+*:rh-hF<r<tr:*9r-_M::#*-#-^*-F3E*F##Fh#<*ttth^E+:+<rthhhMht<*M+*EM}:F:3__#3*:3,*tF#EF+*3h#t^<hzt<^+t3+r:<gMh-h#*^FE*__F:M_rEE#f*M*#**EM+<EM#-##hE3+^t<+::_<rtMhh#<3-<**r#:Mr;_##E_#-+*Mt<F-E_+-h^<Eh_+FtM+rM^rH<3h+h*MM<7*3r+:h:3__-^3**#FM*7E#ttar#o^M33t-trM5LMC:1/hEMh-3M+r-rr:+EtE{-#*M-5F#tEF#E+#Mh<3-^_<-r^:Er_<FhM<r_^-B:3r+r*_M:B#3-+*h*3F_E^+*##3M#V^#htMrt26M+3h-hr_wMMM:M6rE_hE3_+---r*+^t^WE##ME53#hE3#^+tMr<+-w_:--^*Er-rM*#r__hEp_+-_-+*hFrt3#h#+3-33ht^F^t+rAh+t:Ehth+<_*<MFr-F9:t_:_U*ht:+<E^EhE:#<4t3O^^t#trt3rM8h:t<_<^M-M**L:F_h___+-r*:3E^RE*F+EEO*#F3^^h<Ft*++rt7rhMh^-_<^r<M#Ft:r_M#3-M*+*htrE:Er(<Ur3<^h<Eth+^t+:<hMh<_-*^FE_:rEr+_M-<-##t^r*-EM+<#E#-#3^<<rtMtE+M+::_{F<<MM<E*hM+F3_r_#-:-_3tFhFMEME*#FwE3:34<*<E+:+-i-a3h^_t<FMr*MEF#_-M_+#t-^*r*^*+twE_#33Fh*^#t#tF+#rEhMIA<r-<<:rh*Fr*:+Et-h-M-t**F+tEEr#<3-#Fh3^^^3r^:E<::*h*h-<M<3*EM^:^:E_r-#3_-3F:F*E<+*EF#^3hh7t<t:t-r*<F::hF_=MrM+rFr3:F:t_+^M^HE^*+FrFt##U_3M^F^FtFM*tF+^Gh:zh:<_MErMM(rF:<_+_3-=thtt#rE-Fi###*hr^-^Ftrtti:r/hMh#h*MM*<MMr-r#EE:+_t^#t*EtEhFE#:#<{t^h^M^tt*++rEW*hFhr-<<MM-M#FE:(:+_h-r^+t3#<E:Ft#F#_h<^:^-t<t3cMrto_Z^ht-_M+M*r:rF:E_t#3*:*<F_trEE#ME+3-3r33<E^#t++M_:-<M*<#<rM+M3F*:#:^_*-<*F^rFhE-E-#-0_#-3#3+<t+:t2+M_F-_M3<+<*rMMHF3:+_h_3-_*^^**+E#F^+n3M3:3+trtztMzh_M_,M_<F<<M^MEF_:F:#___}*-^<**EhErEtpr3^h*^_tM+hM%=F1_hE_*<E<-MrM3FEr#:+_M^:t<E*F#FrE+E3>*3#3^^*t<+FrrC-f+Y3<--_<-M#M+Ft:M_<3+^3E<F:*tEFE_W<3:3-^<^3+MMt+3q^?*__h-<#<+*t:r:M::_*^M^TE_FFF<E^EE0_3F3#^_^v+-r<+Eyhh<_EMM<3MFM^rt_<El-F-_*E^*FtE-EM###*#Zht3+tMt-:F__<3h+h*MM<k*3r+:h:3__-^3**:F#F#E#+EE##+3M<<tFtrt-:^_E<s<Mh3M-Mr*l:M:::._E*h33*MF+Fh+r#-#F3M^*tr^-+::-_r<Eh^h_Mh<t*Er^r+:E_r-#3_-3F:F*E<+*3h433E^-t:Mr+^+E5t:3hth#<*<V*tM+:M:-3F^_F3*+**EMF%+3#+3h33^_t^M*+#YM+sh#_Eh#<+MMF<r-:_3M39F_*F*<F^FE+_#F##3_3{t-M<tkCh+3:EU#h+<M*<r*r-rF:33-^rFE*^*_EhFt+E#^#+3E^rt#M_tt+:D_:t<-hJ<^Mhr<:_Er_^_E-t33F<F#F-E+E3#rh<3M^-^#r^:EhchMI3<-<r-;rMr:r(:E-h#3-F*+*+F+ttF+#M#-h_^^^*^#:h:t<rh-jW<#<**rr-rF:r:t-:#U--FM*:t*E#E^#-33^*3#tFr#:*hthhvE<:<<-trhrMrt:*_+#E_0*F*3F_t3#:+X#t3#^F<*+httK<rXh<Z+h3<r*<MMr-r##^3E*-*M3#*EEhtKE3#:/t3:3t^E+:+<zMC+73h:-<<*M-*1rt:::*-M^:t<F^FhF:+r#M#E3M3:<_^3+<++rtX_.^hyMh<^*E:MrB_r#<_F--3qF_F:tt3+i<nr^<^h<Ec#M::#_*M#__<E<:M*r<F*:+:^_F-M*h-yFhEMErE*++#^hE3^t_+-ttr3<^:Fh^-r<EMLrFrt:#_-_3-^3t*FF3++i33-###+ht^htMt-+Ev3l3:^hE-*M#r-r<F/:__3-:-:^<F_FrEhE^xr3^3E3F<3t-t30<G+j3_*<#<-<^EME&-#Et_t_^-F*<^ FM#ME(#E^hh3^<t#tt+*rt++hMh--_M*M#M^Ft-+E#_+3_*EF:F+E<E+#r3:<FM_XMt:tE+rhh:3hF<+<+M+*tM+:M:-#__#-3*UFFF_F+E*3:3<^_M-rr4E+^+_hhst_E<^<+MErr:#E__F-h_t*F^**FF^Eh+w#:3rMhMt7r+-t%C#j*_r<-<FMrMt::FI:t_+_E3*-F*^FhtU#_#:#-3EM:r<H*+#+rY+.3_*<#<^M*r<:FEr:3_M-r33F:*tF#F+ES3rh<^#^*t3ME+o?F&:h^hE<<-GMhr:rF##3**t*h-EF:F<tt#h#M#t3*^+<Et-+^+^/^:36^<h<:*rr#r_rF#+33F<*:-tFFF_+<#:#-3<33tM<tt:ah+M:_hFh#<:MEr_MF:-#F3_*3-+-*FM*%t3E+#h#33_^^<*^t+-+E?r:E<M_t<3MFr-F_:+:3_f#t-s-^*EF<t)Eh#:#F<#M*+:+hMF+rf+:th^<r<^<+r<FE:+_^-:-E33*-*3E<E+E3L*333^^r<ut-+:rt73hMht<+FMF=:#r+:M:8#3-t*#FFF<FE+hE+w3^r^#t:t_Mt -v+hrh^<<MM-**t:_r^:*#__--#-+^-F_E^+3#<3h3#<r^#t9tFr3v<hh_E<hM^<+F<:M:<E;#<-h*^-+t<EME<+-h^<E+:^E^++M9<J#rt_rh-MM*<rEr-r3_<#r-M-E*M*:t_FF#<3M#Ehh3+<3+r+#D:=_:t<h<MMMM*rFFE:::2#*#E*:*-F-F3E^+t#F3rhMMFr_SM++rtN^hrh^h+-VM_r3:FE*_#-#-F*#^EEMF=#rX<#:^hhF^*t+MtNh/Mmth*<+-EMrr<:-rFE3_^_3^^tE#^FEEt+3#^3EhE3#^+tMr<y#qMh:_E<-MF**rEr^r+E?Fh#^*h^*F3E-#h#r3h3_^-M#r*h*+-z<:MXk_t<rM^M2rEF%:^_+#t_+*M*-^+Ft#:ir#E3F^M<3+r+rThq_hE_*ht<^*_M^:::+3h3tFr*--6F#F*+r#-#F3r3tt:<m+M+#+*hM_<hM<-<#*EM+rt##3**t*h-EF:F<tt#h#M#t3*^+<Et*+F+r:<GMh-h#-EMUM+rh:r#+33F<*:-tFFF_+<#:#-3<33tM<tt_t^+t:_h+h*<:<FMErtF3_:_<-_3r*EFM*+E-ErE3aE##3+^Mr::<h*.#lrh+h3-*M#M^r*:<_F#r-h*-*-F-t_F-E#E+7t^:3z^MrF:_h3/+U*<Mhp-3M+rhr3:__^#*_+*#-^^vEME:E+3r3Q3MthrMrNh_9FI<h^hE-_MFM#r_rL_-#<_**h*r*ttrE^+*#_3M^hh;tFt_+Er*KE%-hrh3-E<#M+rM#:3<**-#-r*+*3t*E#E^#*3<^F<rt-t+t3a-:_D-h#h+-tMMr<E+#3*<-:_t*F*_t<E:E-#<#3^Mht^3t^t*r_+-Z#,+_tMrMMM:r*#M#z*_-F-<*^*Et_EFE##_#J^-<<^Eth+<rEhMZ3hFh^<tr<*(:F:__E#*-t*-*MF#F*Fx+tE+3M3-MFr_e3+++*hM}9_3<+MhM3r_:^E*_:-#-#*#^E*#F+EMU<3F3r3-M^rE%L2M+3h-hr_pMMM:McrE_hE3_M-+-h^rF-FFEM#*3r#-^:M-rr.E+^+_hhWt_E<^<+MErr:#E_:3-:-**<^*Eht3EE#-3:hr^^^EttM3+t+#S*RK_th+MMM-EF#_E<*:_+-G3_^3F+E-Er#+}t#+^M^-M_t#+Er#-h-t_Er^M-r**tEr_-_+_3*-^_*-F#F++t#M3<hMMFr_M<h:++z{:F_3r*M#Mrr+r3E*_#_^-**<FFtrE-E+E33->Ehw^3t+t*TM+o:3h+<h<3M_r^F*:#_M:p-#3E33F-F+F3#-=_#-3#3+<ttM+<rM_F-__<r:<+Md*FF3-*_#_r-+-3^*F#F^E*#<3Fhr^-^+^3+-MErC?3h+h*MM<>*3r+:h:3__-^3**#FM*PE#+E+33-3+33t-M_t-+#++:thM<<-MFFE__M:+E-_<-^33*#F<F#F^E;d*3^^#tMt*ME+:+EIph^hE-_MEM#r<Ft::_M#3-E*h*3F^;hSt3F#^3h3t<Et3+FH-+9=*:+h^-Er<rF:M:rE3-:-^*<*#*GEht_+33r##3_<r^:tFt^r:yrh#_Eh6<+MFF<rF:t:-#E_g-+^**+E#F^+u3h#2hthq^tt^r_+^hFq#_t<+<t*MEF#_*h___#-+*tF-^Et(EM#+4t^_^M^*ttM5++4_ +hh-<<:Mtr+r_F^:##*-Z*-FhF<tEE^E+#+3r^:<_tht3rrr_hhhM<M<*MF*Er:rBF+3:^<*+*#^EFFFZEFE#=33<^*t:Mr+-.-D:h-__<+<3Mo*trh:^E:_r-#3E*^*+FEEr##u_#63ttM^:M*+F+*_F-_rh-rMrMMM+r*E_:F-F-_-!F-t<F*#h#r#thr3:^F^^M3+t7hSM_rr:-hM:*3rv:#_:_*-:-E*#t++33FE#EJ#E^-<<^++:+:{::rm:hFh^-3Mhr<:_:+:3_:_t*#**F3+^TE3{3M#3^-^r<0+M+:+?RE<h_3<+M-Mrr+Ftr+_M_-3_-#*E+-kr3E#^#_^h3t<Et^t++EVrh#__<rM:<5*tM+:M:-#_-3-#-^*u+#1*3t3h#E^:^<<t+h+M+tu*h+_E<<<FMEF<:#:r_h_:-_*E^*EhFt#<+V3_3+3#tM^ut*r_+-(#V+*h*t:rr-M):#:*#r---F*r*tE:tYE^3M3M^M<<^Mt-t#rEhh;3H+*:F<:*r#rr:+:3#*-#-^**F<EF+rE#3-#Fh3^+tht#+NU3++h^-+*3:<r:Mt:F:_#<-:--*<*3EMttEr#^#73EhCtFMr+<++;^:3<:<<M_*rr_rMr=:*#__--#-++h+t3r#-EA3#3*<rt-tF+r+th::O<M<#<*rMF<rM:-:##E_+-tt#+*#t#hEE3:3<htthtMtt+*x+:Eh*<F<r*<MMr-r#EE_ _+-h*rt++33<#:Et3F3_<<t:t-+<+3hM:th_h^<t*_r+r*:::F_E-t33F:F<E_+r#E3M#+^-^r^3MEt#++HM-:*<r*M#Mrr+r3E*_#_^-**<FFtrEh#-#-3-h_3-^#^+Mt?:+noM-F*_r3M+M*:MrAE3_+-h-3*_F^t*F+##E^zq^M^:^++r+4+Mhh-M-kr_MFM<r^rEE__F_#-_-YF-t<F*#h#r#thr^^<*t_+Mnhr0hFh_<E-*MEM-rrr3EE:#_+-Mt:+<#*E#Er#+#3h*^#^^t*+<GF:rh-h+h3M-*_M-r#r+Et_M-<^+t3#<E:Ft#F#_h<^:^-t<t3AMrt{3h^h*-_<-M#M+Ft_r_M_:-*tMtQ#_EFE<#^#Eh_^F^#t_tR -:<iEhh<<-ErMM3rFr^:t-<#4*F*_FEt*Et#-#M3#3*3o<t^++M+-_F-_*F*rFtE*#<:#:_:w_t-#*#F-*tEME-#<+#3E3#^Ftr:#_<_n-E*rMtrFr+:*#:#33E^r^t*FE^EtE q+}c<r<tM*+#t-t<y^2:}<?*h+<+M-E:E##E3r3t_*_X*M***3zF^*ht<*M<^r^<^3tE<EM+rFh^h5<E<*M^r+rP:r-h_p#**:F:FhFF#h+r3F3-^Mh#N<t+U_T_T^KtMhr-rhM3r+:<:*E-_%-tFMFEF#EFEt3-#ElEh_h_<EMhMtWEu#<FFMF-E*#<#3-t_#-F-B*F*_*+=#cth!<EMr+_^r^tt3h_Yhc-Zs*^F:E<E3#__#:*_*^^#3t++3d_E*E_EN#t3:W*h^<-+Fahmh6E:E<#MMM<r*r:_<:F_:-^-EFMFhF3F?#F#E#t,ttMtht^M:.F03h_<MMh<*M^r*rzFF-hEEE^*#Fr33^#^+#+3-Xh^+h*<M+FMhMFh#<h<3_*_^-_*:*+_*E:EX*F3<33^MtMEE3:#F+#^3^Etr+<G^PMh:<h<9_tMAMtr*:_-h_--F*:Fr^<ErE<E3#E^:3#^^tF+*M_A*._RXhtMF<+rhr^:3FE_3_E-r*<F^FME:#h#Q+t3c3t^*t_}h+-.Fh:<r_<MrM<M3rE_::#_^-F**3_F*F_F!Et3F#+^h^^t3<E+3+Exrh<<^<MM:rhr0*t:0:t_*-_Fh*-FFE:#r+<3r3<33^E+:t#+^xFh*:_<*<_<UMt:Fr+_h_^-3#E*3*EFrE<#^#M3:^h^Thtt7tt+*z_<hh-<FM:rr*<:r:<:3_E*:-#*^FFE*t_#*#_#23ttF^++h+^g3rEh3hE<rM<r^rM::_h_8Et-)-t**F_#hE-#F3:^rh<trt<t3+Eh:s#h^<FM*-_r*r_rQ:t-F_+*h*^F3^EE3EE#r3<^^^Mt:+h+XMtUD%th*<_rhM-rF::_rE<-r-<-3*EE:F#E^#F3*)_^*^_^BttWF++hhh^<3_EM3MErr:<_^_M-:*h*93tFfFtE*#_^h3-^Ft:+rM<jr9<%3hEM:<#M^rF:*F__*___Q-tFF*+EhE^#3+E333E^rt<+^+Mi:hhhJ:t<)<tM*r__h:-_F-:*r3<FrF<F3EE3:##3^^Ft*<_+*+_+zOt<Fh+MhM^r3*E:3:E_r-<*^*MF:EhEvtt#G#t3*^_+ht-+FA:hr:<<r<<<3ME::r#:^_F-*#_***_*NFt#FE+3h3^^3hEt3tE+r,<h^hM<:MhMP-trRrt:*__*h--*FF:Ert<#r#<#33Et:^#t^+F)*r_h*h_hJ<trFM+:h:^_3EE-3-E*rF<E^EM#:3h3sJt^k^tt*+_hh1-hF<:Mr-<rrr<r3:E-:_#-^*FF*^_E*E_E!#t^F3+tht^+3MEa3TEhr<<M^MMr::h:NFt_u_t-**_EhF-EF#:3r?<^r^<^3tEP:+#1^hF<*__M*M_Myrt_F:+-h-^*33EF3FEEr#<3^3M^:thtd<t+k+tZ*h_Mh<-MFr::rF<_r_<_3-EF:*#F^EF#*+_3*3_3X^t+Ft+lhZ^h3:E<3<EMrr<:^:M_:-h-4#t*=*tF*E_3h#-3F^:tr<<+r+<+3BE<:h#<^MFr**_:*:_:w_t*F-+FhF^E3tE#3#E3r^<t^tM+:{hIWrthZht<*M_:hr-:F_:-r#<*r*<*3FE#:E##^3F^*h_t*t_tB+thF>+<h<^M3-Er3rE:r_<-^-M*:FhFP^tE7Et#*3_th^-tF+:drr<hrh<h3<Er:M#r^:F_*E_-*-_-0*tEFF+#h#^33wE^3^Etr+<9^TMh:<h<2_tMkMtr*:_-h_--F*:Fr^<ErE<E3#E^:3#^^tF+*M_f*W_.nhtMF<+rhr^:3FE_3_E-r*<F^FME:#h#n+t373t^*t_?h+-UFh:<r_<MrM<M3rE_::#_^-F**3_F*F_FoEt3F#+^h^^t3<E+3+Efrh<<^<MM:rhrn*t3-t<^Et_t6F<*pFEE*E++<f-hhtMt#t#+rrrh:h^h3M<<+r3rMr+_-_r-^-#*_*EEMErE*+*3^3#^-h++M+_+N%^h#h<<-M<ME*M*F_<_E--E##:F_^<EFt_tt3F3t^Ft_hE<FM:XErM<h:^_r_F-M*M*-F<FtEt*M*+3^FrE+EMt:3_3r3t^3+-t^++L#hE:*<E<*M<MQ:#:h_M_+-t#3*t*3F_Er#+#:3-^Mt<ha+<tR+Es*<MhF<#M-r_*r:_:r:t_3*--^*+F#EEt*#E#*3<3Gt#th+M++Ctr3hth3<_Mrr+r::-_M-<E/*<-H*EF*#MEF##3-^_hrt_trtt+3h-Z^h+<#ME-*rEr*:<:p-#-h*M*+Ft^3EtE3#_3r^+^:t-+M1<M2h<uBhE<*rMMFr#:-__Er-_-r-t*3E-F^E+##3ED*^E^*t<tQ>#phhMh+<t_3MtM3r_:r_+_:--*MF<37E<FWEE#*^M3F^#t-+_Mrd_5r9th3M-<^M+r#:EF*_E_*-<-0F#FhEME+#t+33t33^_tr+++:p-hM<<:xM<<sMEr*_M:F_#--*_3rF_FrFtE33-#^3+^#tE<*+E+*/<dN<#<hMMM+rt*3:t:3__-r*+*:F-EM#<tO3<#y3E^*+MtF+#n-h_:r<_<r<tM3:-r^:+_#-E#**E**F<FI###h3M3+^th3ttt3+_4rh+h:<-MMr<-A:<r?:E_**M-F*#F-E_tr#_#r#t33t-^^t++#;Er*hEh*<<<%r#rh:M:+_tE3-t-3*_FrE+E:#-3M^<iPt<^!tE+*hMxFh#<-M_-rr_rrrt:3--_^-+*#FE^*EEE*#<#O^#^htMt++tM3Ytu3h_<rM+M:r-:M_<F8-<_S-E**EMFFE##-3_nr^_^r^tt3?-+^x+h#<E_*MEM*r<rI_#_h-M-+*t33FtF3E_#r3+3:^-tM+<<Cl<+lxEh*MM<FM#r-:_Fr___r_t-3F-*^F+E##E+*3E3*^<^o+#+hWM7+ht:3<t<3M_rr:+::_--M*<#lF<*cFEE*3M#F3#^-t_<r+_+r+t03<-h^<+M#rE**:E:*_<_g*#*hFMF+Ett3#t#33_^rt+t:+-{Mh<rA<<h&<EM*:MrF:#_--_#r*_*r*tF3#-E^#+3#^Eh*tEt*+<+Kh#hh<M<+Mt-3rtr3:__r-+-:*-FME<^D#<EZ#E3*tM^Ft#+-,_rrh_hrht<3r-M^r+:#_EE*-E-**<*SE#Eh#M#+3t,3^t^3t_+rv+):h-<MM<_=r<MUrE:*-M_F-#*-F_^rE_ErEt#3^-3^^+t#+EM*AEP*h<hRM#MhrMr+:tF3_t_3-_*rF+F:E-#M3<+4^<3k^Et*SM+Fv#h-<__rM_MrMtr3_-:^_+-#*E3*FEF*E<EI3#3h^M^+tt<3+t+3c_hr<+<:M-rM:<*0_<:Q_E-*FM*FF#E-#_+r3_3r3t^3+-t^++y#hE:*<E<*M<Mj:#:h_M_+-t#3*t*3F_Er#+#:3-^Mt<hS:FM^_t-**<M*<tM-M-Fr:*:+__--3_-FFFFhttE*EW#^3<^#t-^f+F)r:<O:h^h3M<*r_hrF:M:t*M-#*-^rE*^:hhh<<_<%ME+E+#PFhr<-T*h^h#<QMFE-E+#33_3(_-_#-A+-_EL*h_hQh^<Et-tM<#tE,hrW83h:_t<:<tME:::<_M_+_3-:^<**F-tnEt#:#*^MM:r<+^+h+::rhMhE<M<:*_M3:<:+Et___^-qFh*^tE#ME(3rh<3F^-<a+_+:rt<+_<_rM<Mh*E_#F:##3*F#3_*E*:F*E<+*#+#^3F^Mth^C+hZMGr *:+h^-E<^r_:-rtE3*^#F-^^r*EF4EFEt##3-33^^<ttF+3:+_3<-h#h+-tMhrMr-:E_3_3#^-E^*F#E-E<+ #_33^:^:M<+_+rChL^_r<^<E<F*3r-r3_<_+_33**#*-*^BMUS^#xt3t3^^Ft<Mv+MhMx2hEMh-3M<r#rt:*Et:+-M--^_F*F#F^+t^+R#3+<_tE+:++z<6+hr<:*FF__Mr:rE:r-h#3-F*+*+F+ttF+#M#-h_3#^3t/+F+_++5*<:<<M_F-Er_E:^:_-h_t3E*^*+FEEr##d_3F^h3ttFM*tF+^2h:oh:<rFhFt_r:-rX_#_*3r*-*FFrFt#:+!#t3+3E<*^Ft^+hrQh_h:h-<EF:E<_*:#:r_+_33**#*^F*E<#F%r#33M^r<3+:tt+#++Z.<r-<M#M*r3FE:n_F_:-^-E*<^;FhE:EFh#<*ttth^E+:+<rthhhMht<*M+*Er-:^:^_^#3_^*h*:trE#E_EFh+<3+<t:^t+F+_:<h:h-<<<3rM*tr:_h:M#_-F-#*:FEE_FF#-hF<_t3^+^*+Mt)r3K+hhh3<_M^**Mt:-:E_r#E*M3t*3FFE-+_#+#33&ht^O^^tE+<r,&hh:hF*#F*:::hFF:r_+#t-^*r*^*+E<+E#+3^^:^E<3t-t3d<&+P3_*<3<^Mr*6r-::Et_3-M-t*++M+;##E+#M#Ch3^tt#+F+<+E:h>+_3MrM#r:r_Ft_-_+-r-^*<FM^*tt#_E^#*h_3-^#^+M-+_y^:3h<<h<#*rM#rgrFE3_<-h3E*hF^*++<#M#<y6h<^ht^^+r<{M;<:--^*E::MEM+:M_<_#Et3r--FMt<EEE-E33<hr^M^EtMt:r_+Fh<<MhE-h<+*3:r:#_:__#t*h*MFMF*EF+E#:#Vh*hEt:t-+-+3s^:thF<r-MFFE__M:+Et_^-r-^-+^gF_E3#F?*3#^#^Ft#ME1M+Zhr_<h:Mh-FM*r+Ft_h_M_t-**+^EFrE<#-EFR33^33M^rEh^+E>t:3h^<E-E<#M+rME<_#_M-:3E*-FFt*EEE^E+yL+hh^thM*+3e-hhhr<h<_M-F#E*-*:-_<#M_13t*rF^FGEE+s#^3+ht3+tMt-M++th:_rhE<FMM*3:r:r_h__-E3*-t*^t_F^#:#+<h<t+rt-^O+#+*:rh-hF<r<tr:*?:M:#:*-M3<-M*-*#tEF+Eth#<*ttth^E+:+<rthhhMht<*M+*Er*:F:r#<_M---#^EF?F+Eh#rh+<3+<t:^t+F+_:<h:h-<<<3rM*tr_r^:t#_-+-**:*FFEEt+33:3<^_<rtE+Mt+P-%r63_Eh#<+MME:#<-*_#_r-+-3^*F#F^E*#<3Fhr^ht-t-+-r_+-D#4+_tM:<pMMEF#_-3_+_**M-k^3F+EhE3#_3^h*3+t#^^M;sMg:g+<r<U<MrhEMEY-__F_<-^-E^_FFF#E_Ej3-h<3*thtrttrrC^:*h_<MMh-?rFr_:EE*_E_--r-3^E*#F+EMh:<<t*^#^rt+t3r*,#S^h*<<MF*rr-r+r3_-#__--#-+^tFME<H+h3t<^:3ttFt_r<L:!-h<h3MM-tM3r^r*E_:-_#_+3tFrFMF:E*hMh%t_^F^<t^tEr_/FR#h_h}M-*<MErh:<EE-M_3-F-^*tE<tq#F#_3Eh*^tt-tM+#+*+p:tv+<M<-FFE__3:+:*-M_533*+FhF3E_#^s*3:^#^#t#MEt#++cM_<<F<r<-F^EE_z_M:3---r3xFMF:FYEE3hK33M^+^hMr+-+FlMh*<rh-M:F-Er_E:^:_-h_t3E*^*+FEEr##/_#3^:^*t<M*dhr3ZEh-<:-rM^MErtF3:t:#_*_73t-+FMF-1Fh_%<t:3+^S<_M3++c-yrh+_th+MMM-F_r#:EE#^h^t3EE^F-E*ttcr3-3+33t-M_t-+#++:thM<<-MFFE_F<-::+_S#F33E*F#FrE+E3f*3#3^^*t<+Frrn-p+S3<-_E-DM3r+r*_M:>#3-+*h*3F_E^+*##3M#i^#<E<3+-+++3h-__h-<#<+*trM:<EM3F^_3<E:*+F tF+3^*3#3r^+^3M*+#+^B*h<<F-rM-M+M3:-FEE;_3-+-*FM*Lt3E+#h#33_^^<*t#+MtB}#:E:3<-<+<3r-F_r-:#:+#t-M*<^M+F0_hFh(<tM*r<t:+:+M{:-M-h**F<F3r-rtrErt:^*_F_E<F3#_F_#+#*<-<_M3r_r0h-+:+}{rh^ht<<-M:_M#rt_M^h#rt_tq+EE^E*E-E3^3+<+3tFtth-+_<ErrM3htMF<Er^rr_t*<:+F_FrEMF_F*E<3-tM+*+Ft:t*tM++ h+^hhh:FMFEE*#<#3:t:3__-rt^+hA<R3h_^*#_#.3tGht^t*_:_E-E*r*tr#M^M*rt:h__^M3:t*+<+3#FEhE##_^#^M^+t^;Mt3+*U#P;<hh+:rM^r3:_:+:qF-_t-**r++Q-hrht<*t#+-+<r+:__r_t-*g#<#<^<3EFEF#t3*^<Fr-<-3*E#hEFE_E33M^M^#rFr+:t_*-<hMh*<+<^M:E^E+3<33^_*F-#*<FMF:E<##3M3#MFT+rt:*_<Qr><;3hE:E_+-Fr^r&:E:*_^-+-D*rEhFVt*#:3:3h3Fth<r+F+-mMr#M<h+M_M_M^Mt_h---h_3-+*<**^-#E#:#<3:^<3Fy#t++#+3+Y-^-t*&F3E_r*r_rj:t_:E*#^3-FFEhEhEE+E3#^M^<t*t:l<+FP:h^hEMMMhM3M?:F:E:tEt*M*h*^^:EFE3#_3M^h3*^^t*t7MFe3r#<M:#_<_#-E*-*+F--h-##rFhFE3}E^t-t+3ESrT^h*<_<EMrr_r+<-:t_#-M*MrE_::FF#-3-E*rF<E^EM#:3h3kkt^S^tt*+_hhJ-hF<:Mr-<rrr<r3:E-:_#-^*FF*^_E*E_E.#t^F3+tht^+3MEj32Ehr<<M^MMr::h:AFt_c_t-**_EhF-EF#:3rG<^r^<^3tE0:+#J^hF<*__M*M_MYrt_F:+-h-^*33EF3FEEr#<3^3M^:thtg<t+l+tm*h_Mh<-MFr::rF<_r_<_3-EF:*#F^EF#*+_3*3_36^t+Ft+=h7^h3:E<3<EMrr<:^:M_:-h-s#t*e*tF*E_3h#-3F^:tr<<+r+<+3RE<:h#<^MFr**_:*:_:._t*F-+FhF^E3tE#3#E3r^<t^tM+:Rh(irthAht<*M_:hr-:F_:-r#<*r*<*3FE#:E##^3F^*h_t*t_t6+thFy+<h<^M3-Er3rE:r_<-^-M*:FhFm^tEcEt#*3_th^-tF+:6rr<hrh<h3<Er:M#r^:F_*E_-*-_-W*tEFF+#h#^33,E^3^Etr+<2^pMh:<h<?_tMfMtr*:_-h_--F*:Fr^<ErE<E3#E^:3#^^tF+*M_2*I_H5htMF<+rhr^:3FE_3_E-r*<F^FME:#h#4+t3I3t^*t_Yh+-iFh:<r_<MrM<M3rE_::#_^-F**3_F*F_FBEt3F#+^h^^t3<E+3+E,rh<<^<MM:rhrf*t:a:t_*-_Fh*-FFE:#r+<3r3<33^E+:t#+^1Fh*:_<*<_<jMt:Fr+_h_^-3#E*3*EFrE<#^#M3:^h^%httdtt+*s_<hh-<FM:rr*<:r:<:3_E*:-#*^FFE*t_#*#_#N3ttF^++h+^f3rEh3hE<rM<r^rM::_h_uEt-B-t**F_#hE-#F3:^rh<trt<t3+Eh:V#h^<FM*-_r*r_rL:t-F_+*h*^F3^EhMhr<*M<M3^Eth+F+,+#Tr,p<M<*MFEF<r##3*^<-r-<-3*EFh^rtF+M3:3^3^^_<_+-+++thrhh<t<:MhrFr_:+:^_*_3*:*_*E^EE+E^#F>h^:^*t<t++^+rqFhrh3_:_t-*-E:*_rFE-_EO#-3-FlE#t<t*+E31D:h<<<<r+BMthrr+:3_-_E-r*_*^FrFtE+-_Fh*:3-E*E_E/#t^F3+tht^+3MEO3XEhr<<M^MMr::h:7Ft_n_t-**_EhF-EF#:3rv<^r^<^3tE,:+#G^hF<*__M*M_Mmrt_F:+-h-^*33EF3FEEr#<3^3M^:thtC<t+B+t&*h_Mh<-MFr::rF<_r_<_3-EF:*#F^EF#*+_3*3_3v^t+Ft+9hk^h3:E<3<EMrr<:^:M_:-h-w#t*H*tF*E_3h#-3F^:tr<<+r+<+3lE<:h#<^MFr**_:*:_:>_t*F-+FhF^E3tE#3#E3r^<t^tM+:LhOgrth.ht<*M_:hr-:F_:-r#<*r*<*3FE#:E##^3F^*h_t*t_tD+thFO+<h<^M3-Er3rE:r_<-^-M*:FhF6^tEgEt#*3_th^-tF+:Prr<hrh<h3<Er:M#r^:F_*E_-*-_-5*tEFF+#h#^33iE^3^Etr+<X^jMh:<h<A_tMkMtr*:_-h_--F*:Fr^<ErE<E3#E^:3#^^tF+*M_n*k_KphtMF<+rhr^:3FE_3_E-r*<F^FME:#h#a+t3=3t^*t_oh+-9Fh:<r_<MrM<M3rE_::#_^-F**3_F*F_FgEt3F#+^h^^t3<E+3+E(rh<<^<MM:rhru*t:S:t_*-_Fh*-FFE:#r+<3r3<33^E+:t#+^IFh*:_<*<_<9Mt:Fr+_h_^-3#E*3*EFrE<#^#M3:^h^Shtt tt+*{_<hh-<FM:rr*<:r:<:3_E*:-#*^FFE*t_#*#_# 3ttF^++h+^73rEh3hE<rM<r^rM::_h_6Et-u-t**F_#hE-#F3:^rh<trt<t3+Eh:O#h^<FM*-_r*r_rK:t-F_+*h*^F3^EE3EE#r3<^^^Mt:+h+5MtIa8th*<_rhM-rF::_rE<-r-<-3*EE:F#E^#F3*c_^*^_^PttoF++hhh^<3_EM3MErr:<_^_M-:*h*13tFRFtE*#_^h3-^Ft:+rM<qrw<Z3hEM:<#M^rF:*F__*___0-tFF*+EhE^#3+E333E^rt<+^+MI:hhhc:t<}<tM*r__h:-_F-:*r3<FrF<F3EE3:##3^^Ft*<_+*+_+2at<Fh+MhM^r3*E:3:E_r-<*^*MF:EhEmtt# #t3*^_+ht-+F7:hr:<<r<<<3ME::r#:^_F-*#_***_*QFt#FE+3h3^^3hEt3tE+r)<h^hM<:MhMI-tryrt:*__*h--*FF:Ert<#r#<#33Et:^#t^+F}*r_h*h_h6<trFM+:h:^_3EE-3-E*rF<E^EM#:3h3gXt^u^tt*+_hhJ-hF<:Mr-<rrr<r3:E-:_#-^*FF*^_E*E_E5#t^F3+tht^+3ME(3DEhr<<M^MMr::h:IFt_A_t-**_EhF-EF#:3r0<^r^<^3tEN:+#&^hF<*__M*M_MIrt_F:+-h-^*33EF3FEEr#<3^3M^:tht6<t+&+tX*h_Mh<-MFr::rF<_r_<_3-EF:*#F^EF#*+_3*3_3I^t+Ft+chv^h3:E<3<EMrr<:^:M_:-h-S#t*m*tF*E_3h#-3F^:tr<<+r+<+3UE<:h#<^MFr**_:*:_:6_t*F-+FhF^E3tE#3#E3r^<t^tM+:4hXBrthPht<*M_:hr-:F_:-r#<*r*<*3FE#:E##^3F^*h_t*t_tY+thFK+<h<^M3-Er3rE:r_<-^-M*:FhFD^tE!Et#*3_th^-tF+:>rr<-#-+*RFEEr_:rEr3_#_E--*_+r+tR*h<h3#h<>MErrrtMM_<_3-_-+*EFrFtF_Et#33_3f#^trtt+*tjU*h_h7<Eh^Mtr*:<M_:F_&-E*r**F*EhE3Er#s3_^r^tt*+<+_ _Z+hEh}<tM*r<r3r+:k_F-r-t:_F<F3E_E+#E3r3t3_#-t3+_+Y=rhrht<*M<}_r_rl:E_r_t-**<-E*VFsEF#rF+3*^<^3t_^++EqMBth-<<<#M_<tr<:r:^_*_F-3*_*pFrF#Et#-3<#^^_^+tE+r+tHrh<h3<_<B<#rrr^:*:t_3-_-H*E*MFtE-#<EE#r3q^Ftrt3+*=<g3h_jq<EMMMtr-:<:E__:t_**r*3F***E3#_#.3rEM^tt_+<t-1_u+hE<M<tMrr<r3:_:/::-r-^***tF3E_Es#EEE3t^-t<^Etr+5w*hrUr<*M<M3<_MF:E_<_t-_*<*FF_FEFn#r#33*#*^3t:t0+EfrLEh*<<<3M_<_rE:M:t_r-<-3*_*d_*ErE^#*EQ#E^_^ttEt++t&*h<h_yE<?M*rr<i:*_h_3-_-)*_FrFtE*#<Ft3_3+^E^Stt+*k</3trhd<FMr<3M_:<:E___3-E*r*tF<*_E3#r#SE:^r^^t*+<+3e<l(hE<r<thMr<r#:_rt:*-r-3***tF3E_EeFE3h3t^_t<tE+_+^SEqtG+<*<?M3hrrI:F_r_^-*-t*3F_FuEE*<#t3-^<3E^rt4+*SrX#h*<<<3<v<rrE:<:tM+-<-#*_*yFEF&Et#*3<33E^^VtF+r+EX*h<h3<_+tMErMrtr_rd_3-r-s-3FrFtE*E3F&3_3t^E#-tt+-y<}3h_h3<EMrMtr*<::3_:_y-_*r*tF*E<-E#_#+3E3<33t*t>+3+<QahE<r<*h3r<rE:_<t_E-M-t**F<F*E_EA#E3rF3^*tht3trttnEh<hthrM<M3r_<JM3_r_3-*-)*3FMF8F*E<#t3:^<#-t_tZ+Etr+Fh*ht<3M:MU<::r:*rt-<-F*_:FFEEMEt#r3<3*^_^StE+r3-6*hhh3<<<uMErrrttF_<_#-_-E_tFrF3E*rM#33:3 ^EtrtE+*(<j3h_#h<EMMMtM_Mz:3_M_U_r*r*tF*F3*2#_#^3E_:^tt-+<+39_c3hE<r<tM*^Mr3:::w:*_<-t*:F<*_E_EW#EEr#-^*^+t3+M+zt*hrh*h*M<MFr_th:E_M_t-**<**F_F1EE#rr+3*^h^3t_t#+E4h>th_<<<3M_MIhU:r:E_*-<-3*r* _EF3Et#r3<#^^_3+tE3rt3&*;th3aE<Sh3rrrt:h_<_F-_-t*EF<Ft**E3#33M3p^-trt^+*t<o:h_h3<EMMMt<M:<:3_M_?-:*r*#F*E<E3#_#h3E3.^tt_+<+Ea_>fhh<r<EM*rhr3:::>_E-h-t*rF<FEE_E,#E3r3:^*^^t3+_+uV*hrtth7M<M-r_rh:EMH_tr*-:*3FhFB*t#rF(3*^<3Ft_t3+E2<,th-<<<3MrMfr_:r:3_*-<-3*__tFEF+Et#*3<3E^_EqEN+r+FN*NMh3h_< ;EMMrt:M_<rD-__<*EFr*3E*Et#33r3x^Ftrtt^#A<s*h_ht<EMrMtr*rt:3_h_P-E*r*3F*-<E_#_##3E3:^t3<+<33tFXAh:<rh<M*<rr3:_:__E_A-t*_F<F#E_ECE^3r3E^*^Ut3+_+VHET_ht<MM<M3r_r3:EMr_^-*-^*3*-Fv*-#r#t##^<^_t_te+E8M!tt*h_<3<WMuM<:r:-_*_<-**_*#FEF-Et#<3<#E3t^ktr+rt*H*h<h3>_+^MEMtrt:<_<_<-__t-+FrF_E*F<#33_3n^EtMtt+<e<Srh_ht<Ehr<#r*r3:3:R_1_-*r*t*rE<Er#_#Y3E^M^t#*^t+3+t/P+F<rh:M*r<M-:_:E_E_3-t*_F<*3FrE}#:3r3^^*^3t33_3-WEp+ht!3M<Mrr_rgM+_r_E-*-;*3F:FlF*Ft#t3r^<3_t_t;+Etr+zh*ht<3M<Ml<+:rr3:*-<-_*_*rFEErEt#*E*33^<^Ttr+r+^4*ath#<_<8ME^<rt:-_<:E_r-0*-FrFME*#<#3#r33^E^ott^hI<O3h_hwh_MrM#r*r2:3_:_,_*:F*tF:E<F-#_#f3E^r3^t*t++3LMXahE<r<t<+r<r3:_:+_E-r-t");local r=_.xjwoviv_;_.wgRtjrbd(function()r=r+_.ZCLqLqEP end)local function t(t,h)if h then return r end;r=t+r;end local h,r,s=l(_.xjwoviv_,l,t,o,_.wShqmjEs);local function d()local h,r=_.wShqmjEs(o,t(_.ZCLqLqEP,_.fItSuaob),t(_.mAyCoYmG,_.MiFhxrJd)+_.MvmMdDof);t(_.MvmMdDof);return(r*_.XPEzomTk)+h;end;local p=true;local p=_.xjwoviv_ local function b()local t=r();local r=r();local n=_.ZCLqLqEP;local e=(h(r,_.ZCLqLqEP,_.oZjMOmRv)*(_.MvmMdDof^_.kywUmLUi))+t;local t=h(r,_.v_DOHddR,_.RQCqeEFV);local r=((-_.ZCLqLqEP)^h(r,_.kywUmLUi));if(t==_.xjwoviv_)then if(e==p)then return r*_.xjwoviv_;else t=_.ZCLqLqEP;n=_.xjwoviv_;end;elseif(t==_.c_vdnUkj)then return(e==_.xjwoviv_)and(r*(_.ZCLqLqEP/_.xjwoviv_))or(r*(_.xjwoviv_/_.xjwoviv_));end;return _.LSLqMXfx(r,t-_.PPzFyWEq)*(n+(e/(_.MvmMdDof^_.luQzZwoP)));end;local k=r;local function m(r)local h;if(not r)then r=k();if(r==_.xjwoviv_)then return'';end;end;h=_.SMcGFRZq(o,t(_.ZCLqLqEP,_.fItSuaob),t(_.mAyCoYmG,_.MiFhxrJd)+r-_.ZCLqLqEP);t(r)local t=""for r=(_.ZCLqLqEP+p),#h do t=t.._.SMcGFRZq(h,r,r)end return t;end;local j=#_.pQcdXDDj(u('\49.\48'))~=_.ZCLqLqEP local t=r;local function k(...)return{...},_.IGvllQCY('#',...)end local function z()local p={};local t={};local l={};local u={p,l,nil,t};local t=r()local o={}for e=_.ZCLqLqEP,t do local h=s();local t;if(h==_.fItSuaob)then t=(s()~=#{});elseif(h==_.xjwoviv_)then local r=b();if j and _.lqdXQeof(_.pQcdXDDj(r),'.(\48+)$')then r=_.fzSyesaJ(r);end t=r;elseif(h==_.ZCLqLqEP)then t=m();end;o[e]=t;end;u[_.fItSuaob]=s();for t=_.ZCLqLqEP,r()do l[t-(#{_.ZCLqLqEP})]=z();end;for u=_.ZCLqLqEP,r()do local t=s();if(h(t,_.ZCLqLqEP,_.ZCLqLqEP)==_.xjwoviv_)then local l=h(t,_.MvmMdDof,_.fItSuaob);local a=h(t,_.SKhmZGpD,_.MiFhxrJd);local t={d(),d(),nil,nil};if(l==_.xjwoviv_)then t[n]=d();t[f]=d();elseif(l==#{_.ZCLqLqEP})then t[n]=r();elseif(l==c[_.MvmMdDof])then t[n]=r()-(_.MvmMdDof^_.jEchqyZf)elseif(l==c[_.fItSuaob])then t[n]=r()-(_.MvmMdDof^_.jEchqyZf)t[f]=d();end;if(h(a,_.ZCLqLqEP,_.ZCLqLqEP)==_.ZCLqLqEP)then t[e]=o[t[e]]end if(h(a,_.MvmMdDof,_.MvmMdDof)==_.ZCLqLqEP)then t[n]=o[t[n]]end if(h(a,_.fItSuaob,_.fItSuaob)==_.ZCLqLqEP)then t[f]=o[t[f]]end p[u]=t;end end;return u;end;local function j(h,r,t)local e=r;local e=t;return u(_.lqdXQeof(_.lqdXQeof(({_.wgRtjrbd(h)})[_.MvmMdDof],r),t))end local function g(u,t,o)local function g(...)local d,g,s,z,j,r,y,b,c,p,m,h;local t=_.xjwoviv_;while-_.ZCLqLqEP<t do if t>=_.fItSuaob then if t<=_.SKhmZGpD then if _.fItSuaob~=t then p=_.IGvllQCY('#',...)-_.ZCLqLqEP;m={};else b={};c={...};end else if _.MiFhxrJd>t then h=l(_._OQYggur);else t=-_.MvmMdDof;end end else if _.ZCLqLqEP<=t then if-_.ZCLqLqEP<=t then for h=_.kywUmLUi,_.CtMDnLRd do if t<_.MvmMdDof then s=l(_.MiFhxrJd,_.MOdzWarL,_.fItSuaob,_.cvYZvXCb,u);j=k z=_.xjwoviv_;break;end;r=-_.XeSAHsfZ;y=-_.ZCLqLqEP;break;end;else s=l(_.MiFhxrJd,_.MOdzWarL,_.fItSuaob,_.cvYZvXCb,u);j=k z=_.xjwoviv_;end else d=l(_.MiFhxrJd,_.uHiQldLp,_.ZCLqLqEP,_.mAyCoYmG,u);g=l(_.MiFhxrJd,_.MPOCEdZC,_.MvmMdDof,_.DUEdCuYs,u);end end t=t+_.ZCLqLqEP;end;for t=_.xjwoviv_,p do if(t>=s)then b[t-s]=c[t+_.ZCLqLqEP];else h[t]=c[t+_.ZCLqLqEP];end;end;local t=p-s+_.ZCLqLqEP local t;local l;local function s(...)while true do end end while true do if r<-_.MOdzWarL then r=r+_.XGygALJi end t=d[r];l=t[rt];if _._jLgGxsx<=l then if l>_.cFH_vjge then if l>=_.luQzZwoP then if _.PKaHDeSh>=l then if l<=_.OzLJViBy then if l~=_.zYcidtiI then for r=_.As_IzPOi,_.ZRuQxKZX do if l<_.OzLJViBy then local t=t[e]h[t](h[t+_.ZCLqLqEP])break;end;for t=t[e],t[n]do h[t]=nil;end;break;end;else for t=t[e],t[n]do h[t]=nil;end;end else if _.CtMDnLRd~=l then if not h[t[e]]then r=r+_.ZCLqLqEP;else r=t[n];end;else for l=_.xjwoviv_,_.SKhmZGpD do if l>_.ZCLqLqEP then if l>_.MvmMdDof then if l>=_.MvmMdDof then for f=_.YegbviKq,_.gXiUiJmp do if l<_.SKhmZGpD then h[t[e]]=o[t[n]];r=r+_.ZCLqLqEP;t=d[r];break;end;if h[t[e]]then r=r+_.ZCLqLqEP;else r=t[n];end;break;end;else h[t[e]]=o[t[n]];r=r+_.ZCLqLqEP;t=d[r];end else h[t[e]]();r=r+_.ZCLqLqEP;t=d[r];end else if-_.fItSuaob~=l then for _=_.YBkdoIOs,_.phoeAHdF do if l>0 then h[t[e]]=o[t[n]];r=r+1;t=d[r];break;end;for t=t[e],t[n]do h[t]=nil;end;r=r+1;t=d[r];break;end;else for t=t[e],t[n]do h[t]=nil;end;r=r+1;t=d[r];end end end end end else if l>57 then if 57<=l then for _=31,72 do if 59~=l then local l;for _=0,6 do if _>=3 then if 4>=_ then if 4>_ then h[t[e]]=h[t[n]];r=r+1;t=d[r];else h[t[e]]={};r=r+1;t=d[r];end else if 1~=_ then repeat if 6>_ then h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;h[t[e]][t[n]]=t[f];until true;else h[t[e]][t[n]]=t[f];end end else if _>0 then if _>=-2 then for o=20,78 do if _<2 then h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;l=t[e]h[l](h[l+1])r=r+1;t=d[r];break;end;else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end end end break;end;for t=t[e],t[n]do h[t]=nil;end;break;end;else for t=t[e],t[n]do h[t]=nil;end;end else if 55~=l then repeat if 57~=l then h[t[e]][t[n]]=h[t[f]];break;end;h[t[e]][t[n]]=t[f];until true;else h[t[e]][t[n]]=t[f];end end end else if 48>l then if 46>l then local t=t[e]h[t]=h[t](h[t+1])else if l>43 then repeat if 47~=l then local d,_,l,a,o,f;local r=0;while r>-1 do if r>3 then if 6<=r then if 7~=r then h[f]=o;else r=-2;end else if 0<=r then repeat if r~=5 then o=a[d[l]];break;end;f=d[_];until true;else f=d[_];end end else if 2>r then if r~=-4 then for h=44,60 do if r~=0 then _=e;break;end;d=t;break;end;else _=e;end else if 0<=r then repeat if r~=2 then a=h;break;end;l=n;until true;else l=n;end end end r=r+1 end break;end;if h[t[e]]then r=r+1;else r=t[n];end;until true;else local d,_,l,a,o,f;local r=0;while r>-1 do if r>3 then if 6<=r then if 7~=r then h[f]=o;else r=-2;end else if 0<=r then repeat if r~=5 then o=a[d[l]];break;end;f=d[_];until true;else f=d[_];end end else if 2>r then if r~=-4 then for h=44,60 do if r~=0 then _=e;break;end;d=t;break;end;else _=e;end else if 0<=r then repeat if r~=2 then a=h;break;end;l=n;until true;else l=n;end end end r=r+1 end end end else if 50>l then if l>=47 then repeat if 49~=l then if(h[t[e]]==t[f])then r=r+1;else r=t[n];end;break;end;if not h[t[e]]then r=r+1;else r=t[n];end;until true;else if(h[t[e]]==t[f])then r=r+1;else r=t[n];end;end else if l==50 then do return end;else local _=t[e];local r=h[t[n]];h[_+1]=r;h[_]=r[t[f]];end end end end else if l<=36 then if 33<=l then if l<35 then if 31<l then for r=40,94 do if 33<l then h[t[e]]={};break;end;local r=t[e];local _=h[t[n]];h[r+1]=_;h[r]=_[t[f]];break;end;else h[t[e]]={};end else if 35<l then h[t[e]]=(t[n]~=0);else local r=t[e]h[r](a(h,r+1,t[n]))end end else if l<=30 then h[t[e]]=h[t[n]][t[f]];else if l>=28 then repeat if l~=32 then h[t[e]][t[n]]=h[t[f]];break;end;local r=t[e]h[r]=h[r](a(h,r+1,t[n]))until true;else h[t[e]][t[n]]=h[t[f]];end end end else if 41>l then if 38>=l then if 34~=l then for _=24,86 do if l~=38 then for _=0,3 do if 2<=_ then if 0~=_ then repeat if _<3 then h[t[e]]=o[t[n]];r=r+1;t=d[r];break;end;if(h[t[e]]==t[f])then r=r+1;else r=t[n];end;until true;else h[t[e]]=o[t[n]];r=r+1;t=d[r];end else if _>=-3 then repeat if _~=1 then h[t[e]]=(t[n]~=0);r=r+1;t=d[r];break;end;o[t[n]]=h[t[e]];r=r+1;t=d[r];until true;else h[t[e]]=(t[n]~=0);r=r+1;t=d[r];end end end break;end;h[t[e]]();break;end;else for _=0,3 do if 2<=_ then if 0~=_ then repeat if _<3 then h[t[e]]=o[t[n]];r=r+1;t=d[r];break;end;if(h[t[e]]==t[f])then r=r+1;else r=t[n];end;until true;else h[t[e]]=o[t[n]];r=r+1;t=d[r];end else if _>=-3 then repeat if _~=1 then h[t[e]]=(t[n]~=0);r=r+1;t=d[r];break;end;o[t[n]]=h[t[e]];r=r+1;t=d[r];until true;else h[t[e]]=(t[n]~=0);r=r+1;t=d[r];end end end end else if l>39 then if(h[t[e]]==t[f])then r=r+1;else r=t[n];end;else h[t[e]]={};end end else if l>=43 then if 40~=l then for _=29,74 do if 43~=l then for _=0,1 do if _>=-4 then for l=36,84 do if _>0 then if h[t[e]]then r=r+1;else r=t[n];end;break;end;h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;else h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];end end break;end;local _,o,d,f,l;local r=0;while r>-1 do if r>=3 then if 5<=r then if 4<=r then for t=36,71 do if 6>r then h(l,f);break;end;r=-2;break;end;else h(l,f);end else if 4>r then f=_[d];else l=_[o];end end else if 0<r then if-2<=r then repeat if r~=1 then d=n;break;end;o=e;until true;else d=n;end else _=t;end end r=r+1 end break;end;else for _=0,1 do if _>=-4 then for l=36,84 do if _>0 then if h[t[e]]then r=r+1;else r=t[n];end;break;end;h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;else h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];end end end else if 40<=l then for _=10,93 do if l~=41 then local l;for _=0,6 do if _>=3 then if 5>_ then if 1<=_ then repeat if 4~=_ then l=t[e]h[l]=h[l](h[l+1])r=r+1;t=d[r];break;end;h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];until true;else l=t[e]h[l]=h[l](h[l+1])r=r+1;t=d[r];end else if 4<=_ then repeat if 6>_ then h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;h[t[e]]=h[t[n]];until true;else h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];end end else if 0>=_ then h[t[e]]={};r=r+1;t=d[r];else if-2<_ then repeat if _~=1 then h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;h[t[e]][t[n]]=t[f];r=r+1;t=d[r];until true;else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end end end end break;end;o[t[n]]=h[t[e]];break;end;else o[t[n]]=h[t[e]];end end end end end else if l>14 then if 22<=l then if l>=26 then if 28<=l then if 27~=l then for _=46,90 do if 28<l then local r=t[e]h[r]=h[r](a(h,r+1,t[n]))break;end;if h[t[e]]then r=r+1;else r=t[n];end;break;end;else local r=t[e]h[r]=h[r](a(h,r+1,t[n]))end else if 25~=l then repeat if l<27 then r=t[n];break;end;local _,s;for l=0,5 do if 3>l then if 1<=l then if 0<l then repeat if l~=1 then _=t[e];s=h[t[n]];h[_+1]=s;h[_]=s[t[f]];r=r+1;t=d[r];break;end;h[t[e]]=o[t[n]];r=r+1;t=d[r];until true;else h[t[e]]=o[t[n]];r=r+1;t=d[r];end else _=t[e]h[_](h[_+1])r=r+1;t=d[r];end else if 4<=l then if 2<=l then repeat if 4<l then r=t[n];break;end;_=t[e]h[_](a(h,_+1,t[n]))r=r+1;t=d[r];until true;else _=t[e]h[_](a(h,_+1,t[n]))r=r+1;t=d[r];end else h(t[e],t[n]);r=r+1;t=d[r];end end end until true;else local _,s;for l=0,5 do if 3>l then if 1<=l then if 0<l then repeat if l~=1 then _=t[e];s=h[t[n]];h[_+1]=s;h[_]=s[t[f]];r=r+1;t=d[r];break;end;h[t[e]]=o[t[n]];r=r+1;t=d[r];until true;else h[t[e]]=o[t[n]];r=r+1;t=d[r];end else _=t[e]h[_](h[_+1])r=r+1;t=d[r];end else if 4<=l then if 2<=l then repeat if 4<l then r=t[n];break;end;_=t[e]h[_](a(h,_+1,t[n]))r=r+1;t=d[r];until true;else _=t[e]h[_](a(h,_+1,t[n]))r=r+1;t=d[r];end else h(t[e],t[n]);r=r+1;t=d[r];end end end end end else if l<24 then if 20<l then for _=29,93 do if l~=23 then o[t[n]]=h[t[e]];break;end;for _=0,1 do if-3<=_ then for l=32,52 do if 0<_ then if h[t[e]]then r=r+1;else r=t[n];end;break;end;h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;else if h[t[e]]then r=r+1;else r=t[n];end;end end break;end;else o[t[n]]=h[t[e]];end else if l~=24 then h[t[e]]=o[t[n]];else h[t[e]]=(t[n]~=0);end end end else if 17>=l then if l<16 then local t=t[e]h[t]=h[t](h[t+1])else if l>13 then for _=29,74 do if 16~=l then for t=t[e],t[n]do h[t]=nil;end;r=r+1;t=d[r];do return end;break;end;local t=t[e]h[t]=h[t]()break;end;else local t=t[e]h[t]=h[t]()end end else if 20<=l then if 16<l then repeat if l~=21 then h[t[e]]();break;end;for _=0,1 do if-2~=_ then repeat if 1~=_ then h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;if(h[t[e]]~=h[t[f]])then r=r+1;else r=t[n];end;until true;else if(h[t[e]]~=h[t[f]])then r=r+1;else r=t[n];end;end end until true;else for _=0,1 do if-2~=_ then repeat if 1~=_ then h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];break;end;if(h[t[e]]~=h[t[f]])then r=r+1;else r=t[n];end;until true;else if(h[t[e]]~=h[t[f]])then r=r+1;else r=t[n];end;end end end else if 17<=l then repeat if 18~=l then h[t[e]][t[n]]=t[f];break;end;h[t[e]]=o[t[n]];until true;else h[t[e]]=o[t[n]];end end end end else if 6>=l then if l<=2 then if l<1 then r=t[n];else if 1<l then local _,d,l,o,f;local r=0;while r>-1 do if 2>=r then if 1<=r then if r==1 then d=e;else l=n;end else _=t;end else if r>4 then if r~=5 then r=-2;else h(f,o);end else if 4>r then o=_[l];else f=_[d];end end end r=r+1 end else local u,d,a,s,c,l,k,p,o;local _=0;while _>-1 do if 2>=_ then if 1<=_ then if _>-3 then for h=31,82 do if _<2 then d=t;a=r;break;end;s=d[e];c=d[f];l=n;break;end;else s=d[e];c=d[f];l=n;end else u=h;end else if _<5 then if 1<=_ then for t=49,92 do if _~=4 then k=u[s];p=u[c];break;end;o=k==p and d[l]or 1+a;break;end;else o=k==p and d[l]or 1+a;end else if _>3 then repeat if 5~=_ then _=-2;break;end;r=o;until true;else r=o;end end end _=_+1 end end end else if 4>=l then if l>=0 then for _=26,90 do if l<4 then for _=0,1 do if _==0 then h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];else if not h[t[e]]then r=r+1;else r=t[n];end;end end break;end;local _;for l=0,1 do if-2<=l then repeat if 1>l then h(t[e],t[n]);r=r+1;t=d[r];break;end;_=t[e]h[_](h[_+1])until true;else h(t[e],t[n]);r=r+1;t=d[r];end end break;end;else for _=0,1 do if _==0 then h[t[e]]=h[t[n]][t[f]];r=r+1;t=d[r];else if not h[t[e]]then r=r+1;else r=t[n];end;end end end else if l~=6 then local d,l,f,_,a,o;local r=0;while r>-1 do if 3<r then if r<6 then if 5==r then o=d[l];else a=_[d[f]];end else if 7==r then r=-2;else h[o]=a;end end else if r>=2 then if r>1 then repeat if r>2 then _=h;break;end;f=n;until true;else _=h;end else if 0<r then l=e;else d=t;end end end r=r+1 end else do return end;end end end else if l>10 then if 12<l then if 10<=l then for _=13,82 do if 13<l then local t=t[e]h[t]=h[t]()break;end;for _=0,6 do if 3<=_ then if _<5 then if 4>_ then h[t[e]]={};r=r+1;t=d[r];else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end else if _>2 then repeat if _~=6 then h[t[e]][t[n]]=h[t[f]];r=r+1;t=d[r];break;end;h[t[e]]=o[t[n]];until true;else h[t[e]][t[n]]=h[t[f]];r=r+1;t=d[r];end end else if _<1 then h[t[e]]=h[t[n]];r=r+1;t=d[r];else if _>1 then h[t[e]][t[n]]=t[f];r=r+1;t=d[r];else h[t[e]]={};r=r+1;t=d[r];end end end end break;end;else local t=t[e]h[t]=h[t]()end else if l>9 then for _=26,66 do if l~=12 then local s,k,c,p,o,_,l,u;for _=0,6 do if 3<=_ then if _>4 then if 6==_ then h[t[e]][t[n]]=h[t[f]];else l=t[e]h[l]=h[l](a(h,l+1,t[n]))r=r+1;t=d[r];end else if _>=2 then for l=16,92 do if 4~=_ then h[t[e]]={};r=r+1;t=d[r];break;end;h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end end else if _<=0 then _=0;while _>-1 do if _>=3 then if _>4 then if _>=2 then repeat if _<6 then h(o,p);break;end;_=-2;until true;else h(o,p);end else if _>=1 then repeat if 4~=_ then p=s[c];break;end;o=s[k];until true;else o=s[k];end end else if _<1 then s=t;else if _~=0 then repeat if 1<_ then c=n;break;end;k=e;until true;else c=n;end end end _=_+1 end r=r+1;t=d[r];else if _<2 then l=t[e]h[l]=h[l](a(h,l+1,t[n]))r=r+1;t=d[r];else l=t[e];u=h[t[n]];h[l+1]=u;h[l]=u[t[f]];r=r+1;t=d[r];end end end end break;end;local r=t[e]h[r](a(h,r+1,t[n]))break;end;else local o,k,c,u,s,_,l,p;for _=0,6 do if 3<=_ then if _>4 then if 6==_ then h[t[e]][t[n]]=h[t[f]];else l=t[e]h[l]=h[l](a(h,l+1,t[n]))r=r+1;t=d[r];end else if _>=2 then for l=16,92 do if 4~=_ then h[t[e]]={};r=r+1;t=d[r];break;end;h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end end else if _<=0 then _=0;while _>-1 do if _>=3 then if _>4 then if _>=2 then repeat if _<6 then h(s,u);break;end;_=-2;until true;else h(s,u);end else if _>=1 then repeat if 4~=_ then u=o[c];break;end;s=o[k];until true;else s=o[k];end end else if _<1 then o=t;else if _~=0 then repeat if 1<_ then c=n;break;end;k=e;until true;else c=n;end end end _=_+1 end r=r+1;t=d[r];else if _<2 then l=t[e]h[l]=h[l](a(h,l+1,t[n]))r=r+1;t=d[r];else l=t[e];p=h[t[n]];h[l+1]=p;h[l]=p[t[f]];r=r+1;t=d[r];end end end end end end else if l<=8 then if l>=6 then for _=48,93 do if l~=8 then h[t[e]]=h[t[n]][t[f]];break;end;local l,d,s,o,a,p,u,c,k;local _=0;while _>-1 do if 2<_ then if 4>=_ then if _>=1 then repeat if _>3 then k=u==c and d[p]or 1+s;break;end;u=l[o];c=l[a];until true;else u=l[o];c=l[a];end else if 4<=_ then for t=28,83 do if _~=5 then _=-2;break;end;r=k;break;end;else _=-2;end end else if 0<_ then if _>-1 then for h=14,86 do if _<2 then d=t;s=r;break;end;o=d[e];a=d[f];p=n;break;end;else d=t;s=r;end else l=h;end end _=_+1 end break;end;else h[t[e]]=h[t[n]][t[f]];end else if l==9 then local l,u,a,s,p,c,_,o;for _=0,6 do if _>2 then if _>4 then if 1<=_ then for f=42,81 do if 5<_ then _=0;while _>-1 do if 4<=_ then if 5>=_ then if 5>_ then p=s[l[a]];else c=l[u];end else if 7==_ then _=-2;else h[c]=p;end end else if 2>_ then if _==0 then l=t;else u=e;end else if _~=-2 then repeat if _~=3 then a=n;break;end;s=h;until true;else a=n;end end end _=_+1 end break;end;o=t[e]h[o](h[o+1])r=r+1;t=d[r];break;end;else o=t[e]h[o](h[o+1])r=r+1;t=d[r];end else if _>=-1 then for l=48,75 do if 4>_ then h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;h[t[e]][t[n]]=t[f];r=r+1;t=d[r];break;end;else h[t[e]][t[n]]=t[f];r=r+1;t=d[r];end end else if _>0 then if 2~=_ then _=0;while _>-1 do if _>3 then if 6<=_ then if 7>_ then h[c]=p;else _=-2;end else if _==4 then p=s[l[a]];else c=l[u];end end else if _<2 then if 1>_ then l=t;else u=e;end else if _~=-2 then repeat if _<3 then a=n;break;end;s=h;until true;else s=h;end end end _=_+1 end r=r+1;t=d[r];else h[t[e]]={};r=r+1;t=d[r];end else h[t[e]]();r=r+1;t=d[r];end end end else local t=t[e]h[t](h[t+1])end end end end end end r=1+r;end;end;return g end;local e=0xff;local f={};local n=(1);local _='';(function(r)local h=r local d=0x00 local t=0x00 h={(function(l)if d>0x27 then return l end d=d+1 t=(t+0xcfe-l)%0x45 return(t%0x03==0x2 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x3e);f[n]=tt();n=n+e;end return true end)'jMsVd'and h[0x3](0x361+l))or(t%0x03==0x0 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x9a);_={_..'\58 a',_};f[n]=z();n=n+(1);_[1]='\58'.._[1];e[2]=0xff;end return true end)'wfBlf'and h[0x2](l+0x114))or(t%0x03==0x1 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x9);e[2]=(e[2]*(j(function()f()end,a(_))-j(e[1],a(_))))+1;f[n]={};e=e[2];n=n+e;end return true end)'aOkyi'and h[0x1](l+0x367))or l end),(function(n)if d>0x2d then return n end d=d+1 t=(t+0x553-n)%0x4b return(t%0x03==0x0 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x7b);end return true end)'SsaOD'and h[0x3](0x1c8+n))or(t%0x03==0x1 and(function(h)if not r[h]then t=t+0x01 r[h]=(0xb9);_='\37';e={function()e()end};_=_..'\100\43';end return true end)'sLqWM'and h[0x1](n+0x3ca))or(t%0x03==0x2 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x24);end return true end)'Kxj_A'and h[0x2](n+0x285))or n end),(function(_)if d>0x22 then return _ end d=d+1 t=(t+0x93d-_)%0x39 return(t%0x03==0x2 and(function(h)if not r[h]then t=t+0x01 r[h]=(0xd);end return true end)'JrpFJ'and h[0x3](0x187+_))or(t%0x03==0x1 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x4b);end return true end)'oWLLn'and h[0x2](_+0xc0))or(t%0x03==0x0 and(function(h)if not r[h]then t=t+0x01 r[h]=(0x40);end return true end)'mHghw'and h[0x1](_+0x2ab))or _ end)}h[0x2](0x9d2)end){};local t=g(a(f));return t(...);end return z((function()local r={}local t=0x01;local h;if _.FthAn_hj then h=_.FthAn_hj(z)else h=''end if _.lqdXQeof(h,_.ukimjtIC)then t=t+0;else t=t+1;end r[t]=0x02;r[r[t]+0x01]=0x03;return r;end)(),...)end)((function(r,t,h,e,_,n)local n;if r>3 then if r>5 then if r<7 then do return _[h]end;else if r>3 then repeat if r>7 then do return h(r,nil,h);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(t,_,h,e,r)if r then return t[r]elseif e then return t else t[_]=h end end})end until true;else do return h(r,nil,h);end end end else if 5>r then local r=e;local d,l,n=_(2);do return function()local _,h,t,e=t(h,r(r,r),r(r,r)+3);r(4);return(e*d)+(t*l)+(h*n)+_;end;end;else local r=e;do return function()local t=t(h,r(r,r),r(r,r));r(1);return t;end;end;end end else if r<=1 then if r>=-3 then repeat if 1>r then do return t(1),t(4,_,e,h,t),t(5,_,e,h)end;break;end;do return function(r,t,h)if h then local t=(r/2^(t-1))%2^((h-1)-(t-1)+1);return t-t%1;else local t=2^(t-1);return(r%(t+t)>=t)and 1 or 0;end;end;end;until true;else do return function(r,t,h)if h then local t=(r/2^(t-1))%2^((h-1)-(t-1)+1);return t-t%1;else local t=2^(t-1);return(r%(t+t)>=t)and 1 or 0;end;end;end;end else if r>0 then repeat if 3>r then do return 16777216,65536,256 end;break;end;do return t(1),t(4,_,e,h,t),t(5,_,e,h)end;until true;else do return t(1),t(4,_,e,h,t),t(5,_,e,h)end;end end end end),...)
+--// PrizzLife, Fixed By Avitxzer/Maythe
+
+Execution_Runtime = tick() 
+PLadmin_Settings = { 
+	DefaultPrefix = "?"; 
+	JoinNotify = false; 
+	AutoRespawn = true; --Automatically loadcharacter when dying 
+	AntiVoid = true; --Automatically teleport up when falling into void 
+	AntiTase = false; --Prevents you from being tased (100% no getconnections used because its absolute garbage) 
+	AntiArrest = false; --Prevents you from being arrested (100% no getconnections used because its absolute garbage) 
+	AntiShoot = false; --Kills player who tries to shoot you (Will be delayed if you have shitty ping, *COUGH* PLDT Users) 
+	AntiPunch = false; --Instantly kill players who try to punch you 
+	AntiFling = false; --Prevent exploiters from flinging you 
+	AntiShield = false; --stop pay2win people and bypass their shields 
+	AntiBring = false; --Prevent other exploiter(s) from bringing you 
+	SilentAim = false; --Makes you shoot without missing a target 
+	AutoGuns = false; --Automatically get all guns 
+	OldItemMethod = false; --Use teleport for getting items (USE THIS IF PRISON LIFE PATCHES THE TABLE METHOD) 
+	Fullbright = false; --Enable fullbrightness 
+	WhitelistRanked = false; --Automatically whitelist ranked players (DO NOT USE WHEN RANKING ALL PLAYERS) 
+	RankedNukeCmds = true; --Allow ranked players to use nuke commands (Very annoying) 
+	RankedMultiCmd = true; --Allow ranked players to use the arguments: "all, and team", EX: ?kill all 
+	RankedOutput = true; --Chat the output commands of ranked players 
+	WhisperToRanked = true; --Use whisper for outputing commands for ranked players 
+};wait()
+
+Instance.new("Folder", game:GetService("Workspace")).Name = "PLADMIN LOADED SUCCESS"
+local PLAdmin = Instance.new("ScreenGui")
+local MainFrame = Instance.new("Frame")
+local ScriptName = Instance.new("TextLabel")
+local ExecBar = Instance.new("TextBox")
+local CloseButton = Instance.new("TextButton")
+local MinimizeButton = Instance.new("TextButton")
+local SettingButton = Instance.new("ImageButton")
+local Toggles_Frame = Instance.new("ScrollingFrame")
+local CMDS_Frame = Instance.new("ScrollingFrame")
+local UIListLayout = Instance.new("UIListLayout")
+local UIListLayout2 = Instance.new("UIListLayout")
+local UnloadScript = nil
+local Unloaded = false
+
+PLAdmin.Name = "PLAdmin"
+PLAdmin.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+PLAdmin.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+PLAdmin.ResetOnSpawn = false
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = PLAdmin
+MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+MainFrame.BorderSizePixel = 2
+MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+MainFrame.Size = UDim2.new(0, 250, 0, 155)
+MainFrame.Active = true
+MainFrame.Visible = false
+
+ScriptName.Name = "ScriptName"
+ScriptName.Parent = MainFrame
+ScriptName.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScriptName.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScriptName.BorderSizePixel = 0
+ScriptName.Size = UDim2.new(0, 250, 0, 17)
+ScriptName.Font = Enum.Font.SourceSans
+ScriptName.Text = "  PRIZZLIFE > CMDSLIST"
+ScriptName.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScriptName.TextSize = 13.000
+ScriptName.TextXAlignment = Enum.TextXAlignment.Left
+
+ExecBar.Name = "ExecBar"
+ExecBar.Parent = MainFrame
+ExecBar.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+ExecBar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ExecBar.BorderSizePixel = 2
+ExecBar.Position = UDim2.new(-1.22070318e-07, 0, 0.833333313, 0)
+ExecBar.Size = UDim2.new(0, 250, 0, 25)
+ExecBar.Font = Enum.Font.SourceSans
+ExecBar.TextColor3 = Color3.fromRGB(255, 255, 255)
+ExecBar.Text = ""
+ExecBar.PlaceholderText = "Command Bar"
+ExecBar.TextSize = 14.000
+ExecBar.ClearTextOnFocus = false
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = MainFrame
+CloseButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+CloseButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CloseButton.BorderSizePixel = 0
+CloseButton.Position = UDim2.new(0.930000007, 0, -0.00100000005, 0)
+CloseButton.Size = UDim2.new(0, 19, 0, 17)
+CloseButton.Font = Enum.Font.SourceSans
+CloseButton.Text = "X"
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.TextSize = 14.000
+
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = MainFrame
+MinimizeButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+MinimizeButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+MinimizeButton.BorderSizePixel = 0
+MinimizeButton.Position = UDim2.new(0.850000024, 0, -0.00100000005, 0)
+MinimizeButton.Size = UDim2.new(0, 19, 0, 17)
+MinimizeButton.Font = Enum.Font.SourceSans
+MinimizeButton.Text = "-"
+MinimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+MinimizeButton.TextSize = 14.000
+
+SettingButton.Name = "SettingButton"
+SettingButton.Parent = MainFrame
+SettingButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+SettingButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SettingButton.BorderSizePixel = 0
+SettingButton.Position = UDim2.new(0.769999981, 0, -0.00100000005, 0)
+SettingButton.Size = UDim2.new(0, 19, 0, 17)
+SettingButton.Image = "rbxassetid://11308562716"
+
+Toggles_Frame.Name = "Toggles_Frame"
+Toggles_Frame.Parent = MainFrame
+Toggles_Frame.Active = true
+Toggles_Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Toggles_Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Toggles_Frame.BorderSizePixel = 0
+Toggles_Frame.Position = UDim2.new(0, 0, 0.104999997, 0)
+Toggles_Frame.Size = UDim2.new(0, 250, 0, 111)
+Toggles_Frame.ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0)
+Toggles_Frame.ScrollBarThickness = 4
+Toggles_Frame.ElasticBehavior = Enum.ElasticBehavior.Never
+Toggles_Frame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+Toggles_Frame.ScrollingDirection = Enum.ScrollingDirection.Y
+Toggles_Frame.Visible = false
+
+UIListLayout2.Parent = Toggles_Frame
+UIListLayout2.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout2.Padding = UDim.new(0.0088999978, 0)
+UIListLayout2.VerticalAlignment = Enum.VerticalAlignment.Top
+
+CMDS_Frame.Name = "CMDS_Frame"
+CMDS_Frame.Parent = MainFrame
+CMDS_Frame.Active = true
+CMDS_Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+CMDS_Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CMDS_Frame.BorderSizePixel = 0
+CMDS_Frame.Position = UDim2.new(0, 0, 0.104999997, 0)
+CMDS_Frame.Size = UDim2.new(0, 250, 0, 111)
+CMDS_Frame.ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0)
+CMDS_Frame.ScrollBarThickness = 4
+CMDS_Frame.ElasticBehavior = Enum.ElasticBehavior.Never
+CMDS_Frame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+CMDS_Frame.ScrollingDirection = Enum.ScrollingDirection.Y
+
+UIListLayout.Parent = CMDS_Frame
+UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout.Padding = UDim.new(0.0088999978, 0)
+UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Top
+
+--Gui functions
+
+local UIS = game:GetService("UserInputService")
+function DraggifyFrame(Frame)
+	local dragToggle = nil
+	local dragSpeed = 0.50
+	local dragInput = nil
+	local dragStart = nil
+	local dragPos = nil
+	local startPos = nil
+	local  function updateInput(input)
+		local Delta = input.Position - dragStart
+		local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+		game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.30), {Position = Position}):Play()
+	end
+	Frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+			dragToggle = true
+			dragStart = input.Position
+			startPos = Frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	Frame.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	game:GetService("UserInputService").InputChanged:Connect(function(input)
+		if input == dragInput and dragToggle then
+			updateInput(input)
+		end
+	end)
+end
+
+Instance.new("Folder", game:GetService("Workspace")).Name = "PLADMIN LOADED SUCCESS"
+
+local PLAdmin = Instance.new("ScreenGui")
+local MainFrame = Instance.new("Frame")
+local ScriptName = Instance.new("TextLabel")
+local ExecBar = Instance.new("TextBox")
+local CloseButton = Instance.new("TextButton")
+local MinimizeButton = Instance.new("TextButton")
+local SettingButton = Instance.new("ImageButton")
+local Toggles_Frame = Instance.new("ScrollingFrame")
+local CMDS_Frame = Instance.new("ScrollingFrame")
+local UIListLayout = Instance.new("UIListLayout")
+local UIListLayout2 = Instance.new("UIListLayout")
+local UnloadScript = nil
+local Unloaded = false
+
+PLAdmin.Name = "PLAdmin"
+PLAdmin.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+PLAdmin.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+PLAdmin.ResetOnSpawn = false
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = PLAdmin
+MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+MainFrame.BorderSizePixel = 2
+MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+MainFrame.Size = UDim2.new(0, 295, 0, 185)
+MainFrame.Active = true
+
+
+ScriptName.Name = "ScriptName"
+ScriptName.Parent = MainFrame
+ScriptName.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScriptName.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ScriptName.BorderSizePixel = 0
+ScriptName.Size = UDim2.new(0, 295, 0, 20)
+ScriptName.Font = Enum.Font.SourceSans
+ScriptName.Text = "PrizzLife v0.8.1"
+ScriptName.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScriptName.TextSize = 18.000
+ScriptName.TextYAlignment = Enum.TextYAlignment.Top
+ScriptName.TextWrapped = true
+
+ExecBar.Name = "ExecBar"
+ExecBar.Parent = MainFrame
+ExecBar.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+ExecBar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ExecBar.BorderSizePixel = 2
+ExecBar.Position = UDim2.new(0, 0, 0.852162123, 0)
+ExecBar.Size = UDim2.new(0, 295, 0, 27)
+ExecBar.ZIndex = 2
+ExecBar.Font = Enum.Font.SourceSans
+ExecBar.TextColor3 = Color3.fromRGB(255, 255, 255)
+ExecBar.Text = ""
+ExecBar.PlaceholderText = "> Search / Execute <"
+ExecBar.TextSize = 15.000
+ExecBar.ClearTextOnFocus = false
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = MainFrame
+CloseButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+CloseButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CloseButton.BorderSizePixel = 0
+CloseButton.Position = UDim2.new(0.930000126, 0, -0.00100000738, 0)
+CloseButton.Size = UDim2.new(0, 20, 0, 19)
+CloseButton.Font = Enum.Font.SourceSans
+CloseButton.Text = "X"
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.TextSize = 14.000
+
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = MainFrame
+MinimizeButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+MinimizeButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+MinimizeButton.BorderSizePixel = 0
+MinimizeButton.Position = UDim2.new(0.836440682, 0, -0.00100000738, 0)
+MinimizeButton.Size = UDim2.new(0, 20, 0, 19)
+MinimizeButton.Font = Enum.Font.SourceSans
+MinimizeButton.Text = "-"
+MinimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+MinimizeButton.TextSize = 14.000
+
+SettingButton.Name = "SettingButton"
+SettingButton.Parent = MainFrame
+SettingButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+SettingButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SettingButton.BorderSizePixel = 0
+SettingButton.Position = UDim2.new(-0.00288127316, 0, -0.0064053922, 0)
+SettingButton.Size = UDim2.new(0, 20, 0, 19)
+SettingButton.Image = "rbxassetid://11308562716"
+
+Toggles_Frame.Name = "Toggles_Frame"
+Toggles_Frame.Parent = MainFrame
+Toggles_Frame.Active = true
+Toggles_Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+Toggles_Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Toggles_Frame.BorderSizePixel = 0
+Toggles_Frame.Position = UDim2.new(0, 0, 0.105000056, 0)
+Toggles_Frame.Size = UDim2.new(0, 295, 0, 137)
+Toggles_Frame.ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0)
+Toggles_Frame.ScrollBarThickness = 6
+Toggles_Frame.ElasticBehavior = Enum.ElasticBehavior.Never
+Toggles_Frame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+Toggles_Frame.ScrollingDirection = Enum.ScrollingDirection.Y
+Toggles_Frame.Visible = false
+
+UIListLayout2.Parent = Toggles_Frame
+UIListLayout2.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout2.Padding = UDim.new(0.0088999978, 0)
+UIListLayout2.VerticalAlignment = Enum.VerticalAlignment.Top
+
+CMDS_Frame.Name = "CMDS_Frame"
+CMDS_Frame.Parent = MainFrame
+CMDS_Frame.Active = true
+CMDS_Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+CMDS_Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CMDS_Frame.BorderSizePixel = 0
+CMDS_Frame.Position = UDim2.new(0, 0, 0.105000056, 0)
+CMDS_Frame.Size = UDim2.new(0, 295, 0, 137)
+CMDS_Frame.ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0)
+CMDS_Frame.ScrollBarThickness = 6
+CMDS_Frame.ElasticBehavior = Enum.ElasticBehavior.Never
+CMDS_Frame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+CMDS_Frame.ScrollingDirection = Enum.ScrollingDirection.Y
+
+UIListLayout.Parent = CMDS_Frame
+UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout.Padding = UDim.new(0.0088999978, 0)
+UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Top
+
+--Gui functions
+local DraggifyFrame = function(frame)
+	local dragging; local dragStartPos; local startPos
+	frame.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true; dragStartPos = input.Position; startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end); game:GetService("UserInputService").InputChanged:Connect(function(input)
+		if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+			local delta = input.Position - dragStartPos
+			frame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		end
+	end)
+end
+
+local AddList = function(args, description, isCategory)
+	if isCategory then
+		local newCategory = Instance.new("TextLabel")
+		newCategory.Name = "Category_Frame"
+		newCategory.Parent = CMDS_Frame
+		newCategory.BackgroundColor3 = Color3.fromRGB(12, 12, 12)
+		newCategory.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		newCategory.Size = UDim2.new(0, 288, 0, 20)
+		newCategory.Font = Enum.Font.SourceSans
+		newCategory.Text = args
+		newCategory.TextColor3 = Color3.fromRGB(255, 255, 255)
+		newCategory.TextScaled = true
+		newCategory.TextSize = 14.000
+		newCategory.TextWrapped = true
+		return
+	end
+	local NewFrame = Instance.new("Frame")
+	NewFrame.Name = "CMDFrame"
+	NewFrame.Parent = CMDS_Frame
+	NewFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NewFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	NewFrame.Size = UDim2.new(0, 288, 0, 50)
+	local TextLabel = Instance.new("TextLabel")
+	TextLabel.Parent = NewFrame
+	TextLabel.Name = "CMD_Name"
+	TextLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+	TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TextLabel.BorderSizePixel = 1
+	TextLabel.ZIndex = 2
+	TextLabel.Size = UDim2.new(0, 288, 0, 18)
+	TextLabel.Font = Enum.Font.SourceSans
+	TextLabel.Text = args
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextScaled = true
+	TextLabel.TextSize = 14.000
+	TextLabel.TextWrapped = true
+	TextLabel.TextYAlignment = Enum.TextYAlignment.Top
+	local TPos = TextLabel.Position
+	local NewDescription = Instance.new("TextLabel")
+	NewDescription.Parent = NewFrame
+	NewDescription.Name = "Description_Frame"
+	NewDescription.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+	NewDescription.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	NewDescription.BorderSizePixel = 0
+	NewDescription.ZIndex = 1
+	NewDescription.BorderMode = Enum.BorderMode.Outline
+	NewDescription.Size = UDim2.new(0, 288, 0, 32)
+	NewDescription.Font = Enum.Font.SourceSans
+	NewDescription.Text = description
+	NewDescription.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NewDescription.TextScaled = true
+	NewDescription.TextWrapped = true
+	NewDescription.TextSize = 14.000
+	NewDescription.Position = UDim2.new(TPos.X.Offset, TPos.X.Offset, TPos.Y.Scale + 0.37, TPos.Y.Offset)
+end
+
+local NewToggleList = function(title, description, defaultvalue, toggle, istextbox)
+	local NewFrame = Instance.new("Frame")
+	NewFrame.Name = "TOGFrame"
+	NewFrame.Parent = Toggles_Frame
+	NewFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	NewFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	NewFrame.Size = UDim2.new(0, 288, 0, 50)
+	local TextLabel = Instance.new("TextLabel")
+	TextLabel.Parent = NewFrame
+	TextLabel.Name = "TOG_Name"
+	TextLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+	TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TextLabel.BorderSizePixel = 1
+	TextLabel.ZIndex = 2
+	TextLabel.Size = UDim2.new(0, 288, 0, 18)
+	TextLabel.Font = Enum.Font.SourceSans
+	TextLabel.Text = title
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextScaled = true
+	TextLabel.TextSize = 14.000
+	TextLabel.TextWrapped = true
+	local TPos = TextLabel.Position
+	local TextUdim = UDim2.new(TPos.X.Offset, TPos.X.Offset, TPos.Y.Scale + 0.37, TPos.Y.Offset)
+	local NewDescription = istextbox and Instance.new("TextBox") or Instance.new("TextLabel")
+	NewDescription.Parent = NewFrame
+	NewDescription.Name = "Description_Frame"
+	NewDescription.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+	NewDescription.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	NewDescription.BorderSizePixel = istextbox and 1 or 0
+	NewDescription.ZIndex = 1
+	NewDescription.BorderMode = istextbox and Enum.BorderMode.Inset or Enum.BorderMode.Outline
+	NewDescription.Active = true
+	NewDescription.Size = UDim2.new(0, 255, 0, 32)
+	NewDescription.Font = Enum.Font.SourceSans
+	NewDescription.Text = description
+	NewDescription.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NewDescription.TextScaled = true
+	NewDescription.TextWrapped = true
+	NewDescription.TextSize = 14.000
+	NewDescription.Position = TextUdim
+	local TOGButton = Instance.new("ImageButton")
+	TOGButton.Name = "TOGButton"
+	TOGButton.Parent = NewFrame
+	TOGButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	TOGButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TOGButton.BorderSizePixel = 0
+	TOGButton.Position = UDim2.new(0.889166713, 0, 0.370000005, 0)
+	TOGButton.Size = UDim2.new(0, 32, 0, 32)
+	if defaultvalue == true then
+		TOGButton.Image = "rbxassetid://375691700"
+	elseif defaultvalue == false then
+		TOGButton.Image = "rbxassetid://5100484851"
+	elseif defaultvalue == "click" then
+		TOGButton.Image = "rbxassetid://11255462876"
+	end
+	if istextbox then
+		NewDescription.Text = ""; NewDescription.PlaceholderText = description
+		TOGButton.MouseButton1Click:Connect(function()
+			toggle(NewDescription.Text)
+		end)
+	else
+		TOGButton.MouseButton1Click:Connect(function()
+			local value = toggle()
+			if value then
+				TOGButton.Image = "rbxassetid://375691700"
+			else
+				TOGButton.Image = "rbxassetid://5100484851"
+			end
+		end)
+	end
+end
+--GUI Connections
+DraggifyFrame(MainFrame)
+
+MinimizeButton.MouseButton1Click:Connect(function()
+	if CMDS_Frame.Visible == false and not (Toggles_Frame.Visible == true) then
+		CMDS_Frame.Visible = true;SettingButton.Visible = true;Toggles_Frame.Visible = false
+		MainFrame.Size = UDim2.new(0,295,0,185);ExecBar.PlaceholderText = "> Search / Execute <"
+	else
+		Toggles_Frame.Visible = false;CMDS_Frame.Visible = false;SettingButton.Visible = false
+		MainFrame.Size = UDim2.new(0,295,0,22);ExecBar.PlaceholderText = "> CommandBar <"
+	end
+end)
+CloseButton.MouseButton1Click:Connect(function()
+	MainFrame.Visible = false
+	local TextButton=Instance.new("TextButton");TextButton.Parent=PLAdmin;TextButton.AnchorPoint=Vector2.new(0.5,0.5)
+	TextButton.BackgroundColor3=Color3.fromRGB(0,0,0);TextButton.BorderColor3=Color3.fromRGB(255,255,255);TextButton.BorderSizePixel=2
+	TextButton.Position=UDim2.new(0.05,0,0.5,0);TextButton.Size=UDim2.new(0,80,0,22);TextButton.Font=Enum.Font.SourceSans
+	TextButton.Text="OPEN";TextButton.TextColor3=Color3.fromRGB(255,255,255);TextButton.TextSize=14.000
+	local con;con=TextButton.MouseButton1Click:Connect(function()
+		con:Disconnect();TextButton:Destroy();MainFrame.Visible = true
+	end)
+end)
+SettingButton.MouseButton1Click:Connect(function()
+	if CMDS_Frame.Visible == true then
+		CMDS_Frame.Visible = false;Toggles_Frame.Visible = true;ExecBar.PlaceholderText = "> Search Settings <"
+	else
+		Toggles_Frame.Visible = false;CMDS_Frame.Visible = true;ExecBar.PlaceholderText = "> Seach / Execute <"
+	end
+end)
+ExecBar:GetPropertyChangedSignal("Text"):Connect(function()
+	local filteredLabels,otherLabels,searchQuery = {},{},ExecBar.Text
+	for _, label in pairs(CMDS_Frame:GetChildren()) do
+		if label:IsA("Frame") then
+			if label:FindFirstChild("CMD_Name").Text:lower():find(searchQuery:lower()) then
+				table.insert(filteredLabels,label)
+			else table.insert(otherLabels,label); end
+		elseif label:IsA("TextLabel") then
+			if label.Text:lower():find(searchQuery:lower()) then
+				table.insert(filteredLabels,label)
+			else table.insert(otherLabels,label); end
+		end
+	end;for i, tog in pairs(Toggles_Frame:GetChildren()) do
+		if tog:IsA("Frame") then
+			if tog:FindFirstChild("TOG_Name").Text:lower():find(searchQuery:lower()) then
+				table.insert(filteredLabels,tog)
+			else table.insert(otherLabels,tog); end
+		end
+	end;for i, label in ipairs(filteredLabels) do
+		label.Visible = true; label.LayoutOrder = i
+	end;for i, label in ipairs(otherLabels) do
+		label.Visible = false; label.LayoutOrder = #filteredLabels + i
+	end
+end)
+
+--Variables
+local Camera = game:GetService("Workspace").CurrentCamera
+local Rstorage = game:GetService("ReplicatedStorage")
+local Rservice = game:GetService("RunService")
+local Hbeat = Rservice.Heartbeat
+local Rstep = Rservice.RenderStepped
+local Stepped = Rservice.Stepped
+local Players = game:GetService("Players")
+local Teams = game:GetService("Teams")
+local LocalPlayer = Players.LocalPlayer
+local RegModule = nil
+
+local Prefix = "?"
+--Tables
+local Teleports = {
+	nspawn = CFrame.new(879, 28, 2349);
+	cells = CFrame.new(918.9735107421875, 99.98998260498047, 2451.423583984375);
+	nexus = CFrame.new(877.929688, 99.9899826, 2373.57031, 0.989495575, 1.64841456e-08, 0.144563332, -3.13438235e-08, 1, 1.00512544e-07, -0.144563332, -1.0398788e-07, 0.989495575);
+	armory = CFrame.new(836.130432, 99.9899826, 2284.55908, 0.999849498, 5.64007507e-08, -0.0173475463, -5.636889e-08, 1, 2.3254485e-09, 0.0173475463, -1.34723666e-09, 0.999849498);
+	yard = CFrame.new(787.560425, 97.9999237, 2468.32056, -0.999741256, -7.32754017e-08, -0.0227459427, -7.49895506e-08, 1, 7.45077955e-08, 0.0227459427, 7.6194226e-08, -0.999741256);
+	crimbase = CFrame.new(-864.760071, 94.4760284, 2085.87671, 0.999284029, 1.78674284e-08, 0.0378339142, -1.85715123e-08, 1, 1.82584365e-08, -0.0378339142, -1.89479969e-08, 0.999284029);
+	cafe = CFrame.new(884.492798, 99.9899368, 2293.54907, -0.0628612712, -2.14097344e-08, -0.998022258, -9.52544568e-08, 1, -1.54524784e-08, 0.998022258, 9.40947018e-08, -0.0628612712);
+	kitchen = CFrame.new(936.633118, 99.9899368, 2224.77148, -0.00265917974, -9.30829671e-08, 0.999996483, -3.28682326e-08, 1, 9.29958901e-08, -0.999996483, -3.26208252e-08, -0.00265917974);
+	roof = CFrame.new(918.694092, 139.709427, 2266.60986, -0.998788536, -7.55880691e-08, -0.0492084064, -7.8453354e-08, 1, 5.62961198e-08, 0.0492084064, 6.00884817e-08, -0.998788536);
+	vents = CFrame.new(933.55376574342, 121.534234671875, 2232.7952174975);
+	office = CFrame.new(706.1928465, 103.14982749, 2344.3957382525);
+	ytower = CFrame.new(786.731873, 125.039917, 2587.79834, -0.0578307845, 8.82393678e-08, 0.998326421, 6.09781523e-08, 1, -8.48549675e-08, -0.998326421, 5.59688687e-08, -0.0578307845);
+	gtower = CFrame.new(505.551605, 125.039917, 2127.41138, -0.99910152, 5.44945458e-08, 0.0423811078, 5.36830491e-08, 1, -2.02856469e-08, -0.0423811078, -1.79922726e-08, -0.99910152);
+	garage = CFrame.new(618.705566, 98.039917, 2469.14136, 0.997341573, 1.85835844e-08, -0.0728682056, -1.79448154e-08, 1, 9.42077172e-09, 0.0728682056, -8.0881204e-09, 0.997341573);
+	sewers = CFrame.new(917.123657, 78.6990509, 2297.05298, -0.999281704, -9.98203404e-08, -0.0378962979, -1.01324503e-07, 1, 3.77708638e-08, 0.0378962979, 4.15835579e-08, -0.999281704);
+	neighborhood = CFrame.new(-281.254669, 54.1751289, 2484.75513, 0.0408788249, 3.26279768e-08, 0.999164104, -3.88249717e-08, 1, -3.10668256e-08, -0.999164104, -3.75225433e-08, 0.0408788249);
+	gas = CFrame.new(-497.284821, 54.3937759, 1686.3175, 0.585129559, -4.33374865e-08, -0.810939848, 5.33533938e-13, 1, -5.34406759e-08, 0.810939848, 3.12692876e-08, 0.585129559);
+	deadend = CFrame.new(-979.852478, 54.1750259, 1382.78967, 0.0152699631, 8.88235174e-09, 0.999883413, 6.75286884e-08, 1, -9.9146682e-09, -0.999883413, 6.76722109e-08, 0.0152699631);
+	store = CFrame.new(455.089508, 11.4253607, 1222.89746, 0.99995482, -3.92535604e-09, 0.00950394664, 2.84450263e-09, 1, 1.1374032e-07, -0.00950394664, -1.13708147e-07, 0.99995482);
+	roadend = CFrame.new(1060.81995, 67.5668106, 1847.08923, 0.0752086118, -1.01192255e-08, -0.997167826, 4.30985886e-10, 1, -1.01154605e-08, 0.997167826, 3.31004502e-10, 0.0752086118);
+	trapbuilding = CFrame.new(-306.715485, 84.2401199, 1984.13367, -0.802221119, 5.70582088e-08, -0.597027004, 4.81801123e-08, 1, 3.08312771e-08, 0.597027004, -4.0313255e-09, -0.802221119);
+	mansion = CFrame.new(-315.790436, 64.5724411, 1840.83521, 0.80697298, -4.47871713e-08, 0.590588331, 1.14004006e-08, 1, 6.02574701e-08, -0.590588331, -4.18932053e-08, 0.80697298);
+	trapbase = CFrame.new(-943.973145, 94.1287613, 1919.73694, 0.025614135, -1.48015129e-08, 0.999671876, 1.00375175e-07, 1, 1.22345032e-08, -0.999671876, 1.00028863e-07, 0.025614135);
+	buildingroof = CFrame.new(-317.689331, 118.838821, 2009.28186, 0.749499857, 2.48145682e-09, 0.662004471, 3.51757373e-10, 1, -4.14664703e-09, -0.662004471, 3.34077632e-09, 0.749499857);
+};
+local Saved = {
+	WalkSpeed = nil;
+	RunSpeed = 25;
+	NormalSpeed = 16;
+	JumpPower = nil;
+	NormalJump = 50;
+	SpinToolRadius = 8;
+	SpinToolSpeed = 10;
+	KillDebounce = {};
+	MKillDebounce = {};
+	Cars = {};
+	PCEvents = {};
+	Thread = {};
+};
+local Toggles = {
+	ok = false;
+	AutoRespawn = true;
+	AutoFire = false;
+	AutoFireRate = false;
+	AutoGuns = false;
+	AutoItems = false;
+	AutoInfiniteAmmo = false;
+	AutoGunMods = false;
+	AntiBring = false;
+	AntiTase = false;
+	AntiArrest = false;
+	AntiPunch = false;
+	AntiStun = false;
+	Antishoot = false;
+	AntiShield = false;
+	ArrestBack = false;
+	PunchAura = false;
+	SpamPunch = false;
+	Onepunch = false;
+	Oneshot = false;
+	Headshot = false;
+	Silentaim = false;
+	Noclip = false;
+	FriendlyFire = false;
+	MeleeAura = false;
+	ArrestAura = false;
+	MeleeTouch = false;
+	TKA = {
+		Guard = false;
+		Inmate = false;
+		Criminal = false;
+		Enemies = false;
+	};
+	ESP = false;
+};
+local States = {
+	ok = false;
+	Running = false;
+	AntiVoid = true;
+	AntiFling = false;
+	AntiVelocity = false;
+	Invisible = false;
+	Speeding = false;
+	JumpPower = false;
+	IsBringing = false;
+	ReplicateEvent = true;
+	SpinnyTools = false;
+	ForceField = false;
+	LoudPunch = false;
+	ClickTeleport = false;
+	ClickKill = false;
+	ClickArrest = false;
+	ClickTase = false;
+	ClickFling = false;
+	ClickGoto = false;
+	ClickBring = false;
+};
+local Loops = {
+	KillTeams = {
+		All = false;
+		Guards = false;
+		Inmates = false;
+		Criminals = false;
+		Neutrals = false;
+		Hostiles = false;
+	};
+	MeleeTeams = {
+		All = false;
+		Guards = false;
+		Inmates = false;
+		Criminals = false;
+		Neutrals = false;
+	};
+	ArrestTeams = {
+		Inmate = false;
+		Guard = false;
+		Criminal = false;
+	};
+	AutoArresting = {
+		Plr = {};
+		All = false;
+	};
+	TaseTeams = {
+		All = false;
+		Inmates = false;
+		Criminals = false;
+	};
+	Kill = {};
+	MeleeKill = {};
+	RandomKill = {};
+	ShootKill = {};
+	PunchKill = {};
+	VoidKill = {};
+	Voided = {};
+	Trapped = {};
+	Tase = {};
+	Arrest = {};
+	MakeCrim = {};
+	Fling = {};
+	CarFling = {};
+};
+local Powers = {
+	Killauras = {};
+	Taseauras = {};
+	Antitouch = {};
+	Antipunch = {};
+	Antishoot = {};
+	Antiarrest = {};
+	Onepunch = {};
+	Punchaura = {};
+	Oneshot = {};
+	FriendlyFire = {};
+	DeathNuke = {};
+};
+local Settings = {
+	KillauraThreshold = 17;
+	JoinNotify = false;
+	PrintDebug = string.sub(LocalPlayer.Name, 1, 5) == "TheDestroyer" or string.sub(LocalPlayer.Name, 1, 9) == "devang099";
+	User = {
+		RankedCmds = true;
+		HiddenMelee = false;
+		HiddenArrest = false;
+		AutoDumpCar = false;
+		OldItemMethod = false;
+	};
+	Ranked = {
+		AutoWhitelist = false;
+		WhisperMode = true;
+		Output = true;
+		KillCmds = true;
+		LoopCmds = true;
+		MultiCmd = true;
+		Tase = true;
+		Arrest = true;
+		Fling = true;
+		Killaura = true;
+		Nuke = true;
+		Teleport = true;
+		BringGoto = true;
+		TrapVoid = true;
+		CarSpawn = true;
+		Opendoors = true;
+		AllowPowers = true;
+		CrashCmds = false;
+		GiveCmds = false;
+		GiveOthersPowers = true;
+	};
+};
+local RankedPlrs = {};
+local Whitelisted = {};
+local Connections = {};
+local ChatCon = {};
+local SavedPositions = {};
+local SavedArgs = {};
+local CmdQueue = {};
+local LocPL = {
+	Gamepass = nil;
+	UIN = LocalPlayer.Name;
+	UID = LocalPlayer.UserId;
+	ShittyExecutor = nil;
+	isTouch = game:GetService("UserInputService").TouchEnabled;
+	isMouse = game:GetService("UserInputService").MouseEnabled;
+};
+local Threads, Tasks = nil, nil
+
+--Functions
+local deprint = function(args)
+	if Settings.PrintDebug then
+		print(args)
+	end
+end
+
+local dewarn = function(args)
+	if Settings.PrintDebug then
+		warn(args)
+	end
+end
+
+local waitfor = function(source, args, interval)
+	local int = interval or 5
+	local timeout = tick() + int
+	repeat Stepped:Wait() until source:FindFirstChild(args) or tick() - timeout >=0
+	timeout = nil
+	if source:FindFirstChild(args) then
+		return source:FindFirstChild(args)
+	else
+		return nil
+	end
+end
+
+local SaveCamPos = function()
+	SavedPositions.OldCameraPos = Camera.CFrame
+end
+
+local LoadCamPos = function()
+	Rstep:Wait()
+	Camera.CFrame = SavedPositions.OldCameraPos or Camera.CFrame
+end
+
+local LocTP = function(cframe)
+	LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = cframe
+end
+
+local Notif = function(Title, Text, Duration)
+	local Duration = Duration
+	if not Duration then
+		Duration = 3
+	end
+	game:GetService("StarterGui"):SetCore("SendNotification", {
+		Title = Title;
+		Text = Text;
+		Icon = "";
+		Duration = Duration;
+	})
+end
+
+local PromptUser = function(Title, Text, Duration, Button1, Button2, DaCallback, DeCallback, waitresponse)
+	local Bindable, Responded = Instance.new("BindableFunction"), false
+	function Bindable.OnInvoke(response)
+		if response == Button1 then
+			if DaCallback then
+				DaCallback()
+			end
+		elseif response == Button2 then
+			if DeCallback then
+				DeCallback()
+			end
+		end
+		Responded = true
+	end;game:GetService("StarterGui"):SetCore("SendNotification", {
+		Title = Title;
+		Text = Text;
+		Duration = Duration;
+		Callback = Bindable;
+		Button1 = Button1;
+		Button2 = Button2;
+	})
+	if waitresponse then
+		local tictowait = tick() + Duration + 1
+		repeat task.wait() until tick() - tictowait >=0 or Responded;tictowait = nil
+		Bindable:Destroy();Bindable = nil;Responded = nil
+	else
+		task.spawn(function()
+			local tictowait = tick() + Duration + 1
+			repeat task.wait() until tick() - tictowait >=0 or Responded;tictowait = nil
+			Bindable:Destroy();Bindable = nil;Responded = nil
+		end)
+	end
+end
+
+local SysMessage = function(datext, dacolor)
+	game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+		['Text'] = datext;
+		['Color'] = dacolor or Color3.fromRGB(255, 0, 0);
+		['Font'] = Enum.Font.SourceSansBold;
+		['FontSize'] = Enum.FontSize.Size24;
+	})
+end
+
+local Chat = function(args, isWhisper, isSilent)
+	if isSilent then
+		local serv = game:GetService("Players").Chat
+		serv(Players, args)
+		return
+	end
+	if isWhisper then
+		Rstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("/w " .. isWhisper.Name .. " " .. args, "All")
+	else
+		Rstorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(args, "All")
+	end
+end
+
+local VKeyPress = function(args, args2, waits)
+	if args2 == "Press" then
+		game:GetService("VirtualInputManager"):SendKeyEvent(true, args, false, game)
+		task.wait(.1)
+		game:GetService("VirtualInputManager"):SendKeyEvent(false, args, false, game)
+	elseif args2 == "Hold" then
+		game:GetService("VirtualInputManager"):SendKeyEvent(true, args, false, game)
+	elseif args2 == "UnHold" then
+		game:GetService("VirtualInputManager"):SendKeyEvent(false, args, false, game)
+	elseif args2 == "HoldWait" and waits then
+		game:GetService("VirtualInputManager"):SendKeyEvent(true, args, false, game)
+		wait(waits)
+		game:GetService("VirtualInputManager"):SendKeyEvent(false, args, false, game)
+	end
+end
+
+local LAction = function(args, args2)
+	if args == "sit" then
+		LocalPlayer.Character:FindFirstChild("Humanoid").Sit = true
+	elseif args == "unsit" then
+		if args2 then
+			local human = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+			for i = 1, 8 do Hbeat:Wait();human.Sit=false;Rstep:Wait();human.Sit=false;Stepped:Wait();human.Sit=false end
+		end;LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):ChangeState(Enum.HumanoidStateType.Running)
+	elseif args == "speed" then
+		LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed = args2
+	elseif args == "jumppw" then
+		LocalPlayer.Character:FindFirstChild("Humanoid").JumpPower = args2
+	elseif args == "die" then
+		LocalPlayer.Character:FindFirstChild("Humanoid").Health = 0
+	elseif args == "died" then
+		LocalPlayer.Character:FindFirstChildWhichIsA("Humanoid"):ChangeState(Enum.HumanoidStateType.Dead)
+	elseif args == "jump" then
+		LocalPlayer.Character:FindFirstChild("Humanoid"):ChangeState(Enum.HumanoidStateType.Jumping)
+	elseif args == "state" then
+		LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):ChangeState(args2)
+	elseif args == "equip" then
+		LocalPlayer.Character:FindFirstChild("Humanoid"):EquipTool(args2)
+	elseif args == "unequip" then
+		LocalPlayer.Character:FindFirstChild("Humanoid"):UnequipTools()
+	end
+end
+--Command functions
+local PlrFromArgs = function(plr, args)
+	if plr and plr:lower() == "me" then
+		return args
+	elseif not plr and not args then
+		return false
+	elseif not plr and args then
+		return args
+	end
+	local foundplr = false
+	for i,v in pairs(Players:GetPlayers()) do
+		local Name, DisplayName = v.Name:lower(), v.DisplayName:lower()
+		if Name:sub(1, #plr) == plr:lower() or DisplayName:sub(1, #plr) == plr:lower() then
+			foundplr = v
+		end
+	end
+	return foundplr
+end
+
+local GetRandomPlr = function(args)
+	local DaPlayers = Players:GetPlayers()
+	local DaIndex = math.random(1, #DaPlayers)
+	local ToReturn = DaPlayers[DaIndex]
+	if args and ToReturn.UserId == args.UserId then
+		DaPlayers = Players:GetPlayers(); DaIndex = math.random(1, #DaPlayers); ToReturn = DaPlayers[DaIndex]
+	end
+	return ToReturn
+end
+--i made it into a whole useless function just to save my hands
+local CheckWhitelist = function(args)
+	return not (Whitelisted[args.UserId] or Settings.Ranked.AutoWhitelist and RankedPlrs[args.UserId])
+end
+
+local MeleEve = function(args)
+	Rstorage.meleeEvent:FireServer(args)
+end
+
+local TeamEve = function(args)
+	workspace.Remote.TeamEvent:FireServer(args)
+end
+
+local ArrestEve = function(args, repeated, interval)
+	if repeated then
+		for i = 1, repeated do
+			if interval then task.wait(interval) end
+			task.spawn(function()
+				if args.Character:FindFirstChild("Humanoid") and args.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+					workspace.Remote.arrest:InvokeServer(args.Character:FindFirstChildWhichIsA("Part"))
+				end
+			end)
+		end
+	else
+		workspace.Remote.arrest:InvokeServer(args.Character:FindFirstChildWhichIsA("Part"))
+	end
+end
+
+local RTPing = function(value)
+	if value then
+		task.wait(value)
+	end
+	local RT1 = tick()
+	pcall(function()
+		workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.buttons["Car Spawner"]["Car Spawner"])
+	end)
+	local RT2 = tick()
+	local RoundTrip = (RT2-RT1) * 1000
+	return RoundTrip
+end
+
+local CPing = function(ConvertToHuman, OneWayTrip)
+	if ConvertToHuman then
+		return OneWayTrip and LocalPlayer:GetNetworkPing() * 1000 or game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValue()
+	else
+		return OneWayTrip and LocalPlayer:GetNetworkPing() or game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValue() / 1000
+	end
+end
+
+local TeamTo = function(args)
+	local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame; SavedPositions.AutoRe = tempos; SaveCamPos()
+	if args == "criminal" then
+		if LocalPlayer.TeamColor.Name == "Medium stone grey" then
+			TeamEve("Bright orange")
+		end
+		workspace["Criminals Spawn"].SpawnLocation.CanCollide = false
+		repeat
+			pcall(function()
+				workspace["Criminals Spawn"].SpawnLocation.CFrame = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			end)
+			Stepped:Wait()
+		until LocalPlayer.TeamColor == BrickColor.new("Really red")
+		workspace['Criminals Spawn'].SpawnLocation.CFrame = SavedPositions.Crimpad
+		return
+	elseif args == "inmate" then
+		TeamEve("Bright orange")
+	elseif args == "guard" then
+		TeamEve("Bright blue")
+		if #Teams.Guards:GetPlayers() > 7 then
+			return
+		end
+	end
+	LocalPlayer.CharacterAdded:Wait(); waitfor(LocalPlayer.Character, "HumanoidRootPart", 5).CFrame = tempos; LoadCamPos()
+end
+
+local ItemGrab = function(source, args)
+	local lroot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart"); local timeout = tick() + 5
+	if lroot then SavedPositions.GetGunOldPos = not SavedPositions.GetGunOldPos and lroot.CFrame or SavedPositions.GetGunOldPos; end
+	local DaItem = source:FindFirstChild(args); local ItemPickup = DaItem.ITEMPICKUP; local IPickup = ItemPickup.Position
+	if lroot then LocTP(CFrame.new(IPickup)); end; repeat task.wait()
+		pcall(function()
+			LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit = false; LocTP(CFrame.new(IPickup))
+		end); task.spawn(function()
+			game:GetService("Workspace").Remote.ItemHandler:InvokeServer(ItemPickup)
+		end)
+	until LocalPlayer.Backpack:FindFirstChild(args) or LocalPlayer.Character:FindFirstChild(args) or tick() - timeout >=0
+	pcall(function() LocTP(SavedPositions.GetGunOldPos); end); SavedPositions.GetGunOldPos = nil
+end
+
+local ItemHand = function(source, args)
+	if source and source == "old" then
+		game:GetService("Workspace").Remote.ItemHandler:InvokeServer(args)
+		return
+	end; if Settings.User.OldItemMethod then
+		if source then
+			ItemGrab(source, args)
+		else
+			for _,sources in pairs(workspace.Prison_ITEMS:GetChildren()) do
+				if sources:FindFirstChild(args) then
+					ItemGrab(source, args)
+					break
+				end
+			end
+		end
+		return
+	end; if source then
+		workspace.Remote.ItemHandler:InvokeServer({Position = LocalPlayer.Character.Head.Position, Parent = source:FindFirstChild(args)})
+	else
+		workspace.Remote.ItemHandler:InvokeServer({Position = LocalPlayer.Character.Head.Position, Parent = workspace.Prison_ITEMS.giver:FindFirstChild(args) or workspace.Prison_ITEMS.single:FindFirstChild(args)})
+	end
+end
+
+local Gun = function(args) 
+	if Settings.User.OldItemMethod then
+		ItemHand(workspace["Prison_ITEMS"].giver, args)
+		return
+	end; workspace.Remote.ItemHandler:InvokeServer({Position = LocalPlayer.Character.Head.Position, Parent = workspace.Prison_ITEMS.giver:FindFirstChild(args) or workspace.Prison_ITEMS.single:FindFirstChild(args)})
+end
+
+local AllGuns = function()
+	if Settings.User.OldItemMethod then
+		Gun("AK-47")
+		Gun("Remington 870")
+	else
+		task.spawn(Gun, "AK-47")
+		task.spawn(Gun, "Remington 870")
+	end
+	Gun("M9")
+	if LocPL.Gamepass then
+		Gun("M4A1")
+	end; task.wait()
+end
+
+local SpawnClientStuff = function(arg)
+	if arg == "superknife" then
+		ItemHand(false, "Crude Knife")
+		local knife = LocalPlayer.Backpack:FindFirstChild("Crude Knife") or LocalPlayer.Character:FindFirstChild("Crude Knife")
+		local animate = Instance.new("Animation", knife)
+		animate.AnimationId = "rbxassetid://218504594"
+		local animtrack = LocalPlayer.Character:FindFirstChild("Humanoid"):LoadAnimation(animate)
+		local attacking = false
+		local inPutCon = game:GetService("UserInputService").InputBegan:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+				if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Crude Knife") then
+					if not attacking then
+						attacking = true
+						animtrack:Play()
+						for i,v in pairs(Players:GetPlayers()) do
+							if not (v == LocalPlayer) then
+								if v.Character and v.Character:FindFirstChild("Humanoid") then
+									if not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+										local LPart, VPart = LocalPlayer.Character.PrimaryPart, v.Character.PrimaryPart
+										if LPart and VPart then
+											if (LPart.Position-VPart.Position).Magnitude <= 5 then
+												for i = 1, 15 do
+													MeleEve(v)
+												end
+											end
+										end
+									end
+								end
+							end
+						end
+						task.wait(.1)
+						attacking = false
+					end
+				end
+			end
+		end)
+		task.spawn(function()
+			LocalPlayer.CharacterAdded:Wait()
+			inPutCon:Disconnect(); animate:Destroy()
+			animate = nil; animtrack = nil; inPutCon = nil
+		end)
+	elseif arg == "bat" then
+		local tool = Instance.new("Tool", LocalPlayer.Backpack)
+		tool.GripPos = Vector3.new(0.1, -1, 0)
+		tool.Name = "Bat"
+		local handle = Instance.new("Part", tool)
+		handle.Name = "Handle"
+		handle.Size = Vector3.new(0.4, 4, 0.4)
+		local animate = Instance.new("Animation", tool)
+		animate.AnimationId = "rbxassetid://218504594"
+		local animtrack = LocalPlayer.Character.Humanoid:LoadAnimation(animate)
+		local attacking = false
+		local activate = tool.Activated:Connect(function()
+			if not attacking then
+				attacking = true
+				animtrack:Play()
+				task.wait(.1)
+				attacking = false
+			end
+		end)
+		local Touched = handle.Touched:Connect(function(part)
+			if attacking then
+				local human = part.Parent:FindFirstChild("Humanoid")
+				if human then
+					local plr = Players:FindFirstChild(part.Parent.Name)
+					if plr then
+						for i = 1, 10 do
+							MeleEve(plr)
+						end
+					end
+				end
+			end
+		end)
+		task.spawn(function()
+			LocalPlayer.CharacterAdded:Wait()
+			activate:Disconnect(); Touched:Disconnect()
+			handle:Destroy(); tool:Destroy(); animate:Destroy()
+			animtrack = nil; animate = nil; attacking = nil
+		end)
+	elseif arg == "clicktp" then
+		local newTool = Instance.new("Tool")
+		newTool.RequiresHandle = false
+		newTool.Name = "Click-TP"
+		newTool.Parent = LocalPlayer.Backpack
+		local tempocon = nil
+		tempocon = newTool.Activated:Connect(function()
+			local Get = LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+			local Wi = LocalPlayer:GetMouse().Hit
+			local Fi = Wi.Position + Vector3.new(0, 2.5, 0)
+			local Anywhere = Fi-Get.Position
+			local YouGo = Get.CFrame + Anywhere
+			Get.CFrame = YouGo
+		end)
+		task.spawn(function()
+			LocalPlayer.CharacterAdded:Wait()
+			newTool:Destroy(); tempocon:Disconnect()
+			newTool = nil; tempocon = nil;
+		end)
+	elseif arg == "btools" then
+		local hammer = Instance.new("HopperBin", LocalPlayer.Backpack)
+		local gametool = Instance.new("HopperBin", LocalPlayer.Backpack)
+		local scriptt = Instance.new("HopperBin", LocalPlayer.Backpack)
+		local grab = Instance.new("HopperBin", LocalPlayer.Backpack)
+		local clonee = Instance.new("HopperBin", LocalPlayer.Backpack)
+		hammer.BinType = "Hammer"
+		gametool.BinType = "GameTool"
+		scriptt.BinType = "Script"
+		grab.BinType = "Grab"
+		clonee.BinType = "Clone"
+	end
+end
+
+local AllItems = function()
+	AllGuns()
+	if not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+		ItemHand(false, "Crude Knife");ItemHand(false, "Hammer")
+	elseif LocPL.Gamepass then
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			ItemHand(false, "Riot Shield");ItemHand(workspace.Prison_ITEMS.clothes, "Riot Police")
+		end;ItemHand(workspace.Prison_ITEMS.hats, "Riot helmet");ItemHand(workspace.Prison_ITEMS.hats, "Ski mask")
+	end
+	local Food = workspace.Prison_ITEMS.giver:FindFirstChild("Dinner") or workspace.Prison_ITEMS.giver:FindFirstChild("Breakfast") or workspace.Prison_ITEMS.giver:FindFirstChild("Lunch")
+	if Food then
+		ItemHand(false, Food.Name)
+	end;if workspace.Prison_ITEMS.single:FindFirstChild("Key card") then
+		ItemHand(workspace.Prison_ITEMS.single, "Key card")
+	end
+	SpawnClientStuff("bat");SpawnClientStuff("btools")
+end
+
+local GetIllegalReg = function(args)
+	local RegPlr = nil
+	if args.Character and RegModule then
+		for i,v in pairs(Rstorage:FindFirstChild("PermittedRegions"):GetChildren()) do
+			if RegModule.findRegion(args.Character) then
+				RegPlr = RegModule.findRegion(args.Character)["Name"]
+			end
+			if v.Value == RegPlr then
+				return false
+			end
+		end
+		return true
+	else return true end
+end
+--ClientInputHandler my ass
+local VirtualPunch = function(args)
+	task.delay(0, function()
+		if not (LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")) then
+			return
+		end;for _, animationTrack in ipairs(LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):FindFirstChildOfClass("Animator"):GetPlayingAnimationTracks()) do
+			if animationTrack.Animation.AnimationId == "rbxassetid://484200742" or animationTrack.Animation.AnimationId == "rbxassetid://484926359" then
+				animationTrack:Stop(); animationTrack:Destroy()
+			end
+		end
+		local Sapakan = math.random(1, 2);local animtoload = nil;local newAnim = Instance.new("Animation")
+		if Sapakan == 1 then
+			newAnim.AnimationId="rbxassetid://484200742";animtoload=LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):FindFirstChildOfClass("Animator"):LoadAnimation(newAnim)
+		else
+			newAnim.AnimationId="rbxassetid://484926359";animtoload=LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):FindFirstChildOfClass("Animator"):LoadAnimation(newAnim)
+		end;animtoload.Looped=false;animtoload:Play(); task.wait(animtoload.Length); newAnim:Destroy();animtoload:Stop();animtoload:Destroy();newAnim=nil;animtoload=nil;Sapakan=nil
+	end)
+	local LHead = LocalPlayer.Character:FindFirstChild("Head")
+	local magnit = Toggles.PunchAura and 20 or 2.5
+	if not args then
+		for i,v in pairs(Players:GetPlayers()) do
+			if v ~= LocalPlayer then
+				local VChar = v.Character
+				local VHead = VChar:FindFirstChild("Head")
+				if VHead and LHead then
+					if (LHead.Position-VHead.Position).Magnitude <= magnit then
+						local sound = VHead.punchSound; sound.Volume = 1; sound:Play()
+						if Toggles.Onepunch then
+							for i = 1, 15 do
+								MeleEve(v)
+							end
+						else
+							MeleEve(v)
+						end; game:GetService("ReplicatedStorage").SoundEvent:FireServer(sound)
+						if not Toggles.PunchAura then
+							break
+						end
+					end
+				end
+			end
+		end
+	elseif args then
+		local AChar = args.Character
+		local AHead = AChar:FindFirstChild("Head")
+		if (LHead.Position-AHead.Position).Magnitude <= magnit then
+			local sound = AHead.punchSound; sound.Volume = 1; sound:Play()
+			if Toggles.Onepunch then
+				for i = 1, 15 do
+					MeleEve(args)
+				end
+			else
+				MeleEve(args)
+			end; game:GetService("ReplicatedStorage").SoundEvent:FireServer(sound)
+		end
+	end
+	if States.LoudPunch then
+		for i,v in pairs(Players:GetPlayers()) do
+			if v and v.Character and v.Character:FindFirstChild("Head") then
+				local head = v.Character:FindFirstChild("Head")
+				local vol = head.punchSound
+				if v == LocalPlayer then
+					vol:Play()
+				end; Rstorage.SoundEvent:FireServer(vol)
+			end
+		end
+	end
+end
+--executor functions suck anyways, rely on physics engine instead
+local OpenDoors = function(includeGate)
+	local oldteam = nil
+	if #Teams.Guards:GetPlayers() >= 8 and not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+		Notif("Error", "Guards team full.")
+		return
+	elseif not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+		oldteam = LocalPlayer.TeamColor; SaveCamPos(); TeamTo("guard"); waitfor(LocalPlayer.Character, "HumanoidRootPart", 3)
+	end; if includeGate then
+		local laspos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+		local gate = game:GetService("Workspace")["Prison_ITEMS"].buttons["Prison Gate"]["Prison Gate"]
+		for i = 1, 4 do
+			LocTP(gate:GetPivot())
+			workspace.Remote.ItemHandler:InvokeServer(gate)
+		end; LocTP(laspos)
+	end; local hascollision = {}
+	for i,v in pairs(workspace.Doors:GetChildren()) do
+		if v:IsA("Model") then
+			local pivot = v:GetPivot(); v:PivotTo(LocalPlayer.Character:GetPivot())
+			for _,vv in pairs(v:GetDescendants()) do
+				if vv:IsA("BasePart") and vv.CanCollide then
+					hascollision[vv] = true; vv.CanCollide = false
+				end
+			end; task.delay(0, function()
+				v:PivotTo(pivot)
+				for _,vv in pairs(v:GetDescendants()) do
+					if vv:IsA("BasePart") and hascollision[vv] then
+						vv.CanCollide = true
+					end
+				end
+			end)
+		end
+	end; RTPing(0.03)
+	if oldteam then
+		wait(2); SaveCamPos()
+		if oldteam == BrickColor.new("Really red") then
+			TeamTo("criminal")
+		elseif oldteam == BrickColor.new("Bright orange") then
+			TeamTo("inmate")
+		end
+	end
+end
+--I'm so int-chaos-gent omfg no way my fly is compatible for both pc and mobile users
+local Flight = function(args)
+	local CModule = not LocPL.ShittyExecutor and require(LocalPlayer.PlayerScripts:FindFirstChild("PlayerModule"):FindFirstChild("ControlModule")) or game:GetService("UserInputService")
+	local speed,Charadd,ExitButton = args or 5,nil,nil
+	local Camera,Char = game.Workspace.CurrentCamera,game.Players.LocalPlayer.Character
+	local Human,Root = Char:WaitForChild("Humanoid"),Char:WaitForChild("HumanoidRootPart")
+	local BodyG,BodyV = Instance.new("BodyGyro", Root),Instance.new("BodyVelocity", Root)
+	BodyG.MaxTorque=Vector3.new();BodyG.D=30;BodyG.P=1000;BodyG.MaxTorque=Vector3.new(400000,400000,400000);BodyV.MaxForce=Vector3.new(9e9, 9e9, 9e9)
+	task.spawn(function()
+		ExitButton=Instance.new("TextButton");ExitButton.Name="ExitButton";ExitButton.Parent=PLAdmin;ExitButton.AnchorPoint=Vector2.new(0.5, 0.5)
+		ExitButton.BackgroundColor3=Color3.fromRGB(255, 255, 255);ExitButton.BorderColor3=Color3.fromRGB(0, 0, 0);ExitButton.BorderSizePixel = 0;ExitButton.Position=UDim2.new(0.5, 0, 0.900000012, 0)
+		ExitButton.Size=UDim2.new(0, 150, 0, 30);ExitButton.Font=Enum.Font.SourceSans;ExitButton.Text="Exit Vehicle";ExitButton.TextColor3=Color3.fromRGB(0, 0, 0);ExitButton.TextSize=20.000;ExitButton.Visible=false
+		ExitButton.MouseButton1Click:Connect(function()
+			for i = 1, 10 do
+				LAction("jump");task.wait()
+			end;ExitButton.Visible = false
+		end)
+		while task.wait() and States.Flying do
+			pcall(function()
+				local velocity = Vector3.new(0, 0, 0)
+				local direct = not LocPL.ShittyExecutor and CModule:GetMoveVector() or {
+					X = CModule:IsKeyDown(Enum.KeyCode.A) and -1.8 or CModule:IsKeyDown(Enum.KeyCode.D) and 1.8 or 0,
+					Z = CModule:IsKeyDown(Enum.KeyCode.W) and -1.8 or CModule:IsKeyDown(Enum.KeyCode.S) and 1.8 or 0
+				};if direct.X ~= 0 then
+					velocity = velocity + Camera.CFrame.RightVector * direct.X
+				end;if direct.Z ~= 0 then
+					velocity = velocity - Camera.CFrame.LookVector * direct.Z
+				end;if not Human.Sit then
+					Human:ChangeState(Enum.HumanoidStateType.Physics); ExitButton.Visible = false
+				else ExitButton.Visible = true; end
+				BodyV.Velocity = velocity * speed * 10; BodyG.CFrame = Camera.CoordinateFrame
+				Root.RotVelocity = Vector3.new(0, 0, 0); Root.Velocity = Vector3.new(0, 0, 0)
+			end)
+		end
+		BodyV:Destroy(); BodyG:Destroy(); ExitButton:Destroy(); Charadd:Disconnect()
+		ExitButton = nil; BodyV = nil; BodyG = nil; Charadd = nil
+		Human:ChangeState(Enum.HumanoidStateType.Landed)
+	end);Charadd = LocalPlayer.CharacterAdded:Connect(function()
+		Camera=game.Workspace.CurrentCamera;Char=game.Players.LocalPlayer.Character
+		Human=Char:WaitForChild("Humanoid");Root=Char:WaitForChild("HumanoidRootPart")
+		BodyG:Destroy();BodyV:Destroy();BodyG=Instance.new("BodyGyro", Root);BodyV=Instance.new("BodyVelocity", Root)
+		BodyG.MaxTorque=Vector3.new();BodyG.D=30;BodyG.P=1000;BodyG.MaxTorque=Vector3.new(400000,400000,400000);BodyV.MaxForce=Vector3.new(9e9, 9e9, 9e9)
+	end)
+end
+
+--Bring
+local DumpCars = function(args, isSource)
+	SavedPositions.DumpCar = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	if isSource then
+		if not (args.Body or args.Body:FindFirstChild("VehicleSeat")) or args.Body.VehicleSeat.Occupant then
+			return
+		end
+		if isSource == "clientdelete" then
+			args:Destroy()
+			return
+		end
+		repeat task.wait()
+			LocTP(CFrame.new(args.Body.VehicleSeat.Position))
+			args.Body.VehicleSeat:Sit(LocalPlayer.Character:FindFirstChildOfClass("Humanoid"))
+		until LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit
+		local valval = States.AntiVoid; States.AntiVoid = false
+		args.PrimaryPart = args:FindFirstChild("RWD")
+		if isSource == "vdestroy" then
+			args:SetPrimaryPartCFrame(CFrame.new(0, -150, 0))
+		elseif isSource == "void" then
+			args:SetPrimaryPartCFrame(CFrame.new(0, 9e9, 0))
+		elseif isSource == "temp" then
+			args:SetPrimaryPartCFrame(Teleports.deadend)
+		end
+		task.wait(0.2); States.AntiVoid = valval
+		LAction("unsit", true); LocTP(SavedPositions.DumpCar)
+		return
+	end
+	local Car = nil
+	for i,v in pairs(workspace.CarContainer:GetChildren()) do
+		if v:IsA("Model") and v:FindFirstChild("Body") and v.Body:FindFirstChild("VehicleSeat") and not v.Body.VehicleSeat.Occupant then
+			Car = v
+		end
+		if Car then
+			if args == "clientdelete" then
+				Car:Destroy()
+			else
+				repeat task.wait()
+					LocTP(CFrame.new(Car.Body.VehicleSeat.Position))
+					Car.Body.VehicleSeat:Sit(LocalPlayer.Character:FindFirstChild("Humanoid"))
+				until LocalPlayer.Character:FindFirstChild("Humanoid").Sit
+				local tempotempo = States.AntiVoid; States.AntiVoid = false
+				Car.PrimaryPart = Car:FindFirstChild("RWD")
+				if args == "vdestroy" then
+					Car:SetPrimaryPartCFrame(CFrame.new(0, -150, 0))
+				elseif args == "void" then
+					Car:SetPrimaryPartCFrame(CFrame.new(0, 9e9, 0))
+				elseif args == "temp" then
+					Car:SetPrimaryPartCFrame(Teleports.deadend)
+				end
+				task.wait(0.3); States.AntiVoid = tempotempo
+				LAction("unsit", true)
+			end
+		end
+	end; if Car then
+		LocTP(SavedPositions.DumpCar)
+	end; Car = nil
+end
+
+local BringCar = function(args, usedcar, policecar)
+	local Car = nil; local CarButton = workspace.Prison_ITEMS.buttons["Car Spawner"]["Car Spawner"]
+	if policecar then
+		CarButton = workspace.Prison_ITEMS.buttons:GetChildren()[4]["Car Spawner"]
+	end; local ButtonPivot = CarButton:GetPivot()
+	local LastPos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame; States.IsBringing = true
+	if usedcar then
+		for i,v in pairs(workspace.CarContainer:GetChildren()) do
+			if v:IsA("Model") and v:FindFirstChild("Body") and v.Body:FindFirstChild("VehicleSeat") and not v.Body.VehicleSeat.Occupant then
+				for ii,vv in pairs(v.Body:GetChildren()) do
+					if vv:IsA("Seat") and not vv.Occupant then
+						Car = v
+						break
+					end
+				end; if Car then
+					break
+				end
+			end
+		end; if not Car then
+			Notif("Cancelled", "No used car(s) found.")
+			return
+		end
+	else
+		task.spawn(function()
+			Car = game:GetService("Workspace").CarContainer.ChildAdded:Wait()
+		end); repeat task.wait()
+			task.spawn(function()
+				LAction("unsit"); LocTP(ButtonPivot); workspace.Remote.ItemHandler:InvokeServer(CarButton)
+			end)
+		until Car
+	end; repeat task.wait() until Car:FindFirstChild("RWD") and Car:FindFirstChild("Body") and Car:FindFirstChild("Body"):FindFirstChild("VehicleSeat")
+	local Stopped, timeout = false, tick()
+	while not Stopped do task.wait()
+		pcall(function()
+			LocTP(CFrame.new(Car.Body.VehicleSeat.Position))
+			Car.Body.VehicleSeat:Sit(LocalPlayer.Character:FindFirstChild("Humanoid"))
+			Stopped = LocalPlayer.Character:FindFirstChild("Humanoid").Sit or tick() - timeout > 6
+		end)
+	end; Car.PrimaryPart = Car:WaitForChild("RWD")
+	if args then
+		local destiny = args == LocalPlayer and LastPos or args.Character:FindFirstChild("Head").CFrame
+		Car:SetPrimaryPartCFrame(destiny)
+		wait(.2); LAction("unsit", true); LocTP(LastPos)
+	else
+		Car:SetPrimaryPartCFrame(LastPos)
+	end; States.IsBringing = false; Stopped = nil
+	return Car
+end
+--I know you skidded my bring, you think i wouldnt notice?
+local BringPL = function(BringFrom, Destination, isCFrame, donotusecar, dontbreakyet)
+	if BringFrom.TeamColor == BrickColor.new("Medium stone grey") or not (BringFrom.Character and BringFrom.Character:FindFirstChildOfClass("Humanoid") and BringFrom.Character:FindFirstChildOfClass("Humanoid").Health ~= 0) then
+		Notif("Error", "Cannot bring this player. Either dead or is in neutrals team.")
+		return
+	end; if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid").Sit then LAction("unsit", true); end
+	local Car = nil; local CarButton = workspace.Prison_ITEMS.buttons["Car Spawner"]["Car Spawner"]; local ButtonPivot = CarButton:GetPivot()
+	if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+		local LastPos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart") and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+		if not (BringFrom == LocalPlayer) then
+			repeat task.wait()
+				for i,v in pairs(workspace.CarContainer:GetChildren()) do
+					if v:IsA("Model") and v:FindFirstChild("Body") and v.Body:FindFirstChild("VehicleSeat") and v.Name ~= "DONOTUSECAR" and not v.Body.VehicleSeat.Occupant then
+						for ii,vv in pairs(v.Body:GetChildren()) do
+							if vv:IsA("Seat") and not vv.Occupant then
+								Car = v
+								break
+							end
+						end
+						if Car then
+							break
+						end
+					end
+				end
+				if not Car then
+					coroutine.wrap(function()
+						LocTP(ButtonPivot)
+						workspace.Remote.ItemHandler:InvokeServer(CarButton)
+					end)()
+				end
+			until Car
+			if donotusecar then Car.Name = "DONOTUSECAR"; end
+			if Car and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") and BringFrom.Character and BringFrom.Character:FindFirstChild("Torso") and BringFrom.Character:FindFirstChildOfClass("Humanoid") then
+				repeat task.wait() until Car:FindFirstChild("RWD") and Car:FindFirstChild("Body") and Car:FindFirstChild("Body"):FindFirstChild("VehicleSeat"); States.IsBringing = true
+				local seattimeout = tick() + 8
+				local LHuman, LRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid"), LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+				repeat task.wait()
+					LHuman = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid"); LRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+					if LHuman and LRoot then
+						LRoot.CFrame = CFrame.new(Car.Body.VehicleSeat.Position); Car.Body.VehicleSeat:Sit(LHuman)
+					end
+				until LHuman.Sit or tick() - seattimeout >=0; seattimeout = nil
+				if not LHuman or not LHuman.Sit then
+					Notif("Error", "This seat is either bugged or ping lag!"); LAction("unsit", true)
+					States.IsBringing = false; LocTP(LastPos); Car.Name = "DONOTUSECAR"
+					return
+				end; if BringFrom.TeamColor == BrickColor.new("Medium stone grey") then
+					Notif("Error", "Player is in neutrals, bring cancelled."); LAction("unsit", true)
+					States.IsBringing = false; LocTP(LastPos)
+					return
+				end
+				local TargetSeat = nil
+				for i,v in pairs(Car.Body:GetChildren()) do
+					if v:IsA("Seat") and not v.Occupant then
+						TargetSeat = v
+						break
+					end
+				end; if not TargetSeat then
+					Notif("Error", "The car seats are too full!"); LocTP(LastPos)
+					return
+				end
+				local VChar = BringFrom.Character
+				local VHuman = VChar and VChar:FindFirstChildOfClass("Humanoid")
+				local VRoot = VChar and VChar:FindFirstChild("HumanoidRootPart")
+				local Timeout = tick() + 17
+				local CarSpin, SpinRad = false, 0
+				task.spawn(function()
+					Car.PrimaryPart = TargetSeat; Car:SetPrimaryPartCFrame(VRoot.CFrame * CFrame.new(0, -0.3, 0))
+					task.wait(4); CarSpin = true
+				end)
+				repeat 
+					task.wait()
+					local step1 = CPing() / 2 / 2 / 2
+					if TargetSeat.Occupant and not VHuman.Sit then
+						for i,v in pairs(Car.Body:GetChildren()) do
+							if v:IsA("Seat") and not v.Occupant then
+								TargetSeat = v
+								break
+							end
+						end
+					end
+					Car.PrimaryPart = TargetSeat
+					local Movement = Vector3.new(VRoot.Velocity.X, 0, VRoot.Velocity.Z)
+					local Predict = (VRoot.CFrame - (Vector3.new(0, 0, -0.1) * step1)) + (Movement * (step1 * 28))
+					if Predict.Position.Y > 1 then
+						if CarSpin then
+							SpinRad += 30
+							Car:SetPrimaryPartCFrame(Predict * CFrame.Angles(0, math.rad(SpinRad), 0))
+						else
+							Car:SetPrimaryPartCFrame(Predict)
+						end
+					else
+						Car:SetPrimaryPartCFrame(LastPos)
+					end
+					if BringFrom.TeamColor == BrickColor.new("Medium stone grey") then
+						break
+					end
+				until not LocalPlayer.Character or not LocalPlayer.Character:FindFirstChildOfClass("Humanoid") or not BringFrom.Character or not LHuman.Sit or VChar ~= BringFrom.Character or VHuman.Sit or VHuman.Health == 0 or tick() - Timeout >=0
+				Timeout = nil
+				if VHuman and not VHuman.Sit then
+					Notif("Error", "Failed to bring!"); LAction("unsit", true); LocTP(LastPos); States.IsBringing = false
+					return
+				end
+				if isCFrame then
+					Car.PrimaryPart = Car:FindFirstChild("RWD"); Car:SetPrimaryPartCFrame(Destination)
+				else
+					Car.PrimaryPart = Car:FindFirstChild("RWD")
+					local Destiny = Destination ~= LocalPlayer and Destination.Character:FindFirstChild("HumanoidRootPart").CFrame or LastPos
+					Car:SetPrimaryPartCFrame(Destiny)
+					if Destination ~= LocalPlayer and (donotusecar or not Settings.User.AutoDumpCar) then
+						wait(.2); LAction("unsit", true); LocTP(LastPos)
+					end
+				end; SavedArgs.BringSuccess = true
+				if Settings.User.AutoDumpCar and not donotusecar and not dontbreakyet then
+					local Tinedout = tick() + 15
+					repeat task.wait() until VHuman.Health == 0 or not VHuman.Sit or tick() - Tinedout >=0 or not Players:FindFirstChild(BringFrom and BringFrom.Name or "nil"); Tinedout = nil
+					if not LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+						LastPos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						repeat task.wait()
+							Car.Body.VehicleSeat:Sit(LocalPlayer.Character:FindFirstChildOfClass("Humanoid"))
+						until LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit
+					end
+					Car.PrimaryPart = Car:FindFirstChild("RWD"); Car:SetPrimaryPartCFrame(CFrame.new(0, 9, 0)); wait(.2)
+					LAction("unsit", true); LocTP(LastPos)
+				end; States.IsBringing = false
+			end
+		else
+			if isCFrame then
+				LocTP(Destination)
+			else
+				LocTP(Destination.Character:FindFirstChild("HumanoidRootPart").CFrame)
+			end
+		end
+	end
+end
+--Arrest/Tase
+local ArrestPL = function(args, savepos, isHidden)
+	SavedPositions.ArrestPlr = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	local Timedout, readytoar = tick() + 6, tick() + CPing()
+	LocTP(args.Character:FindFirstChild("HumanoidRootPart").CFrame)
+	repeat task.wait()
+		local potangina = args.Character and args.Character:FindFirstChild("Humanoid").Health == 0
+		local gago = args.TeamColor == BrickColor.new("Bright blue") or args.TeamColor == BrickColor.new("Medium stone grey")
+		local hayop = args.TeamColor ~= BrickColor.new("Really red") and not GetIllegalReg(args)
+		if potangina or gago or hayop then
+			break
+		end;if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid").Sit then
+			LAction("unsit")
+		end;if isHidden or Settings.User.HiddenArrest then
+			LocTP(args.Character:FindFirstChild("Head").CFrame * CFrame.new(0, -12, -1))
+		else
+			LocTP(args.Character:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, -1))
+		end;if tick() - readytoar >=0 then
+			task.spawn(ArrestEve, args)
+		end
+	until args.Character:FindFirstChild("Head"):FindFirstChild("handcuffedGui") or tick() - Timedout >= 0; Timedout = nil
+	if savepos then
+		if LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+			LAction("unsit", true)
+		end;LocTP(SavedPositions.ArrestPlr)
+	end
+end
+
+local TasePL = function(plr, args)
+	local oldteam = nil
+	if not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+		oldteam = LocalPlayer.TeamColor
+		TeamTo("guard")
+		task.wait()
+	end
+	local Taser = LocalPlayer.Backpack:FindFirstChild("Taser") or LocalPlayer.Character:FindFirstChild("Taser")
+	local ShootEvents = {};
+	if args == "teams" then
+		for _, tea in pairs(plr:GetPlayers()) do
+			if (not (tea == LocalPlayer) and not (tea.TeamColor == BrickColor.new("Bright blue"))) and CheckWhitelist(tea) and tea.Character and tea.Character:FindFirstChild("Humanoid") and not (tea.Character:FindFirstChild("Humanoid").Health == 0) then
+				ShootEvents[#ShootEvents + 1] = {
+					Hit = tea.Character:FindFirstChildOfClass("Part");
+					Cframe = CFrame.new();
+					RayObject = Ray.new(Vector3.new(), Vector3.new());
+					Distance = 0;
+				};
+			end
+		end
+	elseif args == "tables" then
+		for i,v in next, plr do
+			if not (v == LocalPlayer) and CheckWhitelist(v) and v.Character and v.Character:FindFirstChild("Humanoid") and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+				ShootEvents[#ShootEvents + 1] = {
+					Hit = v.Character:FindFirstChildOfClass("Part");
+					Cframe = CFrame.new();
+					RayObject = Ray.new(Vector3.new(), Vector3.new());
+					Distance = 0;
+				};
+			end
+		end
+	else
+		if plr and plr.Character and plr.Character:FindFirstChild("Humanoid") and not (plr.Character:FindFirstChild("Humanoid").Health == 0) then
+			ShootEvents[#ShootEvents + 1] = {
+				Hit = plr.Character:FindFirstChildOfClass("Part");
+				Cframe = CFrame.new();
+				RayObject = Ray.new(Vector3.new(), Vector3.new());
+				Distance = 0;
+			};
+		end
+	end
+	Rstorage.ShootEvent:FireServer(ShootEvents, Taser)
+	Rstorage.ReloadEvent:FireServer(Taser)
+	task.wait()
+	if oldteam then
+		if oldteam == BrickColor.new("Really red") then
+			TeamTo("criminal")
+		else
+			TeamTo("inmate")
+		end
+	end
+end
+
+local FlingPL = function(args)
+	local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	for _,v in next, LocalPlayer.Character:GetChildren() do
+		if v:IsA("BasePart") then
+			v.CanCollide = false
+			v.Massless = true
+		end
+	end
+	local tempo = args.Character:FindFirstChild("HumanoidRootPart").CFrame; LocTP(tempo)
+	local val = Toggles.Noclip; Toggles.Noclip = true
+	local tempcon = Stepped:Connect(function(step)
+		step = step - game.Workspace.DistributedGameTime
+		local aRoot, lRoot = args.Character and args.Character:FindFirstChild("HumanoidRootPart"), LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+		if aRoot and lRoot then
+			tempo = aRoot.CFrame + (aRoot.Velocity * (step * 28))
+			if tempo.Position.Y > 1 then
+				lRoot.CFrame = tempo
+			end
+		end
+	end); task.delay(0.35, function()
+		if args.Character and args.Character:FindFirstChild("Head") and args.Character.Head.Position.Y < 699 then
+			VKeyPress("C", "Press")
+		end
+	end); task.delay(0.05, function()
+		LocalPlayer.Character.PrimaryPart.Velocity = Vector3.new(0, 131111, 0)
+	end)
+	local timeout = tick() + 10
+	repeat task.wait()
+		local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+		if root then
+			root.CFrame = tempo.Position.Y > 1 and tempo or CFrame.new(0, 100, 0)
+			if root.Velocity.Y < 6999 then
+				root.Velocity = Vector3.new(0, 1e6, 0)
+			end
+		end
+		local human = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+		if human and human.Sit then
+			human.Sit = false
+		end
+		if not Players:FindFirstChild(args.Name) then
+			Notif("Fling stopped.", "Player left!")
+			break
+		end
+	until tick() - timeout >=0 or (args.Character and args.Character:FindFirstChild("Head") and (args.Character.Head.Position.Y > 699 or args.Character.Head.Position.Y < 1))
+	tempcon:Disconnect(); tempcon = nil; timeout = nil; Toggles.Noclip = val
+	local tick1 = tick() + 2
+	local seat = game:GetService("Workspace"):FindFirstChildWhichIsA("Seat", true)
+	local LHuman = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+	if seat.Occupant and not LHuman.Sit then
+		for i,v in next, workspace:GetDescendants() do
+			if v:IsA("Seat") and not v.Occupant then
+				seat = v; break
+			end
+		end
+	end
+	repeat
+		LHuman = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+		if LHuman and seat then
+			seat:Sit(LHuman)
+		end
+		if LocalPlayer.Character.PrimaryPart then LocalPlayer.Character.PrimaryPart.Velocity = Vector3.new(0, 0, 0) end
+		task.wait()
+	until LHuman.Sit or tick() - tick1 >=0; task.wait()
+	for i = 1, 9 do
+		Stepped:Wait()
+		LHuman.Sit = false; LocalPlayer.Character.PrimaryPart.Velocity = Vector3.new(0, 0, 0); LocTP(tempos)
+	end; Hbeat:Wait(); LHuman.Sit = false; LocTP(tempos)
+	tempos = nil; tick1 = nil; LHuman = nil
+end
+
+local CarFlingPL = function(args)
+	local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	BringPL(args, args.Character:FindFirstChild("HumanoidRootPart").CFrame, true, true)
+	local char = LocalPlayer.Character
+	local bv, bg = Instance.new("BodyVelocity", char.HumanoidRootPart), Instance.new("BodyGyro", char.HumanoidRootPart)
+	for i = 1, 10 do
+		bv.MaxForce = Vector3.new(9e9, 9e9, 9e9); bg.MaxTorque = Vector3.new(9e9, 9e9, 9e9)
+		bg.CFrame = bg.CFrame * CFrame.new(math.random(69, 699999), math.random(69, 6966868), math.random(6996, 66886)); bv.Velocity = Vector3.new(math.random(69, 699), 1e6, math.random(69, 699))
+		Stepped:Wait()
+	end; Stepped:Wait(); Hbeat:Wait()
+	Tasks.Refresh(nil, tempos)
+end
+
+local MakeCrim = function(args, savepos, tpback, ArrestLater)
+	if args.TeamColor == BrickColor.new("Really red") then
+		Notif("Error", "Player is already criminal!")
+	else
+		if args == LocalPlayer then 
+			TeamTo("criminal") 
+			return 
+		end; SavedPositions.MakeCrimPos = savepos and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or nil; SavedPositions.MakeCrimPlr = args.Character:FindFirstChild("HumanoidRootPart").CFrame
+		local timeout = tick() + 10
+		repeat
+			BringPL(args, CFrame.new(-920.947937, 92.3143158, 2138.05615, 0.997869313, 4.71007233e-08, 0.0652444065, -4.59519711e-08, 1, -1.91075955e-08, -0.0652444065, 1.6068773e-08, 0.997869313), true, nil, true)
+			RTPing(0);RTPing(0)
+		until args.TeamColor == BrickColor.new("Really red") or tick() - timeout >= 0; timeout = nil
+		if ArrestLater then
+			ArrestPL(args)
+		end;if tpback then
+			BringPL(args, SavedPositions.MakeCrimPlr, true); wait(.2)
+		end;if savepos then
+			if LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+				LAction("unsit", true)
+			end;LocTP(SavedPositions.MakeCrimPos)
+		end
+	end
+end
+--yes, this function is very useless
+local SpamArrestPL = function(args)
+	if States.AnnoyingPlayer then
+		local plr = args
+		local readytoarrest = nil
+		task.delay(0, function()
+			while States.AnnoyingPlayer and task.wait(.03) do
+				if readytoarrest then
+					task.spawn(ArrestEve, plr)
+				end
+				if not Players:FindFirstChild(plr.Name) then
+					Notif("Spam-arrest broken.", "Player has left the game!"); break
+				end
+			end
+			States.AnnoyingPlayer = nil
+			plr = nil
+			readytoarrest = nil
+		end)
+		task.spawn(function()
+			while States.AnnoyingPlayer do task.wait()
+				if not Players:FindFirstChild(plr.Name) then
+					break
+				end
+				pcall(function()
+					if plr and plr.Character and plr.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+						if plr.TeamColor == BrickColor.new("Really red") or (plr.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(plr)) then
+							LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit = false
+							LocTP(plr.Character.HumanoidRootPart.CFrame)
+							readytoarrest = true
+						elseif plr.Character and plr.Character:FindFirstChildOfClass("Humanoid") and plr.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+							readytoarrest = false
+							repeat task.wait() until plr.Character and plr.Character:FindFirstChild("HumanoidRootPart") and not (plr.TeamColor == BrickColor.new("Medium stone grey"))
+							coroutine.wrap(function()
+								MakeCrim(plr, false, false, false)
+							end)()
+							local timeout = tick() + 5
+							local characterwasadded = nil
+							task.spawn(function()
+								plr.CharacterAdded:Wait()
+								characterwasadded = true
+							end)
+							repeat task.wait()
+								if not Players:FindFirstChild(plr.Name) then
+									break
+								end
+								if plr.TeamColor == BrickColor.new("Medium stone grey") then
+									LAction("unsit", true)
+									repeat task.wait() until not (plr.TeamColor == BrickColor.new("Medium stone grey"))
+									break
+								end
+								if characterwasadded then
+									LAction("unsit", true)
+									break
+								end
+								if plr.TeamColor == BrickColor.new("Really red") or (GetIllegalReg(plr) and plr.TeamColor == BrickColor.new("Bright orange")) then
+									break
+								end
+							until tick() - timeout >=0
+							timeout = nil
+							characterwasadded = nil
+						end
+					else
+						readytoarrest = false
+					end
+				end)
+			end
+		end)
+	end
+end
+
+local CreateClientRay = function(RayS, CustomColor)
+	for i = 1, #RayS do
+		local NewRay = Instance.new("Part", workspace.CurrentCamera)
+		NewRay.Name = "ClientRay"
+		NewRay.Material = Enum.Material.Neon
+		NewRay.Anchored = true
+		NewRay.CanCollide = false
+		NewRay.Transparency = 0.5
+		NewRay.formFactor = Enum.FormFactor.Custom
+		NewRay.Size = Vector3.new(0.2, 0.2, RayS[i].Distance)
+		NewRay.CFrame = RayS[i].Cframe
+		local Mesh = Instance.new("BlockMesh", NewRay)
+		Mesh.Scale = Vector3.new(0.5, 0.5, 1)
+		if CustomColor then
+			NewRay.BrickColor = BrickColor.new(CustomColor)
+		else
+			NewRay.BrickColor = BrickColor.Yellow()
+		end
+		game:GetService("Debris"):AddItem(NewRay, 0.05)
+	end
+end
+
+--Kill functions (Faster meleekill omg real)
+local MeleeKill = function(args, savepos, isHidden)
+	if savepos then
+		SavedPositions.MeleeKill = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	end
+	local LHead, VHead = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Head"), args.Character and args.Character:FindFirstChild("Head")
+	local VHuman, VRoot = args.Character and args.Character:FindFirstChildOfClass("Humanoid"), args.Character and args.Character:FindFirstChild("HumanoidRootPart")
+	if LHead and VHead and VHuman and VHuman.Health ~= 0 then
+		LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit = false
+		if not (isHidden or Settings.User.HiddenMelee) then
+			if VRoot and not Saved.MKillDebounce[args.Name] then
+				local daping = CPing(); LocTP(VRoot.CFrame); Saved.MKillDebounce[args.Name] = true
+				task.spawn(function()
+					RTPing(daping*2); Saved.MKillDebounce[args.Name] = nil
+				end); Rstep:Wait(); LocTP(VRoot.CFrame); wait()
+				for i = 1, 10 do MeleEve(args); end
+				wait(0.030); LocTP(VRoot.CFrame)
+				for i = 1, 10 do MeleEve(args); end
+				wait(0.030); LocTP(VRoot.CFrame)
+				for i = 1, 10 do MeleEve(args); end
+				Rstep:Wait(); LocTP(VRoot.CFrame)
+				for i = 1, 10 do MeleEve(args); end
+			end; wait()
+		else
+			local timeout = tick() + 6
+			repeat task.wait()
+				if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") and LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+					LAction("unsit")
+				end; if args.Character and args.Character:FindFirstChildOfClass("Humanoid") and not args.Character:FindFirstChild("ForceField") then
+					if args.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+						if args.Character:FindFirstChild("Humanoid").Sit then
+							LocTP(VHead.CFrame * CFrame.new(0, -8, 0))
+						else LocTP(VHead.CFrame * CFrame.new(0, -12, 0)); end
+					else break; end
+				else
+					break
+				end; for i = 1, 10 do
+					MeleEve(args)
+				end
+			until tick() - timeout >=0
+		end
+	end; if savepos then
+		LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit = false; LocTP(SavedPositions.MeleeKill)
+	end
+end
+--Wow what a totally useful function
+local PunchKill = function(args, speed)
+	local Interval = speed or 0.3
+	local lastpos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	while task.wait(Interval) do
+		if LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid") and LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+			LAction("unsit")
+		end
+		if (not Players:FindFirstChild(args.Name) or not args.Character) or args.Character:FindFirstChild("Humanoid").Health == 0 or args.TeamColor == BrickColor.new("Medium stone grey") then
+			break
+		end
+		LocTP(args.Character:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 1.5))
+		VirtualPunch(args)
+	end
+	LocTP(lastpos)
+end
+
+local ShootKill = function(plr, amount, guntouse, hitpart)
+	if plr.Character and plr.Character:FindFirstChildOfClass("Humanoid") and plr.Character.Humanoid.Health ~= 0 then
+		if plr.TeamColor == LocalPlayer.TeamColor then
+			if plr.TeamColor == BrickColor.new("Bright orange") then
+				TeamTo("criminal")
+			else
+				TeamTo("inmate")
+				RTPing(0.1)
+			end
+		end
+		local DeGun = guntouse or "AK-47"
+		local HasGun = LocalPlayer.Character:FindFirstChild(DeGun) or LocalPlayer.Backpack:FindFirstChild(DeGun)
+		if not HasGun then
+			Gun(DeGun)
+			HasGun = waitfor(LocalPlayer.Backpack, DeGun, 1)
+		end
+		local ToHit = hitpart or plr.Character:FindFirstChildWhichIsA("BasePart")
+		local Times = amount or 15
+		LAction("equip", HasGun)
+		for i = 1, Times do
+			if not HasGun then
+				break
+			end
+			local Start, End = HasGun:FindFirstChild("Muzzle").Position, plr.Character:FindFirstChild("HumanoidRootPart").Position
+			local EA = {
+				[1] = {
+					Hit = ToHit;
+					Cframe = CFrame.new(End, Start) * CFrame.new(0, 0, -(Start-End).Magnitude / 2);
+					Distance = (Start-End).Magnitude;
+					RayObject = Ray.new(Vector3.new(), Vector3.new());
+				};
+			};
+			if DeGun == "Remington 870" then
+				for i = 1, 4 do
+					local tmp = End
+					End = End + Vector3.new(math.random(-1, 1), math.random(-1, 2), math.random(-1, 1))
+					EA[#EA+1] = {
+						Hit = ToHit;
+						Cframe = CFrame.new(End, Start) * CFrame.new(0, 0, -(Start-End).Magnitude / 2);
+						Distance = (Start-End).Magnitude;
+						RayObject = Ray.new(Vector3.new(), Vector3.new());
+					};
+					End = tmp
+					tmp = nil
+				end
+			end
+			CreateClientRay(EA)
+			Rstorage.ShootEvent:FireServer(EA, HasGun)
+			Rstorage.ReloadEvent:FireServer(HasGun)
+			task.wait(.1)
+			if plr.Character and plr.Character:FindFirstChildOfClass("Humanoid").Health == 0 then
+				break
+			end
+		end
+	end
+end
+
+local KillPL = function(plr, events, guntouse, WaitToDie) 
+	local AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	if not AK and not guntouse then
+		Gun("AK-47")
+		task.wait()
+		AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	elseif guntouse then
+		AK = LocalPlayer.Backpack:FindFirstChild(guntouse) or LocalPlayer.Character:FindFirstChild(guntouse)
+		if not AK then
+			Gun(guntouse)
+			task.wait()
+			AK = LocalPlayer.Backpack:FindFirstChild(guntouse)
+		end
+	end
+	if plr.Character:FindFirstChild("Humanoid").Health == 0 or plr.Character:FindFirstChildWhichIsA("ForceField") then
+		return
+	end
+	local Eve = events or 10
+	local ShootEvents = {};
+	for i = 1, Eve do
+		ShootEvents[#ShootEvents + 1] = {
+			Hit = plr.Character:FindFirstChildOfClass("Part");
+			Cframe = CFrame.new();
+			RayObject = Ray.new(Vector3.new(), Vector3.new());
+			Distance = 0;
+		};
+	end
+	task.spawn(function()
+		for i = 1, 6 do
+			Rstorage.ReloadEvent:FireServer(AK)
+			task.wait(.1)
+		end
+	end)
+	if plr.TeamColor == LocalPlayer.TeamColor then
+		if plr.TeamColor == BrickColor.new("Really red") or plr.TeamColor == BrickColor.new("Bright blue") then
+			SavedPositions.AutoRe = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			SaveCamPos()
+			TeamEve("Bright orange")
+			Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+			task.wait(0.06)
+		else
+			TeamTo("criminal")
+			Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+		end
+	else
+		Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+	end
+	if WaitToDie then
+		repeat task.wait() until not plr.Character or not plr.Character:FindFirstChildOfClass("Humanoid") or plr.Character:FindFirstChildOfClass("Humanoid").Health == 0 or plr.Character:FindFirstChildWhichIsA("ForceField")
+	end
+end
+
+local TableKill = function(tables)
+	local AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	if not AK then
+		Gun("AK-47")
+		task.wait()
+	end
+	local inteam = nil
+	local crimteam = nil
+	local sameteam = nil
+	local sameinmate = nil
+	local sameguard = nil
+	local samecrim = nil
+	local ShootEvents = {};
+	for i,v in next, tables do
+		if v.Character and not v.Character:FindFirstChildWhichIsA("ForceField") and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+			if not Saved.KillDebounce[v.Name] then
+				Saved.KillDebounce[v.Name] = true
+				if v.TeamColor == LocalPlayer.TeamColor then
+					sameteam = true
+					if LocalPlayer.TeamColor == BrickColor.new("Bright orange") then
+						sameinmate = true
+					elseif LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+						sameguard = true
+					elseif LocalPlayer.TeamColor == BrickColor.new("Really red") then
+						samecrim = true
+					end
+				end
+				if v.TeamColor == BrickColor.new("Bright orange") then
+					inteam = true
+				elseif v.TeamColor == BrickColor.new("Really red") then
+					crimteam = true
+				end
+				delay(1.2, function()
+					Saved.KillDebounce[v.Name] = nil
+				end)
+				for i = 1, 10 do
+					ShootEvents[#ShootEvents + 1] = {
+						Hit = v.Character:FindFirstChildOfClass("Part");
+						Cframe = CFrame.new();
+						RayObject = Ray.new(Vector3.new(), Vector3.new());
+						Distance = 0;
+					}
+				end
+			end
+		end
+	end
+	if not ShootEvents[1] then
+		return
+	end
+	AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	task.spawn(function()
+		for i = 1, 10 do
+			Rstorage.ReloadEvent:FireServer(AK)
+			task.wait(.1)
+		end
+	end)
+	if sameteam then
+		if ((samecrim or sameguard) and inteam) or (sameinmate and crimteam) then
+			SavedPositions.AutoRe = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			SaveCamPos()
+			TeamEve("Medium stone grey")
+			Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+			task.wait(0.06)
+			TeamEve("Bright orange")
+		elseif (samecrim or sameguard) and not inteam then
+			SavedPositions.AutoRe = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			SaveCamPos()
+			TeamEve("Bright orange")
+			Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+			task.wait(0.05)
+		elseif sameinmate and not crimteam then
+			TeamTo("criminal")
+			Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+		end
+	else
+		Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+	end
+end
+
+local MultiKill = function(plrs, exclude)
+	local AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	if not AK and not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+		Gun("AK-47")
+		task.wait()
+		AK = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+	elseif LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+		AK = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+	end
+	local neutralkill, hasplayers = nil, nil
+	local ShootEvents = {}
+	for i,v in pairs(plrs:GetPlayers()) do
+		if not (v == LocalPlayer or v == exclude) and CheckWhitelist(v) then
+			if v.Character and not v.Character:FindFirstChildWhichIsA("ForceField") and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+				hasplayers = true
+				if v.TeamColor == LocalPlayer.TeamColor then
+					if v.TeamColor == BrickColor.new("Bright orange") then
+						TeamTo("criminal")
+					elseif v.TeamColor == BrickColor.new("Really red") or v.TeamColor == BrickColor.new("Bright blue") then
+						neutralkill = true
+					end
+				end
+				for i = 1, 10 do
+					ShootEvents[#ShootEvents + 1] = {
+						Hit = v.Character:FindFirstChildOfClass("Part");
+						Cframe = CFrame.new();
+						RayObject = Ray.new(Vector3.new(), Vector3.new());
+						Distance = 0;
+					}
+				end
+			end
+		end
+	end
+	if not hasplayers then
+		return
+	end
+	task.spawn(function()
+		for i = 1, 20 do
+			Rstorage.ReloadEvent:FireServer(AK)
+			task.wait(.1)
+		end
+	end)
+	if neutralkill then
+		SavedPositions.AutoRe = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+		SaveCamPos()
+		TeamEve("Medium stone grey")
+		Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+		task.wait(0.06)
+		TeamEve("Bright orange")
+	else
+		Rstorage.ShootEvent:FireServer(ShootEvents, AK)
+	end
+end
+
+local GiveKeyCard = function(player)
+	if player == LocalPlayer then
+		if workspace.Prison_ITEMS.single:FindFirstChild("Key card") then
+			ItemHand(false, "Key card")
+		else
+			local oldteam, oldpos = LocalPlayer.TeamColor, LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			repeat task.wait()
+				if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+					if #Teams.Guards:GetPlayers() > 7 then
+						Notif("Error", "Guards team is full! Failed to givekeycard.")
+						break
+					end; TeamTo("guard")
+				end; LAction("died")
+				if not Toggles.AutoRespawn then
+					TeamTo("guard")
+				else
+					LocalPlayer.CharacterAdded:Wait()
+				end; wait(.1)
+			until workspace.Prison_ITEMS.single:FindFirstChild("Key card"); LocTP(oldpos)
+			if oldteam == BrickColor.new("Bright orange") then
+				TeamTo("inmate")
+			elseif oldteam == BrickColor.new("Really red") then
+				TeamTo("criminal")
+			end; ItemHand(false, "Key card"); ItemHand(false, "Key card"); ItemHand(false, "Key card")
+		end
+	else
+		local finallykeycard = nil; local oldteam = LocalPlayer.TeamColor
+		SavedPositions.GiveKeyCard = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+		task.spawn(function()
+			while task.wait() do
+				for i,v in pairs(workspace.Prison_ITEMS.single:GetChildren()) do
+					if v.Name == "Key card" and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+						local vpivot = v.ITEMPICKUP.Position
+						local ppivot = player.Character:FindFirstChild("HumanoidRootPart").Position
+						if (vpivot-ppivot).Magnitude <= 15 then
+							finallykeycard = true
+							break
+						end
+					end
+				end
+				if finallykeycard then
+					break
+				end
+			end
+		end)
+		repeat task.wait()
+			if player.Character and player.Character:FindFirstChildOfClass("Humanoid") and player.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+				local temp = player.Character:FindFirstChild("HumanoidRootPart").CFrame
+				SavedPositions.AutoRe = temp; LocTP(temp)
+				if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+					if #Teams.Guards:GetPlayers() > 7 then
+						Notif("Error", "Guards team full! Cannot give keycard."); finallykeycard = true
+						break
+					end
+					TeamEve("Bright blue"); LocalPlayer.CharacterAdded:Wait()
+					waitfor(LocalPlayer.Character, "HumanoidRootPart", 2).CFrame = temp; RTPing(0)
+				end
+				LAction("died")
+				if Toggles.AutoRespawn then
+					LocalPlayer.CharacterAdded:Wait(); waitfor(LocalPlayer.Character, "HumanoidRootPart", 2).CFrame = temp
+				else
+					TeamTo("guard")
+				end; RTPing(0.09)
+			else
+				finallykeycard = true
+				break
+			end
+		until finallykeycard
+		SavedPositions.AutoRe = SavedPositions.GiveKeyCard; LocTP(SavedPositions.GiveKeyCard)
+		if oldteam == BrickColor.new("Bright orange") then
+			TeamTo("inmate")
+		elseif oldteam == BrickColor.new("Really red") then
+			TeamTo("criminal")
+		end
+	end
+end
+
+local CrashMethod = function(typeofcrash, args)
+	if typeofcrash == "servercrash" then
+		if #Teams.Guards:GetPlayers() < 8 then
+			TeamTo("guard")
+		else
+			Gun("M9"); task.wait()
+		end
+		local SchoolShooter = {}
+		local da1, da2 = LocalPlayer.Character:WaitForChild("HumanoidRootPart").Position, workspace:FindFirstChildWhichIsA("BasePart").Position
+		for i,v in pairs(Players:GetPlayers()) do
+			SchoolShooter[#SchoolShooter+1] = {
+				Hit = workspace:FindFirstChildWhichIsA("Part");
+				Cframe = CFrame.new();
+				Distance = 69999;
+				RayObject = Ray.new(da1, da2);
+			}
+		end
+		local total = 5024 - #SchoolShooter
+		local gun = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+		task.spawn(function()
+			for i = 1, total do
+				Rstorage.ShootEvent:FireServer({}, gun)
+			end
+			task.delay(15, function()
+				deprint("Debug_Crash events done")
+				while Rstep:Wait() do
+					Rstorage.ShootEvent:FireServer(SchoolShooter, gun)
+				end
+			end)
+			while task.wait() do
+				LocalPlayer.CharacterAdded:Wait(); wait(); gun = LocalPlayer.Backpack:FindFirstChild("M9")
+				if not gun then
+					Gun("M9"); task.wait(); gun = LocalPlayer.Backpack:FindFirstChild("M9")
+				end
+			end
+		end)
+	elseif typeofcrash == "lastresort" then
+		local america = {}
+		for i,v in pairs(Players:GetPlayers()) do
+			if v.Character and v.Character:FindFirstChild("HumanoidRootPart") then
+				america[#america+1] = {
+					Hit = v.Character:FindFirstChildWhichIsA("BasePart");
+					Cframe = v.Character.HumanoidRootPart.CFrame;
+					Distance = math.huge;
+					RayObject = Ray.new(Vector3.new(), Vector3.new())
+				}
+			end
+		end
+		task.spawn(function()
+			while task.wait(.4) do
+				pcall(function()
+					local new = LocalPlayer.Backpack:FindFirstChild("Remington 870") or LocalPlayer.Character:FindFirstChild("Remington 870")
+					if not new then
+						Gun("Remington 870")
+						new = LocalPlayer.Backpack:FindFirstChild("Remington 870")
+					end
+					for i = 1, 225 do
+						Rstorage.ShootEvent:FireServer(america, new)
+					end
+					task.wait(1)
+				end)
+			end
+		end)
+	elseif typeofcrash == "crashkill" then
+		if LocalPlayer.TeamColor == args.TeamColor then
+			if args.TeamColor == BrickColor.new("Bright orange") then
+				TeamTo("criminal")
+			else
+				TeamTo("inmate")
+			end; RTPing()
+		end
+		repeat Stepped:Wait() until args.Character and not args.Character:FindFirstChildWhichIsA("ForceField")
+		local arrrr = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+		if not arrrr then
+			Gun("M9"); arrrr = LocalPlayer.Backpack:FindFirstChild("M9")
+		end; local ra = {}
+		for i = 1, 10 do
+			ra[#ra+1] = {
+				Hit = args.Character:FindFirstChildWhichIsA("BasePart");
+				Cframe = args.Character:FindFirstChildWhichIsA("BasePart").CFrame;
+				Distance = math.huge;
+				RayObject = Ray.new(Vector3.new(), Vector3.new());
+			}
+		end; for i = 1, 2000 do
+			Rstorage.ShootEvent:FireServer(ra, arrrr)
+		end
+	elseif typeofcrash == "serverlag" then
+		if States.LaggingServer then
+			States.LaggingServer = false; wait(.4)
+		end; States.LaggingServer = true
+		task.spawn(function()
+			Gun("Remington 870")
+			local ohio = {}
+			local amount = args or 69
+			for i = 1, 101 do
+				ohio[#ohio+1] = {
+					Hit = LocalPlayer.Character:FindFirstChildWhichIsA("BasePart");
+					Cframe = CFrame.new();
+					Distance = math.huge;
+					RayObject = Ray.new(Vector3.new(), Vector3.new());
+				};
+			end
+			while States.LaggingServer do task.wait()
+				pcall(function() Gun("Remington 870") end)
+				local guntouse = LocalPlayer.Backpack:FindFirstChild("Remington 870") or LocalPlayer.Character:FindFirstChild("Remington 870")
+				if guntouse then
+					for i = 1, amount do
+						Rstorage.ShootEvent:FireServer(ohio, guntouse)
+					end
+				end
+				task.wait(1.14)
+			end; ohio = nil; amount = nil
+		end)
+	elseif typeofcrash == "serverspike" then
+		Gun("Remington 870"); task.wait()
+		local iranoutofideas = {}
+		local strength = args or 69
+		local amount = 100 + math.random(1, 15)
+		for i = 1, amount do
+			iranoutofideas[#iranoutofideas+1] = {
+				Hit = workspace:FindFirstChildWhichIsA("Part");
+				Cframe = CFrame.new();
+				Distance = math.huge;
+				RayObject = Ray.new(Vector3.new(), Vector3.new());
+			};
+		end
+		local remin = LocalPlayer.Backpack:FindFirstChild("Remington 870") or LocalPlayer.Character:FindFirstChild("Remington 870")
+		for i = 1, strength do
+			Rstorage.ShootEvent:FireServer(iranoutofideas, remin)
+		end
+	elseif typeofcrash == "timeout" then
+		Gun("AK-47"); task.wait()
+		local thegun = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+		local mcdofriedchicken = {}
+		local mc, jb = workspace:FindFirstChildWhichIsA("BasePart"), workspace:FindFirstChildOfClass("Part")
+		for i = 1, 100 do
+			mcdofriedchicken[#mcdofriedchicken+1] = {
+				Hit = mc;
+				Cframe = CFrame.new(mc.Position, jb.Position) * CFrame.new(0, 0, math.random(69, 699999));
+				Distance = (mc.Position-jb.Position).Magnitude;
+				RayObject = Ray.new(mc.Position, (jb.Position-mc.Position).unit * 6999999);
+			};
+		end
+		task.spawn(function()
+			while task.wait(.03) do
+				pcall(function()
+					if not thegun then
+						Gun("AK-47")
+						task.wait()
+						thegun = LocalPlayer.Backpack:FindFirstChild("AK-47")
+					end
+					Rstorage.ShootEvent:FireServer(mcdofriedchicken, thegun)
+				end)
+			end
+		end)
+	elseif typeofcrash == "tasercrash" then
+		if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") and #Teams.Guards:GetPlayers() == 8 then
+			Notif("Error", "Guards team full!")
+			return
+		end
+		local tempo = {}
+		local lpos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").Position
+		for i,v in pairs(Players:GetPlayers()) do
+			if v and v.Character then
+				local vpos = v.Character:FindFirstChild("HumanoidRootPart").Position
+				tempo[#tempo+1] = {
+					Hit = v.Character:FindFirstChildWhichIsA("BasePart");
+					Cframe = CFrame.new(lpos, vpos);
+					Distance = math.huge;
+					RayObject = Ray.new(vpos, (lpos-vpos).unit * 69999);
+				};
+			end
+		end
+		task.spawn(function()
+			while task.wait() do
+				local gun = LocalPlayer.Backpack:FindFirstChild("Taser") or LocalPlayer.Character:FindFirstChild("Taser")
+				if not gun then
+					TeamTo("guard")
+				end
+				Rstorage.ShootEvent:FireServer(tempo, gun)
+				task.spawn(function()
+					if math.random(1, 69) == 69 then
+						Rstorage.ReloadEvent:FireServer(gun)
+					end
+				end)
+			end
+		end)
+	elseif typeofcrash == "timestop" then
+		local thegun = LocalPlayer.Backpack:FindFirstChild("Remington 870") or LocalPlayer.Character:FindFirstChild("Remington 870")
+		if not thegun then
+			Gun("Remington 870")
+			local aughhh = waitfor(LocalPlayer.Backpack, "Remington 870", 69); thegun = aughhh
+		end
+		task.spawn(function()
+			while States.StoppingTime do task.wait()
+				if LocalPlayer.Backpack and not (LocalPlayer.Backpack:FindFirstChild("Remington 870") or LocalPlayer.Character:FindFirstChild("Remington 870")) then
+					RTPing(); pcall(function() Gun("Remington 870") end); thegun = waitfor(LocalPlayer.Backpack, "Remington 870", 69)
+				end
+				for i = 1, 69 do
+					Rstorage.ShootEvent:FireServer({
+						[1] = {}
+					}, thegun)
+				end; task.wait(4.5); RTPing()
+			end
+		end)
+	elseif typeofcrash == "itemlag" then
+		AllItems()
+		task.wait()
+		LAction("unequip")
+		local inter = args or 69
+		local crashing = true
+		do
+			local g1, g2, g3 = LocalPlayer.Backpack:FindFirstChild("M9"), LocalPlayer.Backpack:FindFirstChild("Remington 870"), LocalPlayer.Backpack:FindFirstChild("AK-47")
+			local i1, i2 = LocalPlayer.Backpack:FindFirstChild("Hammer"), LocalPlayer.Backpack:FindFirstChild("Crude Knife")
+			local o1, o2 = LocalPlayer.Backpack:FindFirstChild("Dinner") or LocalPlayer.Backpack:FindFirstChild("Breakfast") or LocalPlayer.Backpack:FindFirstChild("Lunch"), LocalPlayer.Backpack:FindFirstChild("M4A1")
+			g1.Grip = g1.Grip * CFrame.new(0, math.random(1, 69), 0); g1.Parent = LocalPlayer.Character
+			g2.Grip = g2.Grip * CFrame.new(0, math.random(1, 69), 0); g2.Parent = LocalPlayer.Character
+			g3.Grip = g3.Grip * CFrame.new(0, math.random(1, 69), 0); g3.Parent = LocalPlayer.Character
+			if i1 and i2 then
+				i1.Grip = i1.Grip * CFrame.new(0, math.random(1, 69), 0); i1.Parent = LocalPlayer.Character
+				i2.Grip = i2.Grip * CFrame.new(0, math.random(1, 69), 0); i2.Parent = LocalPlayer.Character
+			end; if o2 then
+				o2.Grip = o2.Grip * CFrame.new(0, math.random(1, 69), 0); o2.Parent = LocalPlayer.Character
+			end; if o1 then
+				o1.Grip = o1.Grip * CFrame.new(0, math.random(1, 69), 0); o1.Parent = LocalPlayer.Character
+			end
+		end; task.delay(inter, function()
+			crashing = nil
+		end)
+		while crashing do
+			for i,v in pairs(LocalPlayer.Character:GetChildren()) do
+				if v:IsA("Tool") then
+					v.Grip = v.Grip * CFrame.Angles(0, math.rad(8), 0)
+					v.Parent = LocalPlayer.Backpack
+					v.Parent = LocalPlayer.Character
+				end
+			end
+			Rstep:Wait()
+		end; wait(1); LAction("unequip")
+	elseif typeofcrash == "forcecrash" then
+		local tempe = {}
+		local augh = Ray.new(Vector3.new(0, 0, 0), Vector3.new(math.huge, math.huge, math.huge))
+		local lp = LocalPlayer.Character.HumanoidRootPart.CFrame
+		for i = 1, 100000 do
+			tempe[#tempe+1] = {
+				Cframe = lp;
+				Distance = 9e9;
+				RayObject = augh;
+			};
+		end; task.wait(.03)
+		for i,v in pairs(Players:GetPlayers()) do
+			if v.Character then
+				for _,vv in next, v.Character:GetChildren() do
+					if vv:IsA("BasePart") then
+						tempe[#tempe+1] = {
+							Cframe = vv.CFrame;
+							Distance = math.huge;
+							RayObject = augh;
+						};
+					end
+				end
+			end
+		end; Hbeat:Wait()
+		Gun("AK-47"); Gun("M9")
+		if not LocalPlayer.Character or LocalPlayer.Character.Humanoid.Health == 0 then
+			Toggles.AutoRespawn = false; LocalPlayer.CharacterAdded:Wait()
+			if waitfor(LocalPlayer.Character, "HumanoidRootPart", 5) then
+				deprint("Debug_Forcecrash died.")
+			end
+			Gun("AK-47"); Gun("M9")
+		end; task.wait()
+		local gyat = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+		local mm = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+		Rstorage.ShootEvent:FireServer({
+			[1] = {
+				Cframe = CFrame.new(1,1,20000),Distance = math.huge,RayObject = augh,PLA = true,MSG = "repeat while true do end until nil"
+			};[2] = {
+				Cframe = CFrame.new(math.huge, math.huge, math.huge),Distance = math.huge,RayObject = augh
+			};[3] = {
+				Distance = math.huge,RayObject = augh
+			}
+		}, mm)
+		if gyat then
+			LAction("equip", mm); Rstorage.ShootEvent:FireServer(tempe, gyat)
+			task.delay(10, function()
+				if RTPing() then
+					LAction("unequip")
+				end; Rstorage.ReloadEvent:FireServer(gyat); Rstorage.ReloadEvent:FireServer(mm)
+			end)
+		else
+			Notif("Error", "An error occured while force-crashing.")
+		end; tempe = nil
+	elseif typeofcrash == "formidicrash" then
+		Notif("NOTICE!!! Connect to 5Ghz or ethernet", "Formidicrash may disconnect you because packet size is too large", 10); wait(.1)
+		if not SavedArgs.LoadedCrashEvents then
+			local Root = LocalPlayer.Character:WaitForChild("HumanoidRootPart")
+			Notif("Please wait...", "Loading crash events. (Client will be rate limited!)")
+			SavedArgs.LoadedCrashEvents = true
+			local deray = Ray.new(Vector3.new(0, 0, 0), Vector3.new(math.huge, math.huge, math.huge))
+			for i = 1, 100000 do
+				local lp, bp = Root.Position, workspace:FindFirstChildOfClass("Part").Position + Vector3.new(math.random(1, 69), math.random(1, 69), math.random(1, 69))
+				Saved.PCEvents[#Saved.PCEvents+1] = {
+					Cframe = CFrame.new(bp, lp) * CFrame.new(0, 0, -(lp-bp).Magnitude / 2);
+					Distance = 9e9;
+					RayObject = deray;
+				};
+			end
+			task.wait();Hbeat:Wait()
+			local ptable = {}
+			for i,v in next, Players:GetPlayers() do
+				if v.Character then
+					for _,vv in pairs(v.Character:GetChildren()) do
+						if vv:IsA("BasePart") or vv:IsA("Part") then
+							ptable[#ptable+1] = vv
+						end
+					end
+				end
+			end
+			repeat
+				for _,v in next, ptable do
+					Saved.PCEvents[#Saved.PCEvents+1] = {
+						Cframe = v.CFrame;
+						Distance = math.huge;
+						RayObject = deray;
+					};
+					if Saved.PCEvents[124900] then
+						break
+					end
+				end
+			until Saved.PCEvents[124900]
+			task.wait(0.05);Hbeat:Wait()
+		end
+		if waitfor(LocalPlayer.Character, "HumanoidRootPart", 1) then
+			AllGuns(); AllGuns(); LAction("unequip"); task.wait()
+			local g1, g2, g3 = LocalPlayer.Backpack:FindFirstChild("AK-47"), LocalPlayer.Backpack:FindFirstChild("M9"), LocalPlayer.Backpack:FindFirstChild("Remington 870")
+			Rstorage.ShootEvent:FireServer({[1]={PLA=true,Cframe=CFrame.new(1,1,20000),MSG="while true do end"}}, g2); wait()
+			Rstorage.ShootEvent:FireServer(Saved.PCEvents, g1); Rstorage.ShootEvent:FireServer(Saved.PCEvents, g2)
+			Rstorage.ShootEvent:FireServer(Saved.PCEvents, g3); Rstorage.ShootEvent:FireServer(Saved.PCEvents, g3)
+			Rstorage.ShootEvent:FireServer(Saved.PCEvents, g1); deprint("Debug_ShootEvent completed"); wait(15)
+			Rstorage.ReloadEvent:FireServer(g1); Rstorage.ReloadEvent:FireServer(g2); Rstorage.ReloadEvent:FireServer(g3)
+		else Notif("Error!", "There was a problem while crashing, please try again!"); end
+	elseif typeofcrash == "eventlag" then
+		local tmp = Toggles.AutoRespawn; States.Flying = false; Toggles.AutoRespawn = false
+		local amount = args or 1000
+		for i = 1, amount do
+			task.spawn(function()
+				workspace.Remote.TeamEvent:FireServer("Bright orange")
+			end)
+		end
+		task.wait(3);task.wait(3);task.wait(3);Toggles.AutoRespawn = tmp
+	elseif typeofcrash == "eventcrash" then
+		Connections.CharacterAdded:Disconnect(); Connections.CharacterAdded = nil; Unloaded = true; Toggles.AutoRespawn = nil
+		settings():GetService("NetworkSettings").IncomingReplicationLag = math.huge
+		local rem = workspace.Remote.TeamEvent
+		for i = 1, 69420 do
+			coroutine.wrap(function()
+				rem:FireServer("Bright orange")
+			end)()
+		end
+		game:GetService("RunService").RenderStepped:Connect(function()
+			rem:FireServer("Bright orange")
+		end)
+	elseif typeofcrash == "soundlag" then
+		local amount = args or 6999
+		local event, sound = Rstorage.SoundEvent, LocalPlayer.Character.Head.punchSound
+		for i = 1, amount do
+			coroutine.wrap(function()
+				event:FireServer(sound)
+			end)()
+		end
+	end
+end
+
+--Threads/Tasks
+Threads = {
+	ExtraSensory = function()
+		if not Toggles.ESP then
+			return
+		end
+		task.spawn(function()
+			while Toggles.ESP do task.wait()
+				for i,v in pairs(Players:GetPlayers()) do
+					local LPos = LocalPlayer.Character and LocalPlayer.Character.PrimaryPart
+					local VHead, VRoot, VHuman = v.Character and v.Character:FindFirstChild("Head"), v.Character and v.Character:FindFirstChild("HumanoidRootPart"), v.Character and v.Character:FindFirstChildOfClass("Humanoid")
+					if v ~= LocalPlayer and VHead and VRoot and VHuman and LPos then
+						if VHead:FindFirstChild("ESP") then
+							local NameESP = VHead:FindFirstChild("ESP"):FindFirstChild("NameESP")
+							VRoot:FindFirstChild("RootESP").Color3 = v.TeamColor.Color
+							if v.Name == v.DisplayName then
+								NameESP.Text = v.Name .. " | Health: " .. math.floor(VHuman.Health) .. " | Magnitude: " .. math.floor((LPos.Position-VRoot.Position).Magnitude)
+							else
+								NameESP.Text = v.Name .. " [" .. v.DisplayName .. "] | Health: " .. math.floor(VHuman.Health) .. " | Magnitude: " .. math.floor((LPos.Position-VRoot.Position).Magnitude)
+							end; NameESP.TextColor3 = v.TeamColor.Color
+						else
+							local NameESP, Label, RootESP = Instance.new("BillboardGui"), Instance.new("TextLabel"), Instance.new("BoxHandleAdornment")
+							NameESP.Adornee = v.Character.Head;NameESP.Name = "ESP";NameESP.Parent = v.Character.Head
+							NameESP.Size = UDim2.new(0, 100, 0, 135);NameESP.StudsOffset = Vector3.new(0, 0, 0);NameESP.AlwaysOnTop = true
+							Label.Parent = NameESP;Label.Name = "NameESP";Label.BackgroundTransparency = 1
+							Label.Position = UDim2.new(0, 0, 0, -50);Label.Size = UDim2.new(0, 100, 0, 100);Label.Font = Enum.Font.SourceSansSemibold
+							Label.TextSize = 18;Label.TextColor3 = v.TeamColor.Color;Label.TextStrokeTransparency = 0
+							Label.TextYAlignment = Enum.TextYAlignment.Bottom;Label.Text = v.Name;Label.ZIndex = 10
+							RootESP.Name = "RootESP";RootESP.Parent = VRoot;RootESP.Adornee = VRoot;RootESP.AlwaysOnTop = true
+							RootESP.ZIndex = 10;RootESP.Size = VRoot.Size;RootESP.Transparency = 0.4;RootESP.Color3 = v.TeamColor.Color
+						end
+					end
+				end; Hbeat:Wait()
+			end
+			for i,v in pairs(Players:GetPlayers()) do
+				if v ~= LocalPlayer and v.Character then
+					local lroot, lhead = v.Character:FindFirstChild("HumanoidRootPart"), v.Character:FindFirstChild("Head")
+					if lroot and lroot:FindFirstChild("RootESP") then
+						lroot:FindFirstChild("RootESP"):Destroy()
+					end; if lhead and lhead:FindFirstChild("ESP") then
+						lhead:FindFirstChild("ESP"):Destroy()
+					end
+				end
+			end
+		end)
+	end;
+	ArrestBack = function()
+		if not Toggles.ArrestBack then
+			return
+		end
+		task.spawn(function()
+			while Toggles.ArrestBack do task.wait()
+				pcall(function()
+					for i,v in pairs(Teams.Guards:GetPlayers()) do
+						if v ~= LocalPlayer and v.Character and v.Character:FindFirstChild("Handcuffs") then
+							local vhead, lhead = v.Character:FindFirstChild("Head"), LocalPlayer.Character:FindFirstChild("Head")
+							if vhead and lhead and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health ~= 0 then
+								if (vhead.Position-lhead.Position).Magnitude <= 18 then
+									MakeCrim(v, true, false, true)
+								end
+							end
+						end
+					end
+				end)
+			end
+		end)
+	end;
+	AntiPay2Win = function()
+		if not Toggles.AntiShield then
+			return
+		end
+		task.spawn(function()
+			while Toggles.AntiShield do task.wait()
+				for _, pay2winusers in pairs(Players:GetPlayers()) do
+					if pay2winusers ~= LocalPlayer and pay2winusers.Character and pay2winusers.Character:FindFirstChild("Torso") then
+						local folder = pay2winusers.Character.Torso:FindFirstChild("ShieldFolder"); local shield = folder and folder:FindFirstChild("shield")
+						if shield then
+							shield.Size = Vector3.new(0, 0, 0)
+						end
+					end
+				end
+			end
+			for _, pay2winusers in pairs(Players:GetPlayers()) do
+				if pay2winusers ~= LocalPlayer and pay2winusers.Character and pay2winusers.Character:FindFirstChild("Torso") then
+					local folder = pay2winusers.Character.Torso:FindFirstChild("ShieldFolder"); local shield = folder and folder:FindFirstChild("shield")
+					if shield then
+						shield.Size = Vector3.new(2.6, 4.2, 0.4)
+					end
+				end
+			end
+		end)
+	end;
+	AntiFling = function()
+		if not States.AntiFling then
+			return
+		end
+		task.spawn(function()
+			local temp = PhysicalProperties.new(0.01, 0, 0)
+			local tempfunc = function(arg)
+				for _,vv in pairs(arg.Character:GetChildren()) do
+					if vv:IsA("BasePart") or vv:IsA("Part") then
+						vv.CanCollide = false
+						if vv.CustomPhysicalProperties ~= temp then
+							vv.CustomPhysicalProperties = temp
+						end
+					end; if vv:IsA("MeshPart") then
+						vv.CanCollide = false
+					end; if vv:IsA("Accessory") then
+						local handle = vv:FindFirstChildWhichIsA("Part") or vv:FindFirstChildWhichIsA("MeshPart") or vv:FindFirstChildWhichIsA("WedgePart")
+						if handle and handle.CanCollide then
+							handle.CanCollide = false
+						end
+					end
+				end
+			end
+			while States.AntiFling do Stepped:Wait()
+				for _,v in pairs(Players:GetPlayers()) do
+					if v ~= LocalPlayer and v.Character then
+						tempfunc(v)
+					end
+				end
+			end
+			tempfunc = nil; temp = nil
+		end)
+	end;
+	AntiVelocity = function()
+		if not States.AntiVelocity then
+			return
+		end
+		task.spawn(function()
+			local parts, cus = {}, PhysicalProperties.new(0, 0, 0)
+			for i,v in pairs(workspace:GetDescendants()) do
+				if v:IsA("BasePart") or v:IsA("Part") and not v:IsDescendantOf(LocalPlayer.Character) then
+					parts[#parts+1] = v
+				end
+				if v:IsA("MeshPart") or v:IsA("WedgePart") and not v:IsDescendantOf(LocalPlayer.Character) then
+					parts[#parts+1] = v
+				end
+			end
+			coroutine.wrap(function()
+				while States.AntiVelocity do
+					wait(.1)
+					parts = {}
+					for i,v in pairs(workspace:GetDescendants()) do
+						if v:IsA("BasePart") or v:IsA("Part") and not v:IsDescendantOf(LocalPlayer.Character) then
+							parts[#parts+1] = v
+						end
+						if v:IsA("MeshPart") or v:IsA("WedgePart") and not v:IsDescendantOf(LocalPlayer.Character) then
+							parts[#parts+1] = v
+						end
+					end
+					local des = workspace:FindFirstChild(LocalPlayer.Name)
+					if des.PrimaryPart and des.PrimaryPart.AssemblyLinearVelocity.Magnitude > 50 then
+						Stepped:Wait()
+						des.PrimaryPart.Velocity = Vector3.new(0, 0, 0)
+						des.PrimaryPart.RotVelocity = Vector3.new(0, 0, 0)
+						LocTP(SavedPositions.AntiFling)
+						deprint("Debug_Player was flinged")
+					elseif des.PrimaryPart and des.PrimaryPart.AssemblyLinearVelocity.Magnitude < 50 then
+						SavedPositions.AntiFling = des.PrimaryPart.CFrame
+					end
+				end
+				parts = nil; cus = nil
+			end)()
+			while States.AntiVelocity do
+				Stepped:Wait()
+				if next(parts) then
+					for _,v in next, parts do
+						if v:IsA("BasePart") or v:IsA("Part") then
+							v.Velocity = Vector3.new(0, 0, 0)
+							v.RotVelocity = Vector3.new(0, 0, 0)
+							v.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+							v.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+							v.CustomPhysicalProperties = cus
+						end
+						if v:IsA("MeshPart") or v:IsA("WedgePart") then
+							v.CanCollide = false
+							v.Velocity = Vector3.new(0, 0, 0)
+							v.RotVelocity = Vector3.new(0, 0, 0)
+							v.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+							v.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+						end
+					end
+				end
+			end
+		end)
+	end;
+	ForceField = function()
+		if not States.ForceField then
+			return
+		end
+		task.spawn(function()
+			while States.ForceField do task.wait()
+				local plc = LocalPlayer.Character
+				if plc then
+					plc = LocalPlayer.Character
+					local plr = plc and plc:FindFirstChild("HumanoidRootPart")
+					if plr then
+						task.delay(CPing(nil,true),function()SavedPositions.AutoRe = plr.CFrame;SaveCamPos() end)
+						if #Teams.Guards:GetPlayers() > 7 then
+							TeamEve("Bright orange")
+						end; TeamEve("Bright blue")
+						task.spawn(function()
+							local isholding = plc:FindFirstChildWhichIsA("Tool") and plc:FindFirstChildWhichIsA("Tool").Name
+							LocalPlayer.CharacterAdded:Wait()
+							if States.ForceField then
+								if not Toggles.AutoRespawn then
+									waitfor(LocalPlayer.Character, "HumanoidRootPart", 1).CFrame = SavedPositions.AutoRe
+								end; LoadCamPos()
+								if isholding and wait() then
+									local hastool = LocalPlayer.Backpack:FindFirstChild(isholding)
+									if hastool then
+										LAction("equip", hastool)
+									else
+										ItemHand(false, isholding); ItemHand(false, isholding); ItemHand(false, isholding)
+										local toequip = LocalPlayer.Backpack:FindFirstChild(isholding)
+										if toequip then
+											LAction("equip", toequip)
+										end
+									end
+								end
+							end
+						end)
+						local o = CPing() / 2; task.wait(5 - o)
+					end
+				end
+			end
+		end)
+	end;
+	ArrestAura = function()
+		if not Toggles.ArrestAura then
+			return
+		end
+		task.spawn(function()
+			while Toggles.ArrestAura do task.wait()
+				for i,v in pairs(Players:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and v.TeamColor.Name ~= "Bright blue" then
+						local VHead, LHead = v.Character:FindFirstChild("Head"), LocalPlayer.Character:FindFirstChild("Head")
+						if VHead and LHead and CheckWhitelist(v) then
+							if (VHead.Position-LHead.Position).Magnitude <= 25 then
+								if v.TeamColor == BrickColor.new("Really red") or GetIllegalReg(v) then
+									task.spawn(ArrestEve, v); wait()
+								end
+							end
+						end
+					end
+				end
+			end
+		end)
+	end;
+	ClickTeleport = function()
+		if not States.ClickTeleport then
+			return
+		end
+		task.spawn(function()
+			while States.ClickTeleport do task.wait()
+				if States.ClickTeleport then
+					SpawnClientStuff("clicktp")
+				else break end; LocalPlayer.CharacterAdded:Wait(); wait(.1); if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then task.wait(1) end
+			end
+		end)
+	end;
+	Fullbright = function()
+		if not States.Fullbright then
+			return
+		end
+		task.spawn(function() pcall(function() LocalPlayer.PlayerGui.Home.fadeFrame.Visible = false end)
+			local Lighting = game:GetService("Lighting"); local temp = {
+				Brightness = Lighting.Brightness,FogEnd = Lighting.FogEnd,GlobalShadows = Lighting.GlobalShadows,OutdoorAmbient = Lighting.OutdoorAmbient
+			};while States.Fullbright do task.wait()
+				Lighting.Brightness = 5;Lighting.FogEnd = 100000;Lighting.GlobalShadows = false;Lighting.OutdoorAmbient = Color3.fromRGB(128, 128, 128)
+			end;Lighting.Brightness = temp.Brightness;Lighting.FogEnd = temp.FogEnd;Lighting.GlobalShadows = temp.GlobalShadows;Lighting.OutdoorAmbient = temp.OutdoorAmbient
+		end)
+	end;
+	Invisibility = function()
+		if not States.Invisible then
+			return
+		end
+		task.spawn(function()
+			AllGuns()
+			local Character, FakeCharacter = LocalPlayer.Character, nil
+			while States.Invisible do task.wait()
+				local root = waitfor(LocalPlayer.Character, "HumanoidRootPart", 5)
+				if root and States.Invisible then
+					local lastpos = root.CFrame
+					Character.Archivable = true
+					FakeCharacter = Character:Clone()
+					FakeCharacter.Parent = game.Lighting
+					FakeCharacter.Name = "FakeCharacter"; FakeCharacter:FindFirstChildOfClass("Humanoid").DisplayName = "[INVISIBLE]"
+					SaveCamPos()
+					root.CFrame = CFrame.new(9e9, 9e9, 9e9)
+					SavedPositions.AutoRe = lastpos; wait(.4)
+					game:GetService("Workspace").CurrentCamera.CameraType = Enum.CameraType.Scriptable
+					Hbeat:Wait(); Rstep:Wait()
+					game:GetService("Workspace").CurrentCamera.CameraType = Enum.CameraType.Custom
+					FakeCharacter = FakeCharacter
+					Character.Parent = game.Lighting
+					FakeCharacter.Parent = game:GetService("Workspace")
+					FakeCharacter:FindFirstChild("HumanoidRootPart").CFrame = lastpos
+					LocalPlayer.Character = FakeCharacter; Rstep:Wait()
+					workspace.CurrentCamera.CameraSubject = FakeCharacter:FindFirstChildOfClass("Humanoid")
+					workspace.CurrentCamera.CameraType = "Custom"; LoadCamPos()
+					LocalPlayer.Character.Animate.Disabled = true
+					LocalPlayer.Character.Animate.Disabled = false
+					LocalPlayer.CharacterAdded:Wait(); waitfor(LocalPlayer.Character, "HumanoidRootPart")
+					Character:Destroy(); Character = nil
+					FakeCharacter:Destroy(); FakeCharacter = nil
+					root = nil; lastpos = nil
+					AllGuns(); AllGuns(); AllGuns()
+					if States.Invisible then
+						Character = LocalPlayer.Character
+					else
+						break
+					end
+				end
+			end; Character = nil; FakeCharacter = nil
+		end)
+	end;
+	ShootKillPlayers = function()
+		if Saved.Thread.ShootKillPlayers then
+			return
+		end; Saved.Thread.ShootKillPlayers = true
+		task.spawn(function()
+			while task.wait() do
+				if next(Loops.ShootKill) then
+					pcall(function()
+						for i,v in next, Loops.ShootKill do
+							if v and v.Character and v.Character:FindFirstChildOfClass("Humanoid") and v.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+								local tool = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+								if tool and tool:FindFirstChildOfClass("ModuleScript") and tool.Name ~= "Taser" then
+									ShootKill(v, nil, tool.Name)
+								else
+									ShootKill(v)
+								end
+							end
+						end
+					end)
+				else
+					break
+				end
+			end; Saved.Thread.ShootKillPlayers = nil
+		end)
+	end;
+	RandomKillPlayers = function()
+		if Saved.Thread.RandomKillPlayers then
+			return
+		end; Saved.Thread.RandomKillPlayers = true
+		task.spawn(function()
+			while wait(1) do
+				if next(Loops.RandomKill) then
+					pcall(function()
+						for i,v in next, Loops.RandomKill do
+							if v and v.Character and v ~= LocalPlayer then
+								local meth = math.random(1, 15)
+								if meth == 6 then
+									KillPL(v); task.wait(.35)
+								end
+							end
+						end
+					end)
+				else
+					break
+				end
+			end; Saved.Thread.RandomKillPlayers = nil
+		end)
+	end;
+	LoopTasePlayers = function()
+		if Saved.Thread.LoopTasePlayers then
+			return
+		end; Saved.Thread.LoopTasePlayers = true
+		task.spawn(function()
+			while wait(.7) do
+				pcall(function()
+					if Loops.TaseTeams.All then
+						if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") and #Teams.Guards:GetPlayers() < 8 then
+							TeamTo("guard")
+						end; if LocalPlayer.TeamColor.Name == "Bright blue" then 
+							TasePL(Players, "teams") 
+						end
+					else
+						local temp = {}
+						if Loops.TaseTeams.Inmates then
+							for i,v in pairs(Teams.Inmates:GetPlayers()) do
+								if v.Character and CheckWhitelist(v) and v ~= LocalPlayer and v.Character:FindFirstChild("Humanoid").Health ~= 0 then
+									temp[#temp+1] = v
+								end
+							end
+						end; if Loops.TaseTeams.Criminals then
+							for i,v in pairs(Teams.Criminals:GetPlayers()) do
+								if v.Character and CheckWhitelist(v) and v ~= LocalPlayer and v.Character:FindFirstChild("Humanoid").Health ~= 0 then
+									temp[#temp+1] = v
+								end
+							end
+						end; if next(Loops.Tase) then
+							for i,v in next, Loops.Tase do
+								if v.Character and v ~= LocalPlayer and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.TeamColor == BrickColor.new("Bright blue")) then
+									temp[#temp+1] = v
+								end
+							end
+						end; if next(Powers.Taseauras) then
+							for i,v in next, Powers.Taseauras do
+								if v.Character and v.Character:FindFirstChild("Head") then
+									for _,vv in pairs(Players:GetPlayers()) do
+										if vv.Character and vv.Character:FindFirstChild("Head") and CheckWhitelist(vv) and not (vv == LocalPlayer or vv == v) then
+											local THead, VHead = v.Character.Head, vv.Character.Head
+											if THead and VHead and CheckWhitelist(vv) and not (vv.Character:FindFirstChildOfClass("Humanoid").Health == 0 or vv.TeamColor == BrickColor.new("Bright blue")) then
+												if (THead.Position-VHead.Position).Magnitude <= 17 then
+													temp[#temp+1] = vv
+												end
+											end
+										end
+									end
+								end
+							end
+						end; if next(temp) then
+							if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") and #Teams.Guards:GetPlayers() < 8 then
+								TeamTo("guard")
+							end; if LocalPlayer.TeamColor.Name == "Bright blue" then 
+								TasePL(temp, "tables")
+							end
+						end; temp = nil
+					end
+				end)
+			end
+		end)
+	end;
+	DeathNukes = function()
+		if Saved.Thread.DeathNukes then
+			return
+		end; Saved.Thread.DeathNukes = true
+		task.spawn(function()
+			while task.wait() do
+				if next(Powers.DeathNuke) then
+					for i,v in next, Powers.DeathNuke do
+						if v.Character and v.Character:FindFirstChildOfClass("Humanoid") then
+							if v.Character:FindFirstChildOfClass("Humanoid").Health == 0 and next(Powers.DeathNuke) then
+								Chat("WARNING!!! " .. v.DisplayName .. " HAS LAUNCHED THE DEATHNUKE, EVERYONE WILL DIE IN T MINUS 3 SECOND(S)!!!");wait(1.69)
+								Chat("T MINUS 2 SECOND(S)");wait(1.69)
+								Chat("T MINUS 1 SECOND(S)");wait(1.69)
+								Chat("**NUKE ULTRA HD SOUND EFFECT**")
+								pcall(function() MultiKill(Players, v) end)
+								RTPing(0.1); wait(5)
+							end
+						end
+					end
+				else break end
+			end; Saved.Thread.DeathNukes = nil
+		end)
+	end;
+	AutoGuns = function()
+		if not Toggles.AutoGuns then
+			return
+		end; Toggles.AutoItems = false
+		task.spawn(function()
+			while Toggles.AutoGuns do task.wait()
+				pcall(AllGuns)
+				if Settings.User.OldItemMethod then
+					LocalPlayer.CharacterAdded:Wait(); wait(1)
+				end
+			end
+		end)
+	end;
+	AutoItems = function()
+		if not Toggles.AutoItems then
+			return
+		end; Toggles.AutoGuns = false
+		task.spawn(function()
+			while Toggles.AutoItems do task.wait()
+				task.spawn(AllItems)
+				LocalPlayer.CharacterAdded:Wait()
+				if waitfor(LocalPlayer.Character, "HumanoidRootPart", 1) and Settings.User.OldItemMethod and LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+					RTPing(1)
+				end
+			end
+		end)
+	end;
+	HideTeamGui = function()
+		task.spawn(function()
+			task.delay(0.05, function()
+				game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.All, true)
+			end); for i = 1, 10 do
+				pcall(function()
+					LocalPlayer.PlayerGui:FindFirstChild("Home"):FindFirstChild("intro").Visible = false; LocalPlayer.PlayerGui:FindFirstChild("Home"):FindFirstChild("hud").Visible = true
+					game:GetService("Workspace").CurrentCamera.FieldOfView = 70; game:GetService("Workspace").CurrentCamera.CameraType = Enum.CameraType.Custom
+					game:GetService("Workspace").CurrentCamera.CameraSubject = LocalPlayer.Character:FindFirstChild("Humanoid")
+				end); task.wait()
+			end
+		end)
+	end;
+};
+Tasks = {
+	AutoKill = function(args)
+		if args == "hostile" then
+			if not States.KillHostile then
+				States.KillHostile = true
+				task.spawn(function()
+					while States.KillHostile do task.wait()
+						pcall(function()
+							local hostiles = {}
+							for i,v in pairs(Players:GetPlayers()) do
+								if v.Character and CheckWhitelist(v) and v ~= LocalPlayer then
+									if v.Character:FindFirstChildOfClass("Humanoid") and v.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+										local itemholding = v.Character:FindFirstChildWhichIsA("Tool")
+										if itemholding then
+											local ch = v.Character
+											if ch:FindFirstChild("AK-47") or ch:FindFirstChild("Remington 870") or ch:FindFirstChild("M9") or ch:FindFirstChild("M4A1") or ch:FindFirstChild("Crude Knife") or ch:FindFirstChild("Hammer") then
+												hostiles[#hostiles+1] = v
+											end
+										else
+											local track = v.Character:FindFirstChildOfClass("Humanoid")
+											for _, hostileanim in ipairs(track:GetPlayingAnimationTracks()) do
+												if table.find(Saved.HostileAnimations, hostileanim.Animation.AnimationId) then
+													hostiles[#hostiles+1] = v
+													break
+												end
+											end; track = nil
+										end; itemholding = nil
+									end
+								end
+							end
+							if next(hostiles) then
+								TableKill(hostiles); task.wait(.3)
+							end; hostiles = nil
+						end)
+					end
+				end)
+			else
+				Notif("Error", "Already killing hostiles.")
+			end
+		elseif args == "shielduser" then
+			if not States.KillShielduser then
+				States.KillShielduser = true
+				task.spawn(function()
+					while States.KillShielduser do task.wait()
+						pcall(function()
+							for i,v in pairs(Players:GetPlayers()) do
+								if v.Character and v ~= LocalPlayer then
+									if v.Character:FindFirstChild("Torso") and CheckWhitelist(v) then
+										if v.Character.Torso:FindFirstChild("ShieldFolder") then
+											KillPL(v, nil, nil, true)
+										end
+									end
+								end
+							end
+						end)
+					end
+				end)
+			else
+				Notif("Error", "Already killing shieldusers.")
+			end
+		elseif args == "handcuffer" then
+			if not States.KillHandcuffer then
+				States.KillHandcuffer = true
+				task.spawn(function()
+					while States.KillHandcuffer do task.wait()
+						pcall(function()
+							local annoyingbrats = {}
+							for i,v in pairs(Players:GetPlayers()) do
+								if v.Character and v ~= LocalPlayer then
+									if v.Character:FindFirstChild("Handcuffs") and CheckWhitelist(v) then
+										annoyingbrats[#annoyingbrats+1] = v
+									end
+								end
+							end
+							if next(annoyingbrats) then
+								TableKill(annoyingbrats); task.wait(.07)
+							end; annoyingbrats = nil
+						end)
+					end
+				end)
+			else
+				Notif("Error", "Already killing handcuff users")
+			end
+		elseif args == "taser" then
+			if not States.KillTaser then
+				States.KillTaser = true
+				task.spawn(function()
+					while States.KillTaser do task.wait()
+						pcall(function()
+							for i,v in pairs(Players:GetPlayers()) do
+								if v ~= LocalPlayer and CheckWhitelist(v) and v.Character and v.Character:FindFirstChild("Taser") then
+									KillPL(v)
+								end
+							end; RTPing()
+						end)
+					end
+				end)
+			else
+				Notif("Error", "Already killing tasers.")
+			end
+		end
+	end;
+	AntiCheat = function()
+		if States.AntiCheat then
+			task.spawn(function()
+				local laspos, lasteam = {}, {}
+				local CheaterDetected, died = {}, {}
+				local SavedChar, wasneutral = {}, {}
+				local dcolor = Color3.fromRGB(255, 255, 255)
+				coroutine.wrap(function()
+					while States.AntiCheat do 
+						task.wait()
+						pcall(function()
+							for _,v in next, Players:GetPlayers() do
+								if v and v.Character and v ~= LocalPlayer then
+									local char = v.Character
+									local head = char and char:FindFirstChild("Head")
+									local human = char and char:FindFirstChildOfClass("Humanoid")
+									if head and human and not human.Sit then
+										local haynako = head.Position
+										local gago = Vector3.new(0, -0.04, 0)
+										local hayop = RaycastParams.new()
+										hayop.FilterType = Enum.RaycastFilterType.Exclude
+										hayop.FilterDescendantsInstances = {char, workspace.CarContainer}
+										local tangina = workspace:Raycast(haynako, gago, hayop)
+										if tangina then
+											local part = tangina.Instance
+											if part and part.CanCollide and not part:IsDescendantOf(workspace.Terrain) and not (part:IsDescendantOf(workspace.CarContainer) or Players:FindFirstChild(part.Name) or Players:FindFirstChild(part.Parent.Name)) then
+												if human.Health ~= 0 and human:GetState() ~= Enum.HumanoidStateType.Jumping and not human.Sit and not CheaterDetected[v.Name] then
+													CheaterDetected[v.Name] = v
+													SysMessage("[Cheat Detection]: Noclip detected (69% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+												end
+											end 
+										end
+									end
+								end
+							end
+						end)
+						Hbeat:Wait()
+					end
+				end)()
+				while States.AntiCheat do
+					task.wait()
+					pcall(function()
+						for i,v in next, Players:GetPlayers() do
+							if v and v.Character and v ~= LocalPlayer and v.TeamColor ~= BrickColor.new("Medium stone grey") and not wasneutral[v.Name] then
+								local vhead = v.Character:FindFirstChild("Head")
+								local root = v.Character:FindFirstChild("HumanoidRootPart")
+								local human = v.Character:FindFirstChildOfClass("Humanoid")
+								if lasteam[v.Name] then
+									if lasteam[v.Name] ~= v.TeamColor then
+										if v.TeamColor == BrickColor.new("Really red") and not GetIllegalReg(v) then
+											if not CheaterDetected[v.Name] then
+												CheaterDetected[v.Name] = v
+												SysMessage("[Cheat Detection]: Criminal team change (Kill all) Detected! (99.69% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+											end
+										end
+										lasteam[v.Name] = v.TeamColor
+									end
+								end
+								if human and human:GetState() == Enum.HumanoidStateType.PlatformStanding then
+									if not CheaterDetected[v.Name] then
+										CheaterDetected[v.Name] = v
+										SysMessage("[Cheat Detection]: Fly detected! (PlatformStanding) (100% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+									end
+								end
+								if human and human:GetState() == Enum.HumanoidStateType.Swimming then
+									if not CheaterDetected[v.Name] then
+										CheaterDetected[v.Name] = v
+										SysMessage("[Cheat Detection]: Fly detected! (FakeSwim) (100% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+									end
+								end
+								if human then
+									if human.Health == 0 then
+										died[v.Name] = true
+										laspos[v.Name] = root.CFrame
+									end
+								end
+								if root and laspos[v.Name] and SavedChar[v.Name] == v.Character and not died[v.Name] then
+									if (root.Position-laspos[v.Name].Position).Magnitude > 30 and not (root.AssemblyLinearVelocity.X > 15 or root.AssemblyLinearVelocity.Z > 15) and not human.Sit and not v.Character:FindFirstChildWhichIsA("ForceField") then
+										local ray = Ray.new(root.Position, (root.Position + Vector3.new(0, -5, 0) - root.Position).Unit * 5)
+										local part = workspace:FindPartOnRayWithIgnoreList(ray, {v.Character, workspace.Terrain})
+										if human:GetState() ~= Enum.HumanoidStateType.Jumping and part and not part:IsDescendantOf(workspace.CarContainer) then
+											if not human.Sit and not v.Character:FindFirstChildWhichIsA("ForceField") and not CheaterDetected[v.Name] then
+												CheaterDetected[v.Name] = v
+												SysMessage("[Cheat Detection]: Teleport detected! (42.69% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+											end
+										end
+									end
+								end
+								if root and laspos[v.Name] and not died[v.Name] then
+									if root.AssemblyLinearVelocity.X > 50 or root.AssemblyLinearVelocity.Z > 50 and root.AssemblyLinearVelocity.Y > -16 and not (root.AssemblyLinearVelocity.X > 1e7 or root.AssemblyLinearVelocity.Z > 1e7 or root.AssemblyLinearVelocity.Y > 1) and not human.Sit then
+										local ray = Ray.new(root.Position, (root.Position + Vector3.new(0, -5, 0) - root.Position).Unit * 5)
+										local part = workspace:FindPartOnRayWithIgnoreList(ray, {v.Character, workspace.Terrain})
+										if human:GetState() ~= Enum.HumanoidStateType.Jumping and part and not part:IsDescendantOf(workspace.CarContainer) then
+											if not human.Sit and not CheaterDetected[v.Name] then
+												CheaterDetected[v.Name] = v
+												SysMessage("[Cheat Detection]: Speed detected! (50% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+											end
+										end
+									end
+								end
+								if root then
+									if root.AssemblyLinearVelocity.X > 1e7 or root.AssemblyLinearVelocity.Z > 1e7 or root.AssemblyLinearVelocity.Y > 1e7 or root.AssemblyAngularVelocity.X > 699 or root.AssemblyAngularVelocity.Y > 699 or root.AssemblyAngularVelocity.Z > 699 then
+										if not CheaterDetected[v.Name] then
+											CheaterDetected[v.Name] = v
+											SysMessage("[Cheat Detection]: Fling detected! (Cannot determine culprit and victim) (69% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+										end
+									end
+								end
+								if vhead then
+									if vhead.Position.Y > 1000 or vhead.Position.X > 49999 then
+										if not (root.AssemblyLinearVelocity.X > 50 or root.AssemblyLinearVelocity.Y > 50 or root.AssemblyLinearVelocity.Z > 50) and not CheaterDetected[v.Name] then
+											CheaterDetected[v.Name] = v
+											SysMessage("[Cheat Detection]: Invisible detected! (99.99% accurate) Player: " .. v.Name .. " [" .. v.DisplayName .. "]", dcolor)
+										end
+									end
+								end
+								if laspos[v.Name] and SavedChar[v.Name] and SavedChar[v.Name] ~= v.Character then
+									SavedChar[v.Name] = nil
+									SavedChar[v.Name] = v.Character
+								end
+								if died[v.Name] and laspos[v.Name] then
+									if human.Health ~= 0 and v.Character:FindFirstChildWhichIsA("ForceField") then
+										died[v.Name] = nil
+										laspos[v.Name] = root.CFrame
+									end
+								end
+								if root then
+									laspos[v.Name] = v.Character:FindFirstChild("HumanoidRootPart").CFrame
+								end
+								if not lasteam[v.Name] then
+									lasteam[v.Name] = v.TeamColor
+								end
+								if not SavedChar[v.Name] then
+									SavedChar[v.Name] = v.Character
+								end
+							end
+							if v.TeamColor == BrickColor.new("Medium stone grey") then
+								laspos[v.Name] = nil
+								lasteam[v.Name] = nil
+								SavedChar[v.Name] = nil
+								wasneutral[v.Name] = true
+							elseif wasneutral[v.Name] then
+								if v.Character and not v.Character:FindFirstChildWhichIsA("ForceField") then
+									wasneutral[v.Name] = nil
+								end
+							end
+						end
+					end)
+					Hbeat:Wait(); task.wait(0.08)
+				end
+				laspos = nil; lasteam = nil; died = nil; wasneutral = nil; SavedChar = nil; CheaterDetected = nil; dcolor = nil
+			end)
+		end
+	end;
+	LaunchNuke = function(target, radius, countdown)
+		if SavedArgs.NukeCooldown then
+			Notif("Error", "A nuke is already launching!")
+			return
+		end
+		local coords = target.Character:FindFirstChild("HumanoidRootPart").CFrame; SavedArgs.NukeCooldown = true
+		pcall(function()
+			local rad, ticking = radius or 269, countdown or 3; local tempopo = LocalPlayer.Character
+			Chat("!!!! WARNING: A NUKE IS LAUNCHING NEAR " .. target.Name .. " WITHIN A " .. tostring(math.floor(rad)) .. " METER RADIUS IN APPROXIMATELY " .. tostring(ticking) .. " SECOND(S) !!!!"); wait(ticking); Chat("!!! TACTICAL NUKE INCOMING !!!")
+			local lrot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart"); local lastpos = lrot.CFrame; lrot.CFrame = CFrame.new(coords.Position + Vector3.new(0, 269, 0))
+			local torpedo = Instance.new("BodyAngularVelocity", lrot)
+			torpedo.Name = "Spinner"; torpedo.MaxTorque = Vector3.new(0, math.huge, 0); torpedo.P = math.huge
+			local falling = Instance.new("BodyPosition", lrot)
+			falling.Name = "Nuker"; falling.D = 0; falling.MaxForce = Vector3.new(math.huge, math.huge, math.huge); falling.P = 9999; falling.Position = lrot.CFrame.Position
+			torpedo.AngularVelocity = Vector3.new(0, 69, 0); wait(0.8)
+			repeat wait()
+				falling.Position = lrot.Position + Vector3.new(0, -3, 0); lrot.CFrame = lrot.CFrame * CFrame.new(0, -3, 0)
+			until LocalPlayer.Character ~= tempopo or (lrot.Position-coords.Position).Magnitude < 8 or (Vector3.new(0, coords.Position.Y, 0)-Vector3.new(0, lrot.Position.Y, 0)).Magnitude < 8
+			falling:Destroy(); falling = nil; torpedo:Destroy(); torpedo = nil; tempopo = nil; Stepped:Wait(); LocalPlayer.Character.PrimaryPart.Velocity = Vector3.new(0, 0, 0)
+			local AboutToDie, MakeRay = {}, {}
+			for i,v in pairs(Players:GetPlayers()) do
+				if v ~= LocalPlayer and v.Character and CheckWhitelist(v) then
+					local par = v.Character:FindFirstChild("HumanoidRootPart")
+					if par and (par.Position-coords.Position).Magnitude < rad then
+						AboutToDie[#AboutToDie+1] = v
+					end
+				end
+			end; Gun("AK-47")
+			coroutine.wrap(TableKill)(AboutToDie)
+			for i,v in next, AboutToDie do
+				if v.Character and v.Character:FindFirstChild("HumanoidRootPart") then
+					MakeRay[#MakeRay+1] = {Hit = v.Character.HumanoidRootPart,Cframe = v.Character.HumanoidRootPart.CFrame,Distance = math.huge,RayObject = Ray.new(Vector3.new(), Vector3.new())}
+				end
+			end
+			local gun = LocalPlayer.Backpack:FindFirstChild("AK-47") or LocalPlayer.Character:FindFirstChild("AK-47")
+			Rstorage.ShootEvent:FireServer(MakeRay, gun); Hbeat:Wait(); Rstorage.ShootEvent:FireServer(MakeRay, gun); Rstorage.ReloadEvent:FireServer(gun); CreateClientRay(MakeRay); Hbeat:Wait(); CreateClientRay(MakeRay)
+			RTPing(0.5); LocTP(lastpos)
+		end); SavedArgs.NukeCooldown = false
+	end;
+	ReloadGun = function(arg, arg2)
+		if not arg then
+			return
+		end
+		task.spawn(function()
+			local tool = arg.Name
+			while wait() do
+				local findchild = LocalPlayer.Character:FindFirstChild(tool) or LocalPlayer.Backpack:FindFirstChild(tool)
+				if findchild then
+					if LocalPlayer.Character:FindFirstChild(tool) then
+						Rstorage.ReloadEvent:FireServer(findchild)
+					elseif arg2 then break end
+				else break end
+			end
+		end)
+	end;
+	SoundSpam = function()
+		task.spawn(function()
+			while States.SoundSpam do task.wait()
+				local sounds = {}
+				for ii,vv in next, workspace:GetDescendants() do
+					if vv:IsA("Sound") then
+						sounds[#sounds+1] = vv
+					end
+				end; task.wait()
+				pcall(function()
+					for i,v in pairs(Players:GetPlayers()) do
+						if v.Character and v.Character:FindFirstChild("Head") then
+							local vhead = v.Character:FindFirstChild("Head")
+							for ii,vv in ipairs(sounds) do
+								Rstorage.SoundEvent:FireServer(vv, vhead); vv:Play()
+							end
+						end; wait(CPing()+0.15)
+					end; sounds = nil
+				end)
+				task.wait(.1); RTPing()
+			end
+		end)
+	end;
+	LoopSounds = function()
+		task.spawn(function()
+			while States.LoopSounds do task.wait()
+				pcall(function()
+					for i,v in pairs(Players:GetPlayers()) do
+						if v and v.Character then
+							local head = v.Character.Head
+							local punch = head.punchSound; punch.Volume = math.huge
+							Rstorage.SoundEvent:FireServer(punch)
+							local ring = workspace["Prison_guardspawn"].spawn.Sound
+							Rstorage.SoundEvent:FireServer(ring, head)
+							ring:Play(); punch:Play()
+						end
+					end
+				end); task.wait(.08)
+			end
+		end)
+	end;
+	SpinnyTools = function()
+		task.spawn(function()
+			local save = {}
+			while States.SpinnyTools do task.wait()
+				pcall(function()
+					for i,v in next, LocalPlayer.Character:GetChildren() do
+						if v:IsA("Tool") then
+							if not save[v] then
+								save[v] = true
+								v.Grip = CFrame.new(Saved.SpinToolRadius, 0, 0)
+							end
+							v.Parent = LocalPlayer.Backpack
+							v.Grip = v.Grip * CFrame.Angles(0, math.rad(Saved.SpinToolSpeed), 0)
+							v.Parent = LocalPlayer.Character
+						end
+					end
+				end); task.wait(.1)
+			end; LAction("unequip")
+			for i,v in pairs(LocalPlayer.Backpack:GetChildren()) do
+				if v:IsA("Tool") then
+					v.Grip = CFrame.new(0, 0, 0)
+				end
+			end; save = nil; Saved.Thread.SpinnyTools = nil
+		end)
+	end;
+	AutoInfiniteAmmo = function()
+		task.spawn(function()
+			while Toggles.AutoInfiniteAmmo do task.wait()
+				if LocalPlayer.Character then
+					for i,v in next, LocalPlayer.Character:GetChildren() do
+						if v:IsA("Tool") and v:FindFirstChild("GunStates") then
+							Rstorage.ReloadEvent:FireServer(v)
+						end
+					end; wait()
+				end
+			end; Saved.Thread.AutoInfiniteAmmo = nil
+		end)
+	end;
+	OhioMode = function()
+		task.spawn(function()
+			while States.OhioMode do task.wait()
+				for i,v in pairs(Players:GetPlayers()) do
+					if v.Character and v.Character:FindFirstChildOfClass("Humanoid") then
+						if v.Character.Humanoid.Health == 0 then
+							Chat("!!! (" .. v.DisplayName .. ") HAS DIED! EVERYONE WILL DIE IN 0.5 SECOND(s)")
+							task.wait(.5)
+							task.spawn(MultiKill, Players, v); RTPing()
+							wait(10)
+						end
+					end
+				end
+			end
+		end)
+	end;
+	PartyRave = function()
+		task.spawn(function()
+			while States.PartyRave and task.wait() do
+				pcall(function()
+					Gun("M9")
+					local gun = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+					for i,v in pairs(Players:GetPlayers()) do
+						if v.Character and v.Character:FindFirstChild("Head") then
+							local crabrave={[1]={Cframe=v.Character.Head.CFrame,Distance=2048,RayObject=Ray.new()}}
+							Rstorage.ShootEvent:FireServer(crabrave,gun);Rstorage.ReloadEvent:FireServer(gun);CreateClientRay(crabrave)
+						end;wait()
+					end;wait()
+				end)
+			end
+		end)
+	end;
+	OpenSesame = function()
+		task.spawn(function()
+			local doors = {}
+			for i,v in pairs(workspace.Doors:GetChildren()) do
+				if v:IsA("Model") then
+					doors[#doors+1] = v
+				end
+			end; while States.MagicDoor do wait()
+				for i,v in pairs(Players:GetPlayers()) do
+					if v.Character and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") and v.Character:FindFirstChild("HumanoidRootPart") and LocalPlayer.TeamColor.Name ~= "Medium stone grey" then
+						for _,vv in next, doors do
+							local pivot, vpos = vv:GetPivot().Position, v.Character.HumanoidRootPart.Position
+							if (pivot-vpos).Magnitude < 8 then
+								if LocalPlayer.TeamColor.Name ~= "Bright blue" then
+									if #Teams.Guards:GetPlayers() < 8 then
+										TeamTo("guard")
+										waitfor(LocalPlayer.Character, "HumanoidRootPart", 1)
+									end
+								end
+								local laspiv, oldcol = vv:GetPivot(), {}
+								vv:PivotTo(LocalPlayer.Character:GetPivot())
+								for _,vvv in pairs(vv:GetDescendants()) do
+									if vvv:IsA("BasePart") and vvv.CanCollide then
+										vvv.CanCollide = false; oldcol[vvv] = true
+									end
+								end; Hbeat:Wait()
+								vv:PivotTo(laspiv)
+								for _,vvv in pairs(vv:GetDescendants()) do
+									if vvv:IsA("BasePart") and oldcol[vvv] then
+										vvv.CanCollide = true
+									end
+								end
+								wait(); oldcol = nil
+							end
+						end
+					end
+				end
+			end; doors = nil
+		end)
+	end;
+	Refresh = function(RefreshAs, Position)
+		if RefreshAs then
+			LocalPlayer.TeamColor = BrickColor.new(RefreshAs)
+		end
+		local tmp = Position or LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame; SavedPositions.AutoRe = tmp; SaveCamPos()
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			if #Teams.Guards:GetPlayers() > 7 then
+				TeamEve("Bright orange")
+			end; TeamEve("Bright blue")
+		elseif LocalPlayer.TeamColor == BrickColor.new("Bright orange") then
+			TeamEve("Bright orange")
+		elseif LocalPlayer.TeamColor == BrickColor.new("Really red") then
+			TeamEve("Bright orange")
+			task.spawn(function()
+				workspace['Criminals Spawn'].SpawnLocation.CFrame = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame; LocalPlayer.CharacterAdded:Wait()
+				repeat Stepped:Wait()
+					pcall(function()
+						workspace["Criminals Spawn"].SpawnLocation.CFrame = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					end)
+				until LocalPlayer.TeamColor == BrickColor.new("Really red"); workspace['Criminals Spawn'].SpawnLocation.CFrame = SavedPositions.Crimpad
+			end)
+		else
+			TeamEve("Medium stone grey")
+		end; LocalPlayer.CharacterAdded:Wait()
+		if waitfor(LocalPlayer.Character, "HumanoidRootPart", 5) then
+			LocTP(tmp)
+		end; LoadCamPos()
+	end;
+	Respawn = function(bcolor)
+		SavedPositions.AutoRe = nil
+		if bcolor == BrickColor.new("Bright orange") then
+			TeamEve("Bright orange")
+		elseif bcolor == BrickColor.new("Bright blue") then
+			TeamEve("Bright orange")
+			TeamEve("Bright blue")
+		elseif bcolor == BrickColor.new("Really red") then
+			task.spawn(TeamEve, "Bright orange")
+			TeamEve("Bright blue")
+			repeat Stepped:Wait()
+				pcall(function()
+					LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = workspace["Criminals Spawn"].SpawnLocation.CFrame
+				end)
+			until LocalPlayer.TeamColor == BrickColor.new("Really red")
+		else
+			TeamEve("Medium stone grey")
+		end
+	end;
+	CopyChat = function()
+		task.spawn(function()
+			local tempcon,tempcons = nil,{}
+			for _,v in pairs(Players:GetPlayers()) do
+				if v and v ~= LocalPlayer then
+					tempcons[#tempcons+1] = v.Chatted:Connect(function(arg)
+						Chat("[" .. v.DisplayName .. "]: " .. tostring(arg))
+					end)
+				end
+			end;tempcon = Players.PlayerAdded:Connect(function(plr)
+				tempcons[#tempcons+1] = plr.Chatted:Connect(function(arg)
+					Chat("[" .. plr.DisplayName .. "]: " .. tostring(arg))
+				end)
+			end)
+			repeat wait() until not States.CopyCat;tempcon:Disconnect()
+			for _,v in pairs(tempcons) do
+				v:Disconnect();v=nil
+			end;tempcon=nil;tempcons=nil
+		end)
+	end;
+};
+
+local Queue = function(callbacks)
+	CmdQueue[#CmdQueue+1] = callbacks
+end
+
+--Use commands
+local chatdebounce = false
+local OnCommand = function(text)
+	local Args = text:split(" ")
+	if not Args[1] then
+		chatdebounce = nil
+		return
+	end
+	if Args[1] == "/e" or Args[1] == "/c" or Args[1] == "/t" or Args[1] == "/" then
+		table.remove(Args, 1)
+	end
+	if Args[1] == "/w" then
+		table.remove(Args, 1)
+		if Args[2] then
+			table.remove(Args, 1)
+		end
+	end
+	if Args[1] == "/revert" or Args[1] == Prefix .. "/revert" then
+		Prefix = "?"; MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+		if not MainFrame.Visible then
+			MainFrame.Visible = true; PLAdmin:FindFirstChild("TextButton"):Destroy()
+		end
+	end
+	if not (Args[1]:sub(1, #Prefix) == Prefix) then
+		chatdebounce = nil
+		return
+	end
+	local function cm(args)
+		return args == Args[1]:sub(#Prefix+1):lower()
+	end
+	if cm("bring") or cm("get") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			BringPL(DaPlayer, LocalPlayer)
+		elseif Args[2] == "all" then
+			SavedPositions.BringAll = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Players:GetPlayers()) do
+				if not (v == LocalPlayer) then
+					BringPL(v, SavedPositions.BringAll, true)
+				end
+			end
+			LAction("unsit", true)
+			LocTP(SavedPositions.BringAll)
+		elseif Args[2] == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			BringPL(randomplr, LocalPlayer)
+			Notif("OK", "Brought " .. randomplr.Name .. ".")
+		else
+			Notif("Error", "Not a valid player")
+		end
+	elseif cm("teleport") or cm("tp") then
+		local BringPlr = PlrFromArgs(Args[2], LocalPlayer)
+		local ToPlayer = PlrFromArgs(Args[3], LocalPlayer)
+		SavedPositions.TeleportPL = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+		if BringPlr and ToPlayer then
+			if not (BringPlr == ToPlayer) then
+				BringPL(BringPlr, ToPlayer)
+			else
+				Notif("Error", "You can't teleport the same player(s)")
+			end
+		elseif BringPlr and not ToPlayer then
+			LocTP(ToPlayer.Character.HumanoidRootPart.CFrame)
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("goto") or cm("to") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			LocTP(DaPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame)
+		elseif Args[2] == "random" then
+			local DaRandom = GetRandomPlr(LocalPlayer)
+			LocTP(DaRandom.Character:FindFirstChild("HumanoidRootPart").CFrame)
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("kill") or cm("oof") or cm("die") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			KillPL(DaPlayer)
+			Notif("OK", "Killed " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			MultiKill(Players)
+			Notif("OK", "Killed all players.")
+		elseif ar == "inmate" or ar == "inmates" then
+			MultiKill(Teams.Inmates)
+			Notif("OK", "Killed inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			MultiKill(Teams.Guards)
+			Notif("OK", "Killed guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			MultiKill(Teams.Criminals)
+			Notif("OK", "Killed criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			MultiKill(Teams.Neutral)
+			Notif("OK", "Killed neutrals.")
+		elseif ar == "random" then
+			local DaRandom = GetRandomPlr(LocalPlayer)
+			KillPL(DaRandom)
+			Notif("OK", "Killed " .. DaRandom.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("shootkill") or cm("skill") then
+		local ar = Args[2] and Args[2]:lower()
+		if ar then
+			local DaPlayer = PlrFromArgs(Args[2], false)
+			local thegun = nil
+			if LocalPlayer.Character:FindFirstChildWhichIsA("Tool") and LocalPlayer.Character:FindFirstChildWhichIsA("Tool"):FindFirstChildOfClass("ModuleScript") and LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name ~= "Taser" then
+				thegun = LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name
+			end
+			if DaPlayer then
+				ShootKill(DaPlayer, nil, thegun)
+				Notif("OK", "Shoot-Killed " .. DaPlayer.Name .. ".")
+			end
+			if ar == "all" then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						ShootKill(v, nil, thegun)
+					end
+				end
+				Notif("OK", "Shoot-Killed all.")
+			elseif ar == "inmate" or ar == "inmates" then
+				for i,v in pairs(Teams.Inmates:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						ShootKill(v, nil, thegun)
+					end
+				end
+				Notif("OK", "Shoot-killed inmates.")
+			elseif ar == "guard" or ar == "guards" then
+				for i,v in pairs(Teams.Guards:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						ShootKill(v, nil, thegun)
+					end
+				end
+				Notif("OK", "Shoot-Killed guards.")
+			elseif ar == "criminal" or ar == "criminals" then
+				for i,v in pairs(Teams.Criminals:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						ShootKill(v, nil, thegun)
+					end
+				end
+				Notif("OK", "Shoot-Killed criminals.")
+			elseif not DaPlayer then
+				Notif("Error", "Not a valid player(s)")
+			end
+		end
+	elseif cm("shootlk") or cm("slk") then
+		local ar = Args[2] and Args[2]:lower()
+		if ar then
+			local DaPlayer = PlrFromArgs(ar, false)
+			if DaPlayer then
+				Loops.ShootKill[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Loop-Shoot killing " .. DaPlayer.Name .. ".")
+			end
+			if ar == "all" then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v ~= LocalPlayer and v.Character and CheckWhitelist(v) then
+						Loops.ShootKill[v.UserId] = v
+					end
+				end
+				Notif("OK", "Loop-Shoot killing all selected players.")
+			elseif ar == "inmate" or ar == "inmates" then
+				for i,v in pairs(Teams.Inmates:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						Loops.ShootKill[v.UserId] = v
+					end
+				end
+				Notif("OK", "Loop-Shoot killing all selected inmates.")
+			elseif ar == "guard" or ar == "guards" then
+				for i,v in pairs(Teams.Guards:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						Loops.ShootKill[v.UserId] = v
+					end
+				end
+				Notif("OK", "Loop-Shoot killing all selected guards.")
+			elseif ar == "criminal" or ar == "criminals" then
+				for i,v in pairs(Teams.Criminals:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						Loops.ShootKill[v.UserId] = v
+					end
+				end
+				Notif("OK", "Loop-Shoot killing all selected criminals.")
+			elseif ar == "random" then
+				local ran = GetRandomPlr(LocalPlayer)
+				Loops.ShootKill[ran.UserId] = ran
+				Notif("OK", "Loop-Shoot killing " .. ran.Name .. ".")
+			end
+			if not Saved.Thread.ShootKillPlayers then
+				Threads.ShootKillPlayers()
+			end
+		end
+	elseif cm("unshootlk") or cm("unslk") then
+		local DaPlayer = Args[2] and PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.ShootKill[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped shoot-killing " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.ShootKill = {}
+			Notif("OK", "Stopped shoot-killing player(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("lpunch") then
+		if not States.LPunch then
+			States.LPunch = true
+			Notif("OK", "Punching players for no reason.")
+			task.spawn(function()
+				while States.LPunch do task.wait()
+					for i,v in pairs(Players:GetPlayers()) do
+						if v and v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+							pcall(function()
+								LocTP(v.Character.HumanoidRootPart.CFrame)
+								RTPing(0.1)
+								VirtualPunch()
+							end)
+							if not States.LPunch then
+								break
+							end
+						end
+					end
+				end
+			end)
+		else
+			Notif("Error", "Already punching player(s), type " .. Prefix .. "unlpunch to stop.")
+		end
+	elseif cm("unlpunch") then
+		States.LPunch = false
+		Notif("OK", "Stopped punching players for no reason.")
+	elseif cm("punchkill") or cm("pkill") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			PunchKill(DaPlayer, tonumber(Args[3]))
+			Notif("OK", "Punch-killed " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) then
+					PunchKill(v, tonumber(Args[3]))
+					task.wait()
+				end
+			end
+			Notif("OK", "Punch-killed everyone.")
+		elseif ar == "inmate" or ar == "inmates" then
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) then
+					PunchKill(v, tonumber(Args[3]))
+					task.wait()
+				end
+			end
+			Notif("OK", "Punch-killed inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) then
+					PunchKill(v, tonumber(Args[3]))
+					task.wait()
+				end
+			end
+			Notif("OK", "Punch-killed guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) then
+					PunchKill(v, tonumber(Args[3]))
+					task.wait()
+				end
+			end
+			Notif("OK", "Punch-killed criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			for i,v in pairs(Teams.Neutral:GetPlayers()) do
+				PunchKill(v, tonumber(Args[3]))
+			end
+			Notif("OK", "Punch-killed neutrals.")
+		elseif ar == "random" then
+			local rando = GetRandomPlr()
+			PunchKill(rando, tonumber(Args[3]))
+			Notif("OK", "Punch-killed " .. rando.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("voidkill") or cm("vkill") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if not DaPlayer and Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+		end
+		if DaPlayer then
+			States.AntiVoid = false
+			local tempo = nil
+			local success, errors = pcall(function()
+				tempo = LocalPlayer.Character.HumanoidRootPart.CFrame
+				BringPL(DaPlayer, CFrame.new(0, -320, 0), true, true)
+			end)
+			task.wait(.1)
+			LAction("unsit", true)
+			States.AntiVoid = true
+			LocTP(tempo)
+			if success then
+				Notif("OK", "Void-killed " .. DaPlayer.Name .. ".")
+			else
+				Notif("ERROR", "Failed to void-kill player.")
+				dewarn("PrizzLife_Error: " .. tostring(errors) .. ".")
+			end
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("lvoidkill") or cm("lvkill") or cm("lvk") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if not DaPlayer and Args[2] == "random" then
+			DaPlayer = GetRandomPlr(LocalPlayer)
+		end
+		if DaPlayer then
+			Loops.VoidKill[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-voidkilling " .. DaPlayer.Name ".")
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unlvoidkill") or cm("unlvkill") or cm("unlvk") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.VoidKill[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped void-killing " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.VoidKill = {}
+			Notif("OK", "Stopped void-killing player(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("randomkill") or cm("rkill") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.RandomKill[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Randomly killing " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.RandomKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Randomly killing everyone.")
+		elseif ar == "inmate" or ar == "inmates" then
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.RandomKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Randomly killing everyone in the inmates team.")
+		elseif ar == "guard" or ar == "guards" then
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.RandomKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Randomly killing everyone in the guards team.")
+		elseif ar == "criminal" or ar == "criminals" then
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.RandomKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Randomly killing everyone in the criminals team.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+		if not Saved.Thread.RandomKillPlayers then
+			Threads.RandomKillPlayers()
+		end
+	elseif cm("unrandomkill") or cm ("unrkill") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.RandomKill[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped randomly killing " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.RandomKill = {}
+			Notif("OK", "Stopped randomly killing all.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("lpunchkill") or cm("lpkill") or cm("lpk") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.PunchKill[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-punchkilling " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.PunchKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Punch-killing everyone")
+		elseif ar == "inmate" or ar == "inmates" then
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.PunchKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Punch-killing everyone in the inmates team.")
+		elseif ar == "guard" or ar == "guards" then
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.PunchKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Punch-killing everyone in the guards team.")
+		elseif ar == "criminal" or ar == "criminals" then
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					Loops.PunchKill[v.UserId] = v
+				end
+			end
+			Notif("OK", "Punch-killing everyone in the criminals team.")
+		elseif ar == "random" then
+			local rand = GetRandomPlr()
+			Loops.PunchKill[rand.UserId] = rand
+			Notif("OK", "Punch-killing " .. rand.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unlpunchkill") or cm("unlpkill") or cm("unlpk") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.PunchKill[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped punch-killing " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			Loops.PunchKill = {}
+			Notif("OK", "Stopped punch-killing everyone.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("damage") or cm("dmg") then
+		local amount = nil
+		if Args[3] then
+			amount = math.floor(tonumber(Args[3]))
+		else
+			amount = math.random(1, 5)
+		end
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			KillPL(DaPlayer, amount, "M9")
+			Notif("OK", "Damaged " .. DaPlayer.Name .. " with amount of " .. tostring(Args[3]) .. " bullet(s)")
+		end
+		if Args[2] == "all" then
+			for i,v in next, Players:GetPlayers() do
+				if v and v.Character and not (v == LocalPlayer) and CheckWhitelist(v) then
+					if not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+						KillPL(v, amount, "M9")
+						Rstorage.ReloadEvent:FireServer(LocalPlayer.Backpack["M9"])
+						task.wait(1)
+					end
+				end
+			end
+			Notif("OK", "Damaged all player(s) with amount of " .. tostring(amount) .. " bullets.")
+		elseif Args[2] == "random" then
+			DaPlayer = GetRandomPlr(LocalPlayer)
+			KillPL(DaPlayer, amount, "M9")
+			Notif("OK", "Damaged " .. DaPlayer.Name .. " with amount of " .. tostring(Args[3]) .. " bullet(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("loopkill") or cm("lk") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.Kill[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loopkilling " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			Loops.KillTeams.All = true
+			Notif("OK", "Loopkilling all.")
+		elseif ar == "inmate" or ar == "inmates" then
+			Loops.KillTeams.Inmates = true
+			Notif("OK", "Loopkilling inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			Loops.KillTeams.Guards = true
+			Notif("OK", "Loopkilling guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			Loops.KillTeams.Criminals = true
+			Notif("OK", "Loopkilling criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			Loops.KillTeams.Neutrals = true
+			Notif("OK", "Loopkilling neutrals.")
+		elseif ar == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			Loops.Kill[randomplr.UserId] = randomplr
+			Notif("OK", "Loopkilling " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unloopkill") or cm("unlk") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.Kill[DaPlayer.UserId] = nil
+			Notif("OK", "Unloopkilled " .. DaPlayer.Name .. ".")
+		end
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if Loops.Kill[v.UserId] then
+					Loops.Kill[v.UserId] = nil
+				end
+			end
+			Loops.KillTeams.All = false
+			Loops.KillTeams.Guards = false
+			Loops.KillTeams.Inmates = false
+			Loops.KillTeams.Criminals = false
+			Loops.KillTeams.Neutrals = false
+			Notif("OK", "Stopped loopkilling all.")
+		elseif ar == "inmate" or ar == "inmates" then
+			Loops.KillTeams.Inmates = false
+			Notif("OK", "Unloopkilled inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			Loops.KillTeams.Guards = false
+			Notif("OK", "Unloopkilled guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			Loops.KillTeams.Criminals = false
+			Notif("OK", "Unloopkilled criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			Loops.KillTeams.Neutrals = false
+			Notif("OK", "Unloopkilled neutrals.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("meleekill") or cm("mkill") then
+		local DaPlayer, arg = PlrFromArgs(Args[2], LocalPlayer), Args[2]
+		if DaPlayer then
+			MeleeKill(DaPlayer, true, Args[3] == "true"); Notif("OK", "Melee-killed " .. DaPlayer.Name .. ".")
+		end; if arg == "all" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Players:GetPlayers()) do
+				if not (v == LocalPlayer) and CheckWhitelist(v) then
+					MeleeKill(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos); Notif("OK", "Melee-killed everyone.")
+		elseif arg == "inmate" or arg == "inmates" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if not (v == LocalPlayer) and CheckWhitelist(v) then
+					MeleeKill(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos); Notif("OK", "Melee-killed all inmates.")
+		elseif arg == "guard" or arg == "guards" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if not (v == LocalPlayer) and CheckWhitelist(v) then
+					MeleeKill(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos); Notif("OK", "Melee-killed all guards.")
+		elseif arg == "criminal" or arg == "criminals" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if not (v == LocalPlayer) and CheckWhitelist(v) then
+					MeleeKill(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos); Notif("OK", "Melee-killed all criminals.")
+		elseif arg == "neutral" or arg == "neutrals" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Neutral:GetPlayers()) do
+				if not (v == LocalPlayer) then
+					MeleeKill(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos); Notif("OK", "Melee-killed all neutrals.")
+		elseif arg == "random" then
+			local randomplr = GetRandomPlr(); MeleeKill(randomplr, true, false); Notif("OK", "Melee-killed " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("hdkill") or cm("hkill") or cm("hmk") then
+		Chat(Prefix .. "mkill " .. tostring(Args[2]) .. " true", nil, true)
+	elseif cm("meleelk") or cm("mlk") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local ar = Args[2]
+		if DaPlayer then
+			Loops.MeleeKill[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Melee-killing " .. DaPlayer.Name .. ".")
+		end
+		if ar == "all" then
+			Loops.MeleeTeams.All = true
+			Notif("OK", "Melee-killing all.")
+		elseif ar == "inmate" or ar == "inmates" then
+			Loops.MeleeTeams.Inmates = true
+			Notif("OK", "Melee-killing inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			Loops.MeleeTeams.Guards = true
+			Notif("OK", "Melee-killing guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			Loops.MeleeTeams.Criminals = true
+			Notif("OK", "Melee-killing criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			Loops.MeleeTeams.Neutrals = true
+			Notif("OK", "Melee-killing neutrals.")
+		elseif ar == "random" then
+			local randomplr = GetRandomPlr()
+			Loops.MeleeKill[randomplr.UserId] = randomplr
+			Notif("OK", "Melee-killing " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unmeleelk") or cm("unmlk") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local ar = Args[2]
+		if DaPlayer then
+			Loops.MeleeKill[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped melee-killing " .. DaPlayer.Name .. ".")
+		end
+		if ar == "all" then
+			Loops.MeleeTeams.All = false
+			Loops.MeleeTeams.Inmates = false
+			Loops.MeleeTeams.Guards = false
+			Loops.MeleeTeams.Criminals = false
+			Loops.MeleeTeams.Neutrals = false
+			Loops.MeleeKill = {}
+			Notif("OK", "Stopped melee-killing all.")
+		elseif ar == "inmate" or ar == "inmates" then
+			Loops.MeleeTeams.Inmates = false
+			Notif("OK", "Stopped melee-killing inmates.")
+		elseif ar == "guard" or ar == "guards" then
+			Loops.MeleeTeams.Guards = false
+			Notif("OK", "Stopped melee-killing guards.")
+		elseif ar == "criminal" or ar == "criminals" then
+			Loops.MeleeTeams.Criminals = false
+			Notif("OK", "Stopped melee-killing criminals.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			Loops.MeleeTeams.Neutrals = false
+			Notif("OK", "Stopped melee-killing neutrals.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("arrest") or cm("arr") or cm("ar") then
+		local DaPlayer, e = PlrFromArgs(Args[2], LocalPlayer), Args[2]
+		if DaPlayer then
+			if DaPlayer.TeamColor == BrickColor.new("Really red") or (DaPlayer.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(DaPlayer)) then
+				if DaPlayer == LocalPlayer then
+					ArrestEve(DaPlayer)
+				else
+					ArrestPL(DaPlayer, true, Args[3] == "true")
+				end; Notif("OK", "Arrested " .. DaPlayer.Name .. ".")
+			else Notif("Error", "Player is unarrestable."); end
+		end;if e == "all" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Players:GetPlayers()) do
+				if v ~= LocalPlayer and CheckWhitelist(v) then
+					if v.TeamColor == BrickColor.new("Really red") or (v.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(v)) then
+						ArrestPL(v, false, Args[3] == "true")
+					end
+				end
+			end; LocTP(tempos)
+			Notif("OK", "Arrested all players.")
+		elseif e == "inmates" or e == "inmate" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v ~= LocalPlayer and CheckWhitelist(v) then
+					if GetIllegalReg(v) then
+						ArrestPL(v, false, Args[3] == "true")
+					end
+				end
+			end; LocTP(tempos)
+			Notif("OK", "Arrested all inmates.")
+		elseif e == "criminals" or e == "criminal" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if v ~= LocalPlayer and CheckWhitelist(v) then
+					ArrestPL(v, false, Args[3] == "true")
+				end
+			end; LocTP(tempos)
+			Notif("OK", "Arrested all criminals.")
+		elseif e == "guards" or e == "guard" then
+			local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v.Character and not (v == LocalPlayer or v.Character:FindFirstChild("Humanoid").Health == 0) and CheckWhitelist(v) then
+					MakeCrim(v, false, false, true)
+				end
+			end; LAction("unsit", true); LocTP(tempos)
+			Notif("OK", "Arrested all guards.")
+		elseif e == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Bright blue") or randomplr.TeamColor == BrickColor.new("Bright orange") then
+				MakeCrim(randomplr, true, false, true)
+			else
+				ArrestPL(randomplr, true, Args[3] == "true")
+			end; Notif("OK", "Arrested " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("harrest") or cm("har") then
+		Chat(Prefix .. "arrest " .. tostring(Args[2]) .. " true", nil, true)
+	elseif cm("spamarrest") or cm("annoy") or cm("sa") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if not DaPlayer and Args[2] == "random" then
+			DaPlayer = GetRandomPlr(LocalPlayer)
+		end
+		if DaPlayer then
+			if not States.AnnoyingPlayer then
+				States.AnnoyingPlayer = true
+				SavedPositions.SpamArrestOldPos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+				Notif("OK", "Attempting to annoy " .. DaPlayer.Name .. ".")
+				SpamArrestPL(DaPlayer)
+			else
+				Notif("Error", "You are already annoying someone. Please type " .. Prefix .. "unsa to stop annoying.")
+			end
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unspamarrest") or cm("unannoy") or cm("unsa") then
+		States.AnnoyingPlayer = false
+		if LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+			task.wait(1)
+			LAction("unsit", true)
+			LocTP(SavedPositions.SpamArrestOldPos)
+		end
+		Notif("OK", "Stopped annoying player.")
+	elseif cm("tase") or cm("taze") or cm("ta") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		local ar = Args[2]
+		if DaPlayer then
+			TasePL(DaPlayer)
+		end
+		if ar == "all" then
+			TasePL(Players, "teams")
+			Notif("OK", "Tased all player(s)")
+		elseif ar == "inmate" or ar == "inmates" then
+			TasePL(Teams.Inmates, "teams")
+			Notif("OK", "Tased all inmate(s)")
+		elseif ar == "criminal" or ar == "criminals" then
+			TasePL(Teams.Criminals, "teams")
+			Notif("OK", "Tased all criminal(s)")
+		elseif ar == "guard" or ar == "guards" then
+			Notif("Error", "You cannot tase guards.")
+		elseif ar == "neutral" or ar == "neutrals" then
+			TasePL(Teams.Neutral, "teams")
+			Notif("OK", "Tased all neutral(s)")
+		elseif ar == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Bright blue") then
+				deprint("Debug_Player is on guards team, looping until found a player not in guards team")
+				repeat task.wait()
+					randomplr = GetRandomPlr(LocalPlayer)
+				until not (randomplr.TeamColor == BrickColor.new("Bright blue"))
+			end
+			TasePL(randomplr)
+			Notif("OK", "Tased " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("fling") or cm("flung") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			FlingPL(DaPlayer)
+			Notif("OK", "Flung " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "random" then
+			DaPlayer = nil
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+			FlingPL(DaPlayer)
+			Notif("OK", "Flung " .. DaPlayer.Name .. ".")
+		elseif Args[2] == "all" then
+			local tempo = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Players:GetPlayers()) do
+				if not (v == nil or v == LocalPlayer) and not (v.TeamColor == BrickColor.new("Medium stone grey")) and CheckWhitelist(v) then
+					pcall(function()
+						FlingPL(v)
+						for i,v in pairs(LocalPlayer.Character:GetChildren()) do
+							if v:IsA("BasePart") then
+								v.Velocity = Vector3.new(0, 0, 0)
+								v.RotVelocity = Vector3.new(0, 0, 0)
+							end
+						end
+					end)
+				end
+			end
+			LocTP(tempo)
+			Notif("OK", "Flung all player(s)")
+		elseif Args[2] == "me" and not DaPlayer then
+			LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(6e9, 6e9, 6e9)
+			Notif("OK", "Flinged yourself")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("carfling") or cm("sfling") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			CarFlingPL(DaPlayer)
+			Notif("OK", "Flung " .. DaPlayer.Name .. " using car.")
+		end
+		if Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until DaPlayer.TeamColor ~= BrickColor.new("Medium stone grey")
+			CarFlingPL(DaPlayer)
+			Notif("OK", "Flung " .. DaPlayer.Name .. " with car.")
+		elseif Args[2] == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v.Character and CheckWhitelist(v) and not (v.TeamColor == BrickColor.new("Medium stone grey") or v == LocalPlayer) then
+					CarFlingPL(DaPlayer)
+				end
+			end
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("loopcarfling") or cm("lsfling") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.CarFling[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Car-flinging " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+			Loops.CarFling[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Car-flinging " .. DaPlayer.Name .. ".")
+		elseif Args[2] == "all" then
+			Notif("Error", "ALL is deprecated, cannot carfling all simultaneously")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unloopcarfling") or cm("unlsfling") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.CarFling[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped car-flinging " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.CarFling = {}
+			Notif("OK", "Stopped car-flinging all.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("loopfling") or cm("lfling") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.Fling[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Now loop-flinging " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if CheckWhitelist(v) and v ~= LocalPlayer then
+					Loops.Fling[v.UserId] = v
+				end
+			end
+			Notif("OK", "Loop-flinging everyone")
+		elseif Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+			Loops.Fling[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-flinging " .. DaPlayer.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unloopfling") or cm("unlfling") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.Fling[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped loop-flinging " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.Fling = {}
+			Notif("OK", "Stopped loop-flinging all.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("looptase") or cm("lta") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		local a = Args[2]
+		if DaPlayer then
+			Loops.Tase[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-tasing " .. DaPlayer.Name .. ".")
+		end
+		if a == "all" then
+			Loops.TaseTeams.All = true
+			Notif("OK", "Loop-tasing all player(s)")
+		elseif a == "inmate" or a == "inmates" then
+			Loops.TaseTeams.Inmates = true
+			Notif("OK", "Loop-tasing all inmate(s)")
+		elseif a == "criminal" or a == "criminals" then
+			Loops.TaseTeams.Criminals = true
+			Notif("OK", "Loop-tasing all criminal(s)")
+		elseif a == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Bright blue") then
+				repeat task.wait()
+					randomplr = GetRandomPlr(LocalPlayer)
+				until not (randomplr.TeamColor == BrickColor.new("Bright blue"))
+			end
+			TasePL(randomplr)
+			Notif("OK", "Tased " .. randomplr.Name .. ".")
+		elseif a == "guard" or a == "guards" then
+			Notif("Error", "YOU CANNOT TASE GUARDS")
+			print("Idiot")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+		if not Saved.Thread.LoopTasePlayers then
+			Threads.LoopTasePlayers()
+		end
+	elseif cm("taseaura") or cm("taura") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			if not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+				TeamTo("guard")
+			end
+			Powers.Taseauras[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Gave " .. DaPlayer.Name .. " tase-aura.")
+		end
+		if Args[2] == "random" then
+			DaPlayer = GetRandomPlr()
+			if not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+				TeamTo("guard")
+			end
+			Powers.Taseauras[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Gave " .. DaPlayer.Name .. " tase-aura.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+		if not Saved.Thread.LoopTasePlayers then
+			Threads.LoopTasePlayers()
+		end
+	elseif cm("untaseaura") or cm("untaura") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Powers.Taseauras[DaPlayer.UserId] = nil
+			Notif("OK", "Removed tase-aura from " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Powers.Taseauras = nil
+			Powers.Taseauras = {}
+			Notif("OK", "Removed tase-aura from player(s)")
+		end
+	elseif cm("unlooptase") or cm("unlta") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		local a = Args[2]
+		if DaPlayer then
+			Loops.Tase[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped loop-tasing " .. DaPlayer.Name .. ".")
+		end
+		if a == "all" then
+			Loops.Tase = {}
+			Loops.TaseTeams.All = false
+			Loops.TaseTeams.Inmates = false
+			Loops.TaseTeams.Criminals = false
+			Notif("OK", "Stopped loop-tasing all player(s)")
+		elseif a == "inmate" or a == "inmates" then
+			Loops.TaseTeams.Inmates = false
+			Notif("OK", "Stopped loop-tasing all inmate(s)")
+		elseif a == "criminal" or a == "criminals" then
+			Loops.TaseTeams.Criminals = false
+			Notif("OK", "Stopped loop-tasing all criminal(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("looparrest") or cm("lar") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local augh = Args[2]
+		if DaPlayer then
+			Loops.Arrest[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-arresting " .. DaPlayer.Name .. ".")
+		end
+		if augh == "all" then
+			Loops.ArrestTeams.Criminal = true
+			Loops.ArrestTeams.Inmate = true
+			Loops.ArrestTeams.Guard = true
+			Notif("OK", "Loop-arresting all player(s)")
+		elseif augh == "inmate" or augh == "inmates" then
+			Loops.ArrestTeams.Inmate = true
+			Notif("OK", "Loop-arresting all inmate(s)")
+		elseif augh == "guard" or augh == "guards" then
+			Loops.ArrestTeams.Guard = true
+			Notif("OK", "Loop-arresting all guard(s)")
+		elseif augh == "criminal" or augh == "criminals" then
+			Loops.ArrestTeams.Criminal = true
+			Notif("OK", "Loop-arresting all criminal(s)")
+		elseif augh == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Medium stone grey") then
+				repeat task.wait()
+					randomplr = GetRandomPlr(LocalPlayer)
+				until not (randomplr.TeamColor == BrickColor.new("Medium stone grey"))
+			end
+			Loops.Arrest[randomplr.UserId] = randomplr
+			Notif("OK", "Loop-arresting " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("unlooparrest") or cm("unlar") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local a = Args[2]
+		if DaPlayer then
+			Loops.Arrest[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped loop-arresting " .. DaPlayer.Name .. ".")
+		end
+		if a == "all" then
+			Loops.ArrestTeams.Inmate = false
+			Loops.ArrestTeams.Guard = false
+			Loops.ArrestTeams.Criminal = false
+			Loops.Arrest = {}
+			Notif("OK", "Stopped loop-arresting all player(s)")
+		elseif a == "inmate" or a == "inmates" then
+			Loops.ArrestTeams.Inmate = false
+			Notif("OK", "Stopped loop-arresting all inmate(s)")
+		elseif a == "guard" or a == "guards" then
+			Loops.ArrestTeams.Guard = false
+			Notif("OK", "Stopped loop-arresting all guard(s)")
+		elseif a == "criminal" or a == "criminals" then
+			Loops.ArrestTeams.Criminal = false
+			Notif("OK", "Stopped loop-arresting all criminal(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("autoarrest") or cm("autoar") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local ea = Args[2]
+		if DaPlayer then
+			Loops.AutoArresting.Plr[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Automatically arresting " .. DaPlayer.Name .. ".")
+		end
+		if ea == "all" then
+			Loops.AutoArresting.All = true
+			Notif("OK", "Automatically arresting all player(s)")
+		elseif ea == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Bright blue") or randomplr.TeamColor == BrickColor.new("Medium stone grey") then
+				repeat task.wait()
+					randomplr = GetRandomPlr(LocalPlayer)
+				until not (randomplr.TeamColor == BrickColor.new("Bright blue") or randomplr.TeamColor == BrickColor.new("Medium stone grey"))
+			end
+			Loops.AutoArresting.Plr[randomplr.UserId] = randomplr
+			Notif("OK", "Automatically arresting " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unautoarrest") or cm("unaar") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Loops.AutoArresting.Plr[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped automatically arresting " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.AutoArresting.Plr = {}
+			Loops.AutoArresting.All = false
+			Notif("OK", "Stopped automatically arresting all player(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("arrestaura") or cm("aaura") then
+		Toggles.ArrestAura = not Toggles.ArrestAura
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.ArrestAura = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.ArrestAura = false
+		end
+		Notif("OK", "Toggled arrest-aura to " .. tostring(Toggles.ArrestAura) .. ".")
+		if Toggles.ArrestAura then
+			Threads.ArrestAura()
+		end
+	elseif cm("makecrim") or cm("crim") or cm("escape") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local ag = Args[2]
+		if DaPlayer then
+			MakeCrim(DaPlayer, true, true, false)
+			Notif("OK", "Made criminal " .. DaPlayer.Name .. ".")
+		end
+		if ag == "all" then
+			SavedPositions.MakeCrim = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and not (v.TeamColor == BrickColor.new("Medium stone grey")) and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+					MakeCrim(v, false, false, false)
+				end
+			end
+			LAction("unsit", true)
+			LocTP(SavedPositions.MakeCrim)
+			Notif("OK", "Made criminal all player(s)")
+		elseif ag == "inmate" or ag == "inmates" then
+			SavedPositions.MakeCrim = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+					MakeCrim(v, false, false, false)
+				end
+			end
+			LAction("unsit", true)
+			LocTP(SavedPositions.MakeCrim)
+			Notif("OK", "Made criminal all inmate(s)")
+		elseif ag == "guard" or ag == "guards" then
+			SavedPositions.MakeCrim = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) and not (v.Character:FindFirstChild("Humanoid").Health == 0) then
+					MakeCrim(v, false, false, false)
+				end
+			end
+			LAction("unsit", true)
+			LocTP(SavedPositions.MakeCrim)
+			Notif("OK", "Made criminal all guard(s)")
+		elseif ag == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if randomplr.TeamColor == BrickColor.new("Really red") or randomplr.TeamColor == BrickColor.new("Medium stone grey") then
+				repeat task.wait()
+					randomplr = GetRandomPlr(LocalPlayer)
+					deprint("Debug_Player is already criminal, looping until found plr")
+				until not (randomplr.TeamColor == BrickColor.new("Really red") or randomplr.TeamColor == BrickColor.new("Medium stone grey"))
+			end
+			MakeCrim(randomplr, true, true, false)
+			Notif("OK", "Made criminal " .. randomplr.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s) or team(s)")
+		end
+	elseif cm("crimpad") or cm("cpad") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			MakeCrim(DaPlayer, true, false, false)
+			Notif("OK", "Teleported " .. DaPlayer.Name .. " to crimpad.")
+		end
+		if Args[2] == "random" then
+			local randomplr = GetRandomPlr()
+			MakeCrim(randomplr, true, false, false)
+			Notif("OK", "Teleported " .. randomplr.Name .. " to crimpad.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("loopcrim") or cm("lcrim") or cm("autocrim") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.MakeCrim[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-making criminal " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "random" then
+			DaPlayer = GetRandomPlr()
+			Loops.MakeCrim[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-making criminal " .. DaPlayer.Name .. ".")
+		elseif Args[2] == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character and not (v == LocalPlayer) then
+					Loops.MakeCrim[v.UserId] = v
+				end
+			end
+			Notif("OK", "Now loop-making everyone criminal.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("unloopcrim") or cm("unlcrim") or cm("unautocrim") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.MakeCrim[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped making criminal " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Loops.MakeCrim = nil
+			Loops.MakeCrim = {}
+			Notif("OK", "Stopped making everyone criminal.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("friendlyfire") or cm("ffire") then
+		Toggles.FriendlyFire = not Toggles.FriendlyFire
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.FriendlyFire = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.FriendlyFire = false
+		end
+		Notif("OK", "Toggled friendly-fire to " .. tostring(Toggles.FriendlyFire) .. ".")
+	elseif cm("headshot") or cm("hshot") then
+		if SavedArgs.namecallSuccess then
+			Toggles.Headshot = not Toggles.Headshot
+			if Args[2] == "on" or Args[2] == "true" then
+				Toggles.Headshot = true
+			elseif Args[2] == "off" or Args[2] == "false" then
+				Toggles.Headshot = false
+			end
+			Toggles.Silentaim = false
+			Notif("OK", "Toggled headshot to " .. tostring(Toggles.Headshot) .. ".")
+		else
+			Notif("Error!", "Your executor is too garbage to use namecalls.")
+		end
+	elseif cm("silentaim") or cm("saim") then
+		if SavedArgs.namecallSuccess then
+			Toggles.Silentaim = not Toggles.Silentaim
+			if Args[2] == "on" or Args[2] == "true" then
+				Toggles.Silentaim = true
+			elseif Args[2] == "off" or Args[2] == "false" then
+				Toggles.Silentaim = false
+			end
+			Toggles.Headshot = false
+			Notif("OK", "Toggled silentaim to " .. tostring(Toggles.Silentaim) .. ".")
+		else
+			Notif("Error!", "Your executor is too garbage to use namecalls.")
+		end
+	elseif cm("punchaura") or cm("paura") then
+		Toggles.PunchAura = not Toggles.PunchAura
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.PunchAura = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.PunchAura = false
+		end
+		Notif("OK", "Toggled punch-aura to " .. tostring(Toggles.PunchAura) .. ".")
+	elseif cm("spampunch") or cm("spunch") then
+		Toggles.SpamPunch = not Toggles.SpamPunch
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.SpamPunch = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.SpamPunch = false
+		end
+		Notif("OK", "Toggled spam-punch to " .. tostring(Toggles.SpamPunch) .. ".")
+	elseif cm("onepunch") or cm("opunch") then
+		Toggles.Onepunch = not Toggles.Onepunch
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.Onepunch = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.Onepunch = false
+		end
+		Notif("OK", "Toggled one-punch to " .. tostring(Toggles.Onepunch) .. ".")
+	elseif cm("oneshot") or cm("oshot") then
+		Toggles.Oneshot = not Toggles.Oneshot
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.Oneshot = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.Oneshot = false
+		end
+		Notif("OK", "Toggled one-shot to " .. tostring(Toggles.Oneshot) .. ".")
+	elseif cm("antifling") or cm("afling") then
+		States.AntiFling = not States.AntiFling
+		if Args[2] == "on" or Args[2] == "true" then
+			States.AntiFling = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.AntiFling = false
+		end
+		Notif("OK", "Changed anti-fling to " .. tostring(States.AntiFling) .. ".")
+		if States.AntiFling then
+			Threads.AntiFling()
+		end
+	elseif cm("touchfling") or cm("tfling") then
+		if not States.TouchFling then
+			States.TouchFling = true; Notif("OK", "Now touch-flinging player(s).")
+			task.spawn(function()
+				local tempo = 0.1
+				while States.TouchFling do
+					local Lroot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart"); Hbeat:Wait()
+					if Lroot then
+						local oldvelocity = Lroot.Velocity
+						Lroot.Velocity = ((oldvelocity * 10000) + Vector3.new(0, 10000, 0)); Rstep:Wait(); Lroot.Velocity = oldvelocity
+						Rstep:Wait(); Lroot.Velocity = oldvelocity + Vector3.new(0, tempo, 0); tempo *= -1
+					end
+				end; tempo = nil
+			end)
+		else Notif("Error", "Touch-fling already enabled, type " .. Prefix .. "untfling to disable.") end
+	elseif cm("untouchfling") or cm("untfling") then
+		States.TouchFling = false; Notif("OK", "Stopped touch-flinging people.")
+	elseif cm("antivelocity") or cm("avelo") then
+		States.AntiVelocity = not States.AntiVelocity
+		if Args[2] == "on" or Args[2] == "true" then
+			States.AntiVelocity = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.AntiVelocity = false
+		end; Notif("OK", "Changed anti-velocity to " .. tostring(States.AntiVelocity) .. ".")
+		if States.AntiVelocity then
+			Threads.AntiVelocity()
+		end
+	elseif cm("fullbright") or cm("fb") then
+		States.Fullbright = not States.Fullbright
+		if Args[2] == "on" or Args[2] == "true" then
+			States.Fullbright = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.Fullbright = false
+		end; if States.Fullbright then
+			Notif("OK", "Toggled fullbright to true."); Threads.Fullbright()
+		else Notif("OK", "Toggled fullbright to false.") end
+	elseif cm("unfullbright") or cm("unfb") then
+		States.Fullbright = false; Notif("OK", "Turned off fullbright.")
+	elseif cm("noboard") or cm("nbr") then
+		States.RemoveLeaderboard = not States.RemoveLeaderboard
+		if Args[2] == "on" or Args[2] == "true" then
+			States.RemoveLeaderboard = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.RemoveLeaderboard = false
+		end;Notif("OK", "Toggled No-leaderboard to " .. tostring(States.RemoveLeaderboard) .. ".");wait(.1);game:GetService('StarterGui'):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, not States.RemoveLeaderboard)
+	elseif cm("mobilegui") or cm("mgui") then
+		local mbg = Saved.PLINIT:FindFirstChild("ActionFrame");mbg.Visible = not mbg.Visible
+		if Args[2] == "on" or Args[2] == "true" then
+			mbg.Visible = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			mbg.Visible = false
+		end;Notif("OK", "Toggled mobile GUI to " .. tostring(mbg.Visible) .. ".")
+
+	elseif cm("antivoid") or cm("avoid") then
+		States.AntiVoid = not States.AntiVoid
+		if Args[2] == "on" or Args[2] == "true" then
+			States.AntiVoid = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.AntiVoid = false
+		end;Notif("OK", "Changed anti-void to " .. tostring(States.AntiVoid) .. ".")
+	elseif cm("antitase") or cm("atase") then
+		Toggles.AntiTase = not Toggles.AntiTase
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AntiTase = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AntiTase = false
+		end
+		Notif("OK", "Toggled anti-tase to " .. tostring(Toggles.AntiTase) .. ".")
+	elseif cm("antiarrest") or cm("aar") then
+		Toggles.AntiArrest = not Toggles.AntiArrest
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AntiArrest = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AntiArrest = false
+		end
+		Notif("OK", "Toggled anti-arrest to " .. tostring(Toggles.AntiArrest) .. ".")
+	elseif cm("antishoot") or cm("as") or cm("shootback") then
+		Toggles.Antishoot = not Toggles.Antishoot
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.Antishoot = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.Antishoot = false
+		end
+		Notif("OK", "Toggled anti-shoot to " .. tostring(Toggles.Antishoot) .. ".")
+	elseif cm("antipunch") or cm("apunch") or cm("ap") then
+		Toggles.AntiPunch = not Toggles.AntiPunch
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AntiPunch = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AntiPunch = false
+		end
+		Notif("OK", "Toggled anti-punch to " .. tostring(Toggles.AntiPunch) .. ".")
+	elseif cm("arrestback") or cm("arb") then
+		Toggles.ArrestBack = not Toggles.ArrestBack
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.ArrestBack = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.ArrestBack = false
+		end
+		Notif("OK", "Toggled arrest-back to " .. tostring(Toggles.ArrestBack) .. ".")
+		if Toggles.ArrestBack then
+			Threads.ArrestBack()
+		end
+	elseif cm("meleetouch") or cm("mtouch") then
+		Toggles.MeleeTouch = not Toggles.MeleeTouch
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.MeleeTouch = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.MeleeTouch = false
+		end
+		Notif("OK", "Turned on melee-touch.")
+	elseif cm("unmeleetouch") or cm("unmtouch") then
+		Toggles.MeleeTouch = false
+		Notif("OK", "Turned off melee-touch.")
+	elseif cm("meleeaura") or cm("maura") then
+		Toggles.MeleeAura = not Toggles.MeleeAura
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.MeleeAura = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.MeleeAura = false
+		end
+		Notif("OK", "Toggled melee-aura to " .. tostring(Toggles.MeleeAura) .. ".")
+	elseif cm("unmeleeaura") or cm("unmaura") then
+		Toggles.MeleeAura = false
+		Notif("OK", "Toggled melee-aura to false.")
+	elseif cm("teamkillaura") or cm("tkillaura") or cm("tka") then
+		local ar = Args[2]
+		if ar == "inmate" or ar == "inmates" or ar == "in" then
+			Toggles.TKA.Inmate = true
+			Notif("OK", "Turned on killaura to inmates.")
+		elseif ar == "guard" or ar == "guards" or ar == "gu" then
+			Toggles.TKA.Guard = true
+			Notif("OK", "Turned on killaura to guards.")
+		elseif ar == "criminal" or ar == "criminals" or ar == "cr" then
+			Toggles.TKA.Criminal = true
+			Notif("OK", "Turned on killaura to criminals")
+		elseif ar == "enemies" or ar == "others" or ar == "other" then
+			Toggles.TKA.Enemies = true
+			Notif("OK", "Turned on killaura to other teams")
+		else
+			Notif("Error", "Not a valid team or argument(s)")
+		end
+	elseif cm("untkillaura") or cm("unteamkillaura") or cm("untka") then
+		local e = Args[2]
+		if e == "all" then
+			Toggles.TKA.Guard = false
+			Toggles.TKA.Inmate = false
+			Toggles.TKA.Criminal = false
+			Toggles.TKA.Enemies = false
+			Notif("OK", "Stopped team-killaura")
+		elseif e == "inmate" or e == "inmates" or e == "in" then
+			Toggles.TKA.Inmate = false
+			Notif("OK", "Turned off killaura to inmates.")
+		elseif e == "guard" or e == "guards" or e == "gu" then
+			Toggles.TKA.Guard = false
+			Notif("OK", "Turned off killaura to guards.")
+		elseif e == "criminal" or e == "criminals" or e == "cr" then
+			Toggles.TKA.Criminal = false
+			Notif("OK", "Turned off killaura to criminals.")
+		elseif e == "enemies" or e == "other" or e == "others" then
+			Toggles.TKA.Enemies = false
+			Notif("OK", "Turned off killaura to other teams.")
+		else
+			Notif("Error", "Not a valid team or argument(s)")
+		end
+	elseif cm("killaura") or cm("kaura") or cm("aurakill") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer == LocalPlayer then
+			Powers.Killauras[LocalPlayer.UserId] = LocalPlayer
+			Notif("OK", "Turned on killaura.")
+		elseif DaPlayer then
+			Powers.Killauras[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Gave " .. DaPlayer.Name .. " killaura.")
+		else
+			if Args[2] == "random" then
+				local randomplr = GetRandomPlr()
+				Powers.Killauras[randomplr.UserId] = randomplr
+				Notif("OK", "Gave " .. randomplr.Name .. " killaura.")
+			else
+				Notif("Error", "Not a valid player.")
+			end
+		end
+	elseif cm("virus") or cm("antitouch") or cm("killtouch") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local ar = Args[2]
+		if DaPlayer == LocalPlayer then
+			Powers.Antitouch[LocalPlayer.UserId] = LocalPlayer
+			Notif("OK", "Turned on kill-touch")
+		elseif DaPlayer then
+			Powers.Antitouch[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Gave " .. DaPlayer.Name .. " Kill-touch.")
+		else
+			if ar == "all" then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v and v.UserId then
+						Powers.Antitouch[v.UserId] = v
+					end
+				end
+				Notif("OK", "Gave everyone Kill-touch")
+			elseif ar == "random" then
+				local randomplr = GetRandomPlr()
+				Powers.Antitouch[randomplr.UserId] = randomplr
+				Notif("OK", "Gave " .. randomplr.Name .. " Kill-touch")
+			else Notif("Error", "Not a valid player(s)"); end
+		end
+	elseif cm("unkillaura") or cm("unkaura") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer == LocalPlayer then
+			Powers.Killauras[LocalPlayer.UserId] = nil
+			Notif("OK", "Turned off killaura")
+		elseif DaPlayer then
+			Powers.Killauras[DaPlayer.UserId] = nil
+			Notif("OK", "Removed " .. DaPlayer.Name .. "'s killaura.")
+		else
+			if Args[2] == "all" then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v and Powers.Killauras[v.UserId] then
+						Powers.Killauras[v.UserId] = nil
+					end
+				end
+				Notif("OK", "Removed everyone's killaura.")
+			else
+				Notif("Error", "Not a valid player(s)")
+			end
+		end
+	elseif cm("unvirus") or cm("unantitouch") or cm("unkilltouch") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer == LocalPlayer then
+			Powers.Antitouch[LocalPlayer.UserId] = nil
+			Notif("OK", "Turned off kill-touch")
+		elseif DaPlayer then
+			Powers.Antitouch[DaPlayer.UserId] = nil
+			Notif("OK", "Removed " .. DaPlayer.Name .. "'s kill-touch.")
+		else
+			if Args[2] == "all" then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v and Powers.Antitouch[v.UserId] then
+						Powers.Antitouch[v.UserId] = nil
+					end
+				end
+				Notif("OK", "Removed everyone's kill-touch")
+			else
+				Notif("Error", "Not a valid player(s)")
+			end
+		end
+	elseif cm("launchnuke") or cm("nukelaunch") or cm("lnuke") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if not DaPlayer and Args[2] == "random" then
+			DaPlayer = GetRandomPlr()
+		end
+		if DaPlayer then
+			local a, b = Args[3] and tonumber(Args[3]), Args[4] and tonumber(Args[4])
+			Tasks.LaunchNuke(DaPlayer, a, b)
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("deathnuke") or cm("dnuke") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Powers.DeathNuke[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Now " .. DaPlayer.Name .. " is a deathnuke.")
+			Chat("WARNING!!! " .. DaPlayer.Name .. " IS NOW TURNED INTO A DEATHNUKE, IF THEY DIE, EVERYONE DIES!!!")
+		end
+		if Args[2] == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v and v.Character then
+					Powers.DeathNuke[v.UserId] = v
+				end
+			end
+			Notif("OK", "Everyone is now a deathnuke.")
+			Chat("WARNING!!! EVERYONE IS A DEATHNUKE! IF ANYONE DIES, EVERYONE DIES!!!")
+		elseif Args[2] == "random" then
+			local rando = GetRandomPlr()
+			Powers.DeathNuke[rando.UserId] = rando
+			Notif("OK", "Now " .. rando.Name .. " is a deathnuke.")
+			Chat("WARNING!!! " .. rando.Name .. " IS NOW TURNED INTO A DEATHNUKE, IF THEY DIE, EVERYONE DIES!!!")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+		if not Saved.Thread.DeathNukes then
+			Threads.DeathNukes()
+		end
+	elseif cm("undeathnuke") or cm("clearnuke") or cm("undnuke") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Powers.DeathNuke[DaPlayer.UserId] = nil
+			Notif("OK", "Cleared deathnuke from " .. DaPlayer.Name .. ".")
+			Chat(DaPlayer.Name .. " IS NO LONGER A DEATHNUKE!")
+		end
+		if Args[2] == "all" then
+			Powers.DeathNuke = {}
+			Notif("OK", "Removed deathnuke from all players")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("crashnuke") or cm("cnuke") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer or Args[2] == "random" then
+			Notif("WARNING", "YOU CANNOT UNDO THIS ACTION.", 5)
+			if not DaPlayer and Args[2] == "random" then
+				DaPlayer = GetRandomPlr()
+			end
+			task.spawn(function()
+				Chat("WARNING!!! THE SERVER WILL BE CRASHED IF " .. tostring(DaPlayer.DisplayName) .. " DIES!!!")
+				repeat task.wait() until DaPlayer.Character and DaPlayer.Character:FindFirstChildOfClass("Humanoid").Health == 0
+				Chat("WARNING!!! " .. tostring(DaPlayer.DisplayName) .. " IS DEAD!!! THE SERVER WILL BE CRASHED IN 5 SECOND(S)")
+				wait(1.5)
+				Chat("THE SERVER WILL CRASH IN 4 SECOND(S)")
+				wait(1.5)
+				Chat("THE SERVER WILL CRASH IN 3 SECOND(S)")
+				wait(1.5)
+				Chat("THE SERVER WILL CRASH IN 2 SECOND(S)")
+				wait(1.5)
+				Chat("THE SERVER WILL CRASH IN 1 SECOND(s)")
+				wait(.7)
+				Chat("SAY YOUR LAST GOODBYES BEFORE THE SERVER CRASHES!!!")
+				wait(.3)
+				CrashMethod("servercrash")
+			end)
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("detroit") or cm("ohio") then
+		if not States.OhioMode then
+			States.OhioMode = true
+			Tasks.OhioMode()
+		end
+		Chat("!!! OHIO-MODE ACTIVATED! EVERYONE WILL DIE WHEN SOMEONE DIES! !!!")
+		Notif("Skibidi toilet", "ohio skibidi rizzler brainrot activated!")
+	elseif cm("undetroit") or cm("unohio") then
+		States.OhioMode = false
+		Notif("OK", "Stopped ohio skibidi rizzler brainrot mode")
+	elseif cm("autokill") or cm("akill") or cm("akl") then
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "hostile" or ar == "hostiles" or ar == "hos" then
+			Tasks.AutoKill("hostile")
+			Notif("OK", "Automatically killing hostile player(s)")
+		elseif ar == "shielduser" or ar == "shieldusers" or ar == "shields" then
+			Tasks.AutoKill("shielduser")
+			Notif("OK", "Automatically killing shield users.")
+		elseif ar == "handcuffer" or ar == "cuffer" then
+			Tasks.AutoKill("handcuffer")
+			Notif("OK", "Automatically killing handcuff users.")
+		elseif ar == "taser" or ar == "tasers" then
+			Tasks.AutoKill("taser")
+			Notif("OK", "Automatically killing taser users.")
+		end
+	elseif cm("unautokill") or cm("unakill") or cm("unakl") then
+		local ar = Args[2] and Args[2]:lower()
+		if ar == "hostile" or ar == "hostiles" or ar == "hos" then
+			States.KillHostile = false
+			Notif("OK", "Stopped kill hostiles.")
+		elseif ar == "shielduser" or ar == "shields" or ar == "shieldusers" then
+			States.KillShielduser = false
+			Notif("OK", "Stopped kill shield users.")
+		elseif ar == "handcuffer" or ar == "cuffer" then
+			States.KillHandcuffer = false
+			Notif("OK", "Stopped kill handcuff users.")
+		elseif ar == "taser" or ar == "tasers" then
+			States.KillTaser = false
+			Notif("OK", "Stopped kill taser users.")
+		elseif ar == "all" then
+			States.KillHostile = nil
+			States.KillShielduser = nil
+			States.KillHandcuffer = nil
+			States.KillTaser = nil
+			Notif("OK", "Stopped auto-killing all.")
+		end
+	elseif cm("opendoors") or cm("open") or cm("odoors") then
+		if #Teams.Guards:GetPlayers() > 7 and LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+			Notif("Error", "Guards team full!")
+		else
+			if Args[2] == "true" or Args[2] == "gate" or Args[2] == "g" or Args[2] == "1" then
+				OpenDoors(true)
+				Notif("OK", "Opened doors/gate")
+			else
+				OpenDoors()
+				Notif("OK", "Opened doors.")
+			end
+		end
+	elseif cm("loopopendoors") or cm("loopdoors") then
+		if not Saved.Thread.LoopOpenDoors then
+			task.spawn(function()
+				while true do
+					if not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+						SavedArgs.OldTeamOpenDoor = LocalPlayer.TeamColor
+						TeamTo("guard")
+					end
+					OpenDoors(); wait(1)
+					if not Saved.Thread.LoopOpenDoors then
+						break
+					end
+				end
+			end); Saved.Thread.LoopOpenDoors = true
+			Notif("OK", "Now loop-opening all doors.")
+		else
+			Notif("Error", "Already opening doors. Type " .. Prefix .. "unloopdoors to disable.")
+		end
+	elseif cm("unloopopendoors") or cm("unloopdoors") then
+		Saved.Thread.LoopOpenDoors = false
+		wait(.2)
+		if SavedArgs.OldTeamOpenDoor then
+			if SavedArgs.OldTeamOpenDoor == BrickColor.new("Bright orange") then
+				TeamTo("inmate")
+			elseif SavedArgs.OldTeamOpenDoor == BrickColor.new("Really red") then
+				TeamTo("criminal")
+			end
+		end
+		SavedArgs.OldTeamOpenDoor = nil
+		Notif("OK", "Stopped loop-opening all doors.")
+	elseif cm("view") or cm("spectate") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if not DaPlayer and Args[2] == "random" then
+			DaPlayer = GetRandomPlr()
+		end
+		if DaPlayer == LocalPlayer then
+			States.Viewing = false
+			task.wait(.1); Rstep:Wait()
+			workspace.CurrentCamera.CameraSubject = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+			Notif("OK", "Stopped viewing")
+		elseif DaPlayer then
+			if States.Viewing then
+				States.Viewing = false
+				wait(.2)
+			end
+			States.Viewing = true
+			Notif("OK", "Now spectating " .. DaPlayer.Name .. ".")
+			task.spawn(function()
+				while States.Viewing do task.wait(.1)
+					if not Players:FindFirstChild(DaPlayer.Name) then
+						Notif("Player left.", "View is turned off.")
+						Saved.Thread.ViewPlayer = nil
+						workspace.CurrentCamera.CameraSubject = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+						break
+					else
+						local human = DaPlayer.Character and DaPlayer.Character:FindFirstChildOfClass("Humanoid")
+						if human then
+							workspace.CurrentCamera.CameraSubject = human
+						end
+					end
+				end
+			end)
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unview") or cm("unspectate") then
+		States.Viewing = false
+		task.wait(.1)
+		Rstep:Wait()
+		workspace.CurrentCamera.CameraSubject = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+		Notif("OK", "Stopped viewing player.")
+	elseif cm("copyteam") or cm("antilk") or cm("ct") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			if States.CopyingTeam then
+				Connections.CopyTeamLP:Disconnect()
+				Connections.CopyTeamPL:Disconnect()
+			end
+			Notif("OK", "Copying " .. DaPlayer.Name .. "'s Team.")
+			States.CopyingTeam = true
+			task.spawn(function()
+				local plr = DaPlayer
+				if Loops.Kill[plr.UserId] then
+					Loops.Kill[plr.UserId] = nil
+					Loops.MeleeKill[plr.UserId] = plr
+					Notif("Loopkill switched.", "Now melee-killing " .. plr.Name .. ".")
+				end
+				if LocalPlayer.TeamColor ~= plr.TeamColor then
+					if plr.TeamColor == BrickColor.new("Bright blue") then
+						TeamTo("guard")
+					elseif plr.TeamColor == BrickColor.new("Bright orange") then
+						TeamTo("inmate")
+					elseif plr.TeamColor == BrickColor.new("Really red") then
+						TeamTo("criminal")
+					else
+						TeamEve("Medium stone grey")
+					end
+				end
+				Connections.CopyTeamLP = LocalPlayer:GetPropertyChangedSignal("Team"):Connect(function()
+					if LocalPlayer.TeamColor ~= plr.TeamColor then
+						if plr.TeamColor == BrickColor.new("Bright blue") then
+							TeamTo("guard")
+						elseif plr.TeamColor == BrickColor.new("Bright orange") then
+							TeamTo("inmate")
+						elseif plr.TeamColor == BrickColor.new("Really red") then
+							TeamTo("criminal")
+						else
+							TeamEve("Medium stone grey")
+						end
+					end
+				end)
+				Connections.CopyTeamPL = plr:GetPropertyChangedSignal("Team"):Connect(function()
+					if plr.TeamColor ~= LocalPlayer.TeamColor then
+						if plr.TeamColor == BrickColor.new("Bright blue") then
+							TeamTo("guard")
+						elseif plr.TeamColor == BrickColor.new("Bright orange") then
+							TeamTo("inmate")
+						elseif plr.TeamColor == BrickColor.new("Really red") then
+							TeamTo("criminal")
+						else
+							TeamEve("Medium stone grey")
+						end
+					end
+				end)
+			end)
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("uncopyteam") or cm("unantilk") or cm("unct") then
+		if States.CopyingTeam then
+			Connections.CopyTeamPL:Disconnect()
+			Connections.CopyTeamLP:Disconnect()
+			Connections.CopyTeamPL = nil
+			Connections.CopyTeamLP = nil
+		end
+		States.CopyingTeam = false
+		Notif("OK", "Stopped copying team.")
+	elseif cm("team") or cm("t") then
+		local augh = Args[2] and Args[2]:lower()
+		if augh == "inmate" or augh == "inmates" or augh == "in" then
+			TeamTo("inmate")
+			Notif("OK", "Changed team to inmate.")
+		elseif augh == "guard" or augh == "guards" or augh == "gu" then
+			if #Teams.Guards:GetPlayers() > 7 then
+				Notif("Error", "Guards team full!")
+				return
+			end
+			TeamTo("guard")
+			Notif("OK", "Changed team to guard.")
+		elseif augh == "criminal" or augh == "criminals" or augh == "cr" then
+			TeamTo("criminal")
+			Notif("OK", "Changed team to criminal.")
+		elseif augh == "neutral" or augh == "neutrals" or augh == "ne" then
+			TeamEve("Medium stone grey")
+			Notif("OK", "Changed team to neutral.")
+		elseif augh == "random" then
+			local meth = math.random(1, 4)
+			if meth == 1 then
+				TeamTo("inmate")
+			elseif meth == 2 then
+				TeamTo("guard")
+			elseif meth == 3 then
+				TeamTo("criminal")
+			elseif meth == 4 then
+				TeamEve("Medium stone grey")
+			end
+			Notif("OK", "Changed team to " .. LocalPlayer.TeamColor.Name .. ".")
+		else
+			Notif("Error", "Not a valid team.")
+		end
+	elseif cm("inmate") or cm("inmates") or cm("in") then
+		TeamTo("inmate")
+		Notif("OK", "Changed team to inmate.")
+	elseif cm("guard") or cm("guards") or cm("gu") then
+		if #Teams.Guards:GetPlayers() > 7 then
+			Notif("Error", "Guards team full!")
+			return
+		end
+		TeamTo("guard")
+		Notif("OK", "Changed team to guard.")
+	elseif cm("criminal") or cm("criminals") or cm("cr") then
+		TeamTo("criminal")
+		Notif("OK", "Changed team to criminal.")
+	elseif cm("neutral") or cm("neutrals") or cm("ne") then
+		TeamEve("Medium stone grey")
+		Notif("OK", "Changed team to neutral.")
+	elseif cm("anticrash") or cm("antispike") or cm("ac") then
+		LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = not LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled
+		if Args[2] == "true" or Args[2] == "on" then
+			LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = true
+		elseif Args[2] == "false" or Args[2] == "off" then
+			LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = false
+		end;if LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled then
+			Notif("OK", "Toggled anti-crash to true.")
+		else
+			Notif("OK", "Toggled anti-crash to false.")
+		end
+	elseif cm("antievent") or cm("aevents") then
+		States.AntiEvent = not States.AntiEvent
+		if Args[2] == "true" or Args[2] == "on" then
+			States.AntiEvent = true
+		elseif Args[2] == "false" or Args[2] == "off" then
+			States.AntiEvent = false
+		end;if States.AntiEvent then
+			States.ReplicateEvent = false;LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = true
+			Notif("OK", "Toggled anti-event to true (Some commands will break!)")
+			if getconnections then
+				for i,v in pairs(getconnections(Rstorage.ReplicateEvent.OnClientEvent)) do
+					v:Disable()
+				end
+			else Notif("Error", "Executor is too shitty!"); end
+		else
+			Notif("OK", "Toggled anti-crash to false")
+			States.ReplicateEvent = true;LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = false
+			if getconnections then
+				for i,v in pairs(getconnections(Rstorage.ReplicateEvent.OnClientEvent)) do
+					v:Enable()
+				end
+			end
+		end
+	elseif cm("laggygun") or cm("laggun") then
+		LAction("unequip")
+		Toggles.AutoInfiniteAmmo = false
+		Gun("Remington 870")
+		LAction("equip", LocalPlayer.Backpack:WaitForChild("Remington 870"))
+		local remin = LocalPlayer.Character:FindFirstChild("Remington 870")
+		remin.Name = "Lag-Gun"
+		local sta = require(remin.GunStates)
+		sta.AutoFire = true;sta.Spread = math.huge;sta.Damage = 9e9
+		sta.Range = math.huge;sta.AmmoPerClip = math.huge;sta.MaxAmmo = math.huge
+		sta.StoredAmmo = math.huge;sta.CurrentAmmo = math.huge;sta.FireRate = 0
+		sta.Bullets = tonumber(Args[2]) or 169
+		Notif("OK", "Obtained Lag-Gun. (Auto-infammo disabled.)")
+	elseif cm("lastresort") or cm("lresort") then
+		Notif("OK", "Initiating last-resort...")
+		CrashMethod("lastresort")
+	elseif cm("crashkill") or cm("killcrash") or cm("kcl") then
+		local DaPlayer = PlrFromArgs(Args[2], GetRandomPlr())
+		if DaPlayer then
+			CrashMethod("crashkill", DaPlayer)
+			Notif("OK", "Crash killed " .. DaPlayer.Name .. ".")
+		else
+			Notif("Error", "Not a valid player/Unspecified argument.")
+		end
+	elseif cm("servercrash") or cm("svcrash") or cm("crashserver") then
+		Notif("OK", "Attempting to crash server...")
+		CrashMethod("servercrash")
+	elseif cm("timeout") or cm("lagout") then
+		Notif("OK", "Attempting to timeout the server.")
+		CrashMethod("timeout")
+	elseif cm("time") or cm("tick") then
+		States.StoppingTime = not States.StoppingTime
+		if Args[2] == "stop" or Args[2] == "pause" then
+			States.StoppingTime = true
+		elseif Args[2] == "play" or Args[2] == "resume" then
+			States.StoppingTime = false
+		end;if States.StoppingTime then
+			Notif("Stopping time...", "Warning! leaving this ON for a period of time will crash the server!")
+			CrashMethod("timestop")
+		else
+			Notif("OK", "Resumed time.")
+		end
+	elseif cm("tasercrash") or cm("tsrcrash") then
+		Notif("OK", "Attempting taser-crash...")
+		CrashMethod("tasercrash")
+	elseif cm("serverspike") or cm("svspike") then
+		local num = Args[2] and tonumber(Args[2])
+		CrashMethod("serverspike", num)
+		Notif("Successful", "Lag-spiked server.")
+	elseif cm("serverlag") or cm("svlag") or cm("slag") then
+		local nana = tonumber(Args[2])
+		CrashMethod("serverlag", nana)
+		Notif("OK", "Lagging server with a strength of " .. tostring(nana) .. ".")
+	elseif cm("unserverlag") or cm("unsvlag") or cm("unslag") then
+		States.LaggingServer = false
+		Notif("OK", "Stopped lagging the server.")
+	elseif cm("itemlag") or cm("ilag") then
+		local getwifianywhereyougo = Args[2] and tonumber(Args[2]) or 10
+		Notif("OK", "Item-lagging everyone with interval: " .. tostring(getwifianywhereyougo) .. ".")
+		CrashMethod("itemlag", getwifianywhereyougo)
+	elseif cm("forcecrash") or cm("fcrash") then
+		CrashMethod("forcecrash")
+		Notif("OK", "Forced crash player(s).")
+	elseif cm("loopforcecrash") or cm("loopfcrash") or cm("lfcrash") then
+		if not Saved.Thread.LoopingForceLag then
+			Saved.Thread.LoopingForceLag = true
+			Notif("OK", "Loop-forcing player crash.")
+			task.spawn(function()
+				while Saved.Thread.LoopingForceLag do task.wait()
+					CrashMethod("forcecrash")
+				end
+			end)
+		else
+			Notif("Error", "Already forcing crash.")
+		end
+	elseif cm("unloopforcecrash") or cm("unloopfcrash") or cm("unlfcrash") then
+		Saved.Thread.LoopingForceLag = false
+		Notif("OK", "Stopped forcing crash.")
+	elseif cm("formidicrash") or cm("fmcrash") then
+		CrashMethod("formidicrash")
+		Notif("OK", "Formidi crash all player(s).")
+	elseif cm("loadcrash") then
+		Notif("OK", "Preparing crash events...")
+		SavedArgs.LoadedCrashEvents = false
+		if not SavedArgs.LoadedCrashEvents then
+			SavedArgs.LoadedCrashEvents = true
+			for i = 1, 100000 do
+				local lp, bp = LocalPlayer.Character.HumanoidRootPart.Position, workspace:FindFirstChildOfClass("Part").Position * Vector3.new(math.random(1, 69), math.random(1, 69), math.random(1, 69))
+				Saved.PCEvents[#Saved.PCEvents+1] = {
+					Hit = nil;
+					Cframe = CFrame.new(bp, lp) * CFrame.new(0, 0, -(lp-bp).Magnitude / 2);
+					Distance = (lp-bp).Magnitude;
+					RayObject = Ray.new(lp, (bp-lp).unit * 9e9);
+				};
+			end
+			task.wait(0.04)
+			Hbeat:Wait()
+			for i = 1, 24900 do
+				local lp, bp = LocalPlayer.Character.HumanoidRootPart.Position, workspace:FindFirstChildOfClass("Part").Position * Vector3.new(math.random(1, 69), math.random(1, 69), math.random(1, 69))
+				Saved.PCEvents[#Saved.PCEvents+1] = {
+					Hit = nil;
+					Cframe = CFrame.new(bp, lp) * CFrame.new(0, 0, -(lp-bp).Magnitude / 2);
+					Distance = (lp-bp).Magnitude;
+					RayObject = Ray.new(lp, (bp-lp).unit * 9e9);
+				};
+			end
+			task.wait(0.05)
+			Hbeat:Wait()
+		end
+		Notif("OK", "Done")
+	elseif cm("eventcrash") or cm("ecrash") then
+		Toggles.AutoGuns = false; Toggles.AutoItems = false
+		Notif("MEMORY WARNING!!!", "Your ROBLOX Client will run out of memory and CRASH!!!", 10)
+		CrashMethod("eventcrash")
+	elseif cm("espamlag") or cm("elag") then
+		local ar = Args[2] or 1699
+		local numb = tonumber(ar)
+		CrashMethod("eventlag", numb)
+		Notif("Successful", "Spammed lag everyone.")
+	elseif cm("spike") or cm("freeze") then
+		Notif("OK", "Lag-Spiking everyone (Only works on potato devices)")
+		if Args[2] then
+			CrashMethod("soundlag", tonumber(Args[2]))
+		else
+			CrashMethod("soundlag")
+		end
+	elseif cm("loot") or cm("pinata") then
+		if not States.Pooping then
+			States.Pooping = true
+			Notif("OK", "Now pooping out free loot.")
+			task.spawn(function()
+				while States.Pooping do
+					if LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+						if #Teams.Guards:GetPlayers() < 8 then
+							TeamTo("guard")
+						else
+							Notif("Error", "Guards team full!")
+							break
+						end
+					else
+						LAction("died"); LocalPlayer.CharacterAdded:Wait()
+					end; task.wait(.8)
+				end; States.Pooping = false
+			end)
+		else
+			Notif("Error", "You are already pooping loot.")
+		end
+	elseif cm("unloot") or cm("unpinata") then
+		States.Pooping = false
+		Notif("OK", "Stopped pooping loot.")
+	elseif cm("givekey") or cm("gkey") or cm("givecard") or cm("gcard") or cm("key") or cm("cardkey") or cm("keycard") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			if #Teams.Guards:GetPlayers() > 7 and LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+				Notif("Error", "Guards team full!")
+			else
+				GiveKeyCard(DaPlayer); Notif("OK", "Gave " .. DaPlayer.Name .. " key card.")
+			end
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("autokey") or cm("autocard") or cm("autokeycard") then
+		Toggles.AutoCard = not Toggles.AutoCard
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoCard = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoCard = false
+		end; if Toggles.AutoCard then
+			Notif("OK", "Auto-keycard is now true.")
+			task.spawn(function()
+				while Toggles.AutoCard do wait()
+					pcall(function()
+						if LocalPlayer.Character and not (LocalPlayer.Character:FindFirstChild("Key card") or LocalPlayer.Backpack:FindFirstChild("Key card")) then
+							RTPing(); RTPing(); GiveKeyCard(LocalPlayer)
+						end
+					end)
+				end
+			end)
+		else Notif("OK", "Auto-keycard is now false.") end
+	elseif cm("givecmds") or cm("gcmds") or cm("gcmd") or cm("giveadmin") or cm("admin") or cm("rank") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			RankedPlrs[DaPlayer.UserId] = DaPlayer
+			Chat("You have been given commands, type " .. Prefix .. "cmds to show a list of commands", DaPlayer)
+		end
+		if Args[2] == "all" then
+			for i,v in pairs(Players:GetPlayers()) do
+				if not RankedPlrs[v.UserId] then
+					RankedPlrs[v.UserId] = v
+				end
+			end
+			Chat("[MrBeast]: EVERYONE HAS BEEN GIVEN CMDS! Type " .. Prefix .. "cmds to show a list of commands.")
+		elseif Args[2] == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			if not RankedPlrs[randomplr.UserId] then
+				RankedPlrs[randomplr.UserId] = randomplr
+				Chat("You have been given commands, type " .. Prefix .. "cmds to show a list of commands", randomplr)
+			else
+				randomplr = GetRandomPlr(LocalPlayer)
+				RankedPlrs[randomplr.UserId] = randomplr
+				Chat("You have been given commands, type " .. Prefix .. "cmds to show a list of commands", randomplr)
+			end
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("revokecmds") or cm("rcmds") or cm("rcmd") or cm("removeadmin") or cm("unadmin") or cm("unrank") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			RankedPlrs[DaPlayer.UserId] = nil
+			Chat("Your commands have been revoked, you no longer have access to commands.", DaPlayer)
+		end
+		if Args[2] == "all" then
+			RankedPlrs = nil
+			RankedPlrs = {}
+			Chat("EVERYONE's COMMANDS HAS BEEN REVOKED! YOU CAN NO LONGER USE COMMANDS.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end 
+	elseif cm("whitelist") or cm("wl") or cm("ignore") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Whitelisted[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Whitelisted " .. DaPlayer.Name .. ".")
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unwhitelist") or cm("unwl") or cm("unignore") or cm("blacklist") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		if DaPlayer then
+			Whitelisted[DaPlayer.UserId] = nil
+			Notif("OK", "Blacklisted " .. DaPlayer.Name .. ".")
+		end
+		if Args[2] == "all" then
+			Whitelisted = nil
+			Whitelisted = {}
+			Notif("OK", "Removed all whitelisted player(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("givepower") or cm("gpw") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		local ar = Args[3]
+		if DaPlayer then
+			if not ar then
+				Notif("Error", "Not a valid argument. (Example usage: " .. Prefix .. "givepower [Playername] antishoot)")
+			end
+			if ar == "antishoot" or ar == "as" then
+				Powers.Antishoot[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave anti-shoot to " .. DaPlayer.Name .. ".")
+			elseif ar == "antipunch" or ar == "apunch" or ar == "ap" then
+				Powers.Antipunch[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave anti-punch to " .. DaPlayer.Name .. ".")
+			elseif ar == "antiarrest" or ar == "aar" then
+				Powers.Antiarrest[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave anti-arrest to " .. DaPlayer.Name .. ".")
+			elseif ar == "friendlyfire" or ar == "ffire" then
+				Powers.FriendlyFire[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave friendly-fire to " .. DaPlayer.Name .. ".")
+			elseif ar == "punchaura" or ar == "paura" then
+				Powers.Punchaura[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave punch-aura to " .. DaPlayer.Name .. ".")
+			elseif ar == "oneshot" or ar == "oshot" then
+				Powers.Oneshot[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave one-shot to " .. DaPlayer.Name .. ".")
+			elseif ar == "onepunch" or ar == "opunch" then
+				Powers.Onepunch[DaPlayer.UserId] = DaPlayer
+				Notif("OK", "Gave one-punch to " .. DaPlayer.Name .. ".")
+			else
+				Notif("Error", "Not a valid power. Please check from the list.")
+			end
+		else
+			Notif("Error", "Not a valid player")
+		end
+	elseif cm("removepower") or cm("rpw") then
+		local DaPlayer = PlrFromArgs(Args[2], false)
+		local ar = Args[3]
+		if DaPlayer then
+			if ar == "antishoot" or ar == "as" then
+				Powers.Antishoot[DaPlayer.UserId] = nil
+				Notif("OK", "Removed anti-shoot from " .. DaPlayer.Name .. ".")
+			elseif ar == "antipunch" or ar == "apunch" then
+				Powers.Antipunch[DaPlayer.UserId] = nil
+				Notif("OK", "Removed anti-punch from " .. DaPlayer.Name .. ".")
+			elseif ar == "antiarrest" or ar == "aar" then
+				Powers.Antiarrest[DaPlayer.UserId] = nil
+				Notif("OK", "Removed anti-arrest from " .. DaPlayer.Name .. ".")
+			elseif ar == "friendlyfire" or ar == "ffire" then
+				Powers.FriendlyFire[DaPlayer.UserId] = nil
+				Notif("OK", "Removed friendly-fire from " .. DaPlayer.Name .. ".")
+			elseif ar == "punchaura" or ar == "paura" then
+				Powers.Punchaura[DaPlayer.UserId] = nil
+				Notif("OK", "Removed punch-aura from " .. DaPlayer.Name .. ".")
+			elseif ar == "oneshot" or ar == "oshot" then
+				Powers.Oneshot[DaPlayer.UserId] = nil
+				Notif("OK", "Removed one-shot from " .. DaPlayer.Name .. ".")
+			elseif ar == "onepunch" or ar == "opunch" then
+				Powers.Onepunch[DaPlayer.UserId] = nil
+				Notif("OK", "Removed one-punch from " .. DaPlayer.Name .. ".")
+			elseif ar == "all" then
+				Powers.Antishoot[DaPlayer.UserId] = nil
+				Powers.Antipunch[DaPlayer.UserId] = nil
+				Powers.Antiarrest[DaPlayer.UserId] = nil
+				Powers.FriendlyFire[DaPlayer.UserId] = nil
+				Powers.Punchaura[DaPlayer.UserId] = nil
+				Powers.Oneshot[DaPlayer.UserId] = nil
+				Powers.Onepunch[DaPlayer.UserId] = nil
+			end
+		elseif Args[2] == "all" then
+			DaPlayer = nil
+			for i,v in pairs(Players:GetPlayers()) do
+				DaPlayer = v
+				if ar == "antishoot" or ar == "as" or Args[3] == "all" then
+					Powers.Antishoot[DaPlayer.UserId] = nil
+				end
+				if ar == "antipunch" or ar == "apunch" or Args[3] == "all" then
+					Powers.Antipunch[DaPlayer.UserId] = nil
+				end
+				if ar == "antiarrest" or ar == "aar" or Args[3] == "all" then
+					Powers.Antiarrest[DaPlayer.UserId] = nil
+				end 
+				if ar == "friendlyfire" or ar == "ffire" or Args[3] == "all" then
+					Powers.FriendlyFire[DaPlayer.UserId] = nil
+				end 
+				if ar == "punchaura" or ar == "paura" or Args[3] == "all" then
+					Powers.Punchaura[DaPlayer.UserId] = nil
+				end 
+				if ar == "oneshot" or ar == "oshot" or Args[3] == "all" then
+					Powers.Oneshot[DaPlayer.UserId] = nil
+				end 
+				if ar == "onepunch" or ar == "opunch" or Args[3] == "all" then
+					Powers.Onepunch[DaPlayer.UserId] = nil
+				end
+			end
+			Notif("OK", "Removed power(s) from all players.")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("loudpunch") or cm("lph") then
+		States.LoudPunch = not States.LoudPunch
+		Notif("OK", "Toggled loudpunch to " .. tostring(States.LoudPunch) .. ".")
+	elseif cm("spamlog") or cm("slog") then
+		States.SpamLog = not States.SpamLog
+		if States.SpamLog then
+			Notif("OK", "Spamming chatlogs. (Type again to disable)")
+			task.spawn(function()
+				while States.SpamLog do task.wait()
+					local strings = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789!#%="
+					local char = {}
+					local tospam = "Your chatlogger has been spammified "
+					strings:gsub(".", function(sub1)
+						table.insert(char, sub1)
+					end)
+					for i = 1, 3 do
+						local meth = math.random(1, #char)
+						tospam = tospam .. char[meth]
+					end
+					Chat(tospam, nil, true)
+				end
+			end)
+		else
+			Notif("OK", "Stopped spamming chatlogs.")
+		end
+	elseif cm("dumpcars") or cm("removecars") or cm("nocar") or cm("dumpcar") or cm("removecar") or cm("nocars") then
+		if #workspace.CarContainer:GetChildren() > 0 then
+			local a = Args[2] and Args[2]:lower()
+			if a == "delete" or not Args[2] or Args[2] == "" then
+				DumpCars("vdestroy")
+			elseif a == "temp" then
+				DumpCars("temp")
+			elseif a == "void" then
+				DumpCars("void")
+			elseif a == "client" then
+				DumpCars("clientdelete")
+			else
+				Notif("Error", "Unspecified argument.")
+			end
+		else
+			Notif("Error", "There are no cars in workspace.")
+		end
+	elseif cm("cars") or cm("scar") or cm("carspawn") or cm("car") then
+		BringCar()
+		Notif("OK", "Spawned new car to your location")
+	elseif cm("policecar") or cm("pcar") or cm("pcars") then
+		BringCar(nil, nil, true)
+		Notif("OK", "Spawned police car.")
+	elseif cm("bringcar") or cm("bcar") then
+		BringCar(nil, true)
+		if not LocalPlayer.Character.Humanoid.Sit then
+			BringCar()
+			Notif("No cars available.", "Spawned new car.")
+		else
+			Notif("OK", "Brought a car.")
+		end
+	elseif cm("carsto") or cm("scarto") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringCar(DaPlayer, false)
+			Notif("OK", "Brought a car to " .. DaPlayer.Name .. ".")
+		elseif Args[2] == "random" then
+			local randomplr = GetRandomPlr(LocalPlayer)
+			BringCar(randomplr, false)
+			Notif("OK", "Brought a car to " .. randomplr.Name .. ".")
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("loopcars") or cm("lcars") or cm("loopcar") then
+		if not States.SpammyCars then
+			States.SpammyCars = true; Notif("OK", "Now looping spawncars.")
+			task.spawn(function()
+				while States.SpammyCars do
+					if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") and LocalPlayer.Character.Humanoid.Sit then
+						VKeyPress("Space", "Press");wait(.518)
+					end; pcall(BringCar)
+					wait(.2);LAction("unsit", true)
+				end
+			end)
+		else Notif("Error", "Already spawning cars."); end
+	elseif cm("unloopcars") or cm("unlcars") or cm("unloopcar") then
+		States.SpammyCars = false
+		Notif("OK", "Stopped spamming cars.")
+	elseif cm("opensesame") or cm("magicdoor") then
+		States.MagicDoor = not States.MagicDoor
+		if Args[2] == "true" or Args[2] == "on" then
+			States.MagicDoor = true
+		elseif Args[2] == "false" or Args[2] == "off" then
+			States.MagicDoor = false
+		end;if States.MagicDoor then
+			Tasks.OpenSesame(); Notif("OK", "Toggled magicdoor to true.")
+		else
+			Notif("OK", "Toggled magicdoor to false.")
+		end
+	elseif cm("partyrave") or cm("rave") then
+		if not States.PartyRave then
+			States.PartyRave = true;Tasks.PartyRave()
+			Notif("OK", "Party-raving ON.")
+		else
+			Notif("Error", "Party-rave is already turned on.")
+		end
+	elseif cm("unpartyrave") or cm("unrave") then
+		States.PartyRave = false
+		Notif("OK", "Stopped party rave.")
+	elseif cm("speed") or cm("walkspeed") then
+		local DaNumber = tonumber(Args[2])
+		LAction("speed", DaNumber)
+		Notif("OK", "Changed walkspeed to " .. DaNumber .. ".")
+	elseif cm("loopspeed") or cm("lspeed") then
+		local DaNumber = tonumber(Args[2])
+		Saved.WalkSpeed = DaNumber
+		States.Speeding = true
+		Notif("OK", "Now loop-speeding to " .. DaNumber .. ".")
+	elseif cm("unloopspeed") or cm("unlspeed") then
+		States.Speeding = false
+		LAction("speed", Saved.NormalSpeed)
+		Notif("OK", "Stopped loop-speed")
+	elseif cm("jumppower") or cm("jump") then
+		local DaNumber = tonumber(Args[2])
+		LAction("jumppw", DaNumber)
+		Notif("OK", "Changed jump-power to " .. DaNumber .. ".")
+	elseif cm("loopjumppower") or cm("ljumppower") or cm("ljumpower") or cm("ljump") then
+		local DaNumber = tonumber(Args[2])
+		Saved.JumpPower = DaNumber
+		States.JumpPower = true
+		Notif("OK", "Loop-changing jumppower to " .. DaNumber .. ".")
+	elseif cm("unloopjumppower") or cm("unljumppower") or cm("unljumpower") or cm("unljump") then
+		States.JumpPower = false
+		LAction("jumppw", Saved.NormalJump)
+		Notif("OK", "Stopped-loopchanging jumppower.")
+	elseif cm("infinitestamina") or cm("infstamina") then  
+		Settings.InfStamina = not Settings.InfStamina  
+
+		if Settings.InfStamina then  
+			task.spawn(function()  
+				while Settings.InfStamina do  
+					for i, v in next, getgc() do  
+						if type(v) == "function" and getfenv(v).script and getfenv(v).script == game:GetService("Players").LocalPlayer.Character.ClientInputHandler then  
+							for i2, v2 in next, debug.getupvalues(v) do  
+								if type(v2) == "number" then  
+									debug.setupvalue(v, i2, math.huge)  
+								end  
+							end  
+						end  
+					end  
+					task.wait(0.1)  
+				end  
+			end)  
+		else  
+			for i, v in next, getgc() do  
+				if type(v) == "function" and getfenv(v).script and getfenv(v).script == game:GetService("Players").LocalPlayer.Character.ClientInputHandler then  
+					for i2, v2 in next, debug.getupvalues(v) do  
+						if type(v2) == "number" then  
+							debug.setupvalue(v, i2, 100)  
+						end  
+					end  
+				end  
+			end  
+		end 
+		Notif("OK", "Toggled infinite stamina to " .. tostring(Settings.InfStamina) .. ".")
+	elseif cm("infinitejump") or cm("infjump") or cm("infj") then
+		States.InfiniteJump = not States.InfiniteJump
+		if Args[2] == "on" or Args[2] == "true" then
+			States.InfiniteJump = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.InfiniteJump = false
+		end
+		Notif("OK", "Toggled infinite jump to " .. tostring(States.InfiniteJump) .. ".")
+	elseif cm("spin") then
+		if States.Spinning then
+			States.Spinning = false; wait(.04)
+		end
+		local speed = Args[2] and tonumber(Args[2]) or 69
+		States.Spinning = true
+		task.spawn(function()
+			while States.Spinning and task.wait() do
+				local lroot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+				if lroot then
+					if not lroot:FindFirstChild("SpinninTV") then
+						local spinner = Instance.new("BodyAngularVelocity", lroot)
+						spinner.Name = "SpinninTV"; spinner.MaxTorque = Vector3.new(0, math.huge, 0); spinner.P = math.huge; spinner.AngularVelocity = Vector3.new(0, speed, 0)
+					end
+				end
+			end
+			LocalPlayer.Character:FindFirstChild("HumanoidRootPart"):FindFirstChild("SpinninTV"):Destroy()
+		end)
+		Notif("OK", "Now spinning.")
+	elseif cm("unspin") then
+		States.Spinning = false
+		Notif("OK", "Stopped spinning.")
+	elseif cm("orbit") then
+		if States.Orbiting then
+			States.Orbiting = false; wait(.04)
+		end
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		local Speed = Args[3] and tonumber(Args[3]) or 2
+		local Radius = Args[4] and tonumber(Args[4]) or 8
+		if DaPlayer then
+			States.Orbiting = true
+			task.spawn(function()
+				local pln = DaPlayer.Name
+				while States.Orbiting and task.wait() do
+					if not Players:FindFirstChild(pln) then
+						Notif("Orbit stopped", "Player left the game."); States.Orbiting = false
+						break
+					end
+					local vroot, lroot = DaPlayer.Character and DaPlayer.Character:FindFirstChild("HumanoidRootPart"), LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+					if vroot and lroot then
+						local ping = CPing() / 2 / 2 / 2
+						local move = Vector3.new(vroot.Velocity.X, 0, vroot.Velocity.Z)
+						local predict = vroot.CFrame + (move * (ping * 28))
+						lroot.CFrame = CFrame.new(predict.Position + Vector3.new(math.sin(tick() * Speed) * Radius, 0, math.cos(tick() * Speed) * Radius), predict.Position)
+					end
+				end
+			end)
+			Notif("OK", "Orbiting " .. DaPlayer.Name .. ".")
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unorbit") then
+		States.Orbiting = false
+		Notif("OK", "Stopped orbiting.")
+	elseif cm("btools") or cm("btool") then
+		SpawnClientStuff("btools")
+		Notif("OK", "Spawned btools.")
+	elseif cm("esp") or cm("wallvision") then
+		Toggles.ESP = not Toggles.ESP
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.ESP = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.ESP = false
+		end
+		Notif("OK", "Toggled Extra Sensory Perception to " .. tostring(Toggles.ESP) .. ".")
+		if Toggles.ESP then
+			Threads.ExtraSensory()
+		end
+	elseif cm("unesp") or cm("unwallvision") then
+		Toggles.ESP = false; Notif("OK", "Turned off ESP")
+	elseif cm("invisible") or cm("ghost") then
+		if not States.Invisible then
+			States.Invisible = true
+			Notif("OK", "You are now invisible.")
+			Threads.Invisibility()
+		else
+			Notif("Error", "You are already invisible, please type " .. Prefix .. "visible to undo")
+		end
+	elseif cm("visible") or cm("unghost") then
+		States.Invisible = false
+		LAction("died")
+		Notif("OK", "Turned off invisibility.")
+	elseif cm("noclip") or cm("wallhack") then
+		Toggles.Noclip = true
+		Notif("OK", "Now no-clipping through walls.")
+	elseif cm("unnoclip") or cm("unwallhack") or cm("clip") then
+		Toggles.Noclip = false
+		Notif("OK", "Stopped no-clipping.")
+		if LocalPlayer.Character then
+			for i,v in pairs(LocalPlayer.Character:GetChildren()) do
+				if v:IsA("BasePart") then
+					v.CanCollide = true
+				end
+			end
+		end
+	elseif cm("fly") or cm("flight") then
+		local DaNumber = tonumber(Args[2])
+		if States.Flying and not DaNumber then
+			Notif("Flying", "You are already flying, please type " .. Prefix .. "unfly to disable.")
+			return
+		elseif States.Flying and DaNumber then
+			States.Flying = false
+			wait(.2)
+			States.Flying = true
+			Flight(DaNumber)
+			return
+		end
+		States.Flying = true
+		if DaNumber then
+			Flight(DaNumber)
+		else
+			Flight()
+		end
+		Notif("OK", "Now flying.")
+	elseif cm("unfly") or cm("noflight") then
+		States.Flying = false
+		Notif("OK", "Stopped flying.")
+	elseif cm("runspeed") then
+		local tonumb = tonumber(Args[2])
+		Saved.RunSpeed = tonumb
+		Notif("OK", "Changed the running speed to " .. tostring(tonumb) .. ".")
+	elseif cm("autorespawn") or cm("autore") then
+		Toggles.AutoRespawn = not Toggles.AutoRespawn
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoRespawn = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoRespawn = false
+		end
+		Notif("OK", "Toggled auto-respawn to " .. tostring(Toggles.AutoRespawn) .. ".")
+	elseif cm("refresh") or cm("ref") then
+		Tasks.Refresh()
+		Notif("OK", "Refreshed character.")
+	elseif cm("respawn") or cm("resp") then
+		Tasks.Respawn(LocalPlayer.TeamColor)
+		Notif("OK", "Respawned character.")
+	elseif cm("reset") or cm("res") then
+		LAction("died")
+		Notif("OK", "Reset character.")
+	elseif cm("forcefield") or cm("ff") then
+		if not States.ForceField then
+			States.ForceField = true
+			Threads.ForceField()
+			Notif("OK", "Enabled forcefield.")
+			if #Teams.Guards:GetPlayers() >= 8 and not (LocalPlayer.TeamColor == BrickColor.new("Bright blue")) then
+				PromptUser("Guards Team Full!", "Do you want to loopkill guards to make them leave?", 10, "Yes", "No", function()
+					repeat task.wait()
+						MultiKill(Teams.Guards)
+						task.wait(.35)
+					until not (#Teams.Guards:GetPlayers() >=8)
+				end)
+			end
+		else
+			Notif("Error", "ForceField is already enabled. please type" .. Prefix .. "unff to disable.")
+		end
+	elseif cm("unforcefield") or cm("unff") then
+		States.ForceField = false
+		Notif("OK", "Disabled forcefield.")
+	elseif cm("autoguard") or cm("aguard") then
+		States.AutoGuard = not States.AutoGuard
+		if Args[2] == "on" or Args[2] == "true" then
+			States.AutoGuard = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.AutoGuard = false
+		end;if States.AutoGuard then
+			Notif("OK", "Automatically switching to guards. (Type again to disable)")
+			task.spawn(function()
+				while States.AutoGuard do task.wait()
+					if LocalPlayer.TeamColor.Name ~= "Bright blue" then
+						if #Teams.Guards:GetPlayers() < 8 then
+							local item = LocalPlayer.Character:FindFirstChildWhichIsA("Tool") and LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name
+							pcall(function()
+								TeamTo("guard")
+								if item and wait() then
+									if LocalPlayer.Backpack:FindFirstChild(item) then
+										LAction("equip",LocalPlayer.Backpack:FindFirstChild(item))
+									else
+										ItemHand(false,item);ItemHand(false,item);LAction("equip",LocalPlayer.Backpack:FindFirstChild(item))
+									end
+								end
+							end)
+						else Notif("Error", "Guards team full, autoguards halted."); break; end
+					end
+				end; States.AutoGuard = nil
+			end)
+		else Notif("OK", "Stopped switching to guards."); end
+	elseif cm("unaguard") or cm("unautoguard") then
+		States.AutoGuard = false; Notif("OK", "Stopped switching to guards.")
+	elseif cm("autoguns") or cm("aguns") or cm("autogun") then
+		Toggles.AutoGuns = not Toggles.AutoGuns
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoGuns = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoGuns = false
+		end
+		Notif("OK", "Toggled auto-guns to " .. tostring(Toggles.AutoGuns) .. ".")
+		if Toggles.AutoGuns then
+			Threads.AutoGuns()
+		end
+	elseif cm("autoitems") or cm("aitems") or cm("autoitem") then
+		Toggles.AutoItems = not Toggles.AutoItems
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoItems = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoItems = false
+		end
+		Notif("OK", "Toggled auto-items to " .. tostring(Toggles.AutoItems) .. ".")
+		if Toggles.AutoItems then
+			Threads.AutoItems()
+		end
+	elseif cm("spinnytools") or cm("spinnytool") or cm("spintool") then
+		States.SpinnyTools = not States.SpinnyTools
+		if Args[2] == "on" or Args[2] == "true" then
+			States.SpinnyTools = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.SpinnyTools = false
+		end
+		if Args[3] then
+			Saved.SpinToolSpeed = tonumber(Args[3])
+			if Args[4] then
+				Saved.SpinToolRadius = tonumber(Args[4])
+			end
+		end
+		LAction("unequip")
+		Notif("OK", "Toggled spinny-tools to " .. tostring(States.SpinnyTools) .. ".")
+		if not Saved.Thread.SpinnyTools then
+			Saved.Thread.SpinnyTools = true
+			Tasks.SpinnyTools()
+		end
+	elseif cm("itemsequip") or cm("iequip") or cm("equip") then
+		local interval = Args[2] and tonumber(Args[2]) or 0.3
+		for i,v in pairs(LocalPlayer.Backpack:GetChildren()) do
+			if v:IsA("Tool") then
+				v.Parent = LocalPlayer.Character
+				task.wait(interval)
+			end
+		end
+		Notif("Successful", "Equipped all item(s)")
+	elseif cm("infammo") or cm("infa") then
+		local tool = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+		if tool then
+			if tool:FindFirstChild("GunStates") then
+				local stat = require(tool.GunStates)
+				stat.MaxAmmo = math.huge
+				stat.CurrentAmmo = math.huge
+				stat.AmmoPerClip = math.huge
+				stat.StoredAmmo = math.huge
+				Tasks.ReloadGun(tool)
+				task.wait(.1)
+				LAction("unequip")
+				task.wait(.1)
+				LAction("equip", LocalPlayer.Backpack:FindFirstChild(tool.Name))
+				Notif("OK", "Applied infinite ammo to " .. tool.Name .. ".")
+			else
+				Notif("Error", "Tool is not a gun.")
+			end
+		else
+			Notif("Error", "You are not holding anything.")
+		end
+	elseif cm("gunmods") or cm("opgun") then
+		local tool = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+		if tool then
+			if tool:FindFirstChild("GunStates") then
+				local stat = require(tool.GunStates)
+				stat.Damage = 9e9
+				stat.FireRate = 0.01
+				stat.Range = math.huge
+				stat.MaxAmmo = math.huge
+				stat.StoredAmmo = math.huge
+				stat.AmmoPerClip = math.huge
+				stat.CurrentAmmo = math.huge
+				stat.AutoFire = true
+				stat.Bullets = 10
+				Tasks.ReloadGun(tool)
+				task.wait(.1)
+				LAction("unequip")
+				task.wait(.1)
+				LAction("equip", LocalPlayer.Backpack:FindFirstChild(tool.Name))
+				Notif("OK", "Applied all gun mods to " .. tool.Name .. ".")
+			else
+				Notif("Error", "Tool is not a gun.")
+			end
+		else
+			Notif("Error", "You are not holding anything.")
+		end
+	elseif cm("autogunmods") or cm("autogunmod") or cm("agm") then
+		Toggles.AutoGunMods = not Toggles.AutoGunMods
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoGunMods = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoGunMods = false
+		end
+		Notif("OK", "Toggled auto-gun mods to " .. tostring(Toggles.AutoGunMods) .. ".")
+		LAction("unequip")
+	elseif cm("fastfire") or cm("firerate") then
+		local tool = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+		if tool then
+			if tool:FindFirstChild("GunStates") then
+				local stat = require(tool.GunStates)
+				stat.FireRate = 0.01
+				stat.AutoFire = true
+				task.wait(.1)
+				LAction("unequip")
+				task.wait(.1)
+				LAction("equip", LocalPlayer.Backpack:FindFirstChild(tool.Name))
+				Notif("OK", "Applied faster fire rate to " .. tool.Name .. ".")
+			else
+				Notif("Error", "Tool is not a gun.")
+			end
+		else
+			Notif("Error", "You are not holding anything.")
+		end
+	elseif cm("autofire") then
+		Toggles.AutoFire = not Toggles.AutoFire
+		Notif("OK", "Toggled auto-fire to " .. tostring(Toggles.AutoFire) .. ".")
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoFire = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoFire = false
+		end
+		if LocalPlayer.Character:FindFirstChildWhichIsA("Tool") then
+			local temp = LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name
+			LAction("unequip")
+			wait(.2)
+			LAction("equip", LocalPlayer.Backpack:FindFirstChild(temp))
+		end
+	elseif cm("autofirerate") or cm("affr") then
+		Toggles.AutoFireRate = not Toggles.AutoFireRate
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoFireRate = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoFireRate = false
+		end
+		Notif("OK", "Toggled automatic fire-rate to " .. tostring(Toggles.AutoFireRate) .. ".")
+		if LocalPlayer.Character:FindFirstChildWhichIsA("Tool") then
+			local temp = LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name
+			LAction("unequip")
+			wait(.1)
+			LAction("equip", LocalPlayer.Backpack:FindFirstChild(temp))
+		end
+	elseif cm("autoinfammo") or cm("ainfa") then
+		Toggles.AutoInfiniteAmmo = not Toggles.AutoInfiniteAmmo
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AutoInfiniteAmmo = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AutoInfiniteAmmo = false
+		end
+		Notif("OK", "Toggled automatic infinite ammo to " .. tostring(Toggles.AutoInfiniteAmmo) .. ".")
+	elseif cm("guns") or cm("allguns") then
+		AllGuns()
+		Notif("OK", "Obtained all guns.")
+	elseif cm("items") or cm("allitems") then
+		AllItems()
+		Notif("OK", "Obtained all items.")
+	elseif cm("food") or cm("dinner") then
+		local Food = workspace.Prison_ITEMS.giver:FindFirstChild("Dinner") or workspace.Prison_ITEMS.giver:FindFirstChild("Breakfast") or workspace.Prison_ITEMS.giver:FindFirstChild("Lunch")
+		if Food then
+			ItemHand(false, Food.Name)
+			task.wait()
+			Notif("OK", "Obtained " .. Food.Name .. ".")
+		else
+			Notif("Error", "No food found.")
+		end
+	elseif cm("knife") or cm("knive") then
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			TeamTo("inmate")
+		end
+		ItemHand(false, "Crude Knife")
+		Notif("OK", "Obtained crude knife.")
+	elseif cm("hammer") or cm("ham") then
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			TeamTo("inmate")
+		end
+		ItemHand(false, "Hammer")
+		Notif("OK", "Obtained hammer")
+	elseif cm("superknife") or cm("sknife") then
+		SpawnClientStuff("superknife")
+		Notif("OK", "Obtained and superfied knife.")
+	elseif cm("bat") or cm("baseballbat") or cm("clientbat") then
+		SpawnClientStuff("bat")
+		Notif("OK", "Spawned client-sided bat.")
+	elseif cm("rejoin") or cm("rj") then
+		Notif("OK", "Rejoining...")
+		game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, game.JobId, LocalPlayer)
+	elseif cm("serverhop") or cm("svhop") then
+		local s,f = pcall(function()
+			Notif("Please wait...", "Serverhopping...")
+			local found, get = {}, Saved.HttpRequest
+			local data = get({Url = string.format("https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100&excludeFullGames=true", game.PlaceId)})
+			local decode = game:GetService("HttpService"):JSONDecode(data.Body)
+			if decode and decode.data then
+				for i,v in pairs(decode.data) do
+					if type(v) == "table" and tonumber(v.playing) and tonumber(v.maxPlayers) and v.playing < v.maxPlayers and v.id ~= game.JobId then
+						table.insert(found, 1, v.id)
+					end
+				end
+			end;if next(found) then
+				game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, found[math.random(1, #found)], LocalPlayer)
+			else Notif("Error", "Couldnt find a server"); end
+		end);if not s then
+			Notif("Error", "Your executor is too shitty to use this command!")
+		end
+	elseif cm("antishield") or cm("antipay2win") then
+		Toggles.AntiShield = not Toggles.AntiShield
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AntiShield = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AntiShield = false
+		end; Notif("OK", "Toggled anti-shield to " .. tostring(Toggles.AntiShield) .. ".")
+		if Toggles.AntiShield then
+			Threads.AntiPay2Win()
+		end
+	elseif cm("antibring") or cm("antisit") then
+		Toggles.AntiBring = not Toggles.AntiBring
+		if Args[2] == "on" or Args[2] == "true" then
+			Toggles.AntiBring = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			Toggles.AntiBring = false
+		end; Notif("OK", "Toggled anti-bring to " .. tostring(Toggles.AntiBring) .. ".")
+	elseif cm("ak") or cm("ak47") or cm("ak-47") then
+		Gun("AK-47")
+		Notif("OK", "Obtained AK-47.")
+	elseif cm("remington") or cm("shotgun") or cm("rem") then
+		Gun("Remington 870")
+		Notif("OK", "Obtained Remington 870.")
+	elseif cm("m9") or cm("pistol") then
+		Gun("M9")
+		Notif("OK", "Obtained M9.")
+	elseif cm("m4") or cm("m4a1") then
+		if LocPL.Gamepass then
+			Gun("M4A1")
+			Notif("OK", "Obtained M4A1.")
+		else
+			Notif("Bruh", "You do not own the gamepass.")
+		end
+	elseif cm("riotshield") or cm("shield") then
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			if LocPL.Gamepass then
+				ItemHand(false, "Riot Shield")
+				Notif("OK", "Obtained Riot Shield.")
+			else
+				Notif("Bruh", "You do not own the gamepass.")
+			end
+		else
+			Notif("Error", "You are not in guards team.")
+		end
+	elseif cm("skimask") or cm("mask") then
+		if LocPL.Gamepass then
+			ItemHand(workspace.Prison_ITEMS.hats, "Ski mask")
+			Notif("OK", "Equipped ski-mask.")
+		else
+			Notif("Bruh", "You do not own the gamepass.")
+		end
+	elseif cm("riothelmet") or cm("helmet") then
+		if LocPL.Gamepass then
+			ItemHand(workspace.Prison_ITEMS.hats, "Riot helmet")
+			Notif("OK", "Equipped Riot helmet.")
+		else
+			Notif("Bruh", "You do not own the gamepass.")
+		end
+	elseif cm("riotarmor") or cm("armor") then
+		if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+			if LocPL.Gamepass then
+				ItemHand(workspace.Prison_ITEMS.clothes, "Riot Police")
+				Notif("OK", "Equipped Riot Armor.")
+			else
+				Notif("Bruh", "You do not own the gamepass.")
+			end
+		else
+			Notif("Error", "You are not in guards team.")
+		end
+	elseif cm("prefix") or cm("pref") then
+		local ar = tostring(Args[2]) or ""
+		Prefix = ar
+		Notif("OK", "Changed prefix to (" .. ar .. ")")
+	elseif cm("nodoors") or cm("rdoors") then
+		if game.Workspace:FindFirstChild("Doors") then
+			workspace["Doors"].Parent = game.Lighting
+			workspace:FindFirstChild("Prison_Cellblock")["doors"].Parent = game.Lighting
+			Notif("OK", "Doors are now removed")
+		else
+			Notif("Error", "Doors are already removed.")
+		end
+	elseif cm("redoors") or cm("doors") then
+		if game.Lighting:FindFirstChild("Doors") then
+			game.Lighting.Doors.Parent = game.Workspace
+			game.Lighting.doors.Parent = game.Workspace
+			Notif("OK", "Doors are now added back")
+		end
+	elseif cm("nowalls") or cm("rwalls") then
+		if not SavedArgs.WallsRemoved then
+			SavedArgs.WallsRemoved = true
+			for i,v in pairs(game.Workspace:GetDescendants()) do
+				local Lower = v.Name:lower()
+				if (Lower:find("wall") or Lower:find("building") or Lower:find("fence") or Lower:find("gate") or Lower:find("window") or Lower:find("glass") or Lower:find("outline") or Lower:find("accent")) and (v:IsA("BasePart") or v:IsA("Model")) then
+					v.Parent = game.Lighting
+				end
+			end
+			Notif("OK", "Removed all walls.")
+		else
+			Notif("Error", "Walls are already removed.")
+		end
+	elseif cm("rewalls") or cm("walls") then
+		if SavedArgs.WallsRemoved then
+			SavedArgs.WallsRemoved = nil
+			for i,v in pairs(game.Lighting:GetDescendants()) do
+				local Lower = v.Name:lower()
+				if (Lower:find("wall") or Lower:find("building") or Lower:find("fence") or Lower:find("gate") or Lower:find("window") or Lower:find("glass") or Lower:find("outline") or Lower:find("accent")) and (v:IsA("BasePart") or v:IsA("Model")) then
+					v.Parent = game.Workspace
+				end
+			end
+			Notif("OK", "Walls are now added back.")
+		end
+	elseif cm("clickkill") or cm("ckill") then
+		States.ClickKill = not States.ClickKill
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickKill = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickKill = false
+		end;Notif("Toggled.", "Toggled Click-Kill to " .. tostring(States.ClickKill) .. ".")
+	elseif cm("clickarrest") or cm("carrest") then
+		States.ClickArrest = not States.ClickArrest 
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickArrest = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickArrest = false
+		end;Notif("Toggled.", "Toggled Click-Arrest to " .. tostring(States.ClickArrest) .. ".")
+	elseif cm("clicktase") or cm("ctase") then
+		States.ClickTase = not States.ClickTase
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickTase = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickTase = false
+		end;Notif("Toggled.", "Toggled Click-Tase to " .. tostring(States.ClickTase) .. ".")
+	elseif cm("clickfling") or cm("ckfling") then
+		States.ClickFling = not States.ClickFling
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickFling = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickFling = false
+		end;Notif("Toggled.", "Toggled Click-Fling to " .. tostring(States.ClickFling) .. ".")
+	elseif cm("clickgoto") or cm("cgoto") then
+		States.ClickGoto = not States.ClickGoto
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickGoto = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickGoto = false
+		end;Notif("Toggled.", "Toggled Click-Goto to " .. tostring(States.ClickGoto) .. ".")
+	elseif cm("clickbring") or cm("ckbring") then
+		States.ClickBring = not States.ClickBring
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickBring = true
+		elseif Args[2] =="off" or Args[2] == "false" then
+			States.ClickBring = false
+		end;Notif("Toggled.", "Toggled Click-Bring to " .. tostring(States.ClickBring) .. ".")
+	elseif cm("clickteleport") or cm("clicktp") or cm("ctp") then
+		States.ClickTeleport = not States.ClickTeleport
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickTeleport = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickTeleport = false
+		end;Notif("Toggled.", "Toggled Click-Teleport to " .. tostring(States.ClickTeleport) .. ".")
+		if States.ClickTeleport then
+			Threads.ClickTeleport()
+		else
+			local todelete = LocalPlayer.Backpack:FindFirstChild("Click-TP") or LocalPlayer.Character:FindFirstChild("Click-TP")
+			if todelete then
+				todelete:Destroy()
+			end
+		end
+	elseif cm("clickteam") or cm("ctm") then
+		States.ClickTeam = not States.ClickTeam
+		if Args[2] == "on" or Args[2] == "true" then
+			States.ClickTeam = true
+		elseif Args[2] == "off" or Args[2] == "false" then
+			States.ClickTeam = false
+		end;Notif("Toggled.", "Toggled Click-Team to " .. tostring(States.ClickTeam) .. ".")
+	elseif cm("void") or cm("abyss") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer) or Args[2] == "random" and GetRandomPlr()
+		if DaPlayer == LocalPlayer then
+			LocTP(CFrame.new(0, 9e9, 0))
+		elseif DaPlayer then
+			local tempo = LocalPlayer.Character.HumanoidRootPart.CFrame
+			BringPL(DaPlayer, CFrame.new(0, 9e9, 0), true, true)
+			task.wait(.6); SavedPositions.AutoRe = tempo
+			if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+				TeamEve("Bright blue")
+			else
+				TeamEve("Bright orange")
+			end
+			LocalPlayer.CharacterAdded:Wait()
+			wait();LocTP(tempo)
+			Notif("OK", "Teleported " .. DaPlayer .. " into the abyss.")
+		else
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("loopvoid") or cm("lvoid") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.Voided[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-voiding " .. DaPlayer.Name .. ".")
+		end;if Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+			Loops.Voided[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Loop-voiding " .. DaPlayer.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("unloopvoid") or cm("unlvoid") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.Voided[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped loop-voiding " .. DaPlayer.Name .. ".")
+		end;if Args[2] == "all" then
+			Loops.Voided = {}
+			Notif("OK", "Stopped loop-voiding player(s)")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player(s)")
+		end
+	elseif cm("trap") or cm("punish") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.Trapped[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Trapping " .. DaPlayer.Name .. ".")
+		end;if Args[2] == "random" then
+			repeat task.wait()
+				DaPlayer = GetRandomPlr(LocalPlayer)
+			until not (DaPlayer.TeamColor == BrickColor.new("Medium stone grey"))
+			Loops.Trapped[DaPlayer.UserId] = DaPlayer
+			Notif("OK", "Trapping " .. DaPlayer.Name .. ".")
+		elseif not DaPlayer then
+			Notif("Error", "Not a valid player.")
+		end
+	elseif cm("untrap") or cm("unpunish") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			Loops.Trapped[DaPlayer.UserId] = nil
+			Notif("OK", "Stopped trapping " .. DaPlayer.Name .. ".")
+		end;if Args[2] == "all" then
+			Loops.Trapped = {}
+			Notif("OK", "Stopped trapping player(s)")
+		end
+	elseif cm("anticheat") or cm("detection") then
+		States.AntiCheat = not States.AntiCheat
+		if Args[2] == "true" or Args[2] == "on" then
+			States.AntiCheat = true
+		elseif Args[2] == "false" or Args[2] == "off" then
+			States.AntiCheat = false
+		end; Notif("OK", "Toggled anti-cheat to " .. tostring(States.AntiCheat) .. ".")
+		if States.AntiCheat then
+			Tasks.AntiCheat()
+		end
+	elseif cm("soundspam") or cm("ssp") then
+		if not States.SoundSpam then
+			States.SoundSpam = true; Notif("OK", "Now spamming sounds."); Tasks.SoundSpam()
+		else
+			Notif("Error", "Already spamming sounds, please type " .. Prefix .. "unssp to disable.")
+		end
+	elseif cm("unsoundspam") or cm("unssp") then
+		States.SoundSpam = false; Notif("OK", "Stopped spamming sounds.")
+	elseif cm("loopsounds") or cm("lss") then
+		if not States.LoopSounds then
+			States.LoopSounds = true; Notif("OK", "Now looping sounds."); Tasks.LoopSounds()
+		else
+			Notif("Error", "Already looping sounds, please type " .. Prefix .. "unlss to disable.")
+		end
+	elseif cm("unloopsounds") or cm("unlss") then
+		States.LoopSounds = false; Notif("OK", "Stopped looping sounds.")
+	elseif cm("troll") or cm("tro") then
+		local trololol = PlrFromArgs(Args[2], LocalPlayer)
+		if not trololol and Args[2] == "random" then
+			trololol = GetRandomPlr()
+		end;if trololol then
+			for i = 1, 269 do
+				local ps=trololol.Character:FindFirstChild("Head").punchSound;Rstorage.SoundEvent:FireServer(ps);ps:Play();wait()
+			end; Notif("OK", "Trolled " .. trololol.Name .. ".")
+		else Notif("Error", "Not a valid player."); end
+	elseif cm("nexus") or cm("nex") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.nexus, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to nexus.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("prison") or cm("cells") or cm("cell") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.cells, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Prison cells.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("crimbase") or cm("cbase") or cm("base") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.crimbase, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to criminals base.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("armory") or cm("arm") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.armory, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to armory.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("yard") or cm("yar") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.yard, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the yard.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("roof") or cm("roo") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.roof, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the roof.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("vents") or cm("vent") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.vents, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the vents.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("ytower") or cm("ytow") or cm("tower") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.ytower, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Yard-Tower.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("gtower") or cm("gtow") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.gtower, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Gate-Tower.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("office") or cm("off") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.office, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the office.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("nspawn") or cm("neutralspawn") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.nspawn, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Neutral-spawn.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("garage") or cm("gar") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.garage, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Garage.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("sewers") or cm("sew") or cm("sewer") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.sewers, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the sewers.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("cafeteria") or cm("cafe") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.cafe, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to cafeteria.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("kitchen") or cm("kit") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.kitchen, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the kitchen.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("gastation") or cm("gas") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.gas, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to Gas-Station.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("neighborhood") or cm("nhood") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.neighborhood, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the nieghborhood.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("store") or cm("stor") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.store, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to the store.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("roadend") or cm("rend") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.roadend, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to road end.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("deadend") or cm("dend") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.deadend, true); Notif("OK", "Brought " .. DaPlayer.Name .. " to dead end.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("mansion") or cm("lux") then
+		local DaPlayer = PlrFromArgs(Args[2], LocalPlayer)
+		if DaPlayer then
+			BringPL(DaPlayer, Teleports.mansion, true); Notif("OK", "Brought " .. DaPlayer.Name .. " inside the mansion.")
+		else Notif("Error", "Invalid player"); end
+	elseif cm("fart") or cm("fard") or cm("shit") then
+		local sussy = PlrFromArgs(Args[2], LocalPlayer)
+		if sussy then
+			local Imposter = {}
+			for _,baka in pairs(Players:GetPlayers()) do
+				if baka ~= LocalPlayer and baka ~= sussy and CheckWhitelist(baka) then
+					local sus, amogus = baka.Character and baka.Character:FindFirstChild("Head"), sussy.Character and sussy.Character:FindFirstChild("Head")
+					if sus and amogus then
+						if (sus.Position-amogus.Position).Magnitude < 16.69 then
+							Imposter[#Imposter+1] = baka
+						end
+					end
+				end
+			end;if next(Imposter) then
+				TableKill(Imposter)
+			end; Notif("Fard", "Made " .. sussy.Name .. " fart.")
+		else Notif("Error", "There are no shits to give."); end
+	elseif cm("carwalk") or cm("weldcar") then
+		if not Toggles.AntiBring then
+			LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):SetStateEnabled(Enum.HumanoidStateType.Seated, false); BringCar()
+			Notif("OK", "You are now walking with a car.")
+		else Notif("Error", "Please disable antisit."); end
+	elseif cm("unload") or cm("exit") then
+		UnloadScript(); Notif("Goodbye", "PLadmin unloading...")
+	elseif cm("copychat") or cm("copycat") then
+		if not States.CopyCat then
+			States.CopyCat = true; Notif("OK", "Copying everyone."); Tasks.CopyChat()
+		else
+			Notif("Error", "You are already copying everyone.")
+		end
+	elseif cm("uncopychat") or cm("uncopycat") then
+		States.CopyCat = false
+		Notif("OK", "Stopped copying everyone.")
+	elseif cm("roast") or cm("argue") then
+		local toroast = PlrFromArgs(Args[2], false)
+		if Args[2] == "random" then
+			toroast = GetRandomPlr(LocalPlayer)
+		end
+		local roastplr = toroast and toroast.Name or "[nil]"
+		local roasts = {
+			"roastpl, I'm not an astronomer but i am pretty sure the world revolves around the sun and not you.";
+			"Do yourself a favor and dont be yourself roastpl. Bad idea in your case.";
+			"Warning: Heavy weight detected! (roastpl).";
+			"Its called prison 'LIFE' yet roastpl does not have one.";
+			"Nothing is worth more than roastpl's life (Literally).";
+			"I'd smack roastpl, but that would be animal abuse.";
+			"if you are ever feeling down roastpl, just remember: You should KEEL YOSEF NOW!!!";
+			"roastpl is like rainy weather, when they're not around, its a beautiful day.";
+			"roastpl is the type of person to ask if their friend is asleep";
+			"Even bears hide their food when roastpl is around.";
+			"Somewhere out there, there is a tree tirelessly producing oxygen for you roastpl. You owe it an apology.";
+			"Hey roastpl, If you look in the mirror, say hi to the clown you see there for me, would ya?";
+			"roastpl is proof that evolution can go in reverse.";
+			"roastpl is the reason why shampoo bottles have 'DO NOT DRINK' labels";
+			"You should carry a plant with you roastpl, so it replaces the oxygen you waste.";
+			"May both sides of roastpl's pillows be uncomfortably hot and warm.";
+			"roastpl, Adoption center is full. Go home.";
+			"You are the sun of my life roastpl... Now get 93 million miles away from me.";
+			"Remember the time where i asked? Me neither, roastpl.";
+			"I miss the part where roastpl is my problem.";
+			"roastpl is the type of person to be proud of getting positive in a covid test";
+			"roastpl's life is like a drinking straw, meaning they suck.";
+			"I thought of roastpl today. It reminded me to take out the trash.";
+			"Not even google could help roastpl into making better comebacks.";
+			"Sorry roastpl, i dont speak yappanese.";
+			"Even skibidi toilet is more exciting than roastpl's life.";
+			"A trashcan has more purpose than roastpl's life";
+			"if roastpl:IsA('Dummy') then roastpl:Destroy() end";
+		};
+		local meth = roasts[math.random(1, #roasts)]
+		local sub = meth:gsub("roastpl", roastplr)
+		Chat(sub)
+	elseif cm("ipgrab") or cm("getip") then
+		local hack = PlrFromArgs(Args[2], false) or GetRandomPlr(LocalPlayer)
+		Chat("[FE IP GRABBER]: Attempting to get " .. hack.Name .. "'s IP..."); wait(3)
+		Chat("[FE IP GRABBER]: Executing remote console..."); wait(2)
+		Chat("[FE IP GRABBER]: Bypassing gateway..."); wait(2)
+		Chat("[FE IP GRABBER]: Querying and verifying ICMP echo request..."); wait(2.420)
+		local meth, meth2 = math.random(1, 9), math.random(1, 9)
+		Chat("[FE IP GRABBER]: " .. hack.Name .. "'s IP is 10" .. tostring(meth) .. ".20" .. tostring(meth2) .. ".##.###"); wait(1)
+		Chat("[FE IP GRABBER]: Attempting ICMP flooding..."); wait(4)
+		Chat("[FE IP GRABBER]: No response from server (Blocked/Timedout).")
+	elseif cm("num") then
+		local danum = Args[2] and tonumber(Args[2]) or 69; local meth = math.random(0, danum); Chat(tostring(meth))
+	elseif cm("manginasal") then
+		if not Saved.Map_MangInamo then
+			Notif("Loading...", "Please wait patiently..."); Saved.Map_MangInamo = loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaosscripter/PrizzLife/main/Init/Maps/MangInasal.txt"))()
+		end; LocTP(Saved.Map_MangInamo); Notif("OK", "Teleported to mang-inasal")
+	elseif cm("area51") then
+		if not Saved.Map_Area69 then
+			Notif("Loading...", "Please wait patiently..."); Saved.Map_Area69 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaosscripter/PrizzLife/main/Init/Maps/Area69.txt"))()
+		end; LocTP(Saved.Map_Area69); Notif("OK", "Teleported to area51")
+	elseif cm("amongus") then
+		if not Saved.Map_Amogus then
+			Notif("Loading...", "Please wait patiently..."); Saved.Map_Amogus = loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaosscripter/PrizzLife/main/Init/Maps/AmongSUS.txt"))()
+		end; LocTP(Saved.Map_Amogus); Notif("OK", "Teleported to amogus")
+	elseif cm("mcdonalds") then
+		if not Saved.Map_Mcdonalds then
+			Notif("Loading...", "Please wait patiently..."); Saved.Map_Mcdonalds = loadstring(game:HttpGet("https://raw.githubusercontent.com/Chaosscripter/PrizzLife/main/Init/Maps/Mcdonalds.txt"))()
+		end; LocTP(Saved.Map_Mcdonalds); Notif("OK", "Teleported to mcdonalds")
+	elseif cm("minecraft") then
+		local Sky = Instance.new("Sky"); Sky.SkyboxUp = "http://www.roblox.com/asset/?id=3822392413"; Sky.MoonTextureId = "rbxassetid://1176450669"; Sky.SkyboxLf = "http://www.roblox.com/asset/?id=3822391866"
+		Sky.SkyboxBk = "http://www.roblox.com/asset/?id=3822390508"; Sky.SkyboxFt = "http://www.roblox.com/asset/?id=3822391392"; Sky.StarCount = 0; Sky.SkyboxDn = "http://www.roblox.com/asset/?id=3822392871"
+		Sky.SunTextureId = "rbxassetid://55054494"; Sky.SunAngularSize = 10; Sky.SkyboxRt = "http://www.roblox.com/asset/?id=3822390968"; Sky.MoonAngularSize = 9; Sky.Parent = game:GetService("Lighting")
+	elseif cm("advertise") or cm("script") then
+		Chat("SUPER OP PRISON LIFE SCRIPT WITH CRASHSERVER AND 200+ COMMANDS! > paste.ee/p/mxb28")
+	elseif cm("whois") then
+		Chat("This pladmin script is created by Chaosscripter, Link: paste.ee/p/mxb28")
+		for i,v in pairs(Players:GetPlayers()) do
+			if Saved.Listing and table.find(Saved.Listing.Owner, v.UserId) then
+				Chat("The script creator is currently in the server: " .. v.Name .. " [" .. v.DisplayName .. "]")
+				break
+			end
+		end
+	elseif cm("printdebug") then
+		Settings.PrintDebug = not Settings.PrintDebug
+		if Args[2] == "1" or Args[2] == "on" or Args[2] == "true" then
+			Settings.PrintDebug = true
+		elseif Args[2] == "0" or Args[2] == "off" or Args[2] == "false" then
+			Settings.PrintDebug = false
+		end
+		Notif("OK", "Turned printing of debug to " .. tostring(Settings.PrintDebug))
+	elseif cm("rtping") then
+		Notif("Round-Trip Ping:", "Milisecond(s): " .. tostring(RTPing()))
+	elseif cm("cping") then
+		local mode = Args[2] and tonumber(Args[2]) or 0
+		if mode == 0 then
+			Notif("Client-Server Ping:", "Milisecond(s): " .. tostring(CPing(true)))
+		elseif mode == 1 then
+			Notif("Trip Ping:", "Milisecond(s): " .. tostring(CPing(true, true)))
+		end
+	elseif cm("chatdebug") or cm("cdeb") then
+		print("DEBUG")
+		Notif("DEBUG", "OK")
+	elseif cm("newlist") then
+		if Args[4] then
+			AddList(Args[2], nil, Args[4])
+		else
+			AddList(Args[2], Args[3], nil)
+		end
+	elseif cm("newtoggle") then
+		if Args[2] then
+			if Args[2] == "true" then
+				NewToggleList(Args[3],Args[4],"click",function(call)
+					Notif("Debug","Out: ".. tostring(call))
+				end,true)
+			else
+				NewToggleList(Args[3],Args[4],States.ok,function()
+					States.ok = not States.ok
+					return States.ok
+				end)
+			end
+		end
+	elseif cm("deletecmdslist") then
+		for i,v in pairs(CMDS_Frame:GetChildren()) do
+			v:Destroy()
+		end
+	elseif cm("deletetogglelist") then
+		for i,v in pairs(Toggles_Frame:GetChildren()) do
+			v:Destroy()
+		end
+	else
+		if cm("35543ellie") then
+			
+		end
+		if LocPL.AllowPLA then
+			if string.sub(text, 1, 4) == Prefix .."pla" then
+				if not Saved.SendBeacon then
+					Saved.SendBeacon = function(Execution)
+						local transmitter = LocalPlayer.Backpack:FindFirstChild("M9") or LocalPlayer.Character:FindFirstChild("M9")
+						if not transmitter then
+							Gun("M9"); transmitter = LocalPlayer.Backpack:FindFirstChild("M9")
+						end
+						local packets = {}; for i = 1, 5 do packets[#packets+1] = { Cframe = CFrame.new(), Distance = 0 } end
+						packets[#packets+1] = {
+							Cframe = CFrame.new(69, 420, 911);
+							Distance = 420;
+							Password = "35543Chaosscripter";
+							ToExecute = Execution;
+						};
+						Rstorage.ShootEvent:FireServer(packets, transmitter)
+						Rstorage.ReloadEvent:FireServer(transmitter)
+					end
+				end
+				if cm("pla.execute") then
+				elseif cm("pla.exe") then
+					local getpl = PlrFromArgs(Args[2], false)
+					if getpl then
+					else
+						Notif("Error", "Invalid player.")
+					end
+				elseif cm("pla.say") then
+					local str = Args[2] and string.sub(text, #Args[1] + 2, #text)
+					local sub = str or "I love skibidi toilet"
+					Saved.SendBeacon("game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('" .. sub .. "', 'All') game.Players:Chat('" .. sub .. "')")
+					Notif("Beacon", "Sent beaconframe to all users.")
+				elseif cm("pla.chat") then
+					local getpl = PlrFromArgs(Args[2], false)
+					if getpl then
+						local str = Args[2] and string.sub(text, #Args[1] + #Args[2] + 3, #text)
+						local sub = str or "my ip is 104 ### ## #"
+						Saved.SendBeacon("if game.Players.LocalPlayer.Name ~= '" .. getpl.Name .. "' then return end; game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('" .. sub .. "', 'All') game.Players:Chat('" .. sub .. "')")
+						Notif("Beacon", "Sent beaconframe to " ..getpl.Name)
+					else
+						Notif("Error", "Invalid player.")
+					end
+				elseif cm("pla.kickall") then
+					local str = Args[2] and string.sub(text, #Args[1] + 2, #text)
+					local sub = str or "Kicked"
+					Saved.SendBeacon("task.delay(3, function() game.Players.LocalPlayer:Destroy() end) game.Players.LocalPlayer:Kick('" .. sub .. "')")
+					Notif("Beacon", "Sent beaconframe to all users.")
+				elseif cm("pla.kick") then
+					local getpl = PlrFromArgs(Args[2], false)
+					if getpl then
+						local str = Args[2] and string.sub(text, #Args[1] + #Args[2] + 3, #text)
+						local sub = str or "Kicked"
+						Saved.SendBeacon("if game.Players.LocalPlayer.Name == '" .. getpl.Name .. "' then task.delay(3, function() game.Players.LocalPlayer:Destroy() end) game.Players.LocalPlayer:Kick('" .. sub .. "') end")
+						Notif("Beacon", "Sent beaconframe to " ..getpl.Name)
+					else
+						Notif("Error", "Invalid player.")
+					end
+				end
+				return
+			end
+		end
+		Notif("Error", tostring(Args[1]) .. " is not a valid command.")
+	end
+end
+
+Connections.ChattedLocal = LocalPlayer.Chatted:Connect(function(t)
+	if not chatdebounce then
+		chatdebounce = true
+		local success, errors = pcall(function()
+			OnCommand(t)
+		end); if not success then
+			dewarn("PrizzLife_Error: " .. tostring(errors))
+		end
+		task.wait(.6);chatdebounce = nil
+	end
+end)
+ExecBar.FocusLost:Connect(function(enterPressed, inputObj)
+	if ExecBar.Text == "" then
+		return
+	end
+	if enterPressed then
+		local success, errors = pcall(function()
+			if string.sub(ExecBar.Text, 0, 1) == Prefix then
+				OnCommand(ExecBar.Text)
+			else
+				OnCommand(Prefix .. ExecBar.Text)
+			end
+		end)
+		if not success then
+			dewarn("PrizzLife_Error: " .. tostring(errors) .. ".")
+		end
+		task.wait(.2)
+		ExecBar.Text = ""
+	end
+end)
+
+local OnRankedCommand = function(text, ranked)
+	if ranked == LocalPlayer then
+		print("bruh")
+		return
+	end
+	local Args = text:split(" ")
+	if not Args[1] then
+		return
+	end
+	if Args[1] == "/e" or Args[1] == "/t" then
+		table.remove(Args, 1)
+	end
+	if Args[1] == "/w" or Args[1] == "/c" then
+		table.remove(Args, 1)
+		if Args[2] then
+			table.remove(Args, 1)
+		end
+	end
+	if not (Args[1]:sub(1, #Prefix) == Prefix) then
+		return
+	end
+	local function rcm(arguments)
+		return arguments == Args[1]:sub(#Prefix+1):lower()
+	end
+	local function rchat(argument, ignoresetting)
+		if Settings.Ranked.Output or ignoresetting then
+			if Settings.Ranked.WhisperMode then
+				Chat(argument, ranked)
+			else
+				Chat("[To " .. ranked.Name .. "]: " .. argument .. "")
+			end
+		end
+	end
+	if not Settings.User.RankedCmds then
+		rchat("ERROR! Ranked commands are disabled.", true)
+		return
+	end
+	if rcm("test") then
+		rchat("Debug_TEST!")
+	elseif rcm("cmds") or rcm("cmd") then
+		rchat("KILL CMDS: " .. Prefix .. "kill [plr,team,all], " .. Prefix .. "loopkill/unloopkill [plr,team,all], " .. Prefix .. "virus/unvirus [plr], " .. Prefix .. "killaura/unkillaura [plr], " .. Prefix .. "deathnuke/undeathnuke [plr], " .. Prefix .. "launchnuke [plr]", true)
+		rchat("TASE/ARREST/FLING: " .. Prefix .. "tase [plr,team,all], " .. Prefix .. "arrest [plr,team,all], " .. Prefix .. "fling [plr], " .. Prefix .. "sfling [plr], " .. Prefix .. "looptase/unlooptase [plr,team,all], " .. Prefix .. "loopfling/unloopfling [plr], " .. Prefix .. "loopsfling/unloopsfling [plr]", true)
+		rchat("TP CMDS: " .. Prefix .. "goto [plr,random], " .. Prefix .. "bring [plr,random], " .. Prefix .. "void [plr], " .. Prefix .. "trap/untrap [plr], " .. Prefix .. "voidkill [plr]", true)
+		rchat("MISC: " .. Prefix .. "criminal [plr], " .. Prefix .. "autocrim/unautocrim [plr], " .. Prefix .. "autoarrest/unautoarrest [plr,all], " .. Prefix .. "givekey [plr], " .. Prefix .. "fart [plr], " .. Prefix .. "cars, " .. Prefix .. "opendoors", true)
+		rchat("PLACES: " .. Prefix .. "nexus [plr], " .. Prefix .. "armory [plr], " .. Prefix .. "yard [plr], " .. Prefix .. "crimbase [plr], " .. Prefix .. "roof [plr], " .. Prefix .. "cafe [plr], " .. Prefix .. "tower [plr], " .. Prefix .. "gtower [plr]", true)
+		rchat("OTHER: " .. Prefix .. "oneshot [plr], " .. Prefix .. "onepunch [plr], " .. Prefix .. "friendlyfire [plr], " .. Prefix .. "antishoot [plr], " .. Prefix .. "antipunch [plr], " .. Prefix .. "antiarrest [plr], " .. Prefix .. "punchaura [plr], " .. Prefix .. "taseaura/untaseaura [plr]", true)
+		if Settings.Ranked.CrashCmds then
+			rchat("CRASH: " .. Prefix .. "servercrash, " .. Prefix .. "lag/unlag [amount], " .. Prefix .. "timeout, " .. Prefix .. "forcecrash, " .. Prefix .. "eventcrash, " .. Prefix .. "crashnuke [plr]", true)
+		end
+		if Settings.Ranked.GiveCmds then
+			rchat("SPECIAL: " .. Prefix .. "givecmds/revokecmds [plr] --Give other players *admin* commands ", true)
+		end
+	elseif rcm("kill") or rcm("die") or rcm("oof") then
+		if Settings.Ranked.KillCmds then
+			local ar = Args[2] and Args[2]:lower()
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						KillPL(plr)
+						rchat("OK! Killed " .. plr.Name .. ".")
+					else
+						rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+					end
+				else
+					rchat("ERROR! You do not have permission to kill me!")
+				end
+			elseif ar == "guard" or ar == "guards" or ar == "police" or ar == "cops" or ar == "cop" then
+				if Settings.Ranked.MultiCmd then
+					MultiKill(Teams.Guards, ranked)
+					rchat("OK! Killed guards team.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "inmate" or ar == "inmates" or ar == "prisoner" or ar == "prisoners" then
+				if Settings.Ranked.MultiCmd then
+					MultiKill(Teams.Inmates, ranked)
+					rchat("OK! Killed inmates team.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "criminal" or ar == "criminals" or ar == "fugitive" or ar == "fugitives" then
+				if Settings.Ranked.MultiCmd then
+					MultiKill(Teams.Criminals, ranked)
+					rchat("OK! Killed criminals team.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "all" or ar == "others" or ar == "other" or ar == "everyone" then
+				if Settings.Ranked.MultiCmd then
+					MultiKill(Players, ranked)
+					rchat("OK! Killed all player(s).")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "random" then
+				local rando = GetRandomPlr(LocalPlayer)
+				KillPL(rando, nil, nil)
+				rchat("OK! Killed random player: " .. rando.Name .. ".")
+			elseif not plr then
+				rchat("ERROR! Not a valid player(s)")
+			end
+		else
+			rchat("ERROR! Kill commands are disabled.")
+		end
+	elseif rcm("virus") or rcm("killtouch") or rcm("antitouch") then
+		if Settings.Ranked.Killaura then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.Antitouch[plr.UserId] = plr
+				rchat("OK! Gave kovid-20 to " .. plr.Name .. ".")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Aura Commands are disabled.")
+		end
+	elseif rcm("unvirus") or rcm("unkilltouch") or rcm("unantitouch") then
+		if Settings.Ranked.Killaura then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.Antitouch[plr.UserId] = nil
+				rchat("OK! Vaccinated " .. plr.Name .. " and removed kovid-20")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Aura commands are disabled.")
+		end
+	elseif rcm("killaura") or rcm("aura") or rcm("kaura") then
+		if Settings.Ranked.Killaura then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.Killauras[plr.UserId] = plr
+				rchat("OK! Gave " .. plr.Name .. " killaura.")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Aura commands are disabled.")
+		end
+	elseif rcm("unkillaura") or rcm("unaura") or rcm("unkaura") then
+		if Settings.Ranked.Killaura then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.Killauras[plr.UserId] = nil
+				rchat("OK! Removed killaura from " .. plr.Name .. ".")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Aura commands are disabled.")
+		end
+	elseif rcm("loopkill") or rcm("lk") or rcm("autokill") or rcm("killloop") then
+		if Settings.Ranked.KillCmds then
+			if Settings.Ranked.LoopCmds then
+				if not Args[2] then
+					rchat("ERROR! Unspecified argument. Example usage: " .. Prefix .. "kill all, " .. Prefix .. "kill " .. GetRandomPlr(LocalPlayer).Name .. ".")
+					return
+				end
+				local plr = PlrFromArgs(Args[2], ranked)
+				local ar = Args[2] and Args[2]:lower()
+				if plr then
+					if plr ~= LocalPlayer then
+						if CheckWhitelist(plr) then
+							Loops.Kill[plr.UserId] = plr
+							rchat("OK! Loop-killing " .. plr.Name .. ".")
+						else
+							rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+						end
+					else
+						rchat("ERROR! You do not have permission to loopkill me!")
+					end
+				end
+				if ar == "inmate" or ar == "inmates" or ar == "prisoner" or ar == "prisoners" then
+					if Settings.Ranked.MultiCmd then
+						Loops.KillTeams.Inmates = true
+						rchat("OK! Loop-killing the inmates team.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "guard" or ar == "guards" or ar == "police" or ar == "cops" or ar == "cop" then
+					if Settings.Ranked.MultiCmd then
+						Loops.KillTeams.Guards = true
+						rchat("OK! Loop-killing guards.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "criminal" or ar == "criminals" then
+					if Settings.Ranked.MultiCmd then
+						Loops.KillTeams.Criminals = true
+						rchat("OK! Loop-killing criminals.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "all" or ar == "everyone" or ar == "other" or ar == "others" then
+					if Settings.Ranked.MultiCmd then
+						Loops.KillTeams.All = true
+						rchat("OK! Loop-killing all.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif not plr then
+					rchat("ERROR! Not a valid player(s)")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Kill commands are disabled.")
+		end
+	elseif rcm("unloopkill") or rcm("unlk") or rcm("stopkill") or rcm("nokill") or rcm("unautokill") then
+		if Settings.Ranked.KillCmds then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Loops.Kill[plr.UserId] = nil
+				rchat("OK! Stopped loop-killing " .. plr.Name .. ".")
+			end
+			local ar = Args[2] and Args[2]:lower()
+			if ar == "inmate" or ar == "inmates" or ar == "prisoner" or ar == "prisoners" then
+				if Settings.Ranked.MultiCmd then
+					Loops.KillTeams.Inmates = false
+					rchat("OK! Stopped loop-killing inmates.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "guard" or ar == "guards" or ar == "police" or ar == "cops" or ar == "cop" then
+				if Settings.Ranked.MultiCmd then
+					Loops.KillTeams.Guards = false
+					rchat("OK! Stopped loop-killing guards.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "criminal" or ar == "criminals" then
+				if Settings.Ranked.MultiCmd then
+					Loops.KillTeams.Criminals = false
+					rchat("OK! Stopped loop-killing criminals.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "all" or ar == "other" or ar == "others" or ar == "everyone" then
+				if Settings.Ranked.MultiCmd then
+					Loops.KillTeams.All = false
+					Loops.KillTeams.Inmates = false
+					Loops.KillTeams.Guards = false
+					Loops.KillTeams.Criminals = false
+					rchat("OK! Stopped loop-killing all")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif not plr then
+				rchat("ERROR! Not a valid player(s)")
+			end
+		end
+	elseif rcm("tase") or rcm("taze") or rcm("taser") then
+		if Settings.Ranked.Tase then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						TasePL(plr)
+						rchat("OK! Tased " .. plr.Name .. ".")
+					else
+						rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+					end
+				else
+					rchat("ERROR! You cannot do that.")
+				end
+			end
+			local ar = Args[2] and Args[2]:lower()
+			if ar == "all" then
+				if Settings.Ranked.MultiCmd then
+					TasePL(Players, "teams")
+					rchat("OK! Tased all player(s)")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "inmate" or ar == "inmates" or ar == "prisoners" or ar == "prisoner" then
+				if Settings.Ranked.MultiCmd then
+					TasePL(Teams.Inmates, "teams")
+					rchat("OK! Tased all inmates.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "criminal" or ar == "criminals" then
+				if Settings.Ranked.MultiCmd then
+					TasePL(Teams.Criminals, "teams")
+					rchat("OK! Tased all criminals.")
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "guard" or ar == "guards" or ar == "police" or ar == "cops" or ar == "cop" then
+				print("Dumbass detected, " .. ranked.Name .. " bruh")
+				rchat("ERROR! YOU CANNOT TASE GUARDS TEAM!")
+			elseif not plr then
+				rchat("ERROR! Not a valid player(s)")
+			end
+		else
+			rchat("ERROR! Tase commands are disabled.")
+		end
+	elseif rcm("arrest") or rcm("cuffs") or rcm("handcuffs") or rcm("handcuff") or rcm("cuff") then
+		if Settings.Ranked.Arrest then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						if plr.TeamColor == BrickColor.new("Really red") or (plr.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(plr)) then
+							ArrestPL(plr, true)
+							rchat("OK! Arrested " .. plr.Name .. ".")
+						else
+							rchat("ERROR! Player cannot be arrested.")
+						end
+					else
+						rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+					end
+				else
+					rchat("ERROR! You cannot arrest me!")
+				end
+			end
+			local ar = Args[2] and Args[2]:lower()
+			if ar == "all" then
+				if Settings.Ranked.MultiCmd then
+					Queue(function()
+						local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						for i,v in pairs(Players:GetPlayers()) do
+							if v and v.Character and v ~= LocalPlayer then
+								if CheckWhitelist(v) and v ~= ranked then
+									ArrestPL(v, false)
+								end
+							end
+						end
+						rchat("OK! Arrested all player(s)")
+						LocTP(temp)
+					end)
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "inmate" or ar == "inmates" or ar == "prisoner" or ar == "prisoners" then
+				if Settings.Ranked.MultiCmd then
+					Queue(function()
+						local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						for i,v in pairs(Teams.Inmates:GetPlayers()) do
+							if v and v.Character and v ~= LocalPlayer then
+								if CheckWhitelist(v) and v ~= ranked then
+									ArrestPL(v, false)
+								end
+							end
+						end
+						rchat("OK! Arrested all inmates.")
+						LocTP(temp)
+					end)
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "criminal" or ar == "criminals" then
+				if Settings.Ranked.MultiCmd then
+					Queue(function()
+						local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						for i,v in pairs(Teams.Criminals:GetPlayers()) do
+							if v and v.Character and v ~= LocalPlayer then
+								if CheckWhitelist(v) and v ~= ranked then
+									ArrestPL(v, false)
+								end
+							end
+						end
+						rchat("OK! Arrested all criminals")
+						LocTP(temp)
+					end)
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif ar == "guard" or ar == "guards" or ar == "police" or ar == "cops" or ar == "cop" then
+				if Settings.Ranked.MultiCmd then
+					Queue(function()
+						local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						for i,v in pairs(Teams.Guards:GetPlayers()) do
+							if v and v.Character and v ~= LocalPlayer then
+								if CheckWhitelist(v) and v ~= ranked then
+									MakeCrim(v, nil, nil, true)
+								end
+							end
+						end
+						rchat("OK! Arrested all guards.")
+						LocTP(temp)
+					end)
+				else
+					rchat("ERROR! You do not have permission to use multi-commands.")
+				end
+			elseif not plr then
+				rchat("ERROR! Not a valid player(s)")
+			end
+		else
+			rchat("ERROR! Arrest commands are disabled.")
+		end
+	elseif rcm("fling") or rcm("flung") then
+		if Settings.Ranked.Fling then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						Queue(function()
+							FlingPL(plr)
+							rchat("OK! Flung " .. plr.Name)
+						end)
+					else
+						rchat("ERROR! Player is whitelisted!")
+					end
+				else
+					rchat("ERROR! You cannot fling me!")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("sfling") or rcm("cfling") or rcm("carfling") then
+		if Settings.Ranked.Fling then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						Queue(function()
+							CarFlingPL(plr)
+							rchat("OK! Flung " .. plr.Name .. " with car.")
+						end)
+					else
+						rchat("ERROR! Player is whitelisted.")
+					end
+				else
+					rchat("ERROR! You cannot fling me!")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("launchnuke") or rcm("lnuke") then
+		if Settings.Ranked.Nuke then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if CheckWhitelist(plr) then
+					Queue(function()
+						Tasks.LaunchNuke(plr)
+					end)
+				else
+					rchat("ERROR! Player is whitelisted.")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Nuke commands are disabled.")
+		end
+	elseif rcm("deathnuke") or rcm("dnuke") or rcm("nuke") then
+		if Settings.Ranked.Nuke then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.DeathNuke[plr.UserId] = plr
+				Chat("WARNING!!! " .. plr.Name .. " IS NOW TURNED INTO A DEATHNUKE! IF THEY DIE, EVERYONE DIES!!!")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+			if not Saved.Thread.DeathNukes then
+				Threads.DeathNukes()
+			end
+		else
+			rchat("ERROR! Nuke commands are disabled.")
+		end
+	elseif rcm("undeathnuke") or rcm("undnuke") then
+		if Settings.Ranked.Nuke then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Powers.DeathNuke[plr.UserId] = nil
+				rchat("OK! Removed deathnuke from " .. plr.Name .. ".")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Nuke commands are disabled.")
+		end
+	elseif rcm("looptase") or rcm("lt") then
+		if Settings.Ranked.Tase then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					if plr ~= LocalPlayer then
+						if CheckWhitelist(plr) then
+							Loops.Tase[plr.UserId] = plr
+							rchat("OK! Loop-tasing " .. plr.Name)
+						else
+							rchat("ERROR! Player is whitelisted.")
+						end
+					else
+						rchat("ERROR! You do not have permission to looptase me!")
+					end
+				end
+				local ar = Args[2] and Args[2]:lower()
+				if ar == "inmates" or ar == "inmate" or ar == "prisoners" or ar == "prisoner" then
+					if Settings.Ranked.MultiCmd then
+						TeamTo("guard")
+						Loops.TaseTeams.Inmates = true
+						rchat("OK! Loop-tasing inmates.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "criminal" or ar == "criminals" then
+					if Settings.Ranked.MultiCmd then
+						TeamTo("guard")
+						Loops.TaseTeams.Criminals = true
+						rchat("OK! Loop-tasing criminals.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "all" then
+					if Settings.Ranked.MultiCmd then
+						TeamTo("guard")
+						Loops.TaseTeams.All = true
+						rchat("OK! Loop-tasing all player(s)")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif not plr then
+					rchat("ERROR! Not a valid player(s)")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Tase commands are disabled.")
+		end
+	elseif rcm("unlooptase") or rcm("unltase") or rcm("unlt") then
+		if Settings.Ranked.Tase then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Loops.Tase[plr.UserId] = nil
+					rchat("OK! Stopped Loop-tasing " .. plr.Name)
+				end
+				local ar = Args[2] and Args[2]:lower()
+				if ar == "inmates" or ar == "inmate" or ar == "prisoners" or ar == "prisoner" then
+					if Settings.Ranked.MultiCmd then
+						Loops.TaseTeams.Inmates = false
+						rchat("OK! Stopped Loop-tasing inmates.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "criminal" or ar == "criminals" then
+					if Settings.Ranked.MultiCmd then
+						Loops.TaseTeams.Criminals = false
+						rchat("OK! Stopped Loop-tasing criminals.")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif ar == "all" then
+					if Settings.Ranked.MultiCmd then
+						Loops.TaseTeams.All = false
+						Loops.TaseTeams.Criminals = false
+						Loops.TaseTeams.Inmates = false
+						rchat("OK! Stopped Loop-tasing all player(s)")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands.")
+					end
+				elseif not plr then
+					rchat("ERROR! Not a valid player(s)")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Tase commands are disabled.")
+		end
+	elseif rcm("loopfling") or rcm("lfling") then
+		if Settings.Ranked.Fling then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					if plr ~= LocalPlayer and CheckWhitelist(plr) then
+						Loops.Fling[plr.UserId] = plr
+						rchat("OK! Loop-flinging " .. plr.Name .. ".")
+					else
+						rchat("ERROR! Player is whitelisted.")
+					end
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("unloopfling") or rcm("unlfling") then
+		if Settings.Ranked.Fling then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Loops.Fling[plr.UserId] = nil
+					rchat("OK! Stopped loop-flinging " .. plr.Name .. ".")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("loopsfling") or rcm("lsfling") then
+		if Settings.Ranked.Fling then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					if plr ~= LocalPlayer then
+						if CheckWhitelist(plr) then
+							Loops.CarFling[plr.UserId] = plr
+							rchat("OK! Loop-carflinging " .. plr.Name .. ".")
+						else
+							rchat("ERROR! Player is whitelisted.")
+						end
+					else
+						rchat("ERROR! You cannot use that command on me!")
+					end
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("unloopsfling") or rcm("unlsfling") then
+		if Settings.Ranked.Fling then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Loops.CarFling[plr.UserId] = nil
+					rchat("OK! Stopped loop-carflinging " .. plr.Name .. ".")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Fling commands are disabled.")
+		end
+	elseif rcm("voidkill") or rcm("vkill") then
+		if Settings.Ranked.KillCmds then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer and CheckWhitelist(plr) then
+					Queue(function()
+						local temo = States.AntiVoid; States.AntiVoid = false
+						local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						BringPL(plr, CFrame.new(0, -320, 0), true, true)
+						task.wait(.1); States.AntiVoid = temo; temo = nil
+						LAction("unsit", true); LocTP(temp)
+						rchat("OK! Void-killed " .. plr.Name .. ".")
+					end)
+				else
+					rchat("ERROR! Player is whitelisted.")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Kill commands are disabled.")
+		end
+	elseif rcm("bring") or rcm("tp") then
+		if Settings.Ranked.BringGoto then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					Queue(function()
+						BringPL(plr, ranked, nil)
+						rchat("OK! Brought " .. plr.Name .. " to your location.")
+					end)
+				else
+					rchat("ERROR! You do not have permission to bring me!")
+				end
+			elseif Args[2] == "random" then
+				local rando = GetRandomPlr()
+				Queue(function()
+					BringPL(rando, ranked, nil)
+					rchat("OK! Brought random player: " .. rando.Name .. ".")
+				end)
+			elseif Args[2] == "all" then
+				rchat("ERROR! 'All' is deprecated.")
+			elseif not plr then
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Bring/Goto commands are disabled.")
+		end
+	elseif rcm("goto") or rcm("to") then
+		if Settings.Ranked.BringGoto then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == LocalPlayer then
+					local temp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					Queue(function()
+						BringPL(ranked, temp, true)
+						rchat("OK! Brought you to " .. LocalPlayer.Name .. ".")
+					end)
+				else
+					Queue(function()
+						BringPL(ranked, plr, nil)
+						rchat("OK! Brought you to " .. plr.Name .. ".")
+					end)
+				end
+			elseif Args[2] == "random" then
+				local rando = GetRandomPlr()
+				Queue(function()
+					BringPL(ranked, rando, nil)
+					rchat("OK! Brought you to random player: " .. rando.Name .. ".")
+				end)
+			elseif not plr then
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Goto/Bring commands are disabled.")
+		end
+	elseif rcm("cars") or rcm("car") then
+		if Settings.Ranked.CarSpawn then
+			Queue(function()
+				BringCar(ranked, nil)
+				rchat("OK! Brought a car to your location.")
+			end)
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("opendoors") or rcm("opendoor") or rcm("open") or rcm("doors") then
+		if Settings.Ranked.Opendoors then
+			Queue(function()
+				if #Teams.Guards:GetPlayers() > 7 and LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+					rchat("ERROR! Guards team full! Cannot opendoors.")
+				else
+					OpenDoors()
+					rchat("OK! Opened doors.")
+				end
+			end)
+		else
+			rchat("ERROR! Door commands are disabled.")
+		end
+	elseif rcm("givekey") or rcm("gkey") or rcm("key") or rcm("keycard") then
+		if Settings.Ranked.Opendoors then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					if #Teams.Guards:GetPlayers() > 7 and LocalPlayer.TeamColor ~= BrickColor.new("Bright blue") then
+						rchat("ERROR! Guards team is full! Cannot give keycard.")
+					else
+						GiveKeyCard(plr)
+						rchat("OK! Gave keycard to " .. plr.Name .. ".")
+					end
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Door commands are disabled.")
+		end
+	elseif rcm("criminal") or rcm("crim") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					MakeCrim(plr, true, true, nil)
+					rchat("OK! Made criminal " .. plr.Name .. ".")
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport commands are disabled.")
+		end
+	elseif rcm("autocrim") or rcm("autocriminal") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr and plr ~= LocalPlayer then
+				Loops.MakeCrim[plr.UserId] = plr
+				rchat("OK! Now automatically making " .. plr.Name .. " into criminal.")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport commands are disabled.")
+		end
+	elseif rcm("unautocrim") or rcm("unautocriminal") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr and plr ~= LocalPlayer then
+				Loops.MakeCrim[plr.UserId] = nil
+				rchat("OK! Stopped automatically making " .. plr.Name .. " into criminal.")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport commands are disabled.")
+		end
+	elseif rcm("autoarrest") or rcm("autoar") then
+		if Settings.Ranked.Teleport then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr and plr ~= LocalPlayer then
+					Loops.AutoArresting.Plr[plr.UserId] = plr
+					rchat("OK! Automatically arresting " .. plr.Name .. ".")
+				elseif Args[2] == "all" then
+					if Settings.Ranked.MultiCmd then
+						Loops.AutoArresting.All = true
+						rchat("OK! Automatically arresting all player(s)")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands")
+					end
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Teleport commands are disabled.")
+		end
+	elseif rcm("unautoarrest") or rcm("unautoar") then
+		if Settings.Ranked.Teleport then
+			if Settings.Ranked.LoopCmds then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Loops.AutoArresting.Plr[plr.UserId] = nil
+					rchat("OK! Stopped Automatically arresting " .. plr.Name .. ".")
+				elseif Args[2] == "all" then
+					if Settings.Ranked.MultiCmd then
+						Loops.AutoArresting.All = false
+						rchat("OK! Stopped Automatically arresting all player(s)")
+					else
+						rchat("ERROR! You do not have permission to use multi-commands")
+					end
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Loop commands are disabled.")
+			end
+		else
+			rchat("ERROR! Teleport commands are disabled.")
+		end
+	elseif rcm("oneshot") or rcm("oshot") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Oneshot[plr.UserId] then
+						Powers.Oneshot[plr.UserId] = nil
+						rchat("OK! Oneshot is removed from you.", true)
+					else
+						Powers.Oneshot[plr.UserId] = plr
+						rchat("OK! You have been given oneshot, You can now one-shot enemies. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Oneshot[plr.UserId] then
+							Powers.Oneshot[plr.UserId] = nil
+							rchat("OK! Removed oneshot for " .. plr.Name .. ".", true)
+						else
+							Powers.Oneshot[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " oneshot.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("onepunch") or rcm("opunch") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Onepunch[plr.UserId] then
+						Powers.Onepunch[plr.UserId] = nil
+						rchat("OK! Onepunch is now removed.", true)
+					else
+						Powers.Onepunch[plr.UserId] = plr
+						rchat("OK! You have been given one-punch, You can now one-punch enemies. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Onepunch[plr.UserId] then
+							Powers.Onepunch[plr.UserId] = nil
+							rchat("OK! Removed one-punch for " .. plr.Name .. ".", true)
+						else
+							Powers.Onepunch[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " one-punch.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("friendlyfire") or rcm("ffire") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.FriendlyFire[plr.UserId] then
+						Powers.FriendlyFire[plr.UserId] = nil
+						rchat("OK! Friendly-fire is now removed.", true)
+					else
+						Powers.FriendlyFire[plr.UserId] = plr
+						rchat("OK! You have been given Friendly-fire, You can now shoot teammates. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.FriendlyFire[plr.UserId] then
+							Powers.FriendlyFire[plr.UserId] = nil
+							rchat("OK! Removed friendly-fire for " .. plr.Name .. ".", true)
+						else
+							Powers.FriendlyFire[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " friendly-fire.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("antishoot") or rcm("ashoot") or rcm("as") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Antishoot[plr.UserId] then
+						Powers.Antishoot[plr.UserId] = nil
+						rchat("OK! Antishoot is removed from you.", true)
+					else
+						Powers.Antishoot[plr.UserId] = plr
+						rchat("OK! You have anti-shoot, Players who shoot you will instantly die. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Antishoot[plr.UserId] then
+							Powers.Antishoot[plr.UserId] = nil
+							rchat("OK! Removed antishoot for " .. plr.Name .. ".", true)
+						else
+							Powers.Antishoot[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " antishoot.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("antipunch") or rcm("apunch") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Antipunch[plr.UserId] then
+						Powers.Antipunch[plr.UserId] = nil
+						rchat("OK! Antipunch is removed from you.", true)
+					else
+						Powers.Antipunch[plr.UserId] = plr
+						rchat("OK! You now have anti-punch, players who punch you instantly dies. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Antipunch[plr.UserId] then
+							Powers.Antipunch[plr.UserId] = nil
+							rchat("OK! Removed anti-punch for " .. plr.Name .. ".", true)
+						else
+							Powers.Antipunch[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " anti-punch.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("antiarrest") or rcm("aar") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Antiarrest[plr.UserId] then
+						Powers.Antiarrest[plr.UserId] = nil
+						rchat("OK! Antiarrest is removed from you.", true)
+					else
+						Powers.Antiarrest[plr.UserId] = plr
+						rchat("OK! You have antiarrest, Players who try to arrest will be killed. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Antiarrest[plr.UserId] then
+							Powers.Antiarrest[plr.UserId] = nil
+							rchat("OK! Removed anti-arrest for " .. plr.Name .. ".", true)
+						else
+							Powers.Antiarrest[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " anti-arrest.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("punchaura") or rcm("paura") then
+		if Settings.Ranked.AllowPowers then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr == ranked then
+					if Powers.Punchaura[plr.UserId] then
+						Powers.Punchaura[plr.UserId] = nil
+						rchat("OK! punchaura is removed from you.", true)
+					else
+						Powers.Punchaura[plr.UserId] = plr
+						rchat("OK! Your punch range has been increased. Type the command again to disable.", true)
+					end
+				else
+					if Settings.Ranked.GiveOthersPowers then
+						if Powers.Punchaura[plr.UserId] then
+							Powers.Punchaura[plr.UserId] = nil
+							rchat("OK! Removed punch-aura for " .. plr.Name .. ".", true)
+						else
+							Powers.Punchaura[plr.UserId] = plr
+							rchat("OK! Gave " .. plr.Name .. " punch-aura.", true)
+						end
+					else
+						rchat("ERROR! You do not have permission to give others powers")
+					end
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! This command is disabled.")
+		end
+	elseif rcm("taseaura") or rcm("taura") then
+		if Settings.Ranked.Tase then
+			if Settings.Ranked.Killaura then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Powers.Taseauras[plr.UserId] = plr
+					rchat("OK! " .. plr.Name .. " now has tase-aura.")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Aura commands are disabled.")
+			end
+		else
+			rchat("ERROR! Tase commands are disabled.")
+		end
+	elseif rcm("untaseaura") or rcm("untaura") then
+		if Settings.Ranked.Tase then
+			if Settings.Ranked.Killaura then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Powers.Taseauras[plr.UserId] = nil
+					rchat("OK! Removed " .. plr.Name .. "'s tase-aura.")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! Aura commands are disabled.")
+			end
+		else
+			rchat("ERROR! Tase commands are disabled.")
+		end
+	elseif rcm("void") or rcm("abyss") then
+		if Settings.Ranked.TrapVoid then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						Queue(function()
+							local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+							BringPL(plr, CFrame.new(0, 9e9, 0), true, true)
+							wait(.2)
+							if LocalPlayer.TeamColor == BrickColor.new("Bright blue") then
+								SavedPositions.AutoRe = tmp
+								task.spawn(TeamEve, "Bright blue")
+								LocalPlayer.CharacterAdded:Wait()
+								waitfor(LocalPlayer.Character, "HumanoidRootPart", 5).CFrame = tmp
+							else
+								SavedPositions.AutoRe = tmp
+								task.spawn(TeamEve, "Bright orange")
+								LocalPlayer.CharacterAdded:Wait()
+								waitfor(LocalPlayer.Character, "HumanoidRootPart", 5).CFrame = tmp
+							end
+							rchat("OK! Teleported " .. plr.Name .. " into the abyss")
+						end)
+					else
+						rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+					end
+				else
+					rchat("ERROR! You do not have permission to void me!")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Void/Trap commands are disabled.")
+		end
+	elseif rcm("trap") or rcm("punish") then
+		if Settings.Ranked.TrapVoid then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				if plr ~= LocalPlayer then
+					if CheckWhitelist(plr) then
+						Loops.Trapped[plr.UserId] = plr
+						rchat("OK! Trapping " .. plr.Name .. ".")
+					else
+						rchat("ERROR! Player: " .. plr.Name .. " is whitelisted!")
+					end
+				else
+					rchat("ERROR! You do not have permission to trap me!")
+				end
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Trap/Void commands are disabled.")
+		end
+	elseif rcm("untrap") or rcm("unpunish") then
+		if Settings.Ranked.TrapVoid then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Loops.Trapped[plr.UserId] = nil
+				rchat("OK! Stopped trapping " .. plr.Name .. ".")
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Trap/Void commands are disabled.")
+		end
+	elseif rcm("nexus") or rcm("nex") or rcm("prison") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.nexus, true)
+					rchat("OK, Brought " .. plr.Name .. " to nexus.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("crimbase") or rcm("cbase") or rcm("base") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.crimbase, true)
+					rchat("OK, Brought " .. plr.Name .. " to criminals base.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("armoury") or rcm("armory") or rcm("armor") or rcm("arm") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.armory, true)
+					rchat("OK, Brought " .. plr.Name .. " to the armory.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("yard") or rcm("yar") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.yard, true)
+					rchat("OK, Brought " .. plr.Name .. " to the yard.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("roof") or rcm("roo") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.roof, true)
+					rchat("OK, Brought " .. plr.Name .. " to the roof.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("cafe") or rcm("cafeteria") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.cafe, true)
+					rchat("OK, Brought " .. plr.Name .. " to the cafeteria.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("tower") or rcm("ytower") or rcm("tow") or rcm("ytow") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.ytower, true)
+					rchat("OK, Brought " .. plr.Name .. " to the yard tower.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("gtower") or rcm("gtow") then
+		if Settings.Ranked.Teleport then
+			local plr = PlrFromArgs(Args[2], ranked)
+			if plr then
+				Queue(function()
+					local tmp = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(plr, Teleports.gtower, true)
+					rchat("OK, Brought " .. plr.Name .. " to the gate tower.")
+					wait(.2)
+					LAction("unsit", true)
+					LocTP(tmp)
+				end)
+			else
+				rchat("ERROR! Not a valid player.")
+			end
+		else
+			rchat("ERROR! Teleport Place commands are disabled.")
+		end
+	elseif rcm("fart") or rcm("fard") or rcm("poop") then
+		if Settings.Ranked.KillCmds then
+			local sussy = PlrFromArgs(Args[2], ranked)
+			if sussy then
+				local Imposter = {}
+				for _,baka in pairs(Players:GetPlayers()) do
+					if baka ~= LocalPlayer and baka ~= sussy and CheckWhitelist(baka) then
+						local sus, amogus = baka.Character and baka.Character:FindFirstChild("Head"), sussy.Character and sussy.Character:FindFirstChild("Head")
+						if sus and amogus then
+							if (sus.Position-amogus.Position).Magnitude < 16.69 then
+								Imposter[#Imposter+1] = baka
+							end
+						end
+					end
+				end
+				if next(Imposter) then
+					TableKill(Imposter)
+				end
+				rchat("Fard: " .. sussy.Name .. " Initiated a deadly fart")
+			else
+				rchat("Not a valid player.")
+				Notif("Error", "There are no shits to give.")
+			end
+		else
+			rchat("ERROR! You do not have permission to use kill commands.")
+		end
+	else
+		if rcm("givecmds") or rcm("gcmds") or rcm("admin") or rcm("rank") or rcm("gcmd") or rcm("givecmd") then
+			if Settings.Ranked.GiveCmds then
+				local plr = PlrFromArgs(Args[2], false)
+				if plr then
+					RankedPlrs[plr.UserId] = plr
+					rchat("OK! Gave " .. plr.Name .. " *admin* commands.")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! You do not have permission to give others commands.")
+			end
+			return
+		end
+		if rcm("revokecmds") or rcm("rcmds") or rcm("revokecmd") or rcm("rcmd") or rcm("unrank") or rcm("unadmin") then
+			if Settings.Ranked.GiveCmds then
+				local plr = PlrFromArgs(Args[2], false)
+				if plr then
+					RankedPlrs[plr.UserId] = plr
+					rchat("OK! Gave " .. plr.Name .. " *admin* commands.")
+				else
+					rchat("ERROR! Not a valid player.")
+				end
+			else
+				rchat("ERROR! You do not have permission to give others commands.")
+			end
+			return
+		end
+		if Settings.Ranked.CrashCmds then
+			if rcm("servercrash") then
+				rchat("OK, Crashing server...")
+				CrashMethod("servercrash")
+			elseif rcm("lag") then
+				local num = tonumber(Args[2]) or 69
+				rchat("OK, Lagging server with strength of: " .. tostring(num) .. ".")
+				CrashMethod("serverlag", num)
+			elseif rcm("unlag") then
+				States.LaggingServer = false
+				rchat("OK, Stopped lagging server.")
+			elseif rcm("forcecrash") then
+				rchat("OK, Attempting to force crash all players.")
+				CrashMethod("forcecrash")
+			elseif rcm("eventcrash") then
+				rchat("OK, Attempting to event-crash.")
+				CrashMethod("eventcrash")
+			elseif rcm("timeout") then
+				rchat("OK, Attempting to timeout the server")
+				CrashMethod("timeout")
+			elseif rcm("crashnuke") or rcm("cnuke") then
+				local plr = PlrFromArgs(Args[2], ranked)
+				if plr then
+					Chat("WARNING!!! " .. plr.Name .. " IS A CRASHNUKE, IF THEY DIE, THE SERVER WILL CRASH!!!")
+					task.spawn(function()
+						repeat task.wait() until not plr.Character or not plr.Character:FindFirstChild("Humanoid") or plr.Character:FindFirstChildOfClass("Humanoid").Health == 0
+						Chat("WARNING!!! " .. plr.Name .. " HAS DIED, THE SERVER WILL NOW CRASH IN 5 SECOND(S)")
+						wait(1.5)
+						Chat("4 SECOND(S)")
+						wait(1.5)
+						Chat("3 SECOND(S)")
+						wait(1.5)
+						Chat("2 SECOND(S)")
+						wait(1.5)
+						Chat("1 SECOND(S)")
+						wait(.5)
+						Chat("CRASHING!!!")
+						CrashMethod("servercrash")
+					end)
+				end
+			end
+		else
+			if Prefix ~= "" then
+				rchat("Not a valid command(?)")
+			end
+		end
+	end
+end
+
+for i,v in pairs(Players:GetPlayers()) do
+	if not (v == LocalPlayer) then
+		ChatCon[v.UserId] = v.Chatted:Connect(function(msg)
+			if RankedPlrs[v.UserId] then
+				OnRankedCommand(msg, v)
+			end
+		end)
+	end
+end
+Connections.PlayerAdded = Players.PlayerAdded:Connect(function(plr)
+	if Loops.Kill[plr.UserId] then
+		Loops.Kill[plr.UserId] = plr
+	end
+	if Loops.MeleeKill[plr.UserId] then
+		Loops.MeleeKill[plr.UserId] = plr
+	end
+	if Loops.Tase[plr.UserId] then
+		Loops.Tase[plr.UserId] = plr
+	end
+	if Loops.Arrest[plr.UserId] then
+		Loops.Arrest[plr.UserId] = plr
+	end
+	if Loops.Fling[plr.UserId] then
+		Loops.Fling[plr.UserId] = plr
+	end
+	if Loops.CarFling[plr.UserId] then
+		Loops.CarFling[plr.UserId] = plr
+	end
+	if Loops.MakeCrim[plr.UserId] then
+		Loops.MakeCrim[plr.UserId] = plr
+	end
+	if Loops.RandomKill[plr.UserId] then
+		Loops.RandomKill[plr.UserId] = plr
+	end
+	if Loops.Voided[plr.UserId] then
+		Loops.Voided[plr.UserId] = plr
+	end
+	if Loops.VoidKill[plr.UserId] then
+		Loops.VoidKill[plr.UserId] = plr
+	end
+	if Loops.Trapped[plr.UserId] then
+		Loops.Trapped[plr.UserId] = plr
+	end
+	if Loops.PunchKill[plr.UserId] then
+		Loops.PunchKill[plr.UserId] = plr
+	end
+	if Loops.ShootKill[plr.UserId] then
+		Loops.ShootKill[plr.UserId] = plr
+	end
+	if Loops.AutoArresting.Plr[plr.UserId] then
+		Loops.AutoArresting.Plr[plr.UserId] = plr
+	end
+	if Whitelisted[plr.UserId] then
+		Whitelisted[plr.UserId] = plr
+	end
+	if RankedPlrs[plr.UserId] then
+		RankedPlrs[plr.UserId] = plr
+		task.delay(1, function()
+			Chat("/w " .. plr.Name .. " You have commands, type " .. Prefix .. "cmds to show a list of commands.")
+		end)
+	end
+	ChatCon[plr.UserId] = plr.Chatted:Connect(function(msg)
+		if RankedPlrs[plr.UserId] then
+			OnRankedCommand(msg, plr)
+		end
+	end)
+	if Settings.JoinNotify then
+		if plr.Name == plr.DisplayName then
+			SysMessage("[PlayerAdded]: " .. plr.Name .. " has joined the server!", Color3.fromRGB(255, 220, 0))
+		else
+			SysMessage("[PlayerAdded]: " .. plr.Name .. " (" .. plr.DisplayName .. ") has joined the server!", Color3.fromRGB(255, 220, 0))
+		end
+	end
+end)
+Connections.PlayerRemoving = Players.PlayerRemoving:Connect(function(plr)
+	if ChatCon[plr.UserId] then
+		ChatCon[plr.UserId]:Disconnect()
+		ChatCon[plr.UserId] = nil
+	end
+	if Settings.JoinNotify then
+		if plr.Name == plr.DisplayName then
+			SysMessage("[PlayerRemoving]: " .. plr.Name .. " has left the server!", Color3.fromRGB(255, 220, 0))
+		else
+			SysMessage("[PlayerRemoving]: " .. plr.Name .. " (" .. plr.DisplayName .. ") has left the server!", Color3.fromRGB(255, 220, 0))
+		end
+	end
+end)
+
+local OnReplication = function(args)
+	if States.ReplicateEvent then
+		if args[15] or #args > 14 then
+			deprint("Debug_Useless events Detected")
+			return
+		end
+		local C = 0
+		pcall(function()
+			local ToKill = {}
+			for i,v in next, args do
+				if C < 6 then
+					C = C + 1
+					local vHit, vDistance, vCframe = v.Hit, v.Distance, v.Cframe
+					if vHit and vDistance and vCframe and vCframe ~= CFrame.new() then
+						local Victim = Players:FindFirstChild(vHit.Parent.Name) or Players:FindFirstChild(vHit.Parent.Parent.Name)
+						local Culprit = nil
+						local DistanceCFrame = vCframe * CFrame.new(0, 0, -vDistance / 2)
+						local maximum = math.huge
+						for _,vv in pairs(Players:GetPlayers()) do
+							if vv ~= LocalPlayer and vv.Character then
+								local vTool = vv.Character:FindFirstChildWhichIsA("Tool") or vv.Backpack:FindFirstChildWhichIsA("Tool")
+								if vTool then
+									local Muzzle = vTool:FindFirstChild("Muzzle")
+									if Muzzle then
+										local distance = (Muzzle.Position-DistanceCFrame.p).Magnitude
+										if distance < maximum then
+											maximum = distance
+											Culprit = vv
+										end
+									end
+								end
+							end
+						end
+						if Culprit then
+							if Toggles.Antishoot then
+								if Victim then
+									if Victim == LocalPlayer then
+										if CheckWhitelist(Culprit) and Culprit.TeamColor ~= LocalPlayer.TeamColor then
+											if not ToKill[Culprit.Name] then
+												ToKill[Culprit.Name] = Culprit
+											end
+										end
+									end
+								end
+							end
+							if Victim and Culprit then
+								if Powers.Oneshot[Culprit.UserId] then
+									if CheckWhitelist(Victim) and not (Culprit.TeamColor == Victim.TeamColor or Victim == LocalPlayer) then
+										if not ToKill[Victim.Name] then
+											ToKill[Victim.Name] = Victim
+										end
+									end
+								end
+								if Powers.Antishoot[Victim.UserId] then
+									if CheckWhitelist(Culprit) and not (Culprit.TeamColor == Victim.TeamColor or Culprit == LocalPlayer) then
+										if not ToKill[Culprit.Name] then
+											ToKill[Culprit.Name] = Culprit
+										end
+									end
+								end
+								if Powers.FriendlyFire[Culprit.UserId] then
+									if Culprit.TeamColor == Victim.TeamColor then
+										if CheckWhitelist(Victim) and Victim ~= LocalPlayer then
+											local gun = Culprit.Character:FindFirstChildWhichIsA("Tool")
+											local tool = gun.Name
+											if tool == "M4A1" or tool == "Taser" then
+												tool = "AK-47"
+											end
+											if Powers.Oneshot[Culprit.UserId] then
+												if not ToKill[Victim.Name] then
+													ToKill[Victim.Name] = Victim
+												end
+											else
+												KillPL(Victim, 1, tool)
+											end
+										end
+									end
+								end
+							end
+						else
+							deprint("Debug_Suspicious Events detected, Hit Player: " .. Victim.Name .. " Culprit: NONE (Invisible)")
+						end
+					end
+				else
+					break
+				end
+			end
+			if next(ToKill) and not SavedArgs.ReplicationKillDebounce then
+				SavedArgs.ReplicationKillDebounce = true
+				task.delay(0, function()
+					RTPing(); SavedArgs.ReplicationKillDebounce = nil
+				end)
+				TableKill(ToKill)
+			end
+			ToKill = nil; C = nil
+		end)
+	end
+end
+
+--Autorespawn
+SavedPositions.AutoRe = false
+local diedevent
+local lochar = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local function ondiedevent()
+	coroutine.wrap(function()
+		diedevent:Disconnect(); SaveCamPos()
+		SavedPositions.AutoRe = lochar:WaitForChild("HumanoidRootPart", 1) and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+	end)()
+	if Toggles.AutoRespawn then
+		local locteam = LocalPlayer.TeamColor
+		if locteam == BrickColor.new("Really red") then
+			if #Teams.Guards:GetPlayers() < 8 then
+				TeamEve("Bright blue")
+			else
+				TeamEve("Bright orange")
+			end
+			workspace["Criminals Spawn"].SpawnLocation.CanCollide = false
+			workspace["Criminals Spawn"].SpawnLocation.CFrame = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+			LocalPlayer.CharacterAdded:Wait()
+			repeat task.wait()
+				pcall(function()
+					workspace["Criminals Spawn"].SpawnLocation.CFrame = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+				end)
+			until LocalPlayer.TeamColor == BrickColor.new("Really red"); workspace['Criminals Spawn'].SpawnLocation.CFrame = SavedPositions.Crimpad
+		elseif locteam == BrickColor.new("Bright blue") then
+			if #Teams.Guards:GetPlayers() == 8 then
+				TeamEve("Bright orange")
+			end; TeamEve("Bright blue")
+		elseif locteam == BrickColor.new("Bright orange") then
+			TeamEve("Bright orange")
+		else
+			TeamEve("Medium stone grey")
+		end
+	end
+end
+getfenv()["\112\114\105\110\116"]("\70\73\88\69\68\32\66\89\32\72\49\55\83\51") 
+local function charaddtask()
+	diedevent:Disconnect()
+	local LHuman = lochar:WaitForChild("Humanoid", 1)
+	if LHuman then
+		diedevent = LHuman.Died:Connect(ondiedevent)
+		if Connections.Humanation then
+			Connections.Humanation:Disconnect(); Connections.Humanation = nil
+		end
+		Connections.Humanation = LHuman.AnimationPlayed:Connect(function(des)
+			if Toggles.AntiArrest and des.Animation.AnimationId == "rbxassetid://287112271" then
+				des:Stop(); des:Destroy()
+				task.delay(4.95, function()
+					local tempos, wascriminal = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame, LocalPlayer.TeamColor.Name == "Really red" or nil; SavedPositions.AutoRe = tempos; SaveCamPos()
+					LocalPlayer.CharacterAdded:Wait(); waitfor(LocalPlayer.Character, "HumanoidRootPart", 1).CFrame = tempos; LoadCamPos()
+					if wascriminal then
+						TeamTo("criminal")
+					end
+				end); task.delay(0, function()
+					LAction("speed", Saved.NormalSpeed); task.wait(0.03); LAction("jumppw", Saved.NormalJump)
+				end)
+			end
+			if Toggles.AntiTase and des.Animation.AnimationId == "rbxassetid://279227693" then
+				des:Stop(); des:Destroy()
+				Hbeat:Wait(); LAction("speed", Saved.NormalSpeed); task.wait(0.03); LAction("jumppw", Saved.NormalJump)
+			end
+		end)
+		if Connections.CharacterChildAdded then
+			Connections.CharacterChildAdded:Disconnect(); Connections.CharacterChildAdded = nil
+		end
+		Connections.CharacterChildAdded = lochar.ChildAdded:Connect(function(tool)
+			if tool:FindFirstChild("GunStates") and not LocPL.ShittyExecutor then
+				if Toggles.AutoInfiniteAmmo then
+					local stat = require(tool.GunStates)
+					stat.MaxAmmo = math.huge;stat.CurrentAmmo = math.huge;stat.AmmoPerClip = math.huge;stat.StoredAmmo = math.huge
+					if not Saved.Thread.AutoInfiniteAmmo then
+						Saved.Thread.AutoInfiniteAmmo = true;Tasks.AutoInfiniteAmmo()
+					end
+				end;if Toggles.AutoFire or Toggles.AutoFireRate then
+					local sta = require(tool.GunStates)
+					if Toggles.AutoFire and not States.SpinnyTools then
+						sta.AutoFire = true
+					end
+					if Toggles.AutoFireRate then
+						sta.FireRate = 0.01
+					end
+				end;if Toggles.AutoGunMods then
+					local stat = require(tool.GunStates)
+					stat.Damage = 9e9
+					stat.FireRate = 0.01
+					stat.Range = math.huge
+					stat.MaxAmmo = math.huge
+					stat.StoredAmmo = math.huge
+					stat.AmmoPerClip = math.huge
+					stat.CurrentAmmo = math.huge
+					stat.AutoFire = true
+					stat.Bullets = 10
+					if not Toggles.AutoInfiniteAmmo and not States.SpinnyTools then
+						Tasks.ReloadGun(tool, true)
+					end
+				end;if States.SpinnyTools then
+					require(tool.GunStates).AutoFire = false
+				end
+			end
+		end)
+	end
+	if LocalPlayer.TeamColor == BrickColor.new("Medium stone grey") or not LocPL.WrongGame and LocalPlayer.PlayerGui.Home.intro.Visible then
+		Threads.HideTeamGui()
+	end
+end
+local function oncharadded()
+	lochar = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+	coroutine.wrap(charaddtask)()
+	if SavedPositions.AutoRe and Toggles.AutoRespawn then
+		local LRoot = lochar:WaitForChild("HumanoidRootPart", 1)
+		if LRoot then
+			LRoot.CFrame = SavedPositions.AutoRe; LoadCamPos(); LRoot.CFrame = SavedPositions.AutoRe
+			task.spawn(function()
+				for i = 1, 3 do
+					task.wait(); LRoot.CFrame = SavedPositions.AutoRe
+				end
+			end)
+			if wait() and not lochar:FindFirstChildWhichIsA("ForceField") then
+				for i = 1, 4 do
+					LRoot.CFrame = SavedPositions.AutoRe; waitfor(LocalPlayer.Character, "HumanoidRootPart", 1).CFrame = SavedPositions.AutoRe
+				end; lochar:WaitForChild("HumanoidRootPart", 1).CFrame = SavedPositions.AutoRe
+				deprint("Debug_Char added with no forcefield?")
+			end
+		end
+	end
+	lochar:WaitForChild("Humanoid", 1):SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+	lochar:WaitForChild("Humanoid", 1):SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+end
+diedevent = lochar:WaitForChild("Humanoid").Died:Connect(ondiedevent)
+Connections.CharacterAdded = LocalPlayer.CharacterAdded:Connect(oncharadded)
+
+--Input
+Connections.InputBegan = game:GetService("UserInputService").InputBegan:Connect(function(input)
+	local textBoxHasFocus = game:GetService("UserInputService"):GetFocusedTextBox()
+	if input.KeyCode == Enum.KeyCode.F and not textBoxHasFocus then
+		States.IsHoldingF = true
+		if States.PunchCD or Toggles.Onepunch or Toggles.PunchAura or States.LoudPunch then
+			pcall(VirtualPunch)
+		end
+		if not States.PunchCD then
+			States.PunchCD = true; wait(0.9); States.PunchCD = nil
+		end
+		return
+	end
+	if input.KeyCode == Enum.KeyCode.Semicolon and not textBoxHasFocus then
+		Hbeat:Wait(); ExecBar:CaptureFocus()
+	end
+	if input.KeyCode == Enum.KeyCode.Slash and not textBoxHasFocus then
+		Hbeat:Wait()
+		game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.ChatBar:CaptureFocus()
+	end
+	if input.KeyCode == Enum.KeyCode.LeftShift then
+		States.Running = true; LAction("speed", Saved.RunSpeed)
+	end
+end)
+Connections.InputEnded = game:GetService("UserInputService").InputEnded:Connect(function(input)
+	if input.KeyCode == Enum.KeyCode.LeftShift then
+		States.Running = false; LAction("speed", Saved.NormalSpeed)
+	end
+	if input.KeyCode == Enum.KeyCode.F then
+		States.IsHoldingF = false
+	end
+end)
+--Loopkills
+task.spawn(function()
+	local task0 = function()
+		if Loops.KillTeams.All then
+			Gun("AK-47")
+			MultiKill(Players)
+			wait(CPing(nil, true) / 2)
+		else
+			if next(Loops.Kill) then
+				for i,v in next, Loops.Kill do
+					if v and v.Character and not Saved.KillDebounce[v.Name] then
+						if v.Character:FindFirstChild("Humanoid") and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) then
+							Saved.KillDebounce[v.Name] = true
+							coroutine.wrap(function()
+								if RTPing() then
+									Saved.KillDebounce[v.Name] = nil
+								end
+							end)()
+							KillPL(v)
+							deprint("Debug_killed player loopkills")
+						end
+					end
+				end
+			end
+			if Loops.KillTeams.Inmates then
+				if not SavedArgs.KillDebounceInmate then
+					SavedArgs.KillDebounceInmate = true
+					task.delay(0.09, function()
+						RTPing(); SavedArgs.KillDebounceInmate = nil
+					end)
+					MultiKill(Teams.Inmates)
+				end
+			end
+			if Loops.KillTeams.Guards then
+				if not SavedArgs.KillDebounceGuard then
+					SavedArgs.KillDebounceGuard = true
+					task.delay(0.09, function()
+						RTPing(); SavedArgs.KillDebounceGuard = nil
+					end)
+					MultiKill(Teams.Guards)
+				end
+			end
+			if Loops.KillTeams.Criminals then
+				if not SavedArgs.KillDebounceCriminal then
+					SavedArgs.KillDebounceCriminal = true
+					task.delay(0.09, function()
+						RTPing(); SavedArgs.KillDebounceCriminal = nil
+					end)
+					MultiKill(Teams.Criminals)
+				end
+			end
+			if Loops.KillTeams.Neutrals then
+				if not SavedArgs.KillDebounceNeutral then
+					SavedArgs.KillDebounceNeutral = true
+					task.delay(0.35, function()
+						SavedArgs.KillDebounceNeutral = nil
+					end)
+					MultiKill(Teams.Neutral)
+				end
+			end
+		end
+	end
+	while task.wait() do
+		pcall(task0)
+		if Unloaded then
+			break
+		end
+	end
+end)
+--Killauras and antitouch
+task.spawn(function()
+	local task0 = function()
+		local KillPlayers = {};
+		if next(Powers.Killauras) then
+			for i,v in next, Powers.Killauras do
+				if v.Character then
+					local VHead = v.Character:FindFirstChild("Head")
+					for _, Targets in pairs(Players:GetPlayers()) do
+						if Targets ~= v and Targets.Character and not Targets.Character:FindFirstChildWhichIsA("ForceField") and Targets.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+							local THead = Targets.Character:FindFirstChild("Head")
+							if VHead and THead and CheckWhitelist(Targets) and Targets ~= LocalPlayer then
+								if (THead.Position-VHead.Position).Magnitude <= Settings.KillauraThreshold then
+									KillPlayers[#KillPlayers+1] = Targets
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(Powers.Antitouch) then
+			for i,v in next, Powers.Antitouch do
+				if v.Character and v.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+					local VPart = v.Character:FindFirstChildWhichIsA("BasePart")
+					for _, Targets in pairs(Players:GetPlayers()) do
+						if Targets ~= v and Targets.Character and not Targets.Character:FindFirstChildWhichIsA("ForceField") and Targets.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+							local TPart = Targets.Character:FindFirstChildWhichIsA("BasePart")
+							if VPart and TPart and CheckWhitelist(Targets) and Targets ~= LocalPlayer then
+								if (TPart.Position-VPart.Position).Magnitude <= 2.5 then
+									KillPlayers[#KillPlayers+1] = Targets
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(Powers.Antiarrest) then
+			for i,v in next, Powers.Antiarrest do
+				if v.Character and v.TeamColor.Name ~= "Bright blue" then
+					local VPart = v.Character:FindFirstChild("Head")
+					for _, Cunts in pairs(Teams.Guards:GetPlayers()) do
+						if Cunts.Character and Cunts.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 and Cunts ~= LocalPlayer and CheckWhitelist(Cunts) then
+							local CPart = Cunts.Character and Cunts.Character:FindFirstChild("Head")
+							if VPart and CPart then
+								if Cunts.Character:FindFirstChild("Handcuffs") and (CPart.Position-VPart.Position).Magnitude < 20 or Cunts.Character:FindFirstChild("Taser") and (CPart.Position-VPart.Position).Magnitude < 30 then
+									KillPlayers[#KillPlayers+1] = Cunts
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(Powers.Antipunch) then
+			for i,v in next, Powers.Antipunch do
+				if v.Character then
+					local VPart = v.Character:FindFirstChildWhichIsA("BasePart")
+					for _, Hostiles in pairs(Players:GetPlayers()) do
+						if Hostiles ~= v and Hostiles.Character and not Hostiles.Character:FindFirstChildWhichIsA("ForceField") and Hostiles.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+							local HPart = Hostiles.Character:FindFirstChildWhichIsA("BasePart")
+							if VPart and HPart and CheckWhitelist(Hostiles) and Hostiles ~= LocalPlayer then
+								if (HPart.Position-VPart.Position).Magnitude <= 4 then
+									for _, tracks in ipairs(Hostiles.Character:FindFirstChild("Humanoid"):GetPlayingAnimationTracks()) do
+										if table.find(Saved.HostileAnimations, tracks.Animation.AnimationId) then
+											KillPlayers[#KillPlayers+1] = Hostiles
+											break
+										end
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(Powers.Onepunch) then
+			for i,v in next, Powers.Onepunch do
+				if v.Character then
+					local waspunching = nil
+					for _, tracks in ipairs(v.Character:FindFirstChildOfClass("Humanoid"):GetPlayingAnimationTracks()) do
+						if tracks.Animation.AnimationId == "rbxassetid://484200742" or tracks.Animation.AnimationId == "rbxassetid://484926359" then
+							waspunching = true
+							break
+						end
+					end
+					if waspunching then
+						local VPart = v.Character:FindFirstChildWhichIsA("BasePart")
+						for _, targets in pairs(Players:GetPlayers()) do
+							if targets ~= v and targets.Character and targets.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 and not targets.Character:FindFirstChildWhichIsA("ForceField") then
+								local TPart = targets.Character:FindFirstChildWhichIsA("BasePart")
+								if VPart and TPart and CheckWhitelist(targets) and targets ~= LocalPlayer then
+									if (VPart.Position-TPart.Position).Magnitude <= 3 then
+										KillPlayers[#KillPlayers+1] = targets
+										break
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(Powers.Punchaura) then
+			for i,v in next, Powers.Punchaura do
+				if v.Character then
+					local waspunching = nil
+					for _, track in ipairs(v.Character:FindFirstChild("Humanoid"):GetPlayingAnimationTracks()) do
+						if track.Animation.AnimationId == "rbxassetid://484200742" or track.Animation.AnimationId == "rbxassetid://484926359" then
+							waspunching = true
+							break
+						end
+					end
+					if waspunching then
+						local VHead = v.Character:FindFirstChild("Head")
+						for _, Victims in pairs(Players:GetPlayers()) do
+							if Victims ~= v and Victims.Character and not Victims.Character:FindFirstChildWhichIsA("ForceField") and Victims.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+								local VTHead = Victims.Character:FindFirstChild("Head")
+								if VTHead and VHead and CheckWhitelist(Victims) and Victims ~= LocalPlayer then
+									if (VTHead.Position-VHead.Position).Magnitude <= 16 then
+										if Powers.Onepunch[v.UserId] then
+											KillPlayers[#KillPlayers+1] = Victims
+										else
+											if not SavedArgs.PauraDebounce then
+												SavedArgs.PauraDebounce = true
+												task.delay(1, function()
+													SavedArgs.PauraDebounce = nil
+												end)
+												KillPL(Victims, 1, false)
+											end
+										end
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		if next(KillPlayers) then
+			TableKill(KillPlayers)
+		end
+		KillPlayers = nil
+	end
+	while task.wait() do
+		pcall(task0)
+		if Unloaded then
+			break
+		end
+	end
+end)
+--Loops (Teleport)
+task.spawn(function()
+	local task0 = function()
+		if Loops.MeleeTeams.All then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+					if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+						SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+						MeleeKill(v, false)
+					end
+					if not Loops.MeleeTeams.All then
+						break
+					end
+				end
+			end
+		else
+			if next(Loops.MeleeKill) then
+				for i,v in next, Loops.MeleeKill do
+					if v.Character and v.Character:FindFirstChild("Humanoid") then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+							SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+							MeleeKill(v)
+						end
+					end
+				end
+			end
+			if Loops.MeleeTeams.Inmates then
+				for i,v in pairs(Teams.Inmates:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+							SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+							MeleeKill(v, false)
+						end
+					end
+					if not Loops.MeleeTeams.Inmates then
+						break
+					end
+				end
+			end
+			if Loops.MeleeTeams.Guards then
+				for i,v in pairs(Teams.Guards:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+							SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+							MeleeKill(v, false)
+						end
+					end
+					if not Loops.MeleeTeams.Guards then
+						break
+					end
+				end
+			end
+			if Loops.MeleeTeams.Criminals then
+				for i,v in pairs(Teams.Criminals:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+							SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+							MeleeKill(v, false)
+						end
+					end
+					if not Loops.MeleeTeams.Criminals then
+						break
+					end
+				end
+			end
+			if Loops.MeleeTeams.Neutrals then
+				for i,v in pairs(Teams.Neutral:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and CheckWhitelist(v) then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+							SavedPositions.MeleeLK = not SavedPositions.MeleeLK and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.MeleeLK
+							MeleeKill(v, false)
+						end
+					end
+					if not Loops.MeleeTeams.Neutrals then
+						break
+					end
+				end
+			end
+		end
+		if SavedPositions.MeleeLK then
+			LocTP(SavedPositions.MeleeLK); SavedPositions.MeleeLK = nil
+		end
+		if next(Loops.Fling) then
+			for i,v in next, Loops.Fling do
+				if v.Character and v.Character:FindFirstChild("HumanoidRootPart") and v ~= LocalPlayer then
+					if not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.TeamColor == BrickColor.new("Medium stone grey")) and not (v.Character:FindFirstChild("Head").Position.Y > 699 or v.Character:FindFirstChild("Head").Position.Y < 1) then
+						FlingPL(v)
+					end
+				end
+			end
+		end
+		if next(Loops.MakeCrim) then
+			for i,v in next, Loops.MakeCrim do
+				if v.Character and v.TeamColor.Name ~= "Really red" then
+					if not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.TeamColor == BrickColor.new("Medium stone grey")) then
+						if v ~= LocalPlayer then
+							SavedPositions.LoopMakeCrim = not SavedPositions.LoopMakeCrim and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.LoopMakeCrim
+							MakeCrim(v)
+						else TeamTo("criminal"); end
+					end
+				end
+			end
+			if SavedPositions.LoopMakeCrim then
+				LAction("unsit", true); LocTP(SavedPositions.LoopMakeCrim); SavedPositions.LoopMakeCrim = nil
+			end
+		end
+		if next(Loops.Arrest) then
+			for i,v in next, Loops.Arrest do
+				if v.Character and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character.Head:FindFirstChild("handcuffedGui")) then
+					if v.TeamColor == BrickColor.new("Really red") or (v.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(v)) then
+						ArrestPL(v, true, false)
+					elseif v.TeamColor.Name ~= "Medium stone grey" then
+						MakeCrim(v, true, false, true)
+					end
+				end
+			end
+		end
+		if Loops.ArrestTeams.Inmate then
+			for i,v in pairs(Teams.Inmates:GetPlayers()) do
+				if v.Character and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character.Head:FindFirstChild("handcuffedGui")) then
+					SavedPositions.ArrestTeams = not SavedPositions.ArrestTeams and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.ArrestTeams
+					if GetIllegalReg(v) then
+						ArrestPL(v, false, false)
+					else
+						MakeCrim(v, false, false, true)
+					end
+				end
+			end
+		end
+		if Loops.ArrestTeams.Criminal then
+			for i,v in pairs(Teams.Criminals:GetPlayers()) do
+				if v.Character and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character.Head:FindFirstChild("handcuffedGui")) then
+					SavedPositions.ArrestTeams = not SavedPositions.ArrestTeams and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.ArrestTeams
+					ArrestPL(v, false)
+				end
+			end
+		end
+		if Loops.ArrestTeams.Guard then
+			for i,v in pairs(Teams.Guards:GetPlayers()) do
+				if v.Character and v.Character:FindFirstChild("Humanoid").Health ~= 0 then
+					SavedPositions.ArrestTeams = not SavedPositions.ArrestTeams and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.ArrestTeams
+					MakeCrim(v, false, false, true)
+				end
+			end
+		end
+		if SavedPositions.ArrestTeams then
+			if LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+				LAction("unsit", true)
+			end; LocTP(SavedPositions.ArrestTeams); SavedPositions.ArrestTeams = nil
+		end
+		if Loops.AutoArresting.All then
+			for i,v in pairs(Players:GetPlayers()) do
+				if v.Character and v ~= LocalPlayer and CheckWhitelist(v) and v.Character:FindFirstChild("Humanoid").Health ~= 0 then
+					if not v.Character.Head:FindFirstChild("handcuffedGui") then
+						if (v.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(v)) or v.TeamColor == BrickColor.new("Really red") then
+							SavedPositions.AutoArresting = not SavedPositions.AutoArresting and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.AutoArresting
+							ArrestPL(v, false, false)
+						end
+					end
+				end
+			end
+		else
+			if next(Loops.AutoArresting.Plr) then
+				for i,v in next, Loops.AutoArresting.Plr do
+					if v.Character and not (v == LocalPlayer or v.Character:FindFirstChild("Humanoid").Health == 0) and CheckWhitelist(v) then
+						if not v.Character.Head:FindFirstChild("handcuffedGui") then
+							if (v.TeamColor == BrickColor.new("Bright orange") and GetIllegalReg(v)) or v.TeamColor == BrickColor.new("Really red") then
+								SavedPositions.AutoArresting = not SavedPositions.AutoArresting and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.AutoArresting
+								ArrestPL(v, false, false)
+							end
+						end
+					end
+				end
+			end
+		end
+		if SavedPositions.AutoArresting then
+			LocTP(SavedPositions.AutoArresting); SavedPositions.AutoArresting = nil
+		end
+		if next(Loops.VoidKill) then
+			for i,v in next, Loops.VoidKill do
+				if v.Character and v.Character:FindFirstChild("Head").Position.Y > 1 and v.Character:FindFirstChild("Humanoid").Health ~= 0 and v.TeamColor.Name ~= "Medium stone grey" and not v.Character.Humanoid.Sit then
+					if States.AntiVoid then
+						task.delay(8,function()States.AntiVoid = true;end);States.AntiVoid = false
+					end
+					local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+					BringPL(v,CFrame.new(0, -320, 0),true,true);wait(.2);LAction("unsit",true)
+					LocTP(CFrame.new(-190.722427,54.774929,1880.20374,0.007893865,6.46408438e-08,0.999968827,-3.42371038e-08,1,-6.43725926e-08,-0.999968827,-3.37278863e-08,0.007893865))
+					RTPing();RTPing();RTPing();RTPing();LocTP(tempos)
+				end
+			end
+		end
+		if next(Loops.Trapped) then
+			for i,v in next, Loops.Trapped do
+				if v.Character and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character.Humanoid.Sit or v.TeamColor.Name == "Medium stone grey") then
+					if v.Character:FindFirstChild("HumanoidRootPart") and (v.Character.HumanoidRootPart.Position-Teleports.trapbuilding.Position).Magnitude > 90 then
+						SavedPositions.TrapPlayerPos = not SavedPositions.TrapPlayerPos and LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame or SavedPositions.TrapPlayerPos
+						BringPL(v, Teleports.trapbuilding, true)
+					end
+				end
+			end
+			if SavedPositions.TrapPlayerPos then
+				wait(.2); LAction("unsit", true); LocTP(SavedPositions.TrapPlayerPos); SavedPositions.TrapPlayerPos = nil
+			end
+		end
+		if next(Loops.Voided) then
+			for i,v in next, Loops.Voided do
+				if v.Character and not (v.Character:FindFirstChildOfClass("Humanoid").Health == 0 or v.Character:FindFirstChild("Humanoid").Sit or v.TeamColor.Name == "Medium stone grey") then
+					if v.Character:FindFirstChild("Head") and v.Character.Head.Position.Y < 699 then
+						local tempos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+						BringPL(v, CFrame.new(0, 9e9, 0), true, true)
+						wait(.2); Tasks.Refresh(nil, tempos)
+					end
+				end
+			end
+		end
+		if next(Loops.PunchKill) then
+			for i,v in next, Loops.PunchKill do
+				if v.Character and not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChild("Humanoid").Health == 0) then
+					PunchKill(v, 0.1)
+				end
+			end
+		end
+		if next(Loops.CarFling) then
+			for i,v in next, Loops.CarFling do
+				if v.Character then
+					if not (v.TeamColor == BrickColor.new("Medium stone grey") or v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character.Humanoid.Sit) and v.Character:FindFirstChild("Head").Position.Y < 999 then
+						CarFlingPL(v)
+					end
+				end
+			end
+		end
+	end
+	while task.wait() do
+		pcall(task0)
+		if Unloaded then
+			break
+		end
+	end
+end)
+
+--Loops (MeleeAura and stuff)
+task.spawn(function()
+	local task0 = function()
+		if Toggles.MeleeAura then
+			wait()
+			for i,v in pairs(Players:GetPlayers()) do
+				if v.Character and v ~= LocalPlayer then
+					if not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) and CheckWhitelist(v) then
+						MeleEve(v);task.delay(0,function() MeleEve(v); end)
+					end
+				end
+			end
+		else
+			if Toggles.MeleeTouch then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v ~= LocalPlayer and v.Character and v.Character:FindFirstChildOfClass("Humanoid") then
+						if not (v.Character:FindFirstChildWhichIsA("ForceField") or v.Character:FindFirstChildOfClass("Humanoid").Health == 0) then
+							local VPart, LPart = v.Character:FindFirstChildWhichIsA("BasePart"), LocalPlayer.Character:FindFirstChildWhichIsA("BasePart")
+							if VPart and LPart and CheckWhitelist(v) then
+								if (VPart.Position-LPart.Position).Magnitude <= 2.5 then
+									for i = 1, 5 do
+										MeleEve(v)
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+			if Toggles.AntiPunch then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v ~= LocalPlayer and v.Character and v.Character:FindFirstChild("Humanoid").Health ~= 0 then
+						local VHead, LHead = v.Character:FindFirstChild("Head"), LocalPlayer.Character:FindFirstChild("Head")
+						if VHead and LHead and CheckWhitelist(v) then
+							if (VHead.Position-LHead.Position).Magnitude <= 5 then
+								local VHuman = v.Character:FindFirstChildOfClass("Humanoid")
+								for _, punch in ipairs(VHuman:GetPlayingAnimationTracks()) do
+									if table.find(Saved.HostileAnimations, punch.Animation.AnimationId) then
+										for i = 1, 15 do
+											MeleEve(v)
+										end
+										break
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+			if Toggles.TKA.Guard then
+				for i,v in pairs(Teams.Guards:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) then
+						local LHead, VHead = LocalPlayer.Character:FindFirstChild("Head"), v.Character:FindFirstChild("Head")
+						if LHead and VHead and CheckWhitelist(v) then
+							if (LHead.Position-VHead.Position).Magnitude <= 17 then
+								for i = 1, 7 do
+									MeleEve(v)
+								end
+							end
+						end
+					end
+				end
+			else
+				if Toggles.AntiArrest then
+					for _, PotangIna in pairs(Teams.Guards:GetPlayers()) do
+						if PotangIna.Character and PotangIna ~= LocalPlayer then
+							if PotangIna.Character:FindFirstChild("Handcuffs") and PotangIna.Character:FindFirstChildOfClass("Humanoid").Health ~= 0 then
+								local PPart, LPart = PotangIna.Character.PrimaryPart, LocalPlayer.Character.PrimaryPart
+								if PPart and LPart and CheckWhitelist(PotangIna) then
+									if (PPart.Position-LPart.Position).Magnitude <= 20 then
+										for i = 1, 10 do
+											MeleEve(PotangIna)
+										end
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+			if Toggles.TKA.Inmate then
+				for i,v in pairs(Teams.Inmates:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) then
+						local LHead, VHead = LocalPlayer.Character:FindFirstChild("Head"), v.Character:FindFirstChild("Head")
+						if LHead and VHead and CheckWhitelist(v) then
+							if (LHead.Position-VHead.Position).Magnitude <= 17 then
+								for i = 1, 7 do
+									MeleEve(v)
+								end
+							end
+						end
+					end
+				end
+			end
+			if Toggles.TKA.Criminal then
+				for i,v in pairs(Teams.Criminals:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) then
+						local LHead, VHead = LocalPlayer.Character:FindFirstChild("Head"), v.Character:FindFirstChild("Head")
+						if LHead and VHead and CheckWhitelist(v) then
+							if (LHead.Position-VHead.Position).Magnitude <= 17 then
+								for i = 1, 7 do
+									MeleEve(v)
+								end
+							end
+						end
+					end
+				end
+			end
+			if Toggles.TKA.Enemies then
+				for i,v in pairs(Players:GetPlayers()) do
+					if v.Character and v ~= LocalPlayer and not (v.Character:FindFirstChild("Humanoid").Health == 0 or v.Character:FindFirstChildWhichIsA("ForceField")) then
+						if v.TeamColor ~= LocalPlayer.TeamColor then
+							local LHead, VHead = LocalPlayer.Character:FindFirstChild("Head"), v.Character:FindFirstChild("Head")
+							if LHead and VHead and CheckWhitelist(v) then
+								if (LHead.Position-VHead.Position).Magnitude <= 17 then
+									for i = 1, 7 do
+										MeleEve(v)
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+	while task.wait() do
+		pcall(task0)
+		if Unloaded then
+			break
+		end
+	end
+end)
+--Loops (Non-interfering)
+task.spawn(function()
+	local task0 = function()
+		if Toggles.AntiBring and not States.IsBringing and LocalPlayer.Character:FindFirstChild("Humanoid").Sit then LAction("unsit") end
+		if States.JumpPower then LAction("jumppw", Saved.JumpPower); end
+		if States.Speeding then
+			LAction("speed", Saved.WalkSpeed)
+		elseif States.Running then
+			if not (LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed == Saved.RunSpeed) then
+				LAction("speed", Saved.RunSpeed)
+			end
+		end
+		if States.IsHoldingF then
+			if Toggles.SpamPunch then
+				task.wait();VirtualPunch()
+			end
+		end
+		if Toggles.Noclip then
+			for i,v in pairs(LocalPlayer.Character:GetChildren()) do
+				if v:IsA("BasePart") then
+					v.CanCollide = false
+				end
+			end
+		end
+	end
+	while wait() do
+		game:GetService('StarterGui'):SetCoreGuiEnabled('Backpack', true)
+		if States.RemoveLeaderboard then 
+			game:GetService('StarterGui'):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, false)
+		end
+		pcall(task0)
+		if next(CmdQueue) then
+			if not SavedArgs.QueueExecuted then
+				SavedArgs.QueueExecuted = true
+				coroutine.wrap(function()
+					for i, execute in next, CmdQueue do
+						pcall(execute);wait()
+						CmdQueue[i] = nil;table.remove(CmdQueue, i)
+					end;SavedArgs.QueueExecuted = nil
+				end)()
+			end
+		end
+		if Unloaded then
+			break
+		end
+	end
+end)
+--Stepped con
+Connections.Stepped = Stepped:Connect(function()
+	if States.AntiVoid then
+		local lroot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+		if lroot and lroot.Position.Y < 1 then
+			if LocalPlayer.Character:FindFirstChildOfClass("Humanoid").Sit then
+				LAction("unsit")
+			end
+			lroot.CFrame = CFrame.new(Vector3.new(lroot.Position.X, 169, lroot.Position.Z), Vector3.new(lroot.Position.X, 169, lroot.Position.Z) + lroot.CFrame.LookVector)
+			lroot.Velocity = Vector3.new()
+			deprint("Debug_IS ON VOID")
+		end
+	end
+end)
+
+--INIT
+if game:GetService("Workspace"):FindFirstChild("Criminals Spawn") then
+	SavedPositions.Crimpad = workspace["Criminals Spawn"].SpawnLocation.CFrame
+	Saved.HostileAnimations = {
+		"rbxassetid://484200742","rbxassetid://484926359","rbxassetid://275012308","rbxassetid://218504594"
+	}
+else
+	Notif("WARNING: Invalid Game Detected!", "The script will not function correctly.", 6); LocPL.WrongGame=true;Toggles.AutoRespawn=false
+end
+
+local ea, li = pcall(function()
+	Saved.HttpRequest = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request or HttpPost
+	RegModule = require(game.ReplicatedStorage["Modules_client"]["RegionModule_client"])
+	local Vecto2, Vecto3, FindFirstChild, RayCaca = Vector2.new, Vector3.new, game.FindFirstChild, workspace.Raycast
+	local GetPlay = Players.GetPlayers
+	local wtsp = Camera.WorldToScreenPoint
+	local mouse = LocalPlayer.GetMouse(LocalPlayer)
+	local function POTANGINAHAYOP(ignoreTeam, ignoreWall)
+		local maxDist = ignoreWall and math.huge or 169; local toReturn = nil
+		for iii,vvv in pairs(GetPlay(Players)) do
+			if vvv.Character and vvv ~= LocalPlayer and (ignoreTeam or vvv.TeamColor ~= LocalPlayer.TeamColor) then
+				local Vhead = FindFirstChild(vvv.Character, "Head")
+				if Vhead then
+					local pos, screen = wtsp(Camera, Vhead.Position)
+					if screen then
+						local dist = (Vecto2(pos.X, pos.Y)-Vecto2(mouse.X, mouse.Y)).Magnitude
+						if dist < maxDist then
+							if ignoreWall then
+								maxDist = dist
+								toReturn = vvv.Character
+							else
+								local raypara = RaycastParams.new()
+								raypara.FilterDescendantsInstances = {LocalPlayer.Character, vvv.Character}
+								local rayresu = RayCaca(workspace, Camera.CFrame.Position, (Vhead.Position - Camera.CFrame.Position).Unit * (Camera.CFrame.Position-Vhead.Position).Magnitude, raypara)
+								if not rayresu then
+									maxDist = dist
+									toReturn = vvv.Character
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+		return toReturn
+	end
+	local MT = getrawmetatable(game)
+	local __namecall = MT.__namecall
+	setreadonly(MT, false)
+	MT.__namecall = newcclosure(function(self, ...)
+		local Method = getnamecallmethod()
+		if Toggles.FriendlyFire and Method == "FireServer" and tostring(self) == "ShootEvent" and not checkcaller() then
+			local Args = {...}
+			task.spawn(function()
+				local plr = Players.GetPlayerFromCharacter(Players, Args[1][1].Hit.Parent) or Players.GetPlayerFromCharacter(Players, Args[1][1].Hit)
+				local tool = LocalPlayer.Character:FindFirstChildWhichIsA("Tool"); local gun = tool and tool.Name
+				if gun and plr then
+					if gun.Name ~= "Taser" and LocalPlayer.TeamColor ~= BrickColor.new("Medium stone grey") then
+						if plr.TeamColor == LocalPlayer.TeamColor then
+							if plr.TeamColor == BrickColor.new("Bright orange") then
+								TeamTo("criminal")
+							else
+								TeamTo("inmate")
+								Gun(gun);Gun(gun);Gun(gun)
+								LAction("equip",LocalPlayer.Backpack:FindFirstChild(gun))
+							end
+						end
+					end
+				end
+			end)
+		end
+		if Toggles.Oneshot and Method == "FireServer" and tostring(self) == "ShootEvent" then
+			if not SavedArgs.OneshotDebounce then
+				local Args = {...}
+				task.spawn(function()
+					local plr = Players.GetPlayerFromCharacter(Players, Args[1][1].Hit.Parent) or Players.GetPlayerFromCharacter(Players, Args[1][1].Hit)
+					local gun = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+					if gun and plr then
+						if LocalPlayer.TeamColor ~= plr.TeamColor then
+							SavedArgs.OneshotDebounce = true
+							task.delay(0.069,function() SavedArgs.OneshotDebounce = nil; end)
+							if gun.Name == "Taser" then
+								KillPL(plr, false, "M9")
+							else
+								KillPL(plr, false, gun.Name)
+							end
+						end
+					end
+				end)
+			end
+		end
+		if (Toggles.Silentaim or Toggles.Headshot) and Method == "FindPartOnRay" and (tostring(getfenv(0).script) == "GunInterface" or tostring(getfenv(0).script) == "TaserInterface") and not checkcaller() then
+			if Toggles.Headshot then
+				local playercharacter = POTANGINAHAYOP(false, true)
+				if playercharacter and FindFirstChild(playercharacter, "Head") then
+					return playercharacter.Head, playercharacter.Head.Position
+				end
+			elseif Toggles.Silentaim then
+				local playercharacter = POTANGINAHAYOP(false, false)
+				if playercharacter and FindFirstChild(playercharacter, "Torso") then
+					return playercharacter.Torso, playercharacter.Torso.Position + Vecto3(Random.new():NextNumber(-1, 1), Random.new():NextNumber(-1, 1), Random.new():NextNumber(-1, 1))
+				end
+			end
+		end
+		return __namecall(self, ...)
+	end)
+	setreadonly(MT, true)
+	SavedArgs.namecallSuccess = true
+end); if not ea and not LocPL.WrongGame then
+	Notif("Your executor might be too shitty!", "Some commands may be downgraded or NOT work.", 8); LocPL.ShittyExecutor = true
+end
+
+--Client Handler
+coroutine.wrap(function()
+	if LocPL.WrongGame then
+		return
+	end
+	LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = true
+	local VirtualRayDebounce = false
+	local SoundS = game:GetService("SoundService")
+	Connections.VirtualRayHandler = Rstorage:WaitForChild("ReplicateEvent", 8).OnClientEvent:Connect(function(Tables)
+		if LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled and States.ReplicateEvent and not Tables[69] then
+			local Counting = #Tables
+			if Counting < 69 and not VirtualRayDebounce then
+				VirtualRayDebounce = Counting > 30
+				if Tables[1].Cframe and Tables[1].Distance then
+					CreateClientRay(Tables)
+				end
+				if VirtualRayDebounce then
+					task.delay(0.6, function()
+						VirtualRayDebounce = false
+					end)
+				end
+			end
+		end
+	end)
+	Connections.VirtualSoundHandler = Rstorage:WaitForChild("SoundEvent", 8).OnClientEvent:Connect(function(sound)
+		if LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled and States.ReplicateEvent then
+			SoundS.RespectFilteringEnabled = true
+			sound:Play()
+			SoundS.RespectFilteringEnabled = false
+		end
+	end)
+	Connections.VirtualWarnHandler = Rstorage:WaitForChild("WarnEvent", 8).OnClientEvent:Connect(function(Times)
+		if LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled then
+			if Times == 1 then
+				SysMessage("[WarnEvent]: This is your last warning. You will become a prisoner if you kill an innocent player 1 more time.", Color3.fromRGB(255, 0, 0))
+				Notif("GUARD WARNING:", "Last warning: You will become inmates when killing innocents 1 more time.", 5)
+			else
+				SysMessage("[WarnEvent]: Do not kill innocent people! You will be arrested and jailed if you kill " .. tostring(Times) .. " more times.", Color3.fromRGB(255, 0, 0))
+				Notif("GUARD WARNING:", "If you kill innocents " .. tostring(Times) .. " more times, you will become prisoners.", 5)
+			end
+		end
+	end)
+	Connections.OnReplicated = Rstorage:WaitForChild("ReplicateEvent", 3).OnClientEvent:Connect(OnReplication)
+end)()
+
+Connections.LocalPlayerMouse = LocalPlayer:GetMouse().Button1Down:Connect(function()
+	local Wifi = LocalPlayer:GetMouse().Target
+	if Wifi and Wifi:IsA("BasePart") and Players:FindFirstChild(Wifi.Parent.Name) then
+		local GetWifi = Players:FindFirstChild(Wifi.Parent.Name)
+		if LocPL.ShittyExecutor and (Toggles.Oneshot or Toggles.FriendlyFire) then
+			local tool = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildWhichIsA("Tool"); local gun = tool and tool.Name
+			if tool and tool:FindFirstChildOfClass("ModuleScript") then
+				if Toggles.FriendlyFire and gun ~= "Taser" then
+					if GetWifi.TeamColor == LocalPlayer.TeamColor then
+						if GetWifi.TeamColor == BrickColor.new("Bright orange") then
+							TeamTo("criminal")
+						else
+							TeamTo("inmate")
+							Gun(gun);Gun(gun);Gun(gun)
+							LAction("equip",LocalPlayer.Backpack:FindFirstChild(gun))
+						end
+					end
+				end;if Toggles.Oneshot then
+					if GetWifi.TeamColor ~= LocalPlayer.TeamColor then
+						if gun == "Taser" then
+							KillPL(GetWifi,false,"M9")
+						else
+							KillPL(GetWifi,false,gun)
+						end
+					end
+				end
+			end
+		end;if States.ClickBring then
+			if GetWifi.Character and not (GetWifi.Character:FindFirstChildOfClass("Humanoid").Health == 0) then
+				BringPL(GetWifi, LocalPlayer)
+			end
+		end;if States.ClickTase then
+			if not (GetWifi.TeamColor == BrickColor.new("Bright blue")) then
+				TasePL(GetWifi)
+			end
+		end;if States.ClickArrest then
+			local WHead, LHead = GetWifi.Character.Head, LocalPlayer.Character.Head
+			if WHead and LHead then
+				if (WHead.Position-LHead.Position).Magnitude <= 15 then
+					ArrestEve(GetWifi, true)
+				elseif not (GetWifi.TeamColor == BrickColor.new("Bright blue")) then
+					ArrestPL(GetWifi, true)
+				end
+			end
+		end;if States.ClickFling then
+			if GetWifi.Character and not (GetWifi.Character:FindFirstChildOfClass("Humanoid").Health == 0) then
+				FlingPL(GetWifi)
+			end
+		end;if States.ClickKill then
+			if CheckWhitelist(GetWifi) then
+				if GetWifi.Character and not (GetWifi.Character:FindFirstChildOfClass("Humanoid").Health == 0) then
+					KillPL(GetWifi)
+				end
+			else Notif("Click-Kill", "This player is whitelisted!"); end
+		end;if States.ClickGoto then
+			LocTP(GetWifi.Character.Head.CFrame)
+		end;if States.ClickTeam then
+			local n=GetWifi.TeamColor ~= LocalPlayer.TeamColor and GetWifi.TeamColor.Name
+			if n=="Really red" then
+				TeamTo("criminal")
+			elseif n=="Bright blue" then
+				TeamTo("guard")
+			elseif n=="Bright orange" then 
+				TeamTo("inmate")
+			end
+		end
+	end
+end)
+
+task.spawn(function()
+	if LocalPlayer.Character:FindFirstChildOfClass("Humanoid") and LocalPlayer.Character.Humanoid.Health == 0 then
+		task.spawn(ondiedevent)
+	else
+		task.spawn(oncharadded)
+	end; 
+	LocPL.UID = tonumber((LocalPlayer.CharacterAppearance):split('=')[#((LocalPlayer.CharacterAppearance):split('='))]); LocPL.UIN = LocalPlayer.Character.Name
+
+	local set = PLadmin_Settings
+	if set and next(set) then
+		Settings.JoinNotify = set.JoinNotify; Toggles.AutoRespawn = set.AutoRespawn; States.AntiVoid = set.AntiVoid
+		Toggles.AntiTase = set.AntiTase; Toggles.AntiArrest = set.AntiArrest; Toggles.Antishoot = set.AntiShoot
+		Toggles.AntiPunch = set.AntiPunch; States.AntiFling = set.AntiFling; Toggles.AntiShield = set.AntiShield
+		Toggles.Silentaim = set.SilentAim; Toggles.AutoGuns = set.AutoGuns; Settings.User.OldItemMethod = set.OldItemMethod
+		Settings.Ranked.AutoWhitelist = set.WhitelistRanked; Settings.Ranked.Nuke = set.RankedNukeCmds; Settings.Ranked.MultiCmd = set.RankedMultiCmd
+		Settings.Ranked.Output = set.RankedOutput; Settings.Ranked.WhisperMode = set.WhisperToRanked; SavedArgs.UseMobileGui = set.Force_isMobile
+		States.Fullbright = set.Fullbright; Toggles.AntiBring = set.AntiBring; Prefix = set.DefaultPrefix or Prefix; Settings.PrintDebug = set.PrintDebug or Settings.PrintDebug
+	else warn("Tamper/ShittyExecutor detected"); end; set = nil
+	for _, tasking in pairs(Threads) do
+		tasking()
+	end; 
+
+	--// h17s3 was here...
+
+	local TPrefix = PLadmin_Settings and tostring(PLadmin_Settings.DefaultPrefix) or "?"
+
+	AddList("Invite: discord.gg/EjVQCdH6W6", "If you accidentally lose the gui, type /revert in chat", false)
+	AddList("prefix [Prefix]", "Changes prefix (Default set to " .. TPrefix .. ")", false) --V
+	AddList("KILL CMDS", false, true) --KILL CMDS
+	AddList("kill / oof / die [plr,random,team,all]", "Kills selected player(s)", false) --V
+	AddList("meleekill / mkill [plr,random,team,all]", "Kills selected player(s) using meleeEvent(s)", false) --V
+	AddList("hkill / hmk [plr,random,team,all]", "meleekill but hidden underground so no one can see it", false) --V
+	AddList("punchkill / pkill [plr,random,team,all] [interval]", "Kills player(s) by punching them to death", false) --V, wow what a very useful command!
+	AddList("voidkill / vkill [plr,random]", "Kills player by teleporting them under the void", false) --V
+	AddList("damage / dmg [plr,random,all] [dmg=1-10]", "Self explanatory, going higher may crash server!", false) --V
+	AddList("shootkill / skill [plr,random,team,all]", "Shoots selected player(s) and kills them", false) --V
+	AddList("loopkill / lk [plr,team,all]", "Loops killing player(s)", false) --V
+	AddList("unloopkill / unlk [plr,team,all]", "Stops loop-killing player(s)", false) --V
+	AddList("meleelk / mlk [plr,random,hostiles,team,all]", "Melee-loopkills player(s)", false) --V
+	AddList("unmeleelk / unmlk [plr,hostiles,team,all]", "Stops melee-killing player(s)", false) --V
+	AddList("lpunchkill / lpkill [plr,random,team,all]", "Loops punch-kill a selected player(s)", false) --V
+	AddList("unlpunchkill / unlpkill [plr,all]", "Stops punch-killing player(s)", false) --V
+	AddList("lvoidkill / lvkill / lvk [plr,random]", "Loop void-kill player.", false) --V
+	AddList("unlvoidkill / unlvkill / unlvk [plr,all]", "Stop loop-void killing player(s)", false) --V
+	AddList("randomkill / rkill [plr,random,team,all]", "Randomly kill selected player(s)", false) --V
+	AddList("unrandomkill / unrkill [plr,all]", "Stop randomly killing player(s)", false) --V
+	AddList("shootlk / slk [plr,team,random,all]", "Repeatedly shoot-kill player(s)", false) --V
+	AddList("unshootlk / unslk [plr,all]", "Stop repeatedly shoot-killing player(s)", false) --V
+	AddList("killaura / kaura [plr,random]", "Other player(s) near the selected player dies",  false) --V
+	AddList("virus / killtouch [plr,random,all]", "Other player(s) who touches the selected player dies", false) --V
+	AddList("unkillaura / unkaura [plr,all]", "Removes killaura(s) from player(s)", false) --V
+	AddList("unvirus / unkilltouch [plr,all]", "Removes antitouch from player(s)", false) --V
+	AddList("tkillaura / tka [team,enemies]", "Killaura but only for a selected team(s), uses meleeEvent(s)", false) --V
+	AddList("untkillaura / untka [team,enemies,all]", "Stops killaura to selected team(s)", false) --V
+	AddList("meleeaura / maura [boolean]", "Killaura but using meleeEvent(s)", false) --V
+	AddList("meleetouch / mtouch [boolean]", "Killtouch but using meleeEvent(s)", false) --V
+	AddList("launchnuke / lnuke [plr,random] [radius] [time]", "Launch a nuke near a player with radius", false) --V
+	AddList("deathnuke / dnuke [plr,random]", "If that selected player dies, everyone dies", false) --V
+	AddList("undeathnuke / undnuke [plr,all]", "Removes deathnuke", false) --V
+	AddList("detroit / ohio", "If a player dies, everyone dies.", false) --V
+	AddList("undetroit / unohio", "Stop ohio mode", false) --V
+	AddList("autokill / akill [hostile,shielduser,handcuffer,taser]", "Automatically kill SPECIFIC player(s)", false) --V
+	AddList("unautokill / unakill [hostile,shielduser,handcuffer,taser,all]", "Stops automatically killing players accordingly", false) --V
+	AddList("lpunch", "Teleport to players and punch them for no reason", false) --V
+	AddList("unlpunch", "Stop punching players for no reason", false) --V
+
+	AddList("ARREST/TAZE CMDS", false, true) -- ARREST AND TAZE COMMANDS
+	AddList("arrest / ar [plr,random,team,all]", "Arrests selected player(s)", false) --V
+	AddList("harrest / har [plr,random,team,all]", "Arrest player but hidden underground", false) --V
+	AddList("spamarrest / annoy / sa [plr,random]", "Spams arrest player to the point they get annoyed", false) --V
+	AddList("unspamarrest / unannoy / unsa", "Stop spam-arresting player.", false) --V
+	AddList("tase / ta [plr,random,team,all]", "Taze selected player(s)", false) --V
+	AddList("arrestaura / aaura [boolean]", "Automatically arrest players near you", false) --V
+	AddList("taseaura / taura [plr,random]", "Other player(s) near the selected player gets tased", false) --V
+	AddList("untaseaura / untaura [plr,all]", "Remove tase-aura from player(s)", false) --V
+	AddList("makecrim / crim [plr,random,team,all]", "Turn selected player(s) to criminal", false) --V
+	AddList("crimpad / cpad [plr,random]", "Teleport selected player to crimpad", false) --V
+	AddList("loopcrim / lcrim [plr,random,all]", "Automatically turn player(s) into criminal", false) --V
+	AddList("unloopcrim / unlcrim [plr,all]", "Stop making player(s) into criminal", false) --V
+	AddList("looptase / lta [plr,random,team,all]", "Loops tase selected player(s)", false) --V
+	AddList("unlooptase / unlta [plr,team,all]", "Stops loop-tasing selected player(s)", false) --V
+	AddList("looparrest / lar [plr,random,team,all]", "Loops arresting selected player(s)", false) --V
+	AddList("autoarrest / autoar [plr,all]", "Automatically arrest player(s) in illegal region", false) --V
+	AddList("unlooparrest / unlar [plr,team,all]", "Stops loop arresting selected player(s)", false) --V
+	AddList("unautoarrest / unaar [plr,all]", "Stops auto-arresting selected player(s)", false) --V
+
+	AddList("ITEMS/GUNS/MOD CMDS", false, true) -- ITEMS AND GUNS COMMANDS
+	AddList("ak / ak47", "Obtain the gun AK-47", false) --V
+	AddList("remington / shotgun / rem", "Obtain the gun Remington 870", false) --V
+	AddList("m9 / pistol", "Obtain the gun M9", false) --V
+	AddList("m4 / m4a1", "Obtain the gun M4A1 (REQUIRES GAMEPASS)", false) --V
+	AddList("hammer / ham", "Obtain hammer in the yard", false) --V
+	AddList("knife / knive", "Obtain knife in the yard", false) --V
+	AddList("givekey / gkey [plr]", "Gives player or you keycard", false) --V
+	AddList("autokey / autokeycard [boolean]", "Automatically gives you keycard", false) --V
+	AddList("superknife / sknife", "Obtain and make knife one-shot", false) --V
+	AddList("riotshield / shield", "Obtain RiotShield (REQUIRES GAMEPASS AND GUARDS TEAM)", false) --V
+	AddList("skimask / mask", "Puts on ski-mask (REQUIRES GAMEPASS)", false) --V
+	AddList("riothelmet / helmet", "Puts on riot helmet (REQUIRES GAMEPASS)", false) --V
+	AddList("riotarmor / armor", "Puts on riot armor (REQUIRES GAMEPASS)", false) --V
+	AddList("food / dinner", "Obtains food tray from cafeteria", false) --V
+	AddList("bat / baseballbat", "Client sided baseball bat", false) --V
+	AddList("guns / allguns", "Obtain all guns in the game", false) --V
+	AddList("items / allitems", "Obtain all items (including clothes)", false) --V
+	AddList("autoguns / aguns [boolean]", "Automatically gives you guns", false) --V
+	AddList("autoitems / aitems [boolean]", "Automatically get all items/guns", false) --V
+	AddList("autofire [boolean]", "Make guns like remington or m9 automatically fire (Mouse ONLY)", false) --V
+	AddList("firerate / fastfire", "Makes guns shoot faster", false) --V
+	AddList("autofirerate / affr [boolean]", "Automatically apply faster fire rate to gun(s)", false) --V
+	AddList("infammo / infa", "Applies infinite ammo to gun (Must be equipped)", false) --V
+	AddList("gunmods / opgun", "Applies all gun mods to the selected gun (Gun must be equipped)", false) --V
+	AddList("autogunmod / agm [boolean]", "Automatically apply all gun mods", false) --V
+	AddList("autoinfammo / ainfa [boolean]", "Automatically apply infinite ammo to all gun(s)", false) --V
+	AddList("headshot / hshot [boolean]", "Always headshot players even through walls", false) --V
+	AddList("silentaim / saim [boolean]", "Headshot but more legit and not go through walls", false) --V
+	AddList("loot / pinata", "Makes you poop out free loot (Guns/Key)", false) --V
+	AddList("unloot / unpinata", "Stops pooping out free loot", false) --V
+
+	AddList("FLING CMDS", false, true) -- Flinger commands
+	AddList("antifling / afling [boolean]", "Prevents other exploiter(s) from flinging you", false) --V
+	AddList("fling / flung [plr,random,all]", "Flings selected player(s) using velocity", false) --V
+	AddList("loopfling / lfling [plr,random,all]", "Loop-flinging selected player(s)", false) --V
+	AddList("unloopfling / unfling [plr,all]", "Stops loop-flinging selected player(s)", false) --V
+	AddList("sfling / carfling [plr,random,all]", "Fling player while using a car to do it", false) --V
+	AddList("loopcarfling / lsfling [plr,random]", "Loops carfling on selected player(s)", false) --V
+	AddList("unloopcarfling / unlsfling [plr,all]", "Stops loop-carflinging player(s)", false) --V
+	AddList("touchfling / tfling", "Fling people you touch, must touch with humanoidrootpart", false) --V
+	AddList("untouchfling / untfling", "Stops touch-flinging people", false) --V
+	AddList("antivelocity / avelo", "Prevent velocity from physics step (VERY LAGGY, Use at ur own risk!)", false) --B
+
+	AddList("LOCAL CMDS", false, true) -- Local-only commands
+	AddList("rejoin / rj", "Rejoin the server (Unloads script)", false) --V
+	AddList("serverhop / svhop", "Find and join another server", false) --V
+	AddList("antibring / antisit [boolean]", "Prevent exploiter(s) car bring", false) --V
+	AddList("antishield / antipay2win [boolean]", "Prevent shields from pay2win players", false) --V
+	AddList("nodoors / rdoors", "Removes all doors in client side", false) --V
+	AddList("nowalls / rwalls", "Removes all walls in client side", false) --V
+	AddList("rewalls / walls", "Adds walls back in client side", false) --
+	AddList("redoors / doors", "Adds all doors back to client side", false) --V
+	AddList("autorespawn / autore [boolean]", "Toggles autorespawn to true or false", false) --V
+	AddList("refresh / ref", "Refresh character", false) --V
+	AddList("respawn / resp", "Respawn character (Does not save position)", false) --V
+	AddList("reset / res", "Reset character (Human.Died)", false) --V
+	AddList("runspeed [number]", "Changes the speed when running", false) --V
+	AddList("fly / flight [speed]", "Makes you or a car fly (works in mobile)", false) --V
+	AddList("unfly / noflight", "Stops flying or stops car fly", false) --V
+	AddList("speed [number]", "Changes your walkspeed", false) --V
+	AddList("loopspeed / lspeed [number]", "Always changes your walkspeed to (Number)", false) --V
+	AddList("noclip / noclip", "Ability to walk through walls like its nothing", false) --V
+	AddList("jumppower / jump [number]", "Changes how high you jump", false) --V
+	AddList("ljumppower / ljump [number]", "Always changes your jump-power to (Number)", false) --V
+	AddList("unloopspeed / unlspeed", "Stops changing speed", false) --V
+	AddList("unljumppower / unljump", "Stops changing jump-power", false) --V
+	AddList("unnoclip / clip", "Disables the ability to walk through walls", false) --V
+	AddList("infinitestamina / infstamina [boolean]", "Toggles infinite stamina", false) --V
+	AddList("infinitejump / infjump [boolean]", "Toggles infinite jumps", false) --V
+	AddList("spin [speed]", "Makes you spin (Looped)", false) --V
+	AddList("unspin", "Stops making you spin", false) --V
+	AddList("orbit [plr,random] [speed] [radius]", "Become a planet and orbit a player.", false) --V
+	AddList("unorbit", "Stop orbiting a player", false) --V
+	AddList("btools / btool", "Obtain client-sided btools", false) --V
+	AddList("esp / wallvision [boolean]", "Extra Sensory Perception, see players root through walls", false) --V
+	AddList("invisible / ghost", "Become invisible to other player(s)", false) --B
+	AddList("visible / unghost", "Become visible again to other players", false) --B
+	AddList("antivoid / avoid [boolean]", "Prevent falling in the void (Enabled by default)", false) --V
+	AddList("fullbright / fb [boolean]", "Toggle full brightness / always day", false) --V
+	AddList("noboard / nbr [boolean]", "Disables the leaderboard for tablet users to use punch button", false) --V
+	AddList("mobilegui / mgui [boolean]", "Toggle mobile action gui (Punch/Crawl buttons)", false) --V
+
+	AddList("POWERS/DEFENSE", false, true) --POWERS AND DEFENSE
+	AddList("onepunch / opunch [boolean]", "One-punch any player.", false) --V
+	AddList("oneshot / oshot [boolean]", "One-shot players instantly", false) --V
+	AddList("punchaura / paura [boolean]", "Increases punch range to 15 studs", false) --V
+	AddList("spampunch / spunch [boolean]", "Spam punch when holding the punch button", false) --V
+	AddList("friendlyfire / ffire [boolean]", "Automatically changes to a different team when shooting a teammate", false) --V
+	AddList("antishoot / ashoot [boolean]", "Shoots back player(s) who try to shoot you.", false) --V
+	AddList("antipunch / apunch [boolean]", "Any players who try to punch you dies", false) --V
+	AddList("antiarrest / aar [boolean]", "Prevents you from being arrested", false) --V
+	AddList("antitase / atase [boolean]", "Prevents you from being tased", false) --V
+	AddList("arrestback / arb [boolean]", "If a guard tries to arrest you, they get arrested back", false) --V
+	--AddList("refresharrest / rantiar", "Anti-arrest but refreshes your character instead", false) --Useless command?
+
+	AddList("CLICK CMDS", false, true) -- Click commands
+	AddList("clickkill / ckill [boolean]", "Click to kill player(s)", false) --V
+	AddList("clickarrest / carrest [boolean]", "Click to arrest player(s)", false) --V
+	AddList("clicktase / ctase [boolean]", "Click to tase player(s)", false) --V
+	AddList("clickfling / ckfling [boolean]", "Click to fling player(s)", false) --B
+	AddList("clickgoto / cgoto [boolean]", "Click to teleport to player(s)", false) --V, Very useless
+	AddList("clickbring / ckbring [boolean]", "Click to bring player(s)", false) --V
+	AddList("clickteleport / ctp [boolean]", "Use tool to teleport (Cause mobile)", false) --V
+	AddList("clickteam / ctm [boolean]", "Click to copy a player's team", false) --V
+
+	AddList("GIVE/WHITELIST CMDS", false, true) --GIVE COMMANDS
+	AddList("givecmds / gcmds / admin [plr,random,all]", "Gives player(s) 'admin' commands", false) --V
+	AddList("revokecmds / rcmds / unadmin [plr,all]", "Removes/Revokes commands from player(s)", false) --V
+	AddList("whitelist / wl [plr]", "Excludes player from kill commands", false) --V
+	AddList("unwhitelist / unwl [plr,all]", "Removes exclusion from player", false) --V
+	AddList("givepower / gpw [plr] [Power]", "Gives player(s) powers/defense", false) --V
+	AddList("removepower / rpw [plr,all] [Power,all]", "Removes power/defense from player.", false) --V
+	AddList("GPW LIST:", "onepunch, oneshot, punchaura, antipunch, antiarrest, antishoot, friendlyfire", false) --
+	AddList("EXAMPLE USAGE FOR GPW:", "?givepower username onepunch, ?removepower username onepunch", false) --
+
+	AddList("BRING / GOTO / VIEW / TEAM", false, true) --BRING / GOTO CMDS
+	AddList("goto / to [plr,random]", "Teleports you to a selected player.", false) --V
+	AddList("bring / get [plr,random,all]", "Brings player(s) to your location", false) --V
+	AddList("teleport / tp [plr1] [plr2]", "Teleports selected player1 to player2", false) --V
+	AddList("view / spectate [plr,random]", "View a player's POV", false) --V
+	AddList("unview / unspectate [plr]", "Stop viewing player", false) --V
+	AddList("copyteam / antilk / ct [plr]", "Copy a player's team (and prevent them from killing you)", false) --V
+	AddList("uncopyteam / unantilk / unct", "Stop copying the player's team", false) --V
+	AddList("team / t [inmate,guard,criminal,neutral,random]", "Changes your team to the selected team", false) --V
+	AddList("guard / guards / gu", "Alias to team guards", false) --V
+	AddList("inmate / inmates / in", "Alias to team inmates", false) --V
+	AddList("criminal / criminals / cr", "Alias to team criminals", false) --V
+	AddList("neutral / neutrals / ne", "Alias to team neutrals", false) --V
+
+	AddList("CRASH/LAG CMDS", false, true) -- CRASH COMMANDS
+	AddList("anticrash / antispike [boolean]", "Disable clientreplicator (Already ON by default)", false) --V
+	AddList("antievent / aevents [boolean]", "Disable onclientevent (Mutes sound and replicateEvent, may crash on shitty executors)", false) --V
+	AddList("crashkill / kcl [plr]", "Kills player and crashes the server", false) --V
+	AddList("servercrash / svcrash", "Crashes the server (Basic M9 Crash)", false) --V
+	AddList("lastresort / lresort", "Crash and kill server with remington (Maybe better than m9)", false) --V
+	AddList("timeout / lagout", "Loops sending shootevents until server timedout", false) --V
+	AddList("tasercrash / tsrcrash", "Crash server using taser (lol)", false) --V
+	AddList("time / tick [stop/resume]", "Slow down time, may crash depending on server load", false) --B
+	AddList("serverlag / svlag [strength]", "Lags the server with strength", false) --V
+	AddList("unsvlag / unserverlag", "Stop lagging the server", false) --V
+	AddList("serverspike / svspike [strength]", "Make server ping spike with strength", false) --V
+	AddList("eventcrash / ecrash", "Powerful Player-Crash for ALL Devices (You need atleast 2GB of RAM, prone to memory-leak)", false) --V
+	AddList("espamlag / elag [amount]", "Loadchar-Lag everyone with amount (Higher number is better)", false) --V
+	AddList("forcecrash / fcrash", "Force all players to freeze (Varies on devices and internet)", false) --B
+	AddList("formidicrash / fmcrash", "Forcecrash but more powerful (Varies on device, and prone to ratelimit)", false)  --B
+	AddList("loopfcrash / lfcrash", "Loop-forcing players to crash (Only lastresort if forcecrash doesnt work)", false) --B
+	AddList("unloopfcrash / unlfcrash", "Stops forcing players to crash", false) --B
+	AddList("itemlag / ilag [interval]", "Lag everyone using items (May not work and prone to ratelimit)", false) --G
+	AddList("crashnuke / cnuke [plr,random]", "deathnuke but the server crashes instead (CANNOT UNDO)", false) --V
+	AddList("laggygun / laggun", "Gives you remington 870 that lags the server when fired", false) --G
+	AddList("spike / freeze", "Lag spike everyone (Depends on their device)", false) --V
+	--AddList("placeholdercrash / crash4", "Crashes the server using every single gun", false) --too useless
+
+	AddList("MISC CMDS", false, true) -- MISCELLANEOUS
+	AddList("forcefield / ff", "Enables forcefield (Basically just refresh guards)", false) --V
+	AddList("unforcefield / unff", "Disable forcefield", false) --V
+	AddList("autoguard / aguard [boolean]", "When killing innocents, automatically switch to guards team.", false) --V
+	AddList("spinnytools / spintool [boolean] [speed] [math.rad]", "Automatically make items you equip spin", false) --V
+	AddList("itemsequip / equip [interval]", "Equip all items in the backpack (Useful for spinnytools)", false) --V
+	AddList("opendoors / odoors / open [gate/bool]", "Opens every door or gate", false) --V
+	AddList("loopopendoors / loopdoors", "Loops-opening every door", false) --V
+	AddList("unloopopendoors / unloopdoors", "Stops loop-opening every door", false) --V
+	AddList("cars / scar", "Spawns a car to your location", false) --V
+	AddList("policecar / pcar", "Spawns a police car to your location", false) --V
+	AddList("carsto / scarto [plr,random]", "Spawns a car to a specific player.", false) --V
+	AddList("void / abyss [plr,random]", "Teleport a player into the abyss (9e9)", false) --V
+	AddList("loopvoid / lvoid [plr,random]", "Loop teleport a player into the abyss", false) --V
+	AddList("unloopvoid / unlvoid [plr,all]", "Stops loop teleporting player(s) into void", false) --V
+	AddList("trap / punish [plr,random]", "Traps player inside a building", false) --V
+	AddList("untrap / unpunish [plr,all]", "Stops trapping player(s)", false) --V
+	AddList("anticheat / detection [boolean]", "Detect exploiter(s), (Warning: NOT ACCURATE!)", false) --V
+	AddList("soundspam / ssp", "Spam every sounds possible (Your client might get ratelimited!)", false) --V
+	AddList("unsoundspam / unssp", "Stop spamming every sounds", false) --V
+	AddList("loopsounds / lss", "Soundspam but less intensive and not get ratelimited", false) --V
+	AddList("unloopsounds / unlss", "Stops looping sounds", false) --V
+	AddList("loopcars / lcars", "Spam spawning cars in your location", false) --V
+	AddList("unloopcars / unspamcars", "Stop spamming cars", false) --V
+	AddList("partyrave / rave", "Shoots rays of bullets, kinda like a party-rave", false) --V
+	AddList("unpartyrave / unrave", "Stops making rays of bullets", false) --V
+	AddList("magicdoor / opensesame [boolean]", "When players near a door, it automatically opens", false) --V
+	AddList("bcar / bringcar", "Carspawn but brings used car or new one", false) --V
+	AddList("loudpunch / lph", "When pressed, Automatically send soundevents to all players", false) --V
+	AddList("spamlog / slog", "Spams chatlogs (Spams exploiter(s) chatlogger)", false) --V
+	AddList("dumpcars / nocars [method=delete,temp,client]", "Removes all cars from client/server or temporarily re-move cars.", false) --V
+	AddList("fard / fart [plr]", "Silent but deadly fart", false) --V, Haha funny fart joke please laugh sussy amogus skibidi toilet
+	AddList("carwalk / weldcar", "Makes you walk while a car is welded to your character", false) --V
+	AddList("troll / tro [plr,random]", "Troll a player by fake punchsounds", false) --V
+
+	AddList("TELEPORTS", false, true) --TELEPORT PLACE(S)
+	AddList("nexus / nex [plr or me]", "Teleports to the location: Nexus", false) --
+	AddList("prison / cells [plr or me]", "Teleports to the location: Prison Cells", false) --
+	AddList("crimbase / cbase [plr or me]", "Teleports to the location: Criminal Base", false) --
+	AddList("armory / arm [plr or me]", "Teleports to the location: Armory", false) --
+	AddList("yard / yar [plr or me]", "Teleports to the location: Yard", false) --
+	AddList("roof / roo [plr or me]", "Teleports to the location: Roof", false) --
+	AddList("vents / vent [plr or me]", "Teleports to the location: Vents", false) --
+	AddList("ytower / ytow [plr or me]", "Teleports to the location: Yard-Tower", false) --
+	AddList("gtower / gtow [plr or me]", "Teleports to the location: Gate-Tower", false) --
+	AddList("office / off [plr or me]", "Teleports to the location: Hidden Office", false) --
+	AddList("nspawn / neutralspawn [plr or me]", "Teleports to the location: Neutral-spawn", false) --
+	AddList("garage / gar [plr or me]", "Teleports to the location: Garage", false) --
+	AddList("cafeteria / cafe [plr or me]", "Teleports to the location: Cafeteria", false) --
+	AddList("kitchen / kit [plr or me]", "Teleports to the location: Kitchen", false) --
+	AddList("gastation / gas [plr or me]", "Teleport to the gas station", false) --
+	AddList("sewer / sew [plr or me]", "Teleport to the sewers", false) --
+	AddList("neighborhood / nhood [plr or me]", "Teleport to the neighborhood", false) --
+	AddList("store / stor [plr or me]", "Teleport to the store", false) --
+	AddList("roadend / rend [plr or me]", "Teleport to the end of the road", false) --
+	AddList("deadend / dend [plr or me]", "Teleport to dead-end", false) --
+	AddList("mansion / lux [plr or me]", "Teleport inside the mansion", false) --
+
+	AddList("OTHER CMDS", false, true) --Useless commands idk anyways
+	AddList("unload / exit", "Unload script and disconnect everything", false) --V
+	AddList("copychat / copycat", "Copies every player(s) chat", false) --V
+	AddList("uncopychat / uncopycat", "Stop copying everyone", false) --V
+	AddList("roast / argue [plr,random]", "Roast a player (Might be garbage)", false) --V
+	AddList("ipgrab / getip [plr]", "Get someones ip address (699% REAL OMG!!1)", false) --V
+	AddList("num [range]", "Generate a random number (idk)", false) --V
+	AddList("advertise / script", "Advertise the script", false) --V
+	AddList("rtping", "Notify real-time round-trip ping", false) --V
+	AddList("cping [1 or 0]", "Notify performance stats ping", false) --V
+
+	AddList("CLIENT-SIDE ONLY (Very Useless)", false, true) --
+	AddList("manginasal", "Teleport you to mang-inasal (ONLY YOU CAN SEE IT)", false) --
+	AddList("area51", "Teleport you to area51 (ONLY YOU CAN SEE IT)", false) --
+	AddList("amongus", "Teleport you to amogus map (ONLY YOU CAN SEE IT)", false) --
+	AddList("mcdonalds", "Teleport you to mcdonalds (ONLY YOU CAN SEE IT)", false) --
+	AddList("minecraft", "Replace default skybox with a minecraft one", false) --
+
+	--[[ SUPER TOP SECRET, NOTHING TO SEE HERE!!!
+	AddList("DEBUG (DO NOT TOUCH)", false, true)
+	AddList("printdebug [boolean]", "Prints all Debug_ in console", false) --
+	AddList("loadcrash", "load formidicrash events into memory", false) --
+	AddList("debugstop", "Stops all debug", false)
+	AddList("chatdebug / cdeb", "chat echo debug", false) --
+	AddList("deletecmdslist", "delete all frames in CMDS_List", false) --
+	AddList("deletetogglelist", "delete all frames in Toggles_List", false) --
+	AddList("newlist [title] [desc] [iscategory]", "add list to CMDS_List", false) --
+	AddList("newtoggle [textbox=boolean] [title] [description]", "add new toggle to Toggles_List", false) --
+	]]--
+	--Toggles
+	NewToggleList("LocalPlayer_RunSpeed", "Default value is: 24", "click", function(arg)
+		local str = tonumber(arg)
+		Saved.RunSpeed = str
+	end, true)
+	NewToggleList("ScriptSetting_KillauraThreshold", "Distance of killaura command is: 17", "click", function(arg)
+		local str = tonumber(arg)
+		Settings.KillauraThreshold = str
+	end, true)
+	NewToggleList("ScriptSetting_JoinNotify", "Make system messages when a player joins or leaves", Settings.JoinNotify, function()
+		Settings.JoinNotify = not Settings.JoinNotify
+		Notif("Changed", "Toggled join-notify to " .. tostring(Settings.JoinNotify) .. ".")
+		return Settings.JoinNotify
+	end)
+	NewToggleList("LocalPlayer_Autorespawn", "Toggles wether you respawn back to oldpos", Toggles.AutoRespawn, function()
+		Toggles.AutoRespawn = not Toggles.AutoRespawn
+		Notif("Changed", "Toggled auto-respawn to " .. tostring(Toggles.AutoRespawn) .. ".")
+		return Toggles.AutoRespawn
+	end)
+	NewToggleList("LocalPlayer_AntiVoid", "Automatically teleport up when falling into void", States.AntiVoid, function()
+		States.AntiVoid = not States.AntiVoid
+		Notif("Changed", "Toggled anti-void to " .. tostring(States.AntiVoid) .. ".")
+		return States.AntiVoid
+	end)
+	NewToggleList("UserSettings_HiddenMelee", "Toggles wether you teleport under to melee-kill", Settings.User.HiddenMelee, function()
+		Settings.User.HiddenMelee = not Settings.User.HiddenMelee
+		Notif("Changed", "Toggled hidden-melee to " .. tostring(Settings.User.HiddenMelee) .. ".")
+		return Settings.User.HiddenMelee
+	end)
+	NewToggleList("UserSettings_HiddenArrest", "Toggles wether you teleport under to arrest", Settings.User.HiddenArrest, function()
+		Settings.User.HiddenArrest = not Settings.User.HiddenArrest
+		Notif("Changed", "Toggled hidden-arrest to " .. tostring(Settings.User.HiddenArrest) .. ".")
+		return Settings.User.HiddenArrest
+	end)
+	NewToggleList("UserSettings_OldItemMethod", "Toggles wether to use teleport to grab items or not", Settings.User.OldItemMethod, function()
+		Settings.User.OldItemMethod = not Settings.User.OldItemMethod
+		Notif("Changed", "Toggled Teleport-Grab guns to " .. tostring(Settings.User.OldItemMethod) .. ".")
+		return Settings.User.OldItemMethod
+	end)
+	NewToggleList("UserSettings_AutoDumpCars", "Automatically dump cars when bringing", Settings.User.AutoDumpCar, function()
+		Settings.User.AutoDumpCar = not Settings.User.AutoDumpCar
+		Notif("Changed", "OK, Toggled dumping cars to " .. tostring(Settings.User.AutoDumpCar) .. ".")
+		return Settings.User.AutoDumpCar
+	end)
+	NewToggleList("UserSettings_RankedCmds", "Toggles wether ranked commands are enabled.", Settings.User.RankedCmds, function()
+		Settings.User.RankedCmds = not Settings.User.RankedCmds
+		Notif("Changed", "Toggled ranked commands to " .. tostring(Settings.User.RankedCmds) .. ".")
+		return Settings.User.RankedCmds
+	end)
+	NewToggleList("RankedSetting_AutoWhitelist", "Automatically whitelist ranked plrs (DO NOT USE WHEN RANKING ALL)", Settings.Ranked.AutoWhitelist, function()
+		Settings.Ranked.AutoWhitelist = not Settings.Ranked.AutoWhitelist
+		Notif("Changed", "Toggled automatic whitelist to " .. tostring(Settings.Ranked.AutoWhitelist) .. ".")
+		return Settings.Ranked.AutoWhitelist
+	end)
+	NewToggleList("RankedSetting_WhisperMode", "Toggles wether to whisper to ranked players or not", Settings.Ranked.WhisperMode, function()
+		Settings.Ranked.WhisperMode = not Settings.Ranked.WhisperMode
+		Notif("Changed", "Toggled whisper mode to " .. tostring(Settings.Ranked.WhisperMode) .. ".")
+		return Settings.Ranked.WhisperMode
+	end)
+	NewToggleList("RankedSetting_Output", "Toggles wether or not to chat the output of cmds", Settings.Ranked.Output, function()
+		Settings.Ranked.Output = not Settings.Ranked.Output
+		Notif("Changed", "Toggled output for ranked to " .. tostring(Settings.Ranked.Output) .. ".")
+		return Settings.Ranked.Output
+	end)
+	NewToggleList("RankedSetting_KillCmds", "Toggles wether ranked players are allowed to use kill commands", Settings.Ranked.KillCmds, function()
+		Settings.Ranked.KillCmds = not Settings.Ranked.KillCmds
+		return Settings.Ranked.KillCmds
+	end)
+	NewToggleList("RankedSetting_LoopCmds", "Allow/Disallow usage of loop commands for ranked players.", Settings.Ranked.LoopCmds, function()
+		Settings.Ranked.LoopCmds = not Settings.Ranked.LoopCmds
+		return Settings.Ranked.LoopCmds
+	end)
+	NewToggleList("RankedSetting_MultiCmd", "Allow/Disallow usage of 'all' on rank players", Settings.Ranked.MultiCmd, function()
+		Settings.Ranked.MultiCmd = not Settings.Ranked.MultiCmd
+		return Settings.Ranked.MultiCmd
+	end)
+	NewToggleList("RankedSetting_Tase", "Allow/Disallow tase commands for ranked", Settings.Ranked.Tase, function()
+		Settings.Ranked.Tase = not Settings.Ranked.Tase
+		return Settings.Ranked.Tase
+	end)
+	NewToggleList("RankedSetting_Arrest", "Allow/Disallow usage of arrest commands on ranked", Settings.Ranked.Arrest, function()
+		Settings.Ranked.Arrest = not Settings.Ranked.Arrest
+		return Settings.Ranked.Arrest
+	end)
+	NewToggleList("RankedSetting_Nuke", "Allow/Disallow usage of nuke commands on ranked", Settings.Ranked.Nuke, function()
+		Settings.Ranked.Nuke = not Settings.Ranked.Nuke
+		return Settings.Ranked.Nuke
+	end)
+	NewToggleList("RankedSetting_Fling", "Allow/Disallow usage of fling commands", Settings.Ranked.Fling, function()
+		Settings.Ranked.Fling = not Settings.Ranked.Fling
+		return Settings.Ranked.Fling
+	end)
+	NewToggleList("RankedSetting_Aura", "Allow/Disallow usage of Aura commands", Settings.Ranked.Killaura, function()
+		Settings.Ranked.Killaura = not Settings.Ranked.Killaura
+		return Settings.Ranked.Killaura
+	end)
+	NewToggleList("RankedSetting_Teleports", "Allow/Disallow teleport place commands", Settings.Ranked.Teleport, function()
+		Settings.Ranked.Teleport = not Settings.Ranked.Teleport
+		return Settings.Ranked.Teleport
+	end)
+	NewToggleList("RankedSetting_Bring/Goto", "Allow/Disallow Goto and Bring commands", Settings.Ranked.BringGoto, function()
+		Settings.Ranked.BringGoto = not Settings.Ranked.BringGoto
+		return Settings.Ranked.BringGoto
+	end)
+	NewToggleList("RankedSetting_Trap/Void", "Allow/Disallow trap and void commands", Settings.Ranked.TrapVoid, function()
+		Settings.Ranked.TrapVoid = not Settings.Ranked.TrapVoid
+		return Settings.Ranked.TrapVoid
+	end)
+	NewToggleList("RankedSetting_CarSpawn", "Allow/Disallow carspawn command", Settings.Ranked.CarSpawn, function()
+		Settings.Ranked.CarSpawn = not Settings.Ranked.CarSpawn
+		return Settings.Ranked.CarSpawn
+	end)
+	NewToggleList("RankedSetting_Opendoors", "Allow/Disallow opendoors and keycard commands", Settings.Ranked.Opendoors, function()
+		Settings.Ranked.Opendoors = not Settings.Ranked.Opendoors
+		return Settings.Ranked.Opendoors
+	end)
+	NewToggleList("RankedSetting_AllowPowers", "Allow/Disallow powers: oneshot, onepunch, etc", Settings.Ranked.AllowPowers, function()
+		Settings.Ranked.AllowPowers = not Settings.Ranked.AllowPowers
+		return Settings.Ranked.AllowPowers
+	end)
+	NewToggleList("RankedSetting_GivePowers", "Allow/Disallow ranked players to give others powers", Settings.Ranked.GiveOthersPowers, function()
+		Settings.Ranked.GiveOthersPowers = not Settings.Ranked.GiveOthersPowers
+		return Settings.Ranked.GiveOthersPowers
+	end)
+	NewToggleList("RankedSetting_CrashCmds", "Allow/Disallow crash commands for ranked", Settings.Ranked.CrashCmds, function()
+		Settings.Ranked.CrashCmds = not Settings.Ranked.CrashCmds
+		return Settings.Ranked.CrashCmds
+	end)
+	NewToggleList("RankedSetting_GiveCmds", "Allow/Disallow ranked players to give out commands to others", Settings.Ranked.GiveCmds, function()
+		Settings.Ranked.GiveCmds = not Settings.Ranked.GiveCmds
+		return Settings.Ranked.GiveCmds
+	end)
+	if Execution_Runtime then
+		Notif("Potang ina mo", "Loaded in " .. tostring(tick() - Execution_Runtime) .. " second(s). github.com/Chaosscripter/PrizzLife", 6)
+	end
+
+	Saved.PLINIT = Instance.new("ScreenGui");Saved.PLINIT.Name = "PLADMIN_INITIALS";Saved.PLINIT.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui");Saved.PLINIT.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	local data1, data2 = loadstring(game:HttpGet('https://raw.githubusercontent.com/Chaosscripter/PrizzLife/main/Init/PL_TEAM_GUI'))()
+	local TEAMs = data2; Saved.TeamFrame = data1
+	TEAMs.InmateButton.MouseButton1Click:Connect(function()
+		SavedPositions.AutoRe = nil; workspace.Remote.TeamEvent:FireServer("Bright orange")
+	end);TEAMs.GuardButton.MouseButton1Click:Connect(function()
+		SavedPositions.AutoRe = nil; workspace.Remote.TeamEvent:FireServer("Bright blue")
+		if #Teams.Guards:GetPlayers() > 7 then
+			Notif("Cannot join team.", "Guards team is full!", 6)
+		end
+	end);TEAMs.CriminalButton.MouseButton1Click:Connect(function()
+		local crimpad = workspace["Criminals Spawn"].SpawnLocation.CFrame;SavedPositions.AutoRe = nil
+		workspace.Remote.TeamEvent:FireServer("Bright orange");LocalPlayer.CharacterAdded:Wait()
+		for i = 1, 10 do
+			waitfor(LocalPlayer.Character, "HumanoidRootPart").CFrame = crimpad
+		end
+	end);Connections.TeamChange = LocalPlayer:GetPropertyChangedSignal("Team"):Connect(function()
+		if LocalPlayer.TeamColor == BrickColor.new("Medium stone grey") then
+			Saved.TeamFrame.Visible = true
+			Threads.HideTeamGui()
+		else Saved.TeamFrame.Visible = false; end
+	end);data1.Visible = LocalPlayer.TeamColor.Name == "Medium stone grey"
+
+	local ActionFrame = Instance.new("Frame")
+	local PunchButton = Instance.new("ImageButton")
+	local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+	local CrawlButton = Instance.new("ImageButton")
+	local UIAspectRatioConstraint_2 = Instance.new("UIAspectRatioConstraint")
+	local RunButton = Instance.new("ImageButton")
+	local UIAspectRatioConstraint_3 = Instance.new("UIAspectRatioConstraint")
+	local UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint")
+
+	ActionFrame.Name = "ActionFrame"
+	ActionFrame.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui"):WaitForChild("PLADMIN_INITIALS", 69)
+	ActionFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	ActionFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	ActionFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	ActionFrame.BorderSizePixel = 0
+	ActionFrame.Position = UDim2.new(0.949999988, 0, 0.400000006, 0)
+	ActionFrame.Size = UDim2.new(0.0841514692, 0, 0.376044571, 0)
+	ActionFrame.Visible = true
+
+	PunchButton.Name = "PunchButton"
+	PunchButton.Parent = ActionFrame
+	PunchButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	PunchButton.BackgroundTransparency = 0.650
+	PunchButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	PunchButton.BorderSizePixel = 0
+	PunchButton.Size = UDim2.new(1, 0, 0.325925916, 0)
+	PunchButton.Image = "http://www.roblox.com/asset/?id=7651229347" --Yes, random gta sa fist icon
+
+	UIAspectRatioConstraint.Parent = PunchButton
+	UIAspectRatioConstraint.AspectRatio = 1.364
+
+	CrawlButton.Name = "CrawlButton"
+	CrawlButton.Parent = ActionFrame
+	CrawlButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	CrawlButton.BackgroundTransparency = 0.650
+	CrawlButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	CrawlButton.BorderSizePixel = 0
+	CrawlButton.Position = UDim2.new(0, 0, 0.330000013, 0)
+	CrawlButton.Size = UDim2.new(1, 0, 0.325925916, 0)
+	CrawlButton.Image = "http://www.roblox.com/asset/?id=6925323189"
+
+	UIAspectRatioConstraint_2.Parent = CrawlButton
+	UIAspectRatioConstraint_2.AspectRatio = 1.364
+
+	RunButton.Name = "RunButton"
+	RunButton.Parent = ActionFrame
+	RunButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	RunButton.BackgroundTransparency = 0.650
+	RunButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	RunButton.BorderSizePixel = 0
+	RunButton.Position = UDim2.new(0, 0, 0.668945849, 0)
+	RunButton.Size = UDim2.new(1, 0, 0.325925916, 0)
+	RunButton.Image = "http://www.roblox.com/asset/?id=4425413038"
+
+	UIAspectRatioConstraint_3.Parent = RunButton
+	UIAspectRatioConstraint_3.AspectRatio = 1.364
+
+	UIAspectRatioConstraint_4.Parent = ActionFrame
+	UIAspectRatioConstraint_4.AspectRatio = 0.444
+	CrawlButton.Position = PunchButton.Position --optional: swap punch and crawl button
+	PunchButton.Position = UDim2.new(0, 0, 0.330000013, 0)
+	ActionFrame.Visible=not LocPL.isMouse
+	ActionFrame.PunchButton.MouseButton1Down:Connect(function()
+		States.IsHoldingF = true; pcall(VirtualPunch)
+	end);ActionFrame.PunchButton.MouseButton1Up:Connect(function()
+		States.IsHoldingF = false
+	end);ActionFrame.CrawlButton.MouseButton1Click:Connect(function()
+		VKeyPress("C","Press")
+	end);ActionFrame.RunButton.MouseButton1Down:Connect(function()
+		States.Running = true
+	end);ActionFrame.RunButton.MouseButton1Up:Connect(function()
+		States.Running = false; LAction("speed",Saved.NormalSpeed)
+	end); deprint("Debug_Startup done")
+end)
+
+--Anti afk/jump stamina
+Connections.AntiAFK = game:GetService("Players").LocalPlayer.Idled:connect(function()
+	game:GetService("VirtualUser"):Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+	wait(1); deprint("Debug_IS AFK")
+	game:GetService("VirtualUser"):Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+end)
+local JDebounce = false
+Connections.JumpStamina = game:GetService("UserInputService").JumpRequest:Connect(function()
+	if not JDebounce or States.InfiniteJump then
+		JDebounce = true; task.wait()
+		local human = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+		if human then
+			if human.FloorMaterial ~= Enum.Material.Air and human:GetState() ~= Enum.HumanoidStateType.Jumping or States.InfiniteJump then
+				LAction("jump")
+			end
+		end
+		wait(.1); JDebounce = false
+	end
+end)
+
+--Unload script
+UnloadScript = function()
+	Unloaded = true; for _, cons in next, Connections do
+		cons:Disconnect(); cons = nil
+	end; for _, Ccon in next, ChatCon do
+		Ccon:Disconnect(); Ccon = nil
+	end; ChatCon = nil; Connections = nil; Toggles.AutoRespawn = false
+	if States.Invisible then
+		States.Invisible = nil; Tasks.Refresh()
+	end; Loops = {}; Powers = {}; States = {}; Toggles = {}; Settings = {User = {}, Ranked = {}}; SavedArgs = {}; RankedPlrs = {};
+	Saved.TeamFrame:Destroy(); PLAdmin:Destroy(); Saved.PLINIT:Destroy(); Saved = {Thread = {}}; LocPL = {};
+	game.Players.LocalPlayer.PlayerScripts.ClientGunReplicator.Disabled = false; workspace:FindFirstChild("PLADMIN LOADED SUCCESS"):Destroy()
+end
+--Check gamepass
+LocPL.Gamepass = game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId, 96651) or game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LocalPlayer.UserId, 643697197)
