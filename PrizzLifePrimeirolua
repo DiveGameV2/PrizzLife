@@ -1,24 +1,3 @@
-Execution_Runtime = tick()
-PLadmin_Settings = {
-  DefaultPrefix = "."; --O prefixo padrão para o pladmin
-  JoinNotify = false; --Notificar quando um jogador entrar
-  AutoRespawn = true; --Carregar o personagem automaticamente ao morrer
-  AntiVoid = true; --Teletransportar automaticamente para cima ao cair no vazio
-  AntiTase = false; --Impede que você seja tasqueado (100% sem usar getconnections porque é totalmente inútil)
-  AntiArrest = false; --Impede que você seja preso (100% sem usar getconnections porque é totalmente inútil)
-  AntiShoot = false; --Elimina o jogador que tentar atirar em você (Pode haver atraso se você tiver um ping ruim, *COF* Usuários PLDT)
-  AntiPunch = false; --Elimina instantaneamente os jogadores que tentarem te socar
-  AntiFling = false; --Impede que exploradores te lancem para longe
-  AntiShield = false; --Impede jogadores pay2win e ignora seus escudos
-  AntiBring = false; --Impede que outros exploradores te tragam
-  SilentAim = false; --Permite atirar sem errar o alvo
-  AutoGuns = false; --Obtém automaticamente todas as armas
-  OldItemMethod = false; --Usa teletransporte para pegar itens (USE ISSO SE PRISON LIFE BLOQUEAR O MÉTODO DE TABELA)
-  Fullbright = false; --Habilita brilho total
-  WhitelistRanked = false; --Adiciona automaticamente jogadores classificados à lista branca (NÃO USE AO CLASSIFICAR TODOS OS JOGADORES)
-  RankedNukeCmds = true; --Permite que jogadores classificados usem comandos de explosão (Muito irritante)
-  RankedMultiCmd = true; --Permite que jogadores classificados usem os argumentos: "all, e team", EX: .kill all
-  RankedOutput = true; --Exibe os resultados dos comandos de jogadores classificados no chat
-  WhisperToRanked = true; --Usa sussurro para exibir os resultados dos comandos de jogadores classificados
-};wait()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DiveGameV2/PrizzLife/refs/heads/main/PrizzLifeSegundo.lua'))()
+--Updated:)
+--The execution time depends on which executor you are using (7-10 seconds for meh executor)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DiveGameV2/PrizzLife/refs/heads/main/PrizzLifeSegundo.txt'))()
